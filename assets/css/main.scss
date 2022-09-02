@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.sidebar {
+  float: right;
+}
+
+.page__related {
+  float: left;
+}
+
+ul.notice--warning {
+  background-color: #fdf7d9;
+  padding-left: 30px;
+}
+
+.pagination--pager:hover, .page__taxonomy-item:hover {
+  background-color: #ffec44;
+}
+
+thead {
+  background-color: #ffec44;
+  border-bottom: 2px solid #b6b6b6;
+}

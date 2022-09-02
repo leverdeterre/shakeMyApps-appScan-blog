@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-01T23:01:26+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">AppScan</title><subtitle>A website.</subtitle><author><name>MORISSARD Jérôme</name></author><entry><title type="html">Big data &amp;amp; Smart queries</title><link href="http://localhost:4000/appaudits/appstore/appscan/metadata/smart-queries/" rel="alternate" type="text/html" title="Big data &amp;amp; Smart queries" /><published>2022-08-29T00:00:00+02:00</published><updated>2022-08-29T00:00:00+02:00</updated><id>http://localhost:4000/appaudits/appstore/appscan/metadata/smart-queries</id><content type="html" xml:base="http://localhost:4000/appaudits/appstore/appscan/metadata/smart-queries/"><![CDATA[<p>If we use all the metadata we can do smart queries.</p>
+
+<h1 id="to-help-to-take-product-decisions">To help to take product decisions</h1>
+<ul>
+  <li>On <strong>top 100</strong> of “Lifestyle” category of AppStore, How many Apps are optimized for iPad?</li>
+  <li>On <strong>top 100</strong> of “Lifestyle” category of AppStore, What is the minimal iOS version?</li>
+  <li>On <strong>all top 10</strong>, What are the analytics &amp; tracking solutions used?</li>
+  <li>Give me the <strong>10 Apps</strong> implementings the most of <strong>Apple featured features</strong>.</li>
+  <li><strong>Number of retailer apps</strong> using <strong>Apple Pay</strong>.</li>
+</ul>
+
+<h1 id="to-do-prospection--identify-new-clients">To do prospection &amp; identify new clients</h1>
+<ul>
+  <li>Give me the <strong>10 Apps</strong> that implement the <strong>Google Analytics framework</strong>.</li>
+  <li>Give me the Apps develop using <strong>Flutter</strong> in the <strong>top 10</strong> FR.</li>
+  <li>Give me the Apps develop using <strong>Xamarin</strong> with a <strong>bad AppScore</strong>.</li>
+  <li>Give me <strong>the Apps</strong> that use an <strong>old version of Xcode</strong>.</li>
+  <li>Give me the Apps in the <strong>top 10</strong>, develop on <strong>native technology</strong> without <strong>tracking solutions</strong>.</li>
+  <li>Give me <strong>all the Apps</strong> that <strong>not present AppTrackingTransparency</strong> but <strong>use trackers</strong>.</li>
+  <li>Give me <strong>the retailer apps</strong> not using <strong>Apple Pay</strong>.</li>
+</ul>]]></content><author><name>MORISSARD Jérôme</name></author><category term="AppAudits" /><category term="AppStore" /><category term="AppScan" /><category term="Metadata" /><summary type="html"><![CDATA[If we use all the metadata we can do smart queries.]]></summary></entry><entry><title type="html">Crypto, Bitcoin, Wallet Apps - AppScan audits</title><link href="http://localhost:4000/appaudits/crypto-bitcoin-wallet-apps/" rel="alternate" type="text/html" title="Crypto, Bitcoin, Wallet Apps - AppScan audits" /><published>2022-08-27T00:00:00+02:00</published><updated>2022-08-27T00:00:00+02:00</updated><id>http://localhost:4000/appaudits/crypto-bitcoin-wallet-apps</id><content type="html" xml:base="http://localhost:4000/appaudits/crypto-bitcoin-wallet-apps/"><![CDATA[<h2 id="appscores">AppScores</h2>
+
+<p>I created an AppScore to have a fast vision some “quality” points for the App.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">AppName</th>
+      <th style="text-align: left">AppScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: left">3.64</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: left">4.05</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">eToro Money</td>
+      <td style="text-align: left">3.41</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: left">3.95</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">CoinMarketCap</td>
+      <td style="text-align: left">4.14</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">FTX (anciennement Blockfolio)</td>
+      <td style="text-align: left">4.14</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Crypto.com  - Buy Bitcoin, ETH</td>
+      <td style="text-align: left">4.00</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MetaMask - Blockchain Wallet</td>
+      <td style="text-align: left">4.77</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul class="notice--warning">
+  <li>MetaMask is clearly over the other apps</li>
+</ul>
+
+<h2 id="technologies">Technologies</h2>
+
+<p>The technologies is evaluated using multiple hints inside the App bundle.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">AppName</th>
+      <th style="text-align: left">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: left">Reach Native</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: left">Reach Native</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">eToro Money</td>
+      <td style="text-align: left">Web</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: left">Native + Flutter</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">CoinMarketCap</td>
+      <td style="text-align: left">Native + Flutter</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">FTX (anciennement Blockfolio)</td>
+      <td style="text-align: left">Reach Native</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Crypto.com - Buy Bitcoin, ETH</td>
+      <td style="text-align: left">Native</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MetaMask - Blockchain Wallet</td>
+      <td style="text-align: left">Native</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul class="notice--warning">
+  <li>It’s a supprise to see 3 React Native Apps</li>
+  <li>and ONLY 3 Native Apps</li>
+  <li>We can discover an interesting strategy of development by mixing Native &amp; Flutter together</li>
+  <li>1 Flutter and 1 web apps</li>
+</ul>
+
+<h2 id="minimal-ios-version">Minimal iOS version</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">AppName</th>
+      <th style="text-align: left">Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: left">11.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: left">12.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">eToro Money</td>
+      <td style="text-align: left">11.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: left">12.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">CoinMarketCap</td>
+      <td style="text-align: left">11.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">FTX (anciennement Blockfolio)</td>
+      <td style="text-align: left">11.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Crypto.com - Buy Bitcoin, ETH</td>
+      <td style="text-align: left">13.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MetaMask - Blockchain Wallet</td>
+      <td style="text-align: left">12.0</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul class="notice--warning">
+  <li>Crypto.com requires iOS 13.0 which is not a bad idea but you loose some % of devices</li>
+</ul>
+
+<h2 id="app-size">App Size</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">AppName</th>
+      <th style="text-align: left">Size</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: left">56 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: left">66 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">eToro Money</td>
+      <td style="text-align: left">79 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: left">540 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">CoinMarketCap</td>
+      <td style="text-align: left">70 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">FTX (anciennement Blockfolio)</td>
+      <td style="text-align: left">28 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Crypto.com - Buy Bitcoin, ETH</td>
+      <td style="text-align: left">246 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MetaMask - Blockchain Wallet</td>
+      <td style="text-align: left">117 Mb</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul class="notice--warning">
+  <li>Binance WTF?</li>
+  <li>Crypto.com WTF?</li>
+</ul>
+
+<h2 id="app-permissions">App Permissions</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">AppName</th>
+      <th style="text-align: center">FaceID</th>
+      <th style="text-align: center">Photos</th>
+      <th style="text-align: center">Camera</th>
+      <th style="text-align: center">Location</th>
+      <th style="text-align: center">Siri</th>
+      <th style="text-align: center">Microphone</th>
+      <th style="text-align: center">NFC</th>
+      <th style="text-align: center">Tracking</th>
+      <th style="text-align: center">Calendar</th>
+      <th style="text-align: center">Contacts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">eToro Money</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">CoinMarketCap</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">FTX (anciennement Blockfolio)</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Crypto.com - Buy Bitcoin, ETH</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MetaMask - Blockchain Wallet</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="app-supported-languages-">App Supported languages ?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">AppName</th>
+      <th style="text-align: center">AppScore</th>
+      <th style="text-align: left">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: left"><ul><li>US+FR</li><li>Custom React Native implementation</li></ul></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: left"><ul><li>19 languages</li><li>Custom React Native implementation </li></ul></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">eToro Money</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: left">?</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: center">5?</td>
+      <td style="text-align: left"><ul><li>9 languages</li><li>Custom Flutter implementation </li></ul></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">CoinMarketCap</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: left"><ul><li>23 languages</li><li>Native implementations (multiple .strings) </li></ul></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">FTX (anciennement Blockfolio)</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Crypto.com - Buy Bitcoin, ETH</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MetaMask - Blockchain Wallet</td>
+      <td style="text-align: center">40</td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="app-resources-">App Resources ?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">AppName</th>
+      <th style="text-align: center">AppScore</th>
+      <th style="text-align: left">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: left"><ul><li>images not optimized in assets </li><li>@1x/2x/@3x</li></ul></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: left"><ul><li>images not optimized in assets </li><li>@1x/2x/@3x</li></ul></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">eToro Money</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: left">?</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: left"><ul><li>9 languages</li><li>Custom Flutter implementation </li></ul></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">CoinMarketCap</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">FTX (anciennement Blockfolio)</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Crypto.com - Buy Bitcoin, ETH</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: left"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MetaMask - Blockchain Wallet</td>
+      <td style="text-align: center">?</td>
+      <td style="text-align: left"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="app-interactions">App interactions</h2>
+
+<h3 id="with-other-apps">with other Apps</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">AppName</th>
+      <th style="text-align: center">Number of apps</th>
+      <th style="text-align: center">Social Apps</th>
+      <th style="text-align: center">Mails Apps</th>
+      <th style="text-align: center">Wallet Apps</th>
+      <th style="text-align: center">Jailbreak Apps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: center">6 apps</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: center">17 apps</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">eToro Money</td>
+      <td style="text-align: center">1 app</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: center">5 apps</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">CoinMarketCap</td>
+      <td style="text-align: center">10 apps</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">FTX (anciennement Blockfolio)</td>
+      <td style="text-align: center">10 apps</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Crypto.com - Buy Bitcoin, ETH</td>
+      <td style="text-align: center">5 apps</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MetaMask - Blockchain Wallet</td>
+      <td style="text-align: center">5 apps</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="with-the-system">with the system</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">AppName</th>
+      <th style="text-align: center">iCloud service</th>
+      <th style="text-align: center">Universal links</th>
+      <th style="text-align: center">Apple Pay</th>
+      <th style="text-align: center">Wallet</th>
+      <th style="text-align: center">Keychain group</th>
+      <th style="text-align: center">Apple Sign-In</th>
+      <th style="text-align: center">NFC reader</th>
+      <th style="text-align: center">web credentials</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">eToro Money</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">CoinMarketCap</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">FTX (anciennement Blockfolio)</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Crypto.com - Buy Bitcoin, ETH</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MetaMask - Blockchain Wallet</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="extensions">extensions</h3>
+
+<p>The App extensions are external components to increase the App visibility on the system.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">AppName</th>
+      <th style="text-align: center">Widget (old)</th>
+      <th style="text-align: center">Widget(s)</th>
+      <th style="text-align: center">Siri</th>
+      <th style="text-align: center">ReplayKit</th>
+      <th style="text-align: center">Notification service</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">eToro Money</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">CoinMarketCap</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">FTX (anciennement Blockfolio)</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">✅</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Crypto.com - Buy Bitcoin, ETH</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MetaMask - Blockchain Wallet</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">❌</td>
+      <td style="text-align: center">✅</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="app-security">App Security</h2>
+
+<p>The security score is actually evaluated by checking 3 things :</p>
+<ul>
+  <li>detect “risky” files inside the app bundle (something human readable that might contains important informations)</li>
+  <li>detect bad security configuration</li>
+  <li>detect api keys easy to stole</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">AppName</th>
+      <th style="text-align: left">Security Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: left">3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: left">3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">eToro Money</td>
+      <td style="text-align: left">3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: left">3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">CoinMarketCap</td>
+      <td style="text-align: left">4</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">FTX (anciennement Blockfolio)</td>
+      <td style="text-align: left">3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Crypto.com  - Buy Bitcoin, ETH</td>
+      <td style="text-align: left">4</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MetaMask - Blockchain Wallet</td>
+      <td style="text-align: left">4</td>
+    </tr>
+  </tbody>
+</table>]]></content><author><name>MORISSARD Jérôme</name></author><category term="AppAudits" /><summary type="html"><![CDATA[AppScores]]></summary></entry><entry><title type="html">Apple Transport Security or not</title><link href="http://localhost:4000/appstore/security/app-transport-security/" rel="alternate" type="text/html" title="Apple Transport Security or not" /><published>2022-08-11T00:00:00+02:00</published><updated>2022-08-11T00:00:00+02:00</updated><id>http://localhost:4000/appstore/security/app-transport-security</id><content type="html" xml:base="http://localhost:4000/appstore/security/app-transport-security/"><![CDATA[<p>On iOS, the network exchanges is an important layer of the security. 
+This layer is used by the App when performing network requests with :</p>
+<ul>
+  <li>URLSession,</li>
+  <li>URLConnection,</li>
+  <li>WKWebView loading,</li>
+  <li>Thirdparty librairies (Alamofire, AFNetworking)</li>
+</ul>
+
+<p>Using our current database we have discovered that 48% of the iOS app have remove or disable this protection.</p>
+
+<p><img src="/assets/images/ATT-48pourcent.png" alt="" class="full" /></p>]]></content><author><name>MORISSARD Jérôme</name></author><category term="AppStore" /><category term="Security" /><category term="NSAllowsArbitraryLoads" /><summary type="html"><![CDATA[On iOS, the network exchanges is an important layer of the security. This layer is used by the App when performing network requests with : URLSession, URLConnection, WKWebView loading, Thirdparty librairies (Alamofire, AFNetworking)]]></summary></entry><entry><title type="html">AppScan - data collection</title><link href="http://localhost:4000/appstore/product/data-collection/" rel="alternate" type="text/html" title="AppScan - data collection" /><published>2022-07-11T00:00:00+02:00</published><updated>2022-07-11T00:00:00+02:00</updated><id>http://localhost:4000/appstore/product/data-collection</id><content type="html" xml:base="http://localhost:4000/appstore/product/data-collection/"><![CDATA[<p>I started to work on that project some years ago. I was working on an other project RocketSkill. 
+I was trying to generate a global vision of the AppStore to give some advises to new iOS developers. 
+What libraries are important to know? 
+How to improve my learning curve on the plateform? 
+After some months, i was able to generate a list of frameworks sorted by frequency of the AppStore.
+This was already funny to discover some new frameworks using this method.</p>
+
+<p>Finally, using the ipa, i discover that it was possible to extract a lot more informations… a here comes AppScan.</p>
+
+<ul>
+  <li>Environment
+    <ul>
+      <li>Xcode version</li>
+      <li>Service env urls</li>
+      <li>App technology</li>
+    </ul>
+  </li>
+  <li>App configuration
+    <ul>
+      <li>Apple Info.plist Keys</li>
+      <li>Extra Info.plist Keys</li>
+      <li>Permissions</li>
+    </ul>
+  </li>
+  <li>Resources
+    <ul>
+      <li>Assets missing 1x 2x 3x</li>
+      <li>Assets organization</li>
+      <li>Languages supports</li>
+      <li>ThirdParty librairies</li>
+      <li>Apple librairies</li>
+    </ul>
+  </li>
+  <li>Security
+    <ul>
+      <li>risky files</li>
+      <li>Bad configurations</li>
+      <li>Bad environments</li>
+      <li>Schemes</li>
+    </ul>
+  </li>
+  <li>Extra features
+    <ul>
+      <li>Extensions</li>
+      <li>Entitlemented features</li>
+      <li>Cool Apple featured SDK : ARKit, SwiftUI</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name>MORISSARD Jérôme</name></author><category term="AppStore" /><category term="Product" /><category term="ipa" /><category term="scan" /><summary type="html"><![CDATA[I started to work on that project some years ago. I was working on an other project RocketSkill. I was trying to generate a global vision of the AppStore to give some advises to new iOS developers. What libraries are important to know? How to improve my learning curve on the plateform? After some months, i was able to generate a list of frameworks sorted by frequency of the AppStore. This was already funny to discover some new frameworks using this method.]]></summary></entry><entry><title type="html">AppScore - definition</title><link href="http://localhost:4000/appstore/appscore/appscore-definition/" rel="alternate" type="text/html" title="AppScore - definition" /><published>2022-07-01T00:00:00+02:00</published><updated>2022-07-01T00:00:00+02:00</updated><id>http://localhost:4000/appstore/appscore/appscore-definition</id><content type="html" xml:base="http://localhost:4000/appstore/appscore/appscore-definition/"><![CDATA[<p>To be more objective to judge a App and be able to compare Apps, we have created an AppScore. 
+We are not going to rate the features of the App but we wanted to be realist of the strenghts and the weaknesses of the App.</p>
+
+<p>AppScore computation can be devided into scores:</p>
+
+<p><strong>Dev environment</strong> - Xcode version can be detected. It’s interesting to see the adoption of the most recent version of Xcode to adapt the App to new iOS features.</p>
+
+<p><strong>Technology use for the development</strong> - Major technology used for the App development, can be evaluated using some hints.</p>
+
+<p><strong>App minimal iOS version</strong> - Interesting to know the reachable number of users</p>
+
+<p><strong>App size</strong> - Discover how the App is packaged</p>
+
+<p><strong>App permissions</strong> - Give an interesting vision the possible features of the App</p>
+
+<p><strong>App supported languages</strong> - Give super complete vision of the targeted users</p>
+
+<p><strong>App resources</strong> - Discover some optimizations and packaging errors</p>
+
+<p><strong>App librairies</strong> - Super cool vision of some features and the strategy of development</p>
+
+<p><strong>App security</strong> - God dam shit</p>
+
+<p><strong>App - interactions with other Apps</strong> - Super cool vision of some features.</p>
+
+<p><strong>App - interactions with the iOS system</strong> - Super cool vision of some features.</p>]]></content><author><name>MORISSARD Jérôme</name></author><category term="AppStore" /><category term="AppScore" /><summary type="html"><![CDATA[To be more objective to judge a App and be able to compare Apps, we have created an AppScore. We are not going to rate the features of the App but we wanted to be realist of the strenghts and the weaknesses of the App.]]></summary></entry><entry><title type="html">App Technologies</title><link href="http://localhost:4000/appstore/cross%20platform/flutter/react%20native/app-technologies/" rel="alternate" type="text/html" title="App Technologies" /><published>2022-06-28T00:00:00+02:00</published><updated>2022-06-28T00:00:00+02:00</updated><id>http://localhost:4000/appstore/cross%20platform/flutter/react%20native/app-technologies</id><content type="html" xml:base="http://localhost:4000/appstore/cross%20platform/flutter/react%20native/app-technologies/"><![CDATA[<p>Since 10 years i have seen a lot of cross-plateform technologies.
+Every time, there is some reasons to select an alternative technology.</p>
+
+<ul>
+  <li>Reduce the cost of the App</li>
+  <li>Use the internal resources to develop the App</li>
+  <li>Recruitment too complex</li>
+</ul>
+
+<p>For several years, we the maturity of some challengers, i was wondering if I was missing something.
+That’s why i have made this analyses of the AppStore.</p>
+
+<p>The alternatives are :</p>
+<ul>
+  <li><a href="https://dotnet.microsoft.com/en-us/apps/xamarin">Native</a> (Apple)</li>
+  <li><a href="https://reactnative.dev/">React Native</a> (Facebook)</li>
+  <li><a href="https://flutter.dev/">Flutter</a> (Google)</li>
+  <li><a href="https://cordova.apache.org/">Cordova</a> (Adobe Systems)</li>
+  <li><a href="https://dotnet.microsoft.com/en-us/apps/xamarin">Xamarin</a> (Microsoft)</li>
+</ul>
+
+<p>We have collected the analysis of 3334 apps</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Syntax</th>
+      <th style="text-align: center">Number of Apps</th>
+      <th style="text-align: right">%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Native</td>
+      <td style="text-align: center">2494</td>
+      <td style="text-align: right">75%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">React Native</td>
+      <td style="text-align: center">420</td>
+      <td style="text-align: right">12%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Flutter</td>
+      <td style="text-align: center">159</td>
+      <td style="text-align: right">5%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Cordova</td>
+      <td style="text-align: center">107</td>
+      <td style="text-align: right">3%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">xamarin</td>
+      <td style="text-align: center">34</td>
+      <td style="text-align: right">1%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Web</td>
+      <td style="text-align: center">120</td>
+      <td style="text-align: right">3%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>This picture of the store is interesting!</strong></p>
+<ul class="notice--warning">
+  <li>Native development is dominating.</li>
+  <li>At least <span>25%</span> of the Apps of the AppStore are not native!</li>
+  <li>2 technologies are dominating Flutter &amp; React Native.</li>
+  <li>React Native is adopted 2x more than Flutter.</li>
+</ul>]]></content><author><name>MORISSARD Jérôme</name></author><category term="AppStore" /><category term="Cross Platform" /><category term="Flutter" /><category term="React Native" /><category term="Xamarin" /><category term="React Native" /><category term="Cordova" /><category term="Web App" /><category term="Flutter" /><category term="Native" /><summary type="html"><![CDATA[Since 10 years i have seen a lot of cross-plateform technologies. Every time, there is some reasons to select an alternative technology.]]></summary></entry></feed>

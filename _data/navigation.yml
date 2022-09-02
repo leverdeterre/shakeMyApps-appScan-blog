@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Blog"
+    url: /
+  # - title: "Big Data"
+  #  url: /big_data/
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
