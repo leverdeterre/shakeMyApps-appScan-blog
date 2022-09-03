@@ -1,0 +1,27 @@
+I" <p>To be more objective to judge a App and be able to compare Apps, we have created an AppScore. 
+We are not going to rate the features of the App but we wanted to be realist of the strenghts and the weaknesses of the App.</p>
+
+<p>AppScore computation can be devided into scores:</p>
+
+<p><strong>Dev environment</strong> - Xcode version can be detected. Itâ€™s interesting to see the adoption of the most recent version of Xcode to adapt the App to new iOS features.</p>
+
+<p><strong>Technology use for the development</strong> - Major technology used for the App development, can be evaluated using some hints.</p>
+
+<p><strong>App minimal iOS version</strong> - Interesting to know the reachable number of users</p>
+
+<p><strong>App size</strong> - Discover how the App is packaged</p>
+
+<p><strong>App permissions</strong> - Give an interesting vision the possible features of the App</p>
+
+<p><strong>App supported languages</strong> - Give super complete vision of the targeted users</p>
+
+<p><strong>App resources</strong> - Discover some optimizations and packaging errors</p>
+
+<p><strong>App librairies</strong> - Super cool vision of some features and the strategy of development</p>
+
+<p><strong>App security</strong> - God dam shit</p>
+
+<p><strong>App - interactions with other Apps</strong> - Super cool vision of some features.</p>
+
+<p><strong>App - interactions with the iOS system</strong> - Super cool vision of some features.</p>
+:ET

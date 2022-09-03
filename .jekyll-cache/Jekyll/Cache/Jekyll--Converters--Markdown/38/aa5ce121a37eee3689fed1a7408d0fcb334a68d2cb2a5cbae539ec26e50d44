@@ -1,0 +1,13 @@
+I"ê<p>On iOS, the network exchanges is an important layer of the security. 
+This layer is used by the App when performing network requests with :</p>
+<ul>
+  <li>URLSession,</li>
+  <li>URLConnection,</li>
+  <li>WKWebView loading,</li>
+  <li>Thirdparty librairies (Alamofire, AFNetworking)</li>
+</ul>
+
+<p>Using our current database we have discovered that 48% of the iOS app have remove or disable this protection.</p>
+
+<p><img src="/assets/images/ATT-48pourcent.png" alt="" class="full" /></p>
+:ET

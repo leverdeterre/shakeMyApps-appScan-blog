@@ -1,0 +1,22 @@
+I":<p>If we use all the metadata we can do smart queries.</p>
+
+<h1 id="to-help-to-take-product-decisions">To help to take product decisions</h1>
+<ul>
+  <li>On <strong>top 100</strong> of “Lifestyle” category of AppStore, How many Apps are optimized for iPad?</li>
+  <li>On <strong>top 100</strong> of “Lifestyle” category of AppStore, What is the minimal iOS version?</li>
+  <li>On <strong>all top 10</strong>, What are the analytics &amp; tracking solutions used?</li>
+  <li>Give me the <strong>10 Apps</strong> implementings the most of <strong>Apple featured features</strong>.</li>
+  <li><strong>Number of retailer apps</strong> using <strong>Apple Pay</strong>.</li>
+</ul>
+
+<h1 id="to-do-prospection--identify-new-clients">To do prospection &amp; identify new clients</h1>
+<ul>
+  <li>Give me the <strong>10 Apps</strong> that implement the <strong>Google Analytics framework</strong>.</li>
+  <li>Give me the Apps develop using <strong>Flutter</strong> in the <strong>top 10</strong> FR.</li>
+  <li>Give me the Apps develop using <strong>Xamarin</strong> with a <strong>bad AppScore</strong>.</li>
+  <li>Give me <strong>the Apps</strong> that use an <strong>old version of Xcode</strong>.</li>
+  <li>Give me the Apps in the <strong>top 10</strong>, develop on <strong>native technology</strong> without <strong>tracking solutions</strong>.</li>
+  <li>Give me <strong>all the Apps</strong> that <strong>not present AppTrackingTransparency</strong> but <strong>use trackers</strong>.</li>
+  <li>Give me <strong>the retailer apps</strong> not using <strong>Apple Pay</strong>.</li>
+</ul>
+:ET

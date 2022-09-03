@@ -1,0 +1,9 @@
+I"(<p>On iOS, the network exchanges is an important layer of the security. 
+This layer is used by the App when performing network requests with :</p>
+<ul>
+  <li>URLSession,</li>
+  <li>URLConnection,</li>
+  <li>WKWebView loading,</li>
+  <li>Thirdparty librairies (Alamofire, AFNetworking)</li>
+</ul>
+:ET

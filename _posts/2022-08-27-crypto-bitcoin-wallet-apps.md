@@ -11,17 +11,18 @@ tags:
 ## AppScores 
 
 I created an AppScore to have a fast vision some "quality" points for the App.
+[If you want to get more details about AppScore computation]({% post_url 2022-07-01-appscore-definition %})
 
 | AppName | AppScore  |
 | :---        |     :--- |
-| ZenGo: Crypto & Bitcoin Wallet    | 3.64 | 
-| Coinbase: Buy Bitcoin & Ether     | 4.05 | 
-| eToro Money                       | 3.41 | 
-| Binance: Buy Bitcoin & Crypto     | 3.95 | 
-| CoinMarketCap                     | 4.14 | 
-| FTX (anciennement Blockfolio)     | 4.14 | 
-| Crypto.com  - Buy Bitcoin, ETH    | 4.00 | 
-| MetaMask - Blockchain Wallet      | 4.77 | 
+| {% imagesize /assets/images/ios-apps/zengo.webp:img?width=50 alt='zengo app icon' %} ZenGo: Crypto & Bitcoin Wallet    | 3.64 | 
+| {% imagesize /assets/images/ios-apps/coinbase.webp:img?width=50 alt='coinbase app icon' %} Coinbase: Buy Bitcoin & Ether     | 4.05 | 
+| {% imagesize /assets/images/ios-apps/etoro money.webp:img?width=50 alt='Etoro Money app icon' %} eToro Money                       | 3.41 | 
+| {% imagesize /assets/images/ios-apps/binance.webp:img?width=50 alt='Binance app icon' %} Binance: Buy Bitcoin & Crypto     | 3.95 | 
+| {% imagesize /assets/images/ios-apps/coinmarkercap.webp:img?width=50 alt='coinmarkercap app icon' %} CoinMarketCap                     | 4.14 | 
+| {% imagesize /assets/images/ios-apps/ftx.webp:img?width=50 alt='FTX app icon' %} FTX (anciennement Blockfolio)     | 4.14 | 
+| {% imagesize /assets/images/ios-apps/crypto.com.webp:img?width=50 alt='Crypto.com app icon' %} Crypto.com  - Buy Bitcoin, ETH    | 4.00 | 
+| {% imagesize /assets/images/ios-apps/metamask.webp:img?width=50 alt='Metamask app icon' %}MetaMask - Blockchain Wallet      | 4.77 | 
 
 - MetaMask is clearly over the other apps
 {: .notice--warning}
@@ -84,14 +85,14 @@ The technologies is evaluated using multiple hints inside the App bundle.
 
 | AppName                           | FaceID | Photos   | Camera  | Location | Siri   | Microphone | NFC     | Tracking | Calendar | Contacts | 
 | :---                              |  :---: |    :---: |   :---: |  :---:  | :---:  |   :---:    |   :---: |   :---: |   :---: | :---: |
-| ZenGo: Crypto & Bitcoin Wallet    | ✅     | ✅       | ✅     | ✅       | ❌     | ❌         | ❌     | ❌     | ❌ | ❌ |
-| Coinbase: Buy Bitcoin & Ether     | ✅     | ✅       | ✅     | ✅       | ❌     | ✅         | ❌     | ✅     | ❌ | ✅ |
-| eToro Money                       | ✅     | ✅       | ✅     | ❌       | ❌     | ❌         | ❌     | ❌     | ❌ | ❌ |
-| Binance: Buy Bitcoin & Crypto     | ✅     | ✅       | ✅     | ✅       | ❌     | ✅         | ✅     | ✅     | ❌ | ❌ |
-| CoinMarketCap                     | ✅     | ✅       | ✅     | ❌       | ❌     | ❌         | ❌     | ✅     | ❌ | ❌ |
-| FTX (anciennement Blockfolio)     | ✅     | ✅       | ✅     | ✅       | ❌     | ❌         | ❌     | ✅     | ✅ | ✅ |
-| Crypto.com - Buy Bitcoin, ETH     | ✅     | ✅       | ✅     | ✅       | ❌     | ✅         | ❌     | ✅     | ❌ | ✅ |
-| MetaMask - Blockchain Wallet      | ❌     | ✅       | ✅     | ✅       | ✅     | ✅         | ✅     | ✅     | ✅ | ❌ |
+| ZenGo: Crypto & Bitcoin Wallet    | ✅     | ✅       | ✅     | ✅       | ❌     | ❌         | ❌     | ❌     | ❌     | ❌     |
+| Coinbase: Buy Bitcoin & Ether     | ✅     | ✅       | ✅     | ✅       | ❌     | ✅         | ❌     | ✅     | ❌     | ✅     |
+| eToro Money                       | ✅     | ✅       | ✅     | ❌       | ❌     | ❌         | ❌     | ❌     | ❌     | ❌     |
+| Binance: Buy Bitcoin & Crypto     | ✅     | ✅       | ✅     | ✅       | ❌     | ✅         | ✅     | ✅     | ❌     | ❌     |
+| CoinMarketCap                     | ✅     | ✅       | ✅     | ❌       | ❌     | ❌         | ❌     | ✅     | ❌     | ❌     |
+| FTX (anciennement Blockfolio)     | ✅     | ✅       | ✅     | ✅       | ❌     | ❌         | ❌     | ✅     | ✅     | ✅     |
+| Crypto.com - Buy Bitcoin, ETH     | ✅     | ✅       | ✅     | ✅       | ❌     | ✅         | ❌     | ✅     | ❌     | ✅     |
+| MetaMask - Blockchain Wallet      | ❌     | ✅       | ✅     | ✅       | ✅     | ✅         | ✅     | ✅     | ✅     | ❌     |
 
 
 ## App Supported languages ?
@@ -124,6 +125,9 @@ The technologies is evaluated using multiple hints inside the App bundle.
 
 ### with other Apps
 
+An app can interact with other Apps, but to do that the App must declare a list of Apps to interact with.
+This list give the possibility to the App to ask to open the other Apps for specific actions.
+
 | AppName | Number of apps | Social Apps | Mails Apps | Wallet Apps | Jailbreak Apps |
 | :---        | :---:    |  :---:    | :---:    | :---:    |   :---: |
 | ZenGo: Crypto & Bitcoin Wallet  | 6 apps  | ❌ | ✅ | ❌ | ❌ | 
@@ -135,19 +139,26 @@ The technologies is evaluated using multiple hints inside the App bundle.
 | Crypto.com - Buy Bitcoin, ETH   | 5 apps  | ❌ | ✅ | ❌ | ✅ |
 | MetaMask - Blockchain Wallet    | 5 apps  | ✅ | ❌ | ❌ | ❌ |
 
+- Yes, Mail Apps make sense to give the user a way to share things, and maybe optimize actions.
+- Social Apps (WahtApps, Instagram, Facebook, Twitter), give the user a way to share content or to log.
+- Wallet Apps can be interesting to interact with (or to know that a User has alternative)
+- Cydia is a good idea to detect jailbreaken device and limit the App. 
+{: .notice--warning}
 
 ### with the system
 
-| AppName | iCloud service | Universal links | Apple Pay | Wallet | Keychain group | Apple Sign-In | NFC reader | web credentials | 
-| :---   | :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---:| :---: |
-| ZenGo: Crypto & Bitcoin Wallet  | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Coinbase: Buy Bitcoin & Ether   | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ |
-| eToro Money                     | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ |
-| Binance: Buy Bitcoin & Crypto   | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
-| CoinMarketCap                   | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| FTX (anciennement Blockfolio)   | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ |
-| Crypto.com - Buy Bitcoin, ETH   | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| MetaMask - Blockchain Wallet    | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ |
+Interactions with the system give your App a real sense for the User and a lot of way to interact with her.
+
+| AppName                         | iCloud service   | Universal links | Apple Pay  | Wallet    | Keychain group  | Apple Sign-In   | NFC reader | web credentials | 
+| :---                            | :---:            | :---:           | :---:      | :---:     | :---:           | :---:           | :---:      | :---:| :---: |
+| ZenGo: Crypto & Bitcoin Wallet  | ✅               | ✅             | ❌         | ❌        | ❌              | ❌             | ❌         | ❌ |
+| Coinbase: Buy Bitcoin & Ether   | ✅               | ✅             | ✅         | ✅        | ✅              | ❌             | ❌         | ✅ |
+| eToro Money                     | ❌               | ❌             | ❌         | ❌         | ✅             | ✅             | ❌         | ❌ |
+| Binance: Buy Bitcoin & Crypto   | ✅               | ✅             | ❌         | ❌         | ✅             | ✅             | ✅         | ✅ |
+| CoinMarketCap                   | ❌               | ✅             | ❌         | ❌         | ✅             | ❌             | ❌         | ❌ |
+| FTX (anciennement Blockfolio)   | ❌               | ✅             | ❌         | ❌         | ✅             | ✅             | ❌         | ❌ |
+| Crypto.com - Buy Bitcoin, ETH   | ❌               | ✅             | ✅         | ❌         | ✅             | ❌             | ❌         | ❌ |
+| MetaMask - Blockchain Wallet    | ❌               | ✅             | ✅         | ❌         | ✅             | ✅             | ✅         | ❌ |
 
 ### extensions
 

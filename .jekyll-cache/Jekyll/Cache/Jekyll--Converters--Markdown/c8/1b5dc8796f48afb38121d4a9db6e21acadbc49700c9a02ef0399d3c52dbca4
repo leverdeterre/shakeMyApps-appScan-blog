@@ -1,0 +1,73 @@
+I"Ÿ	<p>Since 10 years i have seen a lot of cross-plateform technologies.
+Every time, there is some reasons to select an alternative technology.</p>
+
+<ul>
+  <li>Reduce the cost of the App</li>
+  <li>Use the internal resources to develop the App</li>
+  <li>Recruitment too complex</li>
+</ul>
+
+<p>For several years, we the maturity of some challengers, i was wondering if I was missing something.
+Thatâ€™s why i have made this analyses of the AppStore.</p>
+
+<p>The alternatives are :</p>
+<ul>
+  <li><a href="https://dotnet.microsoft.com/en-us/apps/xamarin">Native</a> (Apple)</li>
+  <li><a href="https://reactnative.dev/">React Native</a> (Facebook)</li>
+  <li><a href="https://flutter.dev/">Flutter</a> (Google)</li>
+  <li><a href="https://cordova.apache.org/">Cordova</a> (Adobe Systems)</li>
+  <li><a href="https://dotnet.microsoft.com/en-us/apps/xamarin">Xamarin</a> (Microsoft)</li>
+</ul>
+
+<p>We have collected the analysis of 3334 apps</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Syntax</th>
+      <th style="text-align: center">Number of Apps</th>
+      <th style="text-align: right">%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Native</td>
+      <td style="text-align: center">2494</td>
+      <td style="text-align: right">75%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">React Native</td>
+      <td style="text-align: center">420</td>
+      <td style="text-align: right">12%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Flutter</td>
+      <td style="text-align: center">159</td>
+      <td style="text-align: right">5%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Cordova</td>
+      <td style="text-align: center">107</td>
+      <td style="text-align: right">3%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">xamarin</td>
+      <td style="text-align: center">34</td>
+      <td style="text-align: right">1%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Web</td>
+      <td style="text-align: center">120</td>
+      <td style="text-align: right">3%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>This picture of the store is interesting!</strong></p>
+<ul class="notice--warning">
+  <li>Native development is dominating.</li>
+  <li>At least <span>25%</span> of the Apps of the AppStore are not native!</li>
+  <li>2 technologies are dominating Flutter &amp; React Native.</li>
+  <li>React Native is adopted 2x more than Flutter.</li>
+</ul>
+:ET

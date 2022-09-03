@@ -1,9 +1,11 @@
 # main links
 main:
+  - title: "Request an audit"
+    url: /request-an-audit
+  - title: "AppScan Data"
+    url: /appscan-data
   - title: "Blog"
     url: /
-  # - title: "Big Data"
-  #  url: /big_data/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/

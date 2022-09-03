@@ -1,0 +1,51 @@
+I"£<p>I started to work on that project some years ago. I was working on an other project RocketSkill. 
+I was trying to generate a global vision of the AppStore to give some advises to new iOS developers. 
+What libraries are important to know? 
+How to improve my learning curve on the plateform? 
+After some months, i was able to generate a list of frameworks sorted by frequency of the AppStore.
+This was already funny to discover some new frameworks using this method.</p>
+
+<p>Finally, using the ipa, i discover that it was possible to extract a lot more informationsâ€¦ a here comes AppScan.</p>
+
+<ul>
+  <li>Environment
+    <ul>
+      <li>Xcode version</li>
+      <li>Service env urls</li>
+      <li>App technology</li>
+    </ul>
+  </li>
+  <li>App configuration
+    <ul>
+      <li>Apple Info.plist Keys</li>
+      <li>Extra Info.plist Keys</li>
+      <li>Permissions</li>
+    </ul>
+  </li>
+  <li>Resources
+    <ul>
+      <li>Assets missing 1x 2x 3x</li>
+      <li>Assets organization</li>
+      <li>Languages supports</li>
+      <li>ThirdParty librairies</li>
+      <li>Apple librairies</li>
+    </ul>
+  </li>
+  <li>Security
+    <ul>
+      <li>risky files</li>
+      <li>Bad configurations</li>
+      <li>Bad environments</li>
+      <li>Schemes</li>
+    </ul>
+  </li>
+  <li>Extra features
+    <ul>
+      <li>Extensions</li>
+      <li>Entitlemented features</li>
+      <li>Cool Apple featured SDK : ARKit, SwiftUI</li>
+    </ul>
+  </li>
+</ul>
+
+:ET

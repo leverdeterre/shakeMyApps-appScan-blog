@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Crypto, Bitcoin, Wallet Apps - AppScan audits",
-        "excerpt":"AppScores I created an AppScore to have a fast vision some “quality” points for the App. AppName AppScore ZenGo: Crypto &amp; Bitcoin Wallet 3.64 Coinbase: Buy Bitcoin &amp; Ether 4.05 eToro Money 3.41 Binance: Buy Bitcoin &amp; Crypto 3.95 CoinMarketCap 4.14 FTX (anciennement Blockfolio) 4.14 Crypto.com - Buy Bitcoin, ETH...","categories": ["AppAudits"],
+        "excerpt":"AppScores I created an AppScore to have a fast vision some “quality” points for the App. If you want to get more details about AppScore computation AppName AppScore ZenGo: Crypto &amp; Bitcoin Wallet 3.64 Coinbase: Buy Bitcoin &amp; Ether 4.05 eToro Money 3.41 Binance: Buy Bitcoin &amp; Crypto 3.95 CoinMarketCap...","categories": ["AppAudits"],
         "tags": [],
         "url": "/appaudits/crypto-bitcoin-wallet-apps/",
         "teaser": null

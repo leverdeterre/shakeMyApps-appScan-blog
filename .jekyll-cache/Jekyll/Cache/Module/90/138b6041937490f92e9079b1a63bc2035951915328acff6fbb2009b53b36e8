@@ -1,0 +1,31 @@
+I"Á
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/logo-256x256.jpeg" alt="AppScan"></a>
+        
+        <a class="site-title" href="/">
+          AppScan
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/request-an-audit">Request an audit</a>
+            </li><li class="masthead__menu-item">
+              <a href="/appscan-data">AppScan Data</a>
+            </li><li class="masthead__menu-item">
+              <a href="/">Blog</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+:ET

@@ -124,11 +124,17 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         
+          <a class="site-logo" href="/"><img src="/assets/images/logo-256x256.jpeg" alt="AppScan"></a>
+        
         <a class="site-title" href="/">
           AppScan
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/request-an-audit">Request an audit</a>
+            </li><li class="masthead__menu-item">
+              <a href="/appscan-data">AppScan Data</a>
+            </li><li class="masthead__menu-item">
               <a href="/">Blog</a>
             </li></ul>
         
@@ -172,7 +178,7 @@
     </h3>
     
       <div class="author__bio p-note" itemprop="description">
-        <p>Addicted to tech. A product lover. Focused on iOS &amp; Android. Very interested in security, privacy &amp; quality.</p>
+        <p>A product lover. iOS &amp; android developer. Interested in security, privacy &amp; quality.</p>
 
       </div>
     
@@ -203,6 +209,13 @@
 
       
 
+      
+        <li>
+          <a href="mailto:hello@appscan-hq.com" rel="me" class="u-email">
+            <meta itemprop="email" content="hello@appscan-hq.com" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
+          </a>
+        </li>
       
 
       
@@ -292,7 +305,7 @@
       <span class="page__meta-readtime">
         <i class="far fa-clock" aria-hidden="true"></i>
         
-          4 minute read
+          5 minute read
         
       </span>
     
@@ -306,7 +319,8 @@
         
         <h2 id="appscores">AppScores</h2>
 
-<p>I created an AppScore to have a fast vision some “quality” points for the App.</p>
+<p>I created an AppScore to have a fast vision some “quality” points for the App.
+<a href="/appstore/appscore/appscore-definition/">If you want to get more details about AppScore computation</a></p>
 
 <table>
   <thead>
@@ -317,35 +331,35 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/zengo.webp" width="50" height="50" /> ZenGo: Crypto &amp; Bitcoin Wallet</td>
       <td style="text-align: left">3.64</td>
     </tr>
     <tr>
-      <td style="text-align: left">Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/coinbase.webp" width="50" height="50" /> Coinbase: Buy Bitcoin &amp; Ether</td>
       <td style="text-align: left">4.05</td>
     </tr>
     <tr>
-      <td style="text-align: left">eToro Money</td>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/etoro money.webp" width="50" height="50" /> eToro Money</td>
       <td style="text-align: left">3.41</td>
     </tr>
     <tr>
-      <td style="text-align: left">Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/binance.webp" width="50" height="50" /> Binance: Buy Bitcoin &amp; Crypto</td>
       <td style="text-align: left">3.95</td>
     </tr>
     <tr>
-      <td style="text-align: left">CoinMarketCap</td>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/coinmarkercap.webp" width="50" height="50" /> CoinMarketCap</td>
       <td style="text-align: left">4.14</td>
     </tr>
     <tr>
-      <td style="text-align: left">FTX (anciennement Blockfolio)</td>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/ftx.webp" width="50" height="50" /> FTX (anciennement Blockfolio)</td>
       <td style="text-align: left">4.14</td>
     </tr>
     <tr>
-      <td style="text-align: left">Crypto.com  - Buy Bitcoin, ETH</td>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/crypto.com.webp" width="50" height="50" /> Crypto.com  - Buy Bitcoin, ETH</td>
       <td style="text-align: left">4.00</td>
     </tr>
     <tr>
-      <td style="text-align: left">MetaMask - Blockchain Wallet</td>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/metamask.webp" width="50" height="50" />MetaMask - Blockchain Wallet</td>
       <td style="text-align: left">4.77</td>
     </tr>
   </tbody>
@@ -746,6 +760,9 @@
 
 <h3 id="with-other-apps">with other Apps</h3>
 
+<p>An app can interact with other Apps, but to do that the App must declare a list of Apps to interact with.
+This list give the possibility to the App to ask to open the other Apps for specific actions.</p>
+
 <table>
   <thead>
     <tr>
@@ -825,7 +842,16 @@
   </tbody>
 </table>
 
+<ul class="notice--warning">
+  <li>Yes, Mail Apps make sense to give the user a way to share things, and maybe optimize actions.</li>
+  <li>Social Apps (WahtApps, Instagram, Facebook, Twitter), give the user a way to share content or to log.</li>
+  <li>Wallet Apps can be interesting to interact with (or to know that a User has alternative)</li>
+  <li>Cydia is a good idea to detect jailbreaken device and limit the App.</li>
+</ul>
+
 <h3 id="with-the-system">with the system</h3>
+
+<p>Interactions with the system give your App a real sense for the User and a lot of way to interact with her.</p>
 
 <table>
   <thead>
@@ -1169,6 +1195,7 @@
 
 
     <p class="archive__item-excerpt" itemprop="description">If we use all the metadata we can do smart queries.
+
 </p>
   </article>
 </div>
