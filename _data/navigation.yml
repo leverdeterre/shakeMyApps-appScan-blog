@@ -2,8 +2,8 @@
 main:
   - title: "Request an audit"
     url: /request-an-audit
-  - title: "AppScan Data"
-    url: /appscan-data
+  - title: "Data Points"
+    url: /data-points
   - title: "Blog"
     url: /
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
