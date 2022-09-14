@@ -1,1 +1,1 @@
-Sitemap: https://appscan-hq.web.app/sitemap.xml
+Sitemap: https://appscan-hq.web.app/pages/leverdeterre/appscan/sitemap.xml
