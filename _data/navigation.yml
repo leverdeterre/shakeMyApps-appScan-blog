@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Request an audit"
-    url: /request-an-audit
+    url: /request-an-audit.html
   - title: "Data Points"
-    url: /data-points
+    url: /data-points.html
   - title: "Blog"
     url: /
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

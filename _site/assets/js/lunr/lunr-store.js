@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Crypto, Bitcoin, Wallet Apps - AppScan audits",
-        "excerpt":"The Apps relative to crypto are very recent. We wanted to study those Apps to make an interesting article about technical stacks, good practices. What are the good things? What are the bad things in those about? If you want to start to build a new App what are the...","categories": ["AppAudits"],
+        "excerpt":"Apps relative to crypto are very recent. We wanted to study those Apps to make an smart article about technical stacks &amp; good practices. What are the good things? What are the bad things in those about? What are the important points if you want to start to build a...","categories": ["AppAudits"],
         "tags": [],
         "url": "/appaudits/crypto-bitcoin-wallet-apps/",
         "teaser": null

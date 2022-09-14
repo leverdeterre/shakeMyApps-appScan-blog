@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-09T22:56:26+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">AppScan</title><subtitle>A website.</subtitle><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><entry><title type="html">Big data &amp;amp; Smart queries</title><link href="http://localhost:4000/appaudits/appstore/appscan/metadata/smart-queries/" rel="alternate" type="text/html" title="Big data &amp;amp; Smart queries" /><published>2022-08-29T00:00:00+02:00</published><updated>2022-08-29T00:00:00+02:00</updated><id>http://localhost:4000/appaudits/appstore/appscan/metadata/smart-queries</id><content type="html" xml:base="http://localhost:4000/appaudits/appstore/appscan/metadata/smart-queries/">&lt;p&gt;If we use all the metadata we can do smart queries.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://appscan-hq.web.app/feed.xml" rel="self" type="application/atom+xml" /><link href="https://appscan-hq.web.app/" rel="alternate" type="text/html" /><updated>2022-09-14T21:00:50+02:00</updated><id>https://appscan-hq.web.app/feed.xml</id><title type="html">AppScan</title><subtitle>A website.</subtitle><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><entry><title type="html">Big data &amp;amp; Smart queries</title><link href="https://appscan-hq.web.app/appaudits/appstore/appscan/metadata/smart-queries/" rel="alternate" type="text/html" title="Big data &amp;amp; Smart queries" /><published>2022-08-29T00:00:00+02:00</published><updated>2022-08-29T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appaudits/appstore/appscan/metadata/smart-queries</id><content type="html" xml:base="https://appscan-hq.web.app/appaudits/appstore/appscan/metadata/smart-queries/">&lt;p&gt;If we use all the metadata we can do smart queries.&lt;/p&gt;
 
 &lt;h1 id=&quot;to-help-to-take-product-decisions&quot;&gt;To help to take product decisions&lt;/h1&gt;
 &lt;ul&gt;
@@ -18,14 +18,24 @@
   &lt;li&gt;Give me the Apps in the &lt;strong&gt;top 10&lt;/strong&gt;, develop on &lt;strong&gt;native technology&lt;/strong&gt; without &lt;strong&gt;tracking solutions&lt;/strong&gt;.&lt;/li&gt;
   &lt;li&gt;Give me &lt;strong&gt;all the Apps&lt;/strong&gt; that &lt;strong&gt;not present AppTrackingTransparency&lt;/strong&gt; but &lt;strong&gt;use trackers&lt;/strong&gt;.&lt;/li&gt;
   &lt;li&gt;Give me &lt;strong&gt;the retailer apps&lt;/strong&gt; not using &lt;strong&gt;Apple Pay&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppAudits" /><category term="AppStore" /><category term="AppScan" /><category term="Metadata" /><summary type="html">If we use all the metadata we can do smart queries.</summary></entry><entry><title type="html">Crypto, Bitcoin, Wallet Apps - AppScan audits</title><link href="http://localhost:4000/appaudits/crypto-bitcoin-wallet-apps/" rel="alternate" type="text/html" title="Crypto, Bitcoin, Wallet Apps - AppScan audits" /><published>2022-08-27T00:00:00+02:00</published><updated>2022-08-27T00:00:00+02:00</updated><id>http://localhost:4000/appaudits/crypto-bitcoin-wallet-apps</id><content type="html" xml:base="http://localhost:4000/appaudits/crypto-bitcoin-wallet-apps/">&lt;p&gt;The Apps relative to crypto are very recent.
-We wanted to study those Apps to make an interesting article about technical stacks, good practices.
-What are the good things?
-What are the bad things in those about?
-If you want to start to build a new App what are the important points?
-To study those questions we have decided to take the most trendy applications and to compare then on technical aspects.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppAudits" /><category term="AppStore" /><category term="AppScan" /><category term="Metadata" /><summary type="html">If we use all the metadata we can do smart queries.</summary></entry><entry><title type="html">Crypto, Bitcoin, Wallet Apps - AppScan audits</title><link href="https://appscan-hq.web.app/appaudits/crypto-bitcoin-wallet-apps/" rel="alternate" type="text/html" title="Crypto, Bitcoin, Wallet Apps - AppScan audits" /><published>2022-08-27T00:00:00+02:00</published><updated>2022-08-27T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appaudits/crypto-bitcoin-wallet-apps</id><content type="html" xml:base="https://appscan-hq.web.app/appaudits/crypto-bitcoin-wallet-apps/">&lt;p&gt;Apps relative to crypto are very recent.
+We wanted to study those Apps to make an smart article about technical stacks &amp;amp; good practices.&lt;/p&gt;
 
-&lt;h2 id=&quot;global-appscores&quot;&gt;Global AppScores&lt;/h2&gt;
+&lt;p&gt;What are the good things?&lt;/p&gt;
+
+&lt;p&gt;What are the bad things in those about?&lt;/p&gt;
+
+&lt;p&gt;What are the important points if you want to start to build a new App?&lt;/p&gt;
+
+&lt;p&gt;To study those questions we have decided to take the most trendy applications and to compare then on technical aspects.&lt;/p&gt;
+
+&lt;h2 id=&quot;0-tldr&quot;&gt;0. TLDR;&lt;/h2&gt;
+
+&lt;p&gt;There is native Apps and Apps developed using a cross plateform solutions.&lt;/p&gt;
+
+&lt;p&gt;All Apps can provide a very rich User Experience, by requesting a lot of permissions, extends the system using App Extensions or interact with other Apps to improve the journey of a User.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-global-appscores&quot;&gt;1. Global AppScores&lt;/h2&gt;
 
 &lt;p&gt;I created an AppScore to have an objective &amp;amp; synthetic vision of any Apps, just by monitoring some “quality” points.
 &lt;a href=&quot;/appstore/appscore/appscore-definition/&quot;&gt;If you want to get more details about AppScore computation&lt;/a&gt;&lt;/p&gt;
@@ -77,7 +87,7 @@ To study those questions we have decided to take the most trendy applications an
   &lt;li&gt;MetaMask is clearly over the other apps&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;technologies&quot;&gt;Technologies&lt;/h2&gt;
+&lt;h2 id=&quot;2-technologies&quot;&gt;2. Technologies&lt;/h2&gt;
 
 &lt;p&gt;The technologies is evaluated using multiple hints inside the App bundle.&lt;/p&gt;
 
@@ -131,7 +141,7 @@ To study those questions we have decided to take the most trendy applications an
   &lt;li&gt;Only 2 full Native Apps&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;minimal-ios-version&quot;&gt;Minimal iOS version&lt;/h2&gt;
+&lt;h2 id=&quot;3-minimal-ios-version&quot;&gt;3. Minimal iOS version&lt;/h2&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -180,7 +190,7 @@ To study those questions we have decided to take the most trendy applications an
   &lt;li&gt;Crypto.com requires iOS 13.0 which is not a bad idea but you loose some % of devices&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;app-size&quot;&gt;App Size&lt;/h2&gt;
+&lt;h2 id=&quot;4-app-size&quot;&gt;4. App Size&lt;/h2&gt;
 &lt;p&gt;App size is important to be able to be easyly installed and not to limited because of the network.
 And not be the 1st application uninstalled if the device has less space.&lt;/p&gt;
 
@@ -240,7 +250,7 @@ And not be the 1st application uninstalled if the device has less space.&lt;/p&g
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;app-permissions&quot;&gt;App Permissions&lt;/h2&gt;
+&lt;h2 id=&quot;5-app-permissions&quot;&gt;5. App Permissions&lt;/h2&gt;
 
 &lt;p&gt;The App permissions give us an overview of the capabilies of an App and discover the features.&lt;/p&gt;
 
@@ -371,13 +381,13 @@ And not be the 1st application uninstalled if the device has less space.&lt;/p&g
 &lt;ul class=&quot;notice--warning&quot;&gt;
   &lt;li&gt;All the Apps ask for &lt;strong&gt;Photos &amp;amp; Camera&lt;/strong&gt;… probably for the Id validation or Credit Card scan&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;FaceID&lt;/strong&gt; is implemented for almost all the Apps … it’s a simple way to securize the App content and check the owner of the device before presenting the App data.&lt;/li&gt;
-  &lt;li&gt;**Tracking librairies¨¨ are officially implemented on most of the Apps and developers provide a message to explain this.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tracking librairies&lt;/strong&gt; are officially implemented on most of the Apps and developers provide a message to explain this.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;NFC reader&lt;/strong&gt; feature seems to be very interesting features implemented only MetaMask &amp;amp; Binance&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Siri&lt;/strong&gt; usage is used by only MetaMask, maybe for very good usage and this is a great technique to get a little closer to Apple&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Calendar&lt;/strong&gt; &amp;amp; &lt;strong&gt;Contacts&lt;/strong&gt; access are other interesting permissions but not implemented in a lot of Apps.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;app-resources&quot;&gt;App Resources&lt;/h2&gt;
+&lt;h2 id=&quot;6-app-resources&quot;&gt;6. App Resources&lt;/h2&gt;
 
 &lt;p&gt;In this section, we check to important metrics about the packageing of the App.&lt;/p&gt;
 &lt;ul&gt;
@@ -398,57 +408,57 @@ And not be the 1st application uninstalled if the device has less space.&lt;/p&g
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/metamask.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; MetaMask - Blockchain Wallet&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;40 languages&lt;/li&gt;&lt;li&gt;Plurals management &lt;/li&gt;&lt;li&gt;Images packaged in assets &lt;/li&gt;  &lt;/ul&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;✅ 40 languages&lt;/li&gt;&lt;li&gt;✅ Plurals management &lt;/li&gt;&lt;li&gt;✅ Images packaged in assets &lt;/li&gt;  &lt;/ul&gt;&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/binance.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Binance: Buy Bitcoin &amp;amp; Crypto&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;9 languages&lt;/li&gt;&lt;li&gt;Localized strings Custom Flutter (JSON file) &lt;/li&gt;&lt;li&gt;Images packaged in assets &lt;/li&gt;  &lt;/ul&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;✅ 9 languages&lt;/li&gt;&lt;li&gt;❌ Localized strings Custom Flutter (JSON file) &lt;/li&gt;&lt;li&gt;✅ Images packaged in assets &lt;/li&gt;  &lt;/ul&gt;&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/crypto.com.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Crypto.com - Buy Bitcoin, ETH&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;4.5&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;20 languages&lt;/li&gt;&lt;li&gt;Some missing translations detected &lt;/li&gt; &lt;li&gt;Images packaged in assets &lt;/li&gt;  &lt;/ul&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;✅ 20 languages&lt;/li&gt;&lt;li&gt;❌ Some missing translations detected &lt;/li&gt; &lt;li&gt;✅ Images packaged in assets &lt;/li&gt;  &lt;/ul&gt;&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/coinmarkercap.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; CoinMarketCap&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;4.5&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;21 languages&lt;/li&gt;&lt;li&gt;Some missing translations detected &lt;/li&gt; &lt;li&gt;Images packaged in assets &lt;/li&gt;  &lt;/ul&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;✅ 21 languages&lt;/li&gt;&lt;li&gt;❌ Some missing translations detected &lt;/li&gt; &lt;li&gt;✅ Images packaged in assets &lt;/li&gt;  &lt;/ul&gt;&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/coinbase.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Coinbase: Buy Bitcoin &amp;amp; Ether&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;18 languages&lt;/li&gt;&lt;li&gt;images not optimized in assets &lt;/li&gt;&lt;li&gt;@1x/2x/@3x&lt;/li&gt;&lt;li&gt;image scales missing/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;✅ 18 languages&lt;/li&gt;&lt;li&gt;❌ images not optimized in assets &lt;/li&gt;&lt;li&gt;❌ @1x/2x/@3x&lt;/li&gt;&lt;li&gt;❌ image scales missing&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/ftx.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; FTX (anciennement Blockfolio)&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;2.5&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;18 languages&lt;/li&gt;&lt;li&gt;images not optimized in assets &lt;/li&gt;&lt;li&gt;@1x/2x/@3x&lt;/li&gt;&lt;li&gt;image scales missing/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;✅ 18 languages&lt;/li&gt;&lt;li&gt;❌ images not optimized in assets &lt;/li&gt;&lt;li&gt;❌ @1x/2x/@3x&lt;/li&gt;&lt;li&gt;❌ image scales missing&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/zengo.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; ZenGo: Crypto &amp;amp; Bitcoin Wallet&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;2.5&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;1 language&lt;/li&gt;&lt;li&gt;images not optimized in assets &lt;/li&gt;&lt;li&gt;@1x/2x/@3x&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;❌ 1 language&lt;/li&gt;&lt;li&gt;❌ images not optimized in assets &lt;/li&gt;&lt;li&gt;❌ @1x/2x/@3x&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/etoro money.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; eToro Money&lt;/td&gt;
       &lt;td style=&quot;text-align: center&quot;&gt;2.5&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;no official language declared (but custom in App) &lt;/li&gt;&lt;li&gt;images not optimized in assets &lt;/li&gt;&lt;li&gt;@1x/2x/@3x&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;❌ no official language declared (but custom in App) &lt;/li&gt;&lt;li&gt;❌ images not optimized in assets &lt;/li&gt;&lt;li&gt;❌ @1x/2x/@3x&lt;/li&gt;&lt;/ul&gt;&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&quot;app-interactions&quot;&gt;App interactions&lt;/h2&gt;
+&lt;h2 id=&quot;7-app-interactions&quot;&gt;7. App interactions&lt;/h2&gt;
 
-&lt;h3 id=&quot;with-other-apps&quot;&gt;with other Apps&lt;/h3&gt;
+&lt;h3 id=&quot;71---interactions-with-other-apps&quot;&gt;7.1 - Interactions with other Apps&lt;/h3&gt;
 
 &lt;p&gt;An app can interact with other Apps, but to do that the App must declare a list of Apps to interact with.
 This list give the possibility to the App to ask to open the other Apps for specific actions.&lt;/p&gt;
@@ -536,139 +546,130 @@ This list give the possibility to the App to ask to open the other Apps for spec
   &lt;li&gt;Yes, Mail Apps make sense to give the user a way to share things, and maybe optimize actions.&lt;/li&gt;
   &lt;li&gt;Social Apps (WhatsApp, Instagram, Facebook, Twitter), give the user a way to share content or to log.&lt;/li&gt;
   &lt;li&gt;Wallet Apps can be interesting to interact with (or to know that a User has alternative)&lt;/li&gt;
-  &lt;li&gt;Cydia is a good idea to detect jailbroken device and limit the App.&lt;/li&gt;
+  &lt;li&gt;Cydia is a good idea to detect jailbroken devices and maybe limit the usage of the App.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;with-the-system&quot;&gt;with the system&lt;/h3&gt;
+&lt;h3 id=&quot;72---interactions-with-the-system&quot;&gt;7.2 - Interactions with the system&lt;/h3&gt;
 
-&lt;p&gt;Interactions with the system give your App a real sense for the User and a lot of way to interact with her.&lt;/p&gt;
+&lt;p&gt;Interactions with the system give your App a real sense for the Users and provide lots of way to interact with her.&lt;/p&gt;
 
 &lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;App&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;iCloud service&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Universal links&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Apple Pay&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Wallet&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Keychain group&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Apple Sign In&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;NFC reader&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;web credentials&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;App&lt;/td&gt;
-      &lt;td&gt;iCloud service&lt;/td&gt;
-      &lt;td&gt;Universal links&lt;/td&gt;
-      &lt;td&gt;Apple Pay&lt;/td&gt;
-      &lt;td&gt;Wallet&lt;/td&gt;
-      &lt;td&gt;Keychain group&lt;/td&gt;
-      &lt;td&gt;Apple Sign-In&lt;/td&gt;
-      &lt;td&gt;NFC reader&lt;/td&gt;
-      &lt;td&gt;web credentials&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/coinbase.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Coinbase: Buy Bitcoin &amp;amp; Ether&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;:—&lt;/td&gt;
-      &lt;td&gt;:—:&lt;/td&gt;
-      &lt;td&gt;:—:&lt;/td&gt;
-      &lt;td&gt;:—:&lt;/td&gt;
-      &lt;td&gt;:—:&lt;/td&gt;
-      &lt;td&gt;:—:&lt;/td&gt;
-      &lt;td&gt;:—:&lt;/td&gt;
-      &lt;td&gt;:—:&lt;/td&gt;
-      &lt;td&gt;:—:&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/metamask.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; MetaMask - Blockchain Wallet&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/images/ios-apps/coinbase.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Coinbase: Buy Bitcoin &amp;amp; Ether&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/binance.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Binance: Buy Bitcoin &amp;amp; Crypto&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/images/ios-apps/metamask.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; MetaMask - Blockchain Wallet&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/zengo.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;  ZenGo: Crypto &amp;amp; Bitcoin Wallet&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/images/ios-apps/binance.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Binance: Buy Bitcoin &amp;amp; Crypto&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/etoro money.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; eToro Money&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/images/ios-apps/zengo.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt;  ZenGo: Crypto &amp;amp; Bitcoin Wallet&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/coinmarkercap.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; CoinMarketCap&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/images/ios-apps/etoro money.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; eToro Money&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/ftx.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; FTX (anciennement Blockfolio)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/images/ios-apps/coinmarkercap.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; CoinMarketCap&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/images/ios-apps/ftx.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; FTX (anciennement Blockfolio)&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/assets/images/ios-apps/crypto.com.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Crypto.com - Buy Bitcoin, ETH&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;✅&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt;❌&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/crypto.com.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Crypto.com - Buy Bitcoin, ETH&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✅&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;❌&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h3 id=&quot;extensions&quot;&gt;extensions&lt;/h3&gt;
+&lt;ul class=&quot;notice--warning&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;Universal links&lt;/strong&gt;, most of those Apps declare universal links (the fact to redirect the User inside the App if we navigate to an url of the website)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Apple Pay&lt;/strong&gt;, the App can do payment or transferts using ApplePay (it’s always better than having to give a Credit Card)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Wallet&lt;/strong&gt;, only Coinbase has developped a Coinbase Card integrated to Wallet&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keychain group&lt;/strong&gt;, a powerfull technology to store safely the data and share this with your other Apps &amp;amp; extensions.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Apple Sign In&lt;/strong&gt;, the Apple authentication process, only implemented by 50% of those Apps.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;NFC Reader&lt;/strong&gt;, interesting features linked to NFC scanning and probably some partners integration to the Apps.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Web Credentials&lt;/strong&gt;, surprisly not the most implemented feature but very important to be able to share the User credentials with the web brower.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;73---integrations-inside-the-system&quot;&gt;7.3 - Integrations inside the system&lt;/h3&gt;
 
 &lt;p&gt;The App extensions are external components to increase the App visibility on the system.&lt;/p&gt;
 
@@ -751,7 +752,15 @@ This list give the possibility to the App to ask to open the other Apps for spec
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&quot;app-security&quot;&gt;App Security&lt;/h2&gt;
+&lt;ul class=&quot;notice--warning&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;OLD Widget&lt;/strong&gt;, Binance is the only one to provivide this old version of the Widget for the lower iOS versions 👏.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;new Widget&lt;/strong&gt;, new SwiftUI widget. Cool to present some synthetic information withtout starting the App.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Siri&lt;/strong&gt;, “hello Siri i want to do something”. You can talk to your device and present actions.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Notification Service&lt;/strong&gt;, a service to improve the presentation of the content of the notifications for the user.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ReplayKit&lt;/strong&gt;, interesting service (use only by Binance), probably to record/save some actions on device and your face for security reasons.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;8-app-security&quot;&gt;8. App Security&lt;/h2&gt;
 
 &lt;p&gt;The security score is actually evaluated by checking 3 things :&lt;/p&gt;
 &lt;ul&gt;
@@ -764,44 +773,78 @@ This list give the possibility to the App to ask to open the other Apps for spec
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align: left&quot;&gt;App&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Security Score&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Security Score&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Important files&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Critical keys/values&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;No App Security adjusted&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/zengo.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; ZenGo: Crypto &amp;amp; Bitcoin Wallet&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/coinbase.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Coinbase: Buy Bitcoin &amp;amp; Ether&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/etoro money.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; eToro Money&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/binance.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Binance: Buy Bitcoin &amp;amp; Crypto&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/coinmarkercap.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; CoinMarketCap&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/ftx.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; FTX (anciennement Blockfolio)&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/metamask.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; MetaMask - Blockchain Wallet&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4 (5)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (.cer, .der)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;👌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;👌&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/crypto.com.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Crypto.com  - Buy Bitcoin, ETH&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (.xml, .json, .yml)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;👌&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/metamask.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; MetaMask - Blockchain Wallet&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/coinmarkercap.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; CoinMarketCap&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (.cer, .json)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;👌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (NSAppTransportSecurity)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/ftx.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; FTX (anciennement Blockfolio)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (.xcconfig, .json)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;👌&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (NSAppTransportSecurity)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/zengo.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; ZenGo: Crypto &amp;amp; Bitcoin Wallet&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (.der, .json)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (NSAppTransportSecurity)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/coinbase.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Coinbase: Buy Bitcoin &amp;amp; Ether&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (.cer, .der, .yml,.md)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (NSAppTransportSecurity)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/etoro money.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; eToro Money&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (.xml,.json,.js)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (NSAppTransportSecurity)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;img src=&quot;/assets/images/ios-apps/binance.webp&quot; width=&quot;50&quot; height=&quot;50&quot; /&gt; Binance: Buy Bitcoin &amp;amp; Crypto&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡 (.json, .js, .txt))&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;😡  (NSAppTransportSecurity)&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppAudits" /><summary type="html">The Apps relative to crypto are very recent. We wanted to study those Apps to make an interesting article about technical stacks, good practices. What are the good things? What are the bad things in those about? If you want to start to build a new App what are the important points? To study those questions we have decided to take the most trendy applications and to compare then on technical aspects.</summary></entry><entry><title type="html">Apple Transport Security or not</title><link href="http://localhost:4000/appstore/security/app-transport-security/" rel="alternate" type="text/html" title="Apple Transport Security or not" /><published>2022-08-11T00:00:00+02:00</published><updated>2022-08-11T00:00:00+02:00</updated><id>http://localhost:4000/appstore/security/app-transport-security</id><content type="html" xml:base="http://localhost:4000/appstore/security/app-transport-security/">&lt;p&gt;On iOS, the network exchanges is an important layer of the security. 
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MetaMask is over the other, we only detect some .cer &amp;amp; .der files which can be usefull for security validation.&lt;/li&gt;
+  &lt;li&gt;Lot of Apps are exposing apiKeys &amp;amp; critical tokens inside readable sources (Info.plist for example)&lt;/li&gt;
+  &lt;li&gt;Too much Apps are updating the NSAppTransportSecurity parameters to reduce the security checks.&lt;/li&gt;
+  &lt;li&gt;I would consider Apps to be more secure because alternatives create more data inside “readable” format (.json, .txt, .js, .yml). Those files can contains important data.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppAudits" /><summary type="html">Apps relative to crypto are very recent. We wanted to study those Apps to make an smart article about technical stacks &amp;amp; good practices.</summary></entry><entry><title type="html">Apple Transport Security or not</title><link href="https://appscan-hq.web.app/appstore/security/app-transport-security/" rel="alternate" type="text/html" title="Apple Transport Security or not" /><published>2022-08-11T00:00:00+02:00</published><updated>2022-08-11T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appstore/security/app-transport-security</id><content type="html" xml:base="https://appscan-hq.web.app/appstore/security/app-transport-security/">&lt;p&gt;On iOS, the network exchanges is an important layer of the security. 
 This layer is used by the App when performing network requests with :&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;URLSession,&lt;/li&gt;
@@ -812,7 +855,7 @@ This layer is used by the App when performing network requests with :&lt;/p&gt;
 
 &lt;p&gt;Using our current database we have discovered that 48% of the iOS app have remove or disable this protection.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/ATT-48pourcent.png&quot; alt=&quot;&quot; class=&quot;full&quot; /&gt;&lt;/p&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="Security" /><category term="NSAllowsArbitraryLoads" /><summary type="html">On iOS, the network exchanges is an important layer of the security. This layer is used by the App when performing network requests with : URLSession, URLConnection, WKWebView loading, Thirdparty librairies (Alamofire, AFNetworking)</summary></entry><entry><title type="html">AppScan - data collection</title><link href="http://localhost:4000/appstore/product/data-collection/" rel="alternate" type="text/html" title="AppScan - data collection" /><published>2022-07-11T00:00:00+02:00</published><updated>2022-07-11T00:00:00+02:00</updated><id>http://localhost:4000/appstore/product/data-collection</id><content type="html" xml:base="http://localhost:4000/appstore/product/data-collection/">&lt;p&gt;I started to work on that project some years ago. I was working on an other project RocketSkill. 
+&lt;p&gt;&lt;img src=&quot;/assets/images/ATT-48pourcent.png&quot; alt=&quot;&quot; class=&quot;full&quot; /&gt;&lt;/p&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="Security" /><category term="NSAllowsArbitraryLoads" /><summary type="html">On iOS, the network exchanges is an important layer of the security. This layer is used by the App when performing network requests with : URLSession, URLConnection, WKWebView loading, Thirdparty librairies (Alamofire, AFNetworking)</summary></entry><entry><title type="html">AppScan - data collection</title><link href="https://appscan-hq.web.app/appstore/product/data-collection/" rel="alternate" type="text/html" title="AppScan - data collection" /><published>2022-07-11T00:00:00+02:00</published><updated>2022-07-11T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appstore/product/data-collection</id><content type="html" xml:base="https://appscan-hq.web.app/appstore/product/data-collection/">&lt;p&gt;I started to work on that project some years ago. I was working on an other project RocketSkill. 
 I was trying to generate a global vision of the AppStore to give some advises to new iOS developers. 
 What libraries are important to know? 
 How to improve my learning curve on the plateform? 
@@ -860,7 +903,7 @@ This was already funny to discover some new frameworks using this method.&lt;/p&
       &lt;li&gt;Cool Apple featured SDK : ARKit, SwiftUI&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="Product" /><category term="ipa" /><category term="scan" /><summary type="html">I started to work on that project some years ago. I was working on an other project RocketSkill. I was trying to generate a global vision of the AppStore to give some advises to new iOS developers. What libraries are important to know? How to improve my learning curve on the plateform? After some months, i was able to generate a list of frameworks sorted by frequency of the AppStore. This was already funny to discover some new frameworks using this method.</summary></entry><entry><title type="html">AppScore - definition</title><link href="http://localhost:4000/appstore/appscore/appscore-definition/" rel="alternate" type="text/html" title="AppScore - definition" /><published>2022-07-01T00:00:00+02:00</published><updated>2022-07-01T00:00:00+02:00</updated><id>http://localhost:4000/appstore/appscore/appscore-definition</id><content type="html" xml:base="http://localhost:4000/appstore/appscore/appscore-definition/">&lt;p&gt;To be more objective to judge a App and be able to compare Apps, we have created an AppScore. 
+&lt;/ul&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="Product" /><category term="ipa" /><category term="scan" /><summary type="html">I started to work on that project some years ago. I was working on an other project RocketSkill. I was trying to generate a global vision of the AppStore to give some advises to new iOS developers. What libraries are important to know? How to improve my learning curve on the plateform? After some months, i was able to generate a list of frameworks sorted by frequency of the AppStore. This was already funny to discover some new frameworks using this method.</summary></entry><entry><title type="html">AppScore - definition</title><link href="https://appscan-hq.web.app/appstore/appscore/appscore-definition/" rel="alternate" type="text/html" title="AppScore - definition" /><published>2022-07-01T00:00:00+02:00</published><updated>2022-07-01T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appstore/appscore/appscore-definition</id><content type="html" xml:base="https://appscan-hq.web.app/appstore/appscore/appscore-definition/">&lt;p&gt;To be more objective to judge a App and be able to compare Apps, we have created an AppScore. 
 We are not going to rate the features of the App but we wanted to be realist of the strenghts and the weaknesses of the App.&lt;/p&gt;
 
 &lt;p&gt;AppScore computation can be devided into scores:&lt;/p&gt;
@@ -885,7 +928,7 @@ We are not going to rate the features of the App but we wanted to be realist of 
 
 &lt;p&gt;&lt;strong&gt;App - interactions with other Apps&lt;/strong&gt; - Super cool vision of some features.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;App - interactions with the iOS system&lt;/strong&gt; - Super cool vision of some features.&lt;/p&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="AppScore" /><summary type="html">To be more objective to judge a App and be able to compare Apps, we have created an AppScore. We are not going to rate the features of the App but we wanted to be realist of the strenghts and the weaknesses of the App.</summary></entry><entry><title type="html">App Technologies</title><link href="http://localhost:4000/appstore/cross%20platform/flutter/react%20native/app-technologies/" rel="alternate" type="text/html" title="App Technologies" /><published>2022-06-28T00:00:00+02:00</published><updated>2022-06-28T00:00:00+02:00</updated><id>http://localhost:4000/appstore/cross%20platform/flutter/react%20native/app-technologies</id><content type="html" xml:base="http://localhost:4000/appstore/cross%20platform/flutter/react%20native/app-technologies/">&lt;p&gt;Since 10 years i have seen a lot of cross-plateform technologies.
+&lt;p&gt;&lt;strong&gt;App - interactions with the iOS system&lt;/strong&gt; - Super cool vision of some features.&lt;/p&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="AppScore" /><summary type="html">To be more objective to judge a App and be able to compare Apps, we have created an AppScore. We are not going to rate the features of the App but we wanted to be realist of the strenghts and the weaknesses of the App.</summary></entry><entry><title type="html">App Technologies</title><link href="https://appscan-hq.web.app/appstore/cross%20platform/flutter/react%20native/app-technologies/" rel="alternate" type="text/html" title="App Technologies" /><published>2022-06-28T00:00:00+02:00</published><updated>2022-06-28T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appstore/cross%20platform/flutter/react%20native/app-technologies</id><content type="html" xml:base="https://appscan-hq.web.app/appstore/cross%20platform/flutter/react%20native/app-technologies/">&lt;p&gt;Since 10 years i have seen a lot of cross-plateform technologies.
 Every time, there is some reasons to select an alternative technology.&lt;/p&gt;
 
 &lt;ul&gt;
