@@ -16,19 +16,18 @@ What are the bad things in those about?
   
 What are the important points if you want to start to build a new App?
   
-To study those questions we have decided to take the most trendy applications and to compare then on technical aspects.
+To study those questions we have decided to take the most trendy applications and to compare them on technical aspects.
 
 ## 0. TLDR;
 
-There is native Apps and Apps developed using a cross plateform solutions.
-  
-All Apps can provide a very rich User Experience, by requesting a lot of permissions, extends the system using App Extensions or interact with other Apps to improve the journey of a User.
-
-
+- There is native Apps and Apps developed using a cross plateform solutions.
+- All Apps can provide a very rich User Experience and extends the system using App Extensions or interact with other Apps to improve the journey of a User.
+- The applications are characterized by the number of interactions with the system and the possible interactions with other Apps.
+- The packaging is really different depending on the technology of the application and this leads to resources not optimized and some security weaknesses.
 
 ## 1. Global AppScores 
 
-I created an AppScore to have an objective & synthetic vision of any Apps, just by monitoring some "quality" points.
+AppScore give an objective & synthetic vision of any Apps, just by focusing on quality criteria.
 [If you want to get more details about AppScore computation]({% post_url 2022-07-01-appscore-definition %})
 
 | App | AppScore  |
@@ -63,7 +62,6 @@ The technologies is evaluated using multiple hints inside the App bundle.
 - A lot af alternative technologies are used
 - Native is not the most common implementation
 - 3 React Native Apps and 2 Flutter Apps
-- Only 2 full Native Apps
 {: .notice--warning}
 
 ## 3. Minimal iOS version 
@@ -83,6 +81,7 @@ The technologies is evaluated using multiple hints inside the App bundle.
 {: .notice--warning}
 
 ## 4. App Size
+
 App size is important to be able to be easyly installed and not to limited because of the network.
 And not be the 1st application uninstalled if the device has less space.
 
@@ -105,7 +104,7 @@ And not be the 1st application uninstalled if the device has less space.
 
 ## 5. App Permissions
 
-The App permissions give us an overview of the capabilies of an App and discover the features.
+The permissions can give an idea of the possible capabilities that the application will provide.
 
 | App                               | FaceID | Photos   | Camera  | Location | Siri   | Microphone | NFC     | Tracking | Calendar | Contacts | 
 | :---                              |  :---: |    :---: |   :---: |  :---:  | :---:  |   :---:    |   :---: |   :---: |   :---: | :---: |
@@ -123,13 +122,13 @@ The App permissions give us an overview of the capabilies of an App and discover
 - **Tracking librairies** are officially implemented on most of the Apps and developers provide a message to explain this.
 - **NFC reader** feature seems to be very interesting features implemented only MetaMask & Binance
 - **Siri** usage is used by only MetaMask, maybe for very good usage and this is a great technique to get a little closer to Apple  
-- **Calendar** & **Contacts** access are other interesting permissions but not implemented in a lot of Apps.
+- **Calendar** & **Contacts** access are other interesting permissions but not implemented in a lot of Apps, very cool to save things or to invite your contacts? Growth Growth Growth
 {: .notice--warning}
 
 ## 6. App Resources
 
-In this section, we check to important metrics about the packageing of the App.
-- How are managed the images? package in Assets (to be optimized by Apple on the App installation), or not?
+In this section, we check to important metrics about the packaging of the App.
+- How are managed the images? package in Assets? to be optimized by Apple on the App installation, or not?
 - How is configured the language support? Permissions are well localized? Is there missing values? 
 
 | App                                                                                                                               | AppScore | Details | 
@@ -219,7 +218,7 @@ The App extensions are external components to increase the App visibility on the
 The security score is actually evaluated by checking 3 things : 
 - detect "risky" files inside the app bundle (something human readable that might contains important informations)
 - detect bad security configuration 
-- detect api keys easy to stole
+- detect api keys/token easy to hijack
 
 | App                                                                                                                                           | Security Score    | Important files         | Critical keys/values      | No App Security adjusted  | 
 | :---                                                                                                                                          |     :---:         |   :---:                    |  :---:                       |  :---:                    |
@@ -232,9 +231,8 @@ The security score is actually evaluated by checking 3 things :
 | {% imagesize /assets/images/ios-apps/etoro money.webp:img?width=50 alt='Etoro Money app icon' %} eToro Money                                  | 3                 | 😡 (.xml,.json,.js)        | 😡                         | 😡 (NSAppTransportSecurity)                        |
 | {% imagesize /assets/images/ios-apps/binance.webp:img?width=50 alt='Binance app icon' %} Binance: Buy Bitcoin & Crypto                        | 3                 | 😡 (.json, .js, .txt))       | 😡                          | 😡  (NSAppTransportSecurity)                       |
 
-- MetaMask is over the other, we only detect some .cer & .der files which can be usefull for security validation.
+- MetaMask is over the other, we only detect some .cer & .der files which can be usefull for security validation
 - Lot of Apps are exposing apiKeys & critical tokens inside readable sources (Info.plist for example)
-- Too much Apps are updating the NSAppTransportSecurity parameters to reduce the security checks.
+- Too much Apps are updating the NSAppTransportSecurity ... this parameter reduce the App security
 - I would consider Apps to be more secure because alternatives create more data inside "readable" format (.json, .txt, .js, .yml). Those files can contains important data.
-
 {: .notice--warning}

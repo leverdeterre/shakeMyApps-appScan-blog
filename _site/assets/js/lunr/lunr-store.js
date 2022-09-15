@@ -6,13 +6,13 @@ var store = [{
         "teaser": null
       },{
         "title": "AppScore - definition",
-        "excerpt":"To be more objective to judge a App and be able to compare Apps, we have created an AppScore. We are not going to rate the features of the App but we wanted to be realist of the strenghts and the weaknesses of the App. AppScore computation can be devided...","categories": ["AppStore","AppScore"],
+        "excerpt":"why? We have created an AppScore : To be more objective to judge a App Detect strenghts and the weaknesses of the App. Be able to compare Apps AppScore computation is the sum of multiple scores: App environment - Xcode version can be detected. It’s interesting to see the adoption...","categories": ["AppStore","AppScore"],
         "tags": [],
         "url": "/appstore/appscore/appscore-definition/",
         "teaser": null
       },{
         "title": "AppScan - data collection",
-        "excerpt":"I started to work on that project some years ago. I was working on an other project RocketSkill. I was trying to generate a global vision of the AppStore to give some advises to new iOS developers. What libraries are important to know? How to improve my learning curve on...","categories": ["AppStore","Product"],
+        "excerpt":"I started to work on that project some years ago. I was working another project RocketSkill, a quizz App for the tech recruiters. I was trying to aggregate lot of data to get a global vision of the AppStore and give some recommandations to new iOS developers. What libraries are...","categories": ["AppStore","Product"],
         "tags": ["ipa","scan"],
         "url": "/appstore/product/data-collection/",
         "teaser": null

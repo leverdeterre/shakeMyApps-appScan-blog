@@ -326,17 +326,20 @@ We wanted to study those Apps to make an smart article about technical stacks &a
 
 <p>What are the important points if you want to start to build a new App?</p>
 
-<p>To study those questions we have decided to take the most trendy applications and to compare then on technical aspects.</p>
+<p>To study those questions we have decided to take the most trendy applications and to compare them on technical aspects.</p>
 
 <h2 id="0-tldr">0. TLDR;</h2>
 
-<p>There is native Apps and Apps developed using a cross plateform solutions.</p>
-
-<p>All Apps can provide a very rich User Experience, by requesting a lot of permissions, extends the system using App Extensions or interact with other Apps to improve the journey of a User.</p>
+<ul>
+  <li>There is native Apps and Apps developed using a cross plateform solutions.</li>
+  <li>All Apps can provide a very rich User Experience and extends the system using App Extensions or interact with other Apps to improve the journey of a User.</li>
+  <li>The applications are characterized by the number of interactions with the system and the possible interactions with other Apps.</li>
+  <li>The packaging is really different depending on the technology of the application and this leads to resources not optimized and some security weaknesses.</li>
+</ul>
 
 <h2 id="1-global-appscores">1. Global AppScores</h2>
 
-<p>I created an AppScore to have an objective &amp; synthetic vision of any Apps, just by monitoring some “quality” points.
+<p>AppScore give an objective &amp; synthetic vision of any Apps, just by focusing on quality criteria.
 <a href="/appstore/appscore/appscore-definition/">If you want to get more details about AppScore computation</a></p>
 
 <table>
@@ -437,7 +440,6 @@ We wanted to study those Apps to make an smart article about technical stacks &a
   <li>A lot af alternative technologies are used</li>
   <li>Native is not the most common implementation</li>
   <li>3 React Native Apps and 2 Flutter Apps</li>
-  <li>Only 2 full Native Apps</li>
 </ul>
 
 <h2 id="3-minimal-ios-version">3. Minimal iOS version</h2>
@@ -490,6 +492,7 @@ We wanted to study those Apps to make an smart article about technical stacks &a
 </ul>
 
 <h2 id="4-app-size">4. App Size</h2>
+
 <p>App size is important to be able to be easyly installed and not to limited because of the network.
 And not be the 1st application uninstalled if the device has less space.</p>
 
@@ -551,7 +554,7 @@ And not be the 1st application uninstalled if the device has less space.</p>
 
 <h2 id="5-app-permissions">5. App Permissions</h2>
 
-<p>The App permissions give us an overview of the capabilies of an App and discover the features.</p>
+<p>The permissions can give an idea of the possible capabilities that the application will provide.</p>
 
 <table>
   <thead>
@@ -683,14 +686,14 @@ And not be the 1st application uninstalled if the device has less space.</p>
   <li><strong>Tracking librairies</strong> are officially implemented on most of the Apps and developers provide a message to explain this.</li>
   <li><strong>NFC reader</strong> feature seems to be very interesting features implemented only MetaMask &amp; Binance</li>
   <li><strong>Siri</strong> usage is used by only MetaMask, maybe for very good usage and this is a great technique to get a little closer to Apple</li>
-  <li><strong>Calendar</strong> &amp; <strong>Contacts</strong> access are other interesting permissions but not implemented in a lot of Apps.</li>
+  <li><strong>Calendar</strong> &amp; <strong>Contacts</strong> access are other interesting permissions but not implemented in a lot of Apps, very cool to save things or to invite your contacts? Growth Growth Growth</li>
 </ul>
 
 <h2 id="6-app-resources">6. App Resources</h2>
 
-<p>In this section, we check to important metrics about the packageing of the App.</p>
+<p>In this section, we check to important metrics about the packaging of the App.</p>
 <ul>
-  <li>How are managed the images? package in Assets (to be optimized by Apple on the App installation), or not?</li>
+  <li>How are managed the images? package in Assets? to be optimized by Apple on the App installation, or not?</li>
   <li>How is configured the language support? Permissions are well localized? Is there missing values?</li>
 </ul>
 
@@ -1065,7 +1068,7 @@ This list give the possibility to the App to ask to open the other Apps for spec
 <ul>
   <li>detect “risky” files inside the app bundle (something human readable that might contains important informations)</li>
   <li>detect bad security configuration</li>
-  <li>detect api keys easy to stole</li>
+  <li>detect api keys/token easy to hijack</li>
 </ul>
 
 <table>
@@ -1138,13 +1141,12 @@ This list give the possibility to the App to ask to open the other Apps for spec
   </tbody>
 </table>
 
-<ul>
-  <li>MetaMask is over the other, we only detect some .cer &amp; .der files which can be usefull for security validation.</li>
+<ul class="notice--warning">
+  <li>MetaMask is over the other, we only detect some .cer &amp; .der files which can be usefull for security validation</li>
   <li>Lot of Apps are exposing apiKeys &amp; critical tokens inside readable sources (Info.plist for example)</li>
-  <li>Too much Apps are updating the NSAppTransportSecurity parameters to reduce the security checks.</li>
+  <li>Too much Apps are updating the NSAppTransportSecurity … this parameter reduce the App security</li>
   <li>I would consider Apps to be more secure because alternatives create more data inside “readable” format (.json, .txt, .js, .yml). Those files can contains important data.</li>
 </ul>
-
 
         
       </section>
@@ -1329,8 +1331,8 @@ This layer is used by the App when performing network requests with :
   </p>
 
 
-    <p class="archive__item-excerpt" itemprop="description">I started to work on that project some years ago. I was working on an other project RocketSkill. 
-I was trying to generate a global vision of the AppStore to...</p>
+    <p class="archive__item-excerpt" itemprop="description">I started to work on that project some years ago. I was working another project RocketSkill, a quizz App for the tech recruiters.
+I was trying to aggregate l...</p>
   </article>
 </div>
 
@@ -1369,8 +1371,15 @@ I was trying to generate a global vision of the AppStore to...</p>
   </p>
 
 
-    <p class="archive__item-excerpt" itemprop="description">To be more objective to judge a App and be able to compare Apps, we have created an AppScore. 
-We are not going to rate the features of the App but we wanted...</p>
+    <p class="archive__item-excerpt" itemprop="description">why?
+We have created an AppScore :
+
+  To be more objective to judge a App
+  Detect strenghts and the weaknesses of the App.
+  Be able to compare Apps
+
+
+</p>
   </article>
 </div>
 

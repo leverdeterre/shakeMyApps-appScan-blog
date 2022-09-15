@@ -5,9 +5,8 @@ layout: single
 author_profile: true
 ---
 
-We work directly with the published App on the AppStore.
-We don't need the source code of the App.
-
+We can work directly using the App published on the AppStore, or with a given .ipa
+Data are collected using on scanning engine
 
 | Collected information | why?  |
 | :---        |     :--- |

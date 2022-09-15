@@ -1,23 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://appscan-hq.web.app/feed.xml" rel="self" type="application/atom+xml" /><link href="https://appscan-hq.web.app/" rel="alternate" type="text/html" /><updated>2022-09-14T23:15:00+02:00</updated><id>https://appscan-hq.web.app/feed.xml</id><title type="html">AppScan</title><subtitle>A website.</subtitle><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><entry><title type="html">Big data &amp;amp; Smart queries</title><link href="https://appscan-hq.web.app/appaudits/appstore/appscan/metadata/smart-queries/" rel="alternate" type="text/html" title="Big data &amp;amp; Smart queries" /><published>2022-08-29T00:00:00+02:00</published><updated>2022-08-29T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appaudits/appstore/appscan/metadata/smart-queries</id><content type="html" xml:base="https://appscan-hq.web.app/appaudits/appstore/appscan/metadata/smart-queries/">&lt;p&gt;If we use all the metadata we can do smart queries.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://appscan-hq.web.app/feed.xml" rel="self" type="application/atom+xml" /><link href="https://appscan-hq.web.app/" rel="alternate" type="text/html" /><updated>2022-09-15T22:32:53+02:00</updated><id>https://appscan-hq.web.app/feed.xml</id><title type="html">AppScan</title><subtitle>A website.</subtitle><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><entry><title type="html">Big data &amp;amp; Smart queries</title><link href="https://appscan-hq.web.app/appaudits/appstore/appscan/metadata/smart-queries/" rel="alternate" type="text/html" title="Big data &amp;amp; Smart queries" /><published>2022-08-29T00:00:00+02:00</published><updated>2022-08-29T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appaudits/appstore/appscan/metadata/smart-queries</id><content type="html" xml:base="https://appscan-hq.web.app/appaudits/appstore/appscan/metadata/smart-queries/">&lt;p&gt;If we use all the metadata we can do smart queries.&lt;/p&gt;
 
 &lt;h1 id=&quot;to-help-to-take-product-decisions&quot;&gt;To help to take product decisions&lt;/h1&gt;
+
 &lt;ul&gt;
   &lt;li&gt;On &lt;strong&gt;top 100&lt;/strong&gt; of “Lifestyle” category of AppStore, How many Apps are optimized for iPad?&lt;/li&gt;
   &lt;li&gt;On &lt;strong&gt;top 100&lt;/strong&gt; of “Lifestyle” category of AppStore, What is the minimal iOS version?&lt;/li&gt;
   &lt;li&gt;On &lt;strong&gt;all top 10&lt;/strong&gt;, What are the analytics &amp;amp; tracking solutions used?&lt;/li&gt;
-  &lt;li&gt;Give me the &lt;strong&gt;10 Apps&lt;/strong&gt; implementings the most of &lt;strong&gt;Apple featured features&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Number of retailer apps&lt;/strong&gt; using &lt;strong&gt;Apple Pay&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Give me the &lt;strong&gt;10 Apps&lt;/strong&gt; implementings the most of &lt;strong&gt;Apple featured features&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Number of retailer apps&lt;/strong&gt; using &lt;strong&gt;Apple Pay&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;How many&lt;/strong&gt; Apps &lt;strong&gt;Google&lt;/strong&gt; has published using &lt;strong&gt;Flutter&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;to-do-prospection--identify-new-clients&quot;&gt;To do prospection &amp;amp; identify new clients&lt;/h1&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Give me the &lt;strong&gt;10 Apps&lt;/strong&gt; that implement the &lt;strong&gt;Google Analytics framework&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Give me the Apps develop using &lt;strong&gt;Flutter&lt;/strong&gt; in the &lt;strong&gt;top 10&lt;/strong&gt; FR.&lt;/li&gt;
-  &lt;li&gt;Give me the Apps develop using &lt;strong&gt;Xamarin&lt;/strong&gt; with a &lt;strong&gt;bad AppScore&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Give me &lt;strong&gt;the Apps&lt;/strong&gt; that use an &lt;strong&gt;old version of Xcode&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Give me the Apps in the &lt;strong&gt;top 10&lt;/strong&gt;, develop on &lt;strong&gt;native technology&lt;/strong&gt; without &lt;strong&gt;tracking solutions&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Give me &lt;strong&gt;all the Apps&lt;/strong&gt; that &lt;strong&gt;not present AppTrackingTransparency&lt;/strong&gt; but &lt;strong&gt;use trackers&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Give me &lt;strong&gt;the retailer apps&lt;/strong&gt; not using &lt;strong&gt;Apple Pay&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Give me the &lt;strong&gt;10 Apps&lt;/strong&gt; that implement the &lt;strong&gt;Google Analytics framework&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Give me the Apps develop using &lt;strong&gt;Flutter&lt;/strong&gt; in the &lt;strong&gt;top 10&lt;/strong&gt; FR&lt;/li&gt;
+  &lt;li&gt;Give me the Apps develop using &lt;strong&gt;Xamarin&lt;/strong&gt; with a &lt;strong&gt;bad AppScore&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Give me &lt;strong&gt;the Apps&lt;/strong&gt; that use an &lt;strong&gt;old version of Xcode&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Give me the Apps in the &lt;strong&gt;top 10&lt;/strong&gt;, develop on &lt;strong&gt;native technology&lt;/strong&gt; without &lt;strong&gt;tracking solutions&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Give me &lt;strong&gt;all the Apps&lt;/strong&gt; that &lt;strong&gt;not present AppTrackingTransparency&lt;/strong&gt; but &lt;strong&gt;use trackers&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Give me &lt;strong&gt;the retailer apps&lt;/strong&gt; not using &lt;strong&gt;Apple Pay&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppAudits" /><category term="AppStore" /><category term="AppScan" /><category term="Metadata" /><summary type="html">If we use all the metadata we can do smart queries.</summary></entry><entry><title type="html">Crypto, Bitcoin, Wallet Apps - AppScan audits</title><link href="https://appscan-hq.web.app/appaudits/crypto-bitcoin-wallet-apps/" rel="alternate" type="text/html" title="Crypto, Bitcoin, Wallet Apps - AppScan audits" /><published>2022-08-27T00:00:00+02:00</published><updated>2022-08-27T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appaudits/crypto-bitcoin-wallet-apps</id><content type="html" xml:base="https://appscan-hq.web.app/appaudits/crypto-bitcoin-wallet-apps/">&lt;p&gt;Apps relative to crypto are very recent.
 We wanted to study those Apps to make an smart article about technical stacks &amp;amp; good practices.&lt;/p&gt;
 
@@ -27,17 +30,20 @@ We wanted to study those Apps to make an smart article about technical stacks &a
 
 &lt;p&gt;What are the important points if you want to start to build a new App?&lt;/p&gt;
 
-&lt;p&gt;To study those questions we have decided to take the most trendy applications and to compare then on technical aspects.&lt;/p&gt;
+&lt;p&gt;To study those questions we have decided to take the most trendy applications and to compare them on technical aspects.&lt;/p&gt;
 
 &lt;h2 id=&quot;0-tldr&quot;&gt;0. TLDR;&lt;/h2&gt;
 
-&lt;p&gt;There is native Apps and Apps developed using a cross plateform solutions.&lt;/p&gt;
-
-&lt;p&gt;All Apps can provide a very rich User Experience, by requesting a lot of permissions, extends the system using App Extensions or interact with other Apps to improve the journey of a User.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;There is native Apps and Apps developed using a cross plateform solutions.&lt;/li&gt;
+  &lt;li&gt;All Apps can provide a very rich User Experience and extends the system using App Extensions or interact with other Apps to improve the journey of a User.&lt;/li&gt;
+  &lt;li&gt;The applications are characterized by the number of interactions with the system and the possible interactions with other Apps.&lt;/li&gt;
+  &lt;li&gt;The packaging is really different depending on the technology of the application and this leads to resources not optimized and some security weaknesses.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;1-global-appscores&quot;&gt;1. Global AppScores&lt;/h2&gt;
 
-&lt;p&gt;I created an AppScore to have an objective &amp;amp; synthetic vision of any Apps, just by monitoring some “quality” points.
+&lt;p&gt;AppScore give an objective &amp;amp; synthetic vision of any Apps, just by focusing on quality criteria.
 &lt;a href=&quot;/appstore/appscore/appscore-definition/&quot;&gt;If you want to get more details about AppScore computation&lt;/a&gt;&lt;/p&gt;
 
 &lt;table&gt;
@@ -138,7 +144,6 @@ We wanted to study those Apps to make an smart article about technical stacks &a
   &lt;li&gt;A lot af alternative technologies are used&lt;/li&gt;
   &lt;li&gt;Native is not the most common implementation&lt;/li&gt;
   &lt;li&gt;3 React Native Apps and 2 Flutter Apps&lt;/li&gt;
-  &lt;li&gt;Only 2 full Native Apps&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;3-minimal-ios-version&quot;&gt;3. Minimal iOS version&lt;/h2&gt;
@@ -191,6 +196,7 @@ We wanted to study those Apps to make an smart article about technical stacks &a
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;4-app-size&quot;&gt;4. App Size&lt;/h2&gt;
+
 &lt;p&gt;App size is important to be able to be easyly installed and not to limited because of the network.
 And not be the 1st application uninstalled if the device has less space.&lt;/p&gt;
 
@@ -252,7 +258,7 @@ And not be the 1st application uninstalled if the device has less space.&lt;/p&g
 
 &lt;h2 id=&quot;5-app-permissions&quot;&gt;5. App Permissions&lt;/h2&gt;
 
-&lt;p&gt;The App permissions give us an overview of the capabilies of an App and discover the features.&lt;/p&gt;
+&lt;p&gt;The permissions can give an idea of the possible capabilities that the application will provide.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -384,14 +390,14 @@ And not be the 1st application uninstalled if the device has less space.&lt;/p&g
   &lt;li&gt;&lt;strong&gt;Tracking librairies&lt;/strong&gt; are officially implemented on most of the Apps and developers provide a message to explain this.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;NFC reader&lt;/strong&gt; feature seems to be very interesting features implemented only MetaMask &amp;amp; Binance&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Siri&lt;/strong&gt; usage is used by only MetaMask, maybe for very good usage and this is a great technique to get a little closer to Apple&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Calendar&lt;/strong&gt; &amp;amp; &lt;strong&gt;Contacts&lt;/strong&gt; access are other interesting permissions but not implemented in a lot of Apps.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Calendar&lt;/strong&gt; &amp;amp; &lt;strong&gt;Contacts&lt;/strong&gt; access are other interesting permissions but not implemented in a lot of Apps, very cool to save things or to invite your contacts? Growth Growth Growth&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;6-app-resources&quot;&gt;6. App Resources&lt;/h2&gt;
 
-&lt;p&gt;In this section, we check to important metrics about the packageing of the App.&lt;/p&gt;
+&lt;p&gt;In this section, we check to important metrics about the packaging of the App.&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;How are managed the images? package in Assets (to be optimized by Apple on the App installation), or not?&lt;/li&gt;
+  &lt;li&gt;How are managed the images? package in Assets? to be optimized by Apple on the App installation, or not?&lt;/li&gt;
   &lt;li&gt;How is configured the language support? Permissions are well localized? Is there missing values?&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -766,7 +772,7 @@ This list give the possibility to the App to ask to open the other Apps for spec
 &lt;ul&gt;
   &lt;li&gt;detect “risky” files inside the app bundle (something human readable that might contains important informations)&lt;/li&gt;
   &lt;li&gt;detect bad security configuration&lt;/li&gt;
-  &lt;li&gt;detect api keys easy to stole&lt;/li&gt;
+  &lt;li&gt;detect api keys/token easy to hijack&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;table&gt;
@@ -839,10 +845,10 @@ This list give the possibility to the App to ask to open the other Apps for spec
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;MetaMask is over the other, we only detect some .cer &amp;amp; .der files which can be usefull for security validation.&lt;/li&gt;
+&lt;ul class=&quot;notice--warning&quot;&gt;
+  &lt;li&gt;MetaMask is over the other, we only detect some .cer &amp;amp; .der files which can be usefull for security validation&lt;/li&gt;
   &lt;li&gt;Lot of Apps are exposing apiKeys &amp;amp; critical tokens inside readable sources (Info.plist for example)&lt;/li&gt;
-  &lt;li&gt;Too much Apps are updating the NSAppTransportSecurity parameters to reduce the security checks.&lt;/li&gt;
+  &lt;li&gt;Too much Apps are updating the NSAppTransportSecurity … this parameter reduce the App security&lt;/li&gt;
   &lt;li&gt;I would consider Apps to be more secure because alternatives create more data inside “readable” format (.json, .txt, .js, .yml). Those files can contains important data.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppAudits" /><summary type="html">Apps relative to crypto are very recent. We wanted to study those Apps to make an smart article about technical stacks &amp;amp; good practices.</summary></entry><entry><title type="html">Apple Transport Security or not</title><link href="https://appscan-hq.web.app/appstore/security/app-transport-security/" rel="alternate" type="text/html" title="Apple Transport Security or not" /><published>2022-08-11T00:00:00+02:00</published><updated>2022-08-11T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appstore/security/app-transport-security</id><content type="html" xml:base="https://appscan-hq.web.app/appstore/security/app-transport-security/">&lt;p&gt;On iOS, the network exchanges is an important layer of the security. 
 This layer is used by the App when performing network requests with :&lt;/p&gt;
@@ -855,14 +861,14 @@ This layer is used by the App when performing network requests with :&lt;/p&gt;
 
 &lt;p&gt;Using our current database we have discovered that 48% of the iOS app have remove or disable this protection.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/ATT-48pourcent.png&quot; alt=&quot;&quot; class=&quot;full&quot; /&gt;&lt;/p&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="Security" /><category term="NSAllowsArbitraryLoads" /><summary type="html">On iOS, the network exchanges is an important layer of the security. This layer is used by the App when performing network requests with : URLSession, URLConnection, WKWebView loading, Thirdparty librairies (Alamofire, AFNetworking)</summary></entry><entry><title type="html">AppScan - data collection</title><link href="https://appscan-hq.web.app/appstore/product/data-collection/" rel="alternate" type="text/html" title="AppScan - data collection" /><published>2022-07-11T00:00:00+02:00</published><updated>2022-07-11T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appstore/product/data-collection</id><content type="html" xml:base="https://appscan-hq.web.app/appstore/product/data-collection/">&lt;p&gt;I started to work on that project some years ago. I was working on an other project RocketSkill. 
-I was trying to generate a global vision of the AppStore to give some advises to new iOS developers. 
-What libraries are important to know? 
-How to improve my learning curve on the plateform? 
-After some months, i was able to generate a list of frameworks sorted by frequency of the AppStore.
+&lt;p&gt;&lt;img src=&quot;/assets/images/ATT-48pourcent.png&quot; alt=&quot;&quot; class=&quot;full&quot; /&gt;&lt;/p&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="Security" /><category term="NSAllowsArbitraryLoads" /><summary type="html">On iOS, the network exchanges is an important layer of the security. This layer is used by the App when performing network requests with : URLSession, URLConnection, WKWebView loading, Thirdparty librairies (Alamofire, AFNetworking)</summary></entry><entry><title type="html">AppScan - data collection</title><link href="https://appscan-hq.web.app/appstore/product/data-collection/" rel="alternate" type="text/html" title="AppScan - data collection" /><published>2022-07-11T00:00:00+02:00</published><updated>2022-07-11T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appstore/product/data-collection</id><content type="html" xml:base="https://appscan-hq.web.app/appstore/product/data-collection/">&lt;p&gt;I started to work on that project some years ago. I was working another project RocketSkill, a quizz App for the tech recruiters.
+I was trying to aggregate lot of data to get a global vision of the AppStore and give some recommandations to new iOS developers. 
+What libraries are important to know? How to improve my learning curve on the platform?&lt;/p&gt;
+
+&lt;p&gt;After some months, i was able to generate a first list of frameworks sorted by usage of the AppStore.
 This was already funny to discover some new frameworks using this method.&lt;/p&gt;
 
-&lt;p&gt;Finally, using the ipa, i discover that it was possible to extract a lot more informations… a here comes AppScan.&lt;/p&gt;
+&lt;p&gt;Finally, i decided to continue my research about the ipa structure &amp;amp; organizations and to conclude i made the AppScan tool, to collect &amp;amp; organize the App data.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Environment
@@ -903,32 +909,37 @@ This was already funny to discover some new frameworks using this method.&lt;/p&
       &lt;li&gt;Cool Apple featured SDK : ARKit, SwiftUI&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="Product" /><category term="ipa" /><category term="scan" /><summary type="html">I started to work on that project some years ago. I was working on an other project RocketSkill. I was trying to generate a global vision of the AppStore to give some advises to new iOS developers. What libraries are important to know? How to improve my learning curve on the plateform? After some months, i was able to generate a list of frameworks sorted by frequency of the AppStore. This was already funny to discover some new frameworks using this method.</summary></entry><entry><title type="html">AppScore - definition</title><link href="https://appscan-hq.web.app/appstore/appscore/appscore-definition/" rel="alternate" type="text/html" title="AppScore - definition" /><published>2022-07-01T00:00:00+02:00</published><updated>2022-07-01T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appstore/appscore/appscore-definition</id><content type="html" xml:base="https://appscan-hq.web.app/appstore/appscore/appscore-definition/">&lt;p&gt;To be more objective to judge a App and be able to compare Apps, we have created an AppScore. 
-We are not going to rate the features of the App but we wanted to be realist of the strenghts and the weaknesses of the App.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="Product" /><category term="ipa" /><category term="scan" /><summary type="html">I started to work on that project some years ago. I was working another project RocketSkill, a quizz App for the tech recruiters. I was trying to aggregate lot of data to get a global vision of the AppStore and give some recommandations to new iOS developers. What libraries are important to know? How to improve my learning curve on the platform? After some months, i was able to generate a first list of frameworks sorted by usage of the AppStore. This was already funny to discover some new frameworks using this method. Finally, i decided to continue my research about the ipa structure &amp;amp; organizations and to conclude i made the AppScan tool, to collect &amp;amp; organize the App data.</summary></entry><entry><title type="html">AppScore - definition</title><link href="https://appscan-hq.web.app/appstore/appscore/appscore-definition/" rel="alternate" type="text/html" title="AppScore - definition" /><published>2022-07-01T00:00:00+02:00</published><updated>2022-07-01T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appstore/appscore/appscore-definition</id><content type="html" xml:base="https://appscan-hq.web.app/appstore/appscore/appscore-definition/">&lt;p&gt;&lt;strong&gt;why?&lt;/strong&gt;
+We have created an AppScore :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;To be more objective to judge a App&lt;/li&gt;
+  &lt;li&gt;Detect strenghts and the weaknesses of the App.&lt;/li&gt;
+  &lt;li&gt;Be able to compare Apps&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;AppScore computation can be devided into scores:&lt;/p&gt;
+&lt;p&gt;AppScore computation is the sum of multiple scores:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Dev environment&lt;/strong&gt; - Xcode version can be detected. It’s interesting to see the adoption of the most recent version of Xcode to adapt the App to new iOS features.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;App environment&lt;/strong&gt; - Xcode version can be detected. It’s interesting to see the adoption of the most recent version of Xcode to adapt the App to new iOS features.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Technology use for the development&lt;/strong&gt; - Major technology used for the App development, can be evaluated using some hints.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technology use for the development&lt;/strong&gt; - Major technology used for the App development, can be evaluated using some packaging hints.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;App minimal iOS version&lt;/strong&gt; - Interesting to know the reachable number of users&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;App minimal iOS version&lt;/strong&gt; - Give an estimation of the reachable number of devices&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;App size&lt;/strong&gt; - Discover how the App is packaged&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;App size&lt;/strong&gt; - Tt’s big or not? And detect why&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;App permissions&lt;/strong&gt; - Give an interesting vision the possible features of the App&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;App permissions&lt;/strong&gt; - Give an interesting smelling of the possible features of the App&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;App supported languages&lt;/strong&gt; - Give super complete vision of the targeted users&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;App supported languages&lt;/strong&gt; - Give a best vision of the targeted users&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;App resources&lt;/strong&gt; - Discover some optimizations and packaging errors&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;App librairies&lt;/strong&gt; - Super cool vision of some features and the strategy of development&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;App librairies&lt;/strong&gt; - Super tech vision of the App Technical Stack and guessing some features and the strategy of development&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;App security&lt;/strong&gt; - God dam shit&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;App - interactions with other Apps&lt;/strong&gt; - Super cool vision of some features.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;App - interactions with other Apps&lt;/strong&gt; - Users love to be heard&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;App - interactions with the iOS system&lt;/strong&gt; - Super cool vision of some features.&lt;/p&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="AppScore" /><summary type="html">To be more objective to judge a App and be able to compare Apps, we have created an AppScore. We are not going to rate the features of the App but we wanted to be realist of the strenghts and the weaknesses of the App.</summary></entry><entry><title type="html">App Technologies</title><link href="https://appscan-hq.web.app/appstore/cross%20platform/flutter/react%20native/app-technologies/" rel="alternate" type="text/html" title="App Technologies" /><published>2022-06-28T00:00:00+02:00</published><updated>2022-06-28T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appstore/cross%20platform/flutter/react%20native/app-technologies</id><content type="html" xml:base="https://appscan-hq.web.app/appstore/cross%20platform/flutter/react%20native/app-technologies/">&lt;p&gt;Since 10 years i have seen a lot of cross-plateform technologies.
+&lt;p&gt;&lt;strong&gt;App - interactions with the iOS system&lt;/strong&gt; - Yeah! Very good points to be loved by Apple and maybe the Users&lt;/p&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="AppScore" /><summary type="html">why? We have created an AppScore : To be more objective to judge a App Detect strenghts and the weaknesses of the App. Be able to compare Apps</summary></entry><entry><title type="html">App Technologies</title><link href="https://appscan-hq.web.app/appstore/cross%20platform/flutter/react%20native/app-technologies/" rel="alternate" type="text/html" title="App Technologies" /><published>2022-06-28T00:00:00+02:00</published><updated>2022-06-28T00:00:00+02:00</updated><id>https://appscan-hq.web.app/appstore/cross%20platform/flutter/react%20native/app-technologies</id><content type="html" xml:base="https://appscan-hq.web.app/appstore/cross%20platform/flutter/react%20native/app-technologies/">&lt;p&gt;Since 10 years i have seen a lot of cross-plateform technologies.
 Every time, there is some reasons to select an alternative technology.&lt;/p&gt;
 
 &lt;ul&gt;

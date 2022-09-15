@@ -9,14 +9,14 @@ tags:
   
 ---
 
-I started to work on that project some years ago. I was working on an other project RocketSkill. 
-I was trying to generate a global vision of the AppStore to give some advises to new iOS developers. 
-What libraries are important to know? 
-How to improve my learning curve on the plateform? 
-After some months, i was able to generate a list of frameworks sorted by frequency of the AppStore.
+I started to work on that project some years ago. I was working another project RocketSkill, a quizz App for the tech recruiters.
+I was trying to aggregate lot of data to get a global vision of the AppStore and give some recommandations to new iOS developers. 
+What libraries are important to know? How to improve my learning curve on the platform?
+  
+After some months, i was able to generate a first list of frameworks sorted by usage of the AppStore.
 This was already funny to discover some new frameworks using this method.
-
-Finally, using the ipa, i discover that it was possible to extract a lot more informations... a here comes AppScan. 
+  
+Finally, i decided to continue my research about the ipa structure & organizations and to conclude i made the AppScan tool, to collect & organize the App data.
 
 - Environment
   - Xcode version 
