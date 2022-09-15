@@ -20,7 +20,7 @@ title                    : "AppScan"
 title_separator          : "-"
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "MORISSARD Jérôme"
-description              : "A website."
+description              : "A website about the life of Apps"
 url                      : "https://appscan-hq.web.app" #"https://appscan-hq.com" # the base hostname & protocol for your site e.g.
 baseurl                  : ""   # the subpath of your site, e.g. "/blog"
 repository               : "leverdeterre/shakeMyApps-appScan-blog" # "" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -98,7 +98,7 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-SWCH9SRGRE"
+    tracking_id          : "G-ZH83S83X60"
     anonymize_ip         : # true, false (default)
 
 
