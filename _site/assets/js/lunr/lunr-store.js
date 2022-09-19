@@ -23,10 +23,28 @@ var store = [{
         "url": "/appstore/security/app-transport-security/",
         "teaser": null
       },{
-        "title": "Crypto, Bitcoin, Wallet Apps - AppScan audits",
-        "excerpt":"Apps relative to crypto are very recent. We wanted to study those Apps to make an smart article about technical stacks &amp; good practices. What are the good things? What are the bad things in those about? What are the important points if you want to start to build a...","categories": ["AppAudits"],
-        "tags": [],
-        "url": "/appaudits/crypto-bitcoin-wallet-apps/",
+        "title": "Crypto Apps - Benchmark - Part 1 - Introduction",
+        "excerpt":"Apps relative to crypto are very recent and now common on the AppStore. We wanted to study those Apps to make an smart article about technical stacks &amp; good practices. What are the good things? What are the bad things in those about? What are the important points if you...","categories": ["Audits","Benchmark","AppScore"],
+        "tags": ["AppSize","Native","Xamarin","Flutter","React Native"],
+        "url": "/appscan-crypto-apps-part-1-introduction.html",
+        "teaser": null
+      },{
+        "title": "Crypto Apps - Benchmark - Part 2 - Resources",
+        "excerpt":"Apps relative to crypto are very recent. We wanted to study those Apps to make an smart article about technical stacks &amp; good practices. What are the good things? What are the bad things in those about? What are the important points if you want to start to build a...","categories": ["Audits","Benchmark","App Resources"],
+        "tags": ["assets","strings","stringDict","languages","lproj"],
+        "url": "/appscan-crypto-apps-part-2-resources.html",
+        "teaser": null
+      },{
+        "title": "Crypto Apps - Benchmark - Part 3 - Interactions",
+        "excerpt":"Apps relative to crypto are very recent. We wanted to study those Apps to make an smart article about technical stacks &amp; good practices. What are the good things? What are the bad things in those about? What are the important points if you want to start to build a...","categories": ["Audits","Benchmark","App Interactions","System Interactions"],
+        "tags": ["Scheme","Queried Scheme","App Extensions"],
+        "url": "/appscan-crypto-apps-part-3-interactions.html",
+        "teaser": null
+      },{
+        "title": "Crypto Apps - Benchmark - Part 4 - Security",
+        "excerpt":"Apps relative to crypto are very recent. We wanted to study those Apps to make an smart article about technical stacks &amp; good practices. What are the good things? What are the bad things in those about? What are the important points if you want to start to build a...","categories": ["Audits","Benchmark","Security"],
+        "tags": ["Security","NSAppTransportSecurity"],
+        "url": "/appscan-crypto-apps-part-4-security.html",
         "teaser": null
       },{
         "title": "Big data & Smart queries",

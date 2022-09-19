@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "AppScan"
 title_separator          : "-"
 subtitle                 : "" # site tagline that appears below site title in masthead
-name                     : "MORISSARD Jérôme"
+name                     : "Jérôme MORISSARD"
 description              : "A website about the life of Apps"
 url                      : "https://appscan-hq.web.app" #"https://appscan-hq.com" # the base hostname & protocol for your site e.g.
 baseurl                  : ""   # the subpath of your site, e.g. "/blog"
@@ -82,6 +82,7 @@ baidu_site_verification  :
 # Social Sharing
 twitter:
   username               : leverdeterre
+  card                   : summary_large_image
 facebook:
   username               :
   app_id                 :

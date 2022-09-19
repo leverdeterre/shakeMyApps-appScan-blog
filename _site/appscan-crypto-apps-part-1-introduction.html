@@ -1,0 +1,960 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Crypto Apps - Benchmark - Part 1 - Introduction - AppScan</title>
+<meta name="description" content="Technical analysis and benchmark of the most important crypto Apps">
+
+
+  <meta name="author" content="MORISSARD Jérôme">
+  
+  <meta property="article:author" content="MORISSARD Jérôme">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="AppScan">
+<meta property="og:title" content="Crypto Apps - Benchmark - Part 1 - Introduction">
+<meta property="og:url" content="https://appscan-hq.web.app/appscan-crypto-apps-part-1-introduction.html">
+
+
+  <meta property="og:description" content="Technical analysis and benchmark of the most important crypto Apps">
+
+
+
+
+
+  <meta name="twitter:site" content="@leverdeterre">
+  <meta name="twitter:title" content="Crypto Apps - Benchmark - Part 1 - Introduction">
+  <meta name="twitter:description" content="Technical analysis and benchmark of the most important crypto Apps">
+  <meta name="twitter:url" content="https://appscan-hq.web.app/appscan-crypto-apps-part-1-introduction.html">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2022-08-27T00:00:00+02:00">
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://appscan-hq.web.app/appscan-crypto-apps-part-1-introduction.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Jérôme MORISSARD",
+      "url": "https://appscan-hq.web.app/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="AppScan Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+<link rel="manifest" href="/assets/images/site.webmanifest">
+<link rel="shortcut icon" href="/assets/images/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/images/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/logo-256x256.jpeg" alt="AppScan"></a>
+        
+        <a class="site-title" href="/">
+          AppScan
+          <span class="site-subtitle"></span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/request-an-audit.html">Request an audit</a>
+            </li><li class="masthead__menu-item">
+              <a href="/data-points.html">Data Points</a>
+            </li><li class="masthead__menu-item">
+              <a href="/">Blog</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+    <div class="author__avatar">
+      <a href="https://appscan-hq.web.app/">
+        <img src="/assets/images/239767.png" alt="MORISSARD Jérôme" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="https://appscan-hq.web.app/" itemprop="url">MORISSARD Jérôme</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>A product lover. iOS &amp; android developer. Interested in security, privacy &amp; quality.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">France</span>
+        </li>
+      
+
+      
+        
+          
+        
+          
+            <li><a href="https://github.com/leverdeterre" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+          
+            <li><a href="https://www.linkedin.com/in/morissard/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+          
+        
+      
+
+      
+
+      
+        <li>
+          <a href="mailto:hello@appscan-hq.com" rel="me" class="u-email">
+            <meta itemprop="email" content="hello@appscan-hq.com" />
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Crypto Apps - Benchmark - Part 1 - Introduction">
+    <meta itemprop="description" content="Apps relative to crypto are very recent and now common on the AppStore.We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.">
+    <meta itemprop="datePublished" content="2022-08-27T00:00:00+02:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://appscan-hq.web.app/appscan-crypto-apps-part-1-introduction.html" class="u-url" itemprop="url">Crypto Apps - Benchmark - Part 1 - Introduction
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+        <p>Apps relative to crypto are very recent and now common on the AppStore.
+We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.</p>
+
+<p>What are the good things?</p>
+
+<p>What are the bad things in those about?</p>
+
+<p>What are the important points if you want to start to build a new App?</p>
+
+<p>To study those questions we have decided to take the most trendy applications and to compare them on technical aspects :</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">App name</th>
+      <th style="text-align: left">BundleID</th>
+      <th style="text-align: center">version</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/metamask.webp" width="50" height="50" /> MetaMask - Blockchain Wallet</td>
+      <td style="text-align: left">ee.mtakso.client</td>
+      <td style="text-align: center">65.1</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/ftx.webp" width="50" height="50" /> FTX (Blockfolio)</td>
+      <td style="text-align: left">com.blockfolio.blockfolio</td>
+      <td style="text-align: center">4.10.5</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/coinmarkercap.webp" width="50" height="50" /> CoinMarketCap</td>
+      <td style="text-align: left">com.coinmarketcap.CoinMarketCap</td>
+      <td style="text-align: center">4.2.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/coinbase.webp" width="50" height="50" /> Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: left">com.vilcsak.bitcoin2</td>
+      <td style="text-align: center">10.29.4</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/crypto.com.webp" width="50" height="50" /> Crypto.com  - Buy Bitcoin, ETH</td>
+      <td style="text-align: left">co.mona.Monaco</td>
+      <td style="text-align: center">3.143</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/binance.webp" width="50" height="50" /> Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: left">com.czzhao.binance</td>
+      <td style="text-align: center">2.50.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/zengo.webp" width="50" height="50" /> ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: left">kzencorp.mobile.ios</td>
+      <td style="text-align: center">4.1.2</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/etoro money.webp" width="50" height="50" /> eToro Money</td>
+      <td style="text-align: left">com.etoro.wallet</td>
+      <td style="text-align: center">48.0.0</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>This article is the one a serie :</p>
+<ul>
+  <li>👉 <a href="/appscan-crypto-apps-part-1-introduction.html">Part 1 - Introduction</a></li>
+  <li><a href="/appscan-crypto-apps-part-2-resources.html">Part 2 - Resources</a></li>
+  <li><a href="/appscan-crypto-apps-part-3-interactions.html">Part 3 - Interactions</a></li>
+  <li><a href="/appscan-crypto-apps-part-4-security.html">Part 4 - Security</a></li>
+</ul>
+
+<p><strong>TLDR;</strong></p>
+
+<ul>
+  <li>There is native Apps and Apps developed using a cross plateform solutions.</li>
+  <li>All Apps can provide a very rich User Experience and extends the system using App Extensions or interact with other Apps to improve the journey of a User.</li>
+  <li>The applications are characterized by the number of interactions with the system and the possible interactions with other Apps.</li>
+  <li>The packaging is really different depending on the technology of the application and this leads to resources not optimized and some security weaknesses.</li>
+</ul>
+
+<h1 id="appscores">AppScores</h1>
+
+<p>AppScore give an objective &amp; synthetic vision of any Apps, just by focusing on quality criteria.
+<a href="/appstore/appscore/appscore-definition/">If you want to get more details about AppScore computation</a></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">App</th>
+      <th style="text-align: left">AppScore</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/metamask.webp" width="50" height="50" /> MetaMask - Blockchain Wallet</td>
+      <td style="text-align: left">4.77</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/ftx.webp" width="50" height="50" /> FTX (Blockfolio)</td>
+      <td style="text-align: left">4.14</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/coinmarkercap.webp" width="50" height="50" /> CoinMarketCap</td>
+      <td style="text-align: left">4.14</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/coinbase.webp" width="50" height="50" /> Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: left">4.05</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/crypto.com.webp" width="50" height="50" /> Crypto.com  - Buy Bitcoin, ETH</td>
+      <td style="text-align: left">4.00</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/binance.webp" width="50" height="50" /> Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: left">3.95</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/zengo.webp" width="50" height="50" /> ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: left">3.64</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/etoro money.webp" width="50" height="50" /> eToro Money</td>
+      <td style="text-align: left">3.41</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul class="notice--warning">
+  <li>MetaMask is clearly over the other apps</li>
+</ul>
+
+<h2 id="technologies">Technologies</h2>
+
+<p>The technologies is evaluated using multiple hints inside the App bundle.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">App</th>
+      <th style="text-align: left">Technology</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/crypto.com.webp" width="50" height="50" /> Crypto.com - Buy Bitcoin, ETH</td>
+      <td style="text-align: left">Native</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/metamask.webp" width="50" height="50" /> MetaMask - Blockchain Wallet</td>
+      <td style="text-align: left">Native</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/binance.webp" width="50" height="50" /> Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: left">Native &amp; Flutter</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/coinmarkercap.webp" width="50" height="50" /> CoinMarketCap</td>
+      <td style="text-align: left">Flutter</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/zengo.webp" width="50" height="50" /> ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: left">Reach Native</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/coinbase.webp" width="50" height="50" /> Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: left">Reach Native</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/ftx.webp" width="50" height="50" /> FTX (anciennement Blockfolio)</td>
+      <td style="text-align: left">Reach Native</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/etoro money.webp" width="50" height="50" /> eToro Money</td>
+      <td style="text-align: left">Web</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul class="notice--warning">
+  <li>A lot af alternative technologies are used</li>
+  <li>Native is not the most common implementation</li>
+  <li>3 React Native Apps and 2 Flutter Apps</li>
+</ul>
+
+<h2 id="minimal-ios-version">Minimal iOS version</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">App</th>
+      <th style="text-align: center">Minimal iOS version</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/zengo.webp" width="50" height="50" /> ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: center">11.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/etoro money.webp" width="50" height="50" /> eToro Money</td>
+      <td style="text-align: center">11.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/coinmarkercap.webp" width="50" height="50" /> CoinMarketCap</td>
+      <td style="text-align: center">11.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/ftx.webp" width="50" height="50" /> FTX (anciennement Blockfolio)</td>
+      <td style="text-align: center">11.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/coinbase.webp" width="50" height="50" /> Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: center">12.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/binance.webp" width="50" height="50" /> Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: center">12.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/metamask.webp" width="50" height="50" /> MetaMask - Blockchain Wallet</td>
+      <td style="text-align: center">12.0</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/crypto.com.webp" width="50" height="50" /> Crypto.com - Buy Bitcoin, ETH</td>
+      <td style="text-align: center">13.0</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul class="notice--warning">
+  <li>Crypto.com requires iOS 13.0 which is not a bad idea but you loose some % of devices</li>
+</ul>
+
+<h2 id="app-size">App Size</h2>
+
+<p>App size is important to be able to be easyly installed and not to limited because of the network.
+And not be the 1st application uninstalled if the device has less space.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">App</th>
+      <th style="text-align: left">Size</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/ftx.webp" width="50" height="50" /> FTX (anciennement Blockfolio)</td>
+      <td style="text-align: left">28 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/zengo.webp" width="50" height="50" /> ZenGo: Crypto &amp; Bitcoin Wallet</td>
+      <td style="text-align: left">56 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/coinbase.webp" width="50" height="50" /> Coinbase: Buy Bitcoin &amp; Ether</td>
+      <td style="text-align: left">66 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/coinmarkercap.webp" width="50" height="50" /> CoinMarketCap</td>
+      <td style="text-align: left">70 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/etoro money.webp" width="50" height="50" /> eToro Money</td>
+      <td style="text-align: left">79 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/metamask.webp" width="50" height="50" /> MetaMask - Blockchain Wallet</td>
+      <td style="text-align: left">117 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/crypto.com.webp" width="50" height="50" /> Crypto.com - Buy Bitcoin, ETH</td>
+      <td style="text-align: left">246 Mb</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><img src="/assets/images/ios-apps/binance.webp" width="50" height="50" /> Binance: Buy Bitcoin &amp; Crypto</td>
+      <td style="text-align: left">540 Mb</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul class="notice--warning">
+  <li>Binance, why is it so big?
+    <ul>
+      <li>a lootttt of assets in a lot of internal frameworks.</li>
+    </ul>
+  </li>
+  <li>Crypto.com,  why is it so big?
+    <ul>
+      <li>lot of assets (of big assets) … maybe time to migrate to more vectorial integrations</li>
+    </ul>
+  </li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#appsize" class="page__taxonomy-item p-category" rel="tag">AppSize</a><span class="sep">, </span>
+    
+      <a href="/tags/#flutter" class="page__taxonomy-item p-category" rel="tag">Flutter</a><span class="sep">, </span>
+    
+      <a href="/tags/#native" class="page__taxonomy-item p-category" rel="tag">Native</a><span class="sep">, </span>
+    
+      <a href="/tags/#react-native" class="page__taxonomy-item p-category" rel="tag">React Native</a><span class="sep">, </span>
+    
+      <a href="/tags/#xamarin" class="page__taxonomy-item p-category" rel="tag">Xamarin</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#appscore" class="page__taxonomy-item p-category" rel="tag">AppScore</a><span class="sep">, </span>
+    
+      <a href="/categories/#audits" class="page__taxonomy-item p-category" rel="tag">Audits</a><span class="sep">, </span>
+    
+      <a href="/categories/#benchmark" class="page__taxonomy-item p-category" rel="tag">Benchmark</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2022-08-27T00:00:00+02:00">August 27, 2022</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=leverdeterre&text=Crypto+Apps+-+Benchmark+-+Part+1+-+Introduction%20https%3A%2F%2Fappscan-hq.web.app%2Fappscan-crypto-apps-part-1-introduction.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fappscan-hq.web.app%2Fappscan-crypto-apps-part-1-introduction.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fappscan-hq.web.app%2Fappscan-crypto-apps-part-1-introduction.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/appstore/security/app-transport-security/" class="pagination--pager" title="Apple Transport Security or not
+">Previous</a>
+    
+    
+      <a href="/appscan-crypto-apps-part-2-resources.html" class="pagination--pager" title="Crypto Apps - Benchmark - Part 2 - Resources
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">You may also enjoy</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/appaudits/appstore/appscan/metadata/smart-queries/" rel="permalink">Big data &amp; Smart queries
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">If we use all the metadata we can do smart queries.
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/appscan-crypto-apps-part-4-security.html" rel="permalink">Crypto Apps - Benchmark - Part 4 - Security
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Apps relative to crypto are very recent.
+We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/appscan-crypto-apps-part-3-interactions.html" rel="permalink">Crypto Apps - Benchmark - Part 3 - Interactions
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          7 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Apps relative to crypto are very recent.
+We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/appscan-crypto-apps-part-2-resources.html" rel="permalink">Crypto Apps - Benchmark - Part 2 - Resources
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Apps relative to crypto are very recent.
+We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.
+
+</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2022 Jérôme MORISSARD </div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZH83S83X60"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZH83S83X60', { 'anonymize_ip': false});
+</script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
