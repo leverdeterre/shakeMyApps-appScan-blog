@@ -19,7 +19,7 @@ var store = [{
       },{
         "title": "Apple Transport Security or not",
         "excerpt":"On iOS, the network exchanges is an important layer of the security. This layer is used by the App when performing network requests with : URLSession, URLConnection, WKWebView loading, Thirdparty librairies (Alamofire, AFNetworking) Using our current database we have discovered that 48% of the iOS app have remove or disable...","categories": ["AppStore","Security"],
-        "tags": ["NSAllowsArbitraryLoads"],
+        "tags": ["NSAllowsArbitraryLoads","NSAppTransportSecurity"],
         "url": "/appstore/security/app-transport-security/",
         "teaser": null
       },{
@@ -42,7 +42,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Crypto Apps - Benchmark - Part 4 - Security",
-        "excerpt":"Apps relative to crypto are very recent. We wanted to study those Apps to make an smart article about technical stacks &amp; good practices. What are the good things? What are the bad things in those about? What are the important points if you want to start to build a...","categories": ["Audits","Benchmark","Security"],
+        "excerpt":"Apps relative to crypto are very recent. We wanted to study those Apps to make an smart article about technical stacks &amp; good practices. This article is the last of this serie : Part 1 - Introduction Part 2 - Resources Part 3 - Interactions 👉 Part 4 - Security...","categories": ["Audits","Benchmark","Security"],
         "tags": ["Security","NSAppTransportSecurity"],
         "url": "/appscan-crypto-apps-part-4-security.html",
         "teaser": null

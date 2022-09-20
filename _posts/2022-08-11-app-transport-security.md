@@ -5,7 +5,7 @@ categories:
   - Security
 tags:
   - NSAllowsArbitraryLoads
-  - 
+  - NSAppTransportSecurity
 ---
 
 On iOS, the network exchanges is an important layer of the security. 
