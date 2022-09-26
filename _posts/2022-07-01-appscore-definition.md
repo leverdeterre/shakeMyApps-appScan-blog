@@ -1,5 +1,7 @@
 ---
 title: "AppScore - definition"
+description: An new AppScore to rate an App, based on technical measurements
+permalink: appscan-appscore.html
 categories:
   - AppStore
   - AppScore

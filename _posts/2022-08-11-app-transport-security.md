@@ -1,5 +1,7 @@
 ---
 title: "Apple Transport Security or not"
+description: Apple Transport Security configuration of the AppStore
+permalink: appscan-appstore-AppTransportSecurity.html
 categories:
   - AppStore
   - Security

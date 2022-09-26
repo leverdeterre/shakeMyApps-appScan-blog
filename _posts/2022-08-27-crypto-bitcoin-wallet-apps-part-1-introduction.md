@@ -13,6 +13,10 @@ tags:
   - Xamarin
   - Flutter
   - React Native
+
+image: /assets/images/illustrations/appscan-cryptos-snow.png
+header:
+    overlay_image: /assets/images/illustrations/appscan-cryptos-snow.png
 ---
 
 Apps relative to crypto are very recent and now common on the AppStore.

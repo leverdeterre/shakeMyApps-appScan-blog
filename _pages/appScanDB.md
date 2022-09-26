@@ -1,10 +1,11 @@
 ---
 title: "Plateform metrics"
-permalink: /plateform-metrics
+permalink: /appscan-database
 layout: single
 author_profile: true
 ---
 
+Using the 5 665 Apps (updated on Sept 2022)
 
 | Metrics| values  |
 | :---        |     :--- |

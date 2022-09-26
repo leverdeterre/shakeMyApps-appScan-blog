@@ -1,5 +1,7 @@
 ---
 title: "AppScan - data collection"
+description: What kind of data is able to collect?
+permalink: appscan-data-collect.html
 categories:
   - AppStore
   - Product

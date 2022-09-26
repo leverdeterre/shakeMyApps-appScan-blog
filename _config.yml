@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AppScan"
+title                    : "AppScan - Better Apps with better data"
 title_separator          : "-"
-subtitle                 : "" # site tagline that appears below site title in masthead
+subtitle                 : "Scan & Audit any Apps on the AppStore" # site tagline that appears below site title in masthead
 name                     : "Jérôme MORISSARD"
-description              : "A website about the life of Apps"
-url                      : "https://appscan-hq.web.app" #"https://appscan-hq.com" # the base hostname & protocol for your site e.g.
+description              : ""
+url                      : "https://appscan-hq.com" #"https://appscan-hq.com" # the base hostname & protocol for your site e.g.
 baseurl                  : ""   # the subpath of your site, e.g. "/blog"
 repository               : "leverdeterre/shakeMyApps-appScan-blog" # "" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -87,7 +87,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/illustrations/appscan-apps-painting-style.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

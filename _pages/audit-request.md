@@ -28,7 +28,12 @@ author_profile: true
 
 - Single audit documents 
 - Human/manual interpretations of the AppScan documents.
+  
+## {::nomarkdown}<a href="mailto:hello@appscan-hq.com?subject=Strategy%20Audit%20Request&body=Hi%20I%20want%20to%20scan%20an%20app.">📩 Request an Strategy audit</a>{:/} 
 
+- Single audit documents 
+- Human/manual interpretations of the AppScan documents.
+ 
   
 ## {::nomarkdown}<a href="mailto:hello@appscan-hq.com?subject=Benchmark%20Audit%20Request&body=Hi%20I%20want%20to%20scan%20those%20apps.">📩 Request a benchmark audit</a>{:/} 
 

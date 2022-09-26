@@ -9,8 +9,8 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Crypto Apps - Benchmark - Part 4 - Security - AppScan - Better Apps with better data</title>
-<meta name="description" content="Apps relative to crypto are very recent. We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.">
+<!-- begin _includes/seo.html --><title>AppScan Schemes Database  - AppScan - Better Apps with better data</title>
+<meta name="description" content="iOS URL Schemes analysis">
 
 
   <meta name="author" content="MORISSARD Jérôme">
@@ -22,33 +22,33 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="AppScan - Better Apps with better data">
-<meta property="og:title" content="Crypto Apps - Benchmark - Part 4 - Security">
-<meta property="og:url" content="https://appscan-hq.com/appscan-crypto-apps-part-4-security.html">
+<meta property="og:title" content="AppScan Schemes Database">
+<meta property="og:url" content="https://appscan-hq.com/appscan-database-url-schemes-analysis.html">
 
 
-  <meta property="og:description" content="Apps relative to crypto are very recent. We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.">
+  <meta property="og:description" content="iOS URL Schemes analysis">
 
 
 
-  <meta property="og:image" content="https://appscan-hq.com/assets/images/illustrations/appscan-cryptos-snow.png">
+  <meta property="og:image" content="https://appscan-hq.com/assets/images/illustrations/appscan-hijacked-schemes.png">
 
 
 
   <meta name="twitter:site" content="@leverdeterre">
-  <meta name="twitter:title" content="Crypto Apps - Benchmark - Part 4 - Security">
-  <meta name="twitter:description" content="Apps relative to crypto are very recent. We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.">
-  <meta name="twitter:url" content="https://appscan-hq.com/appscan-crypto-apps-part-4-security.html">
+  <meta name="twitter:title" content="AppScan Schemes Database">
+  <meta name="twitter:description" content="iOS URL Schemes analysis">
+  <meta name="twitter:url" content="https://appscan-hq.com/appscan-database-url-schemes-analysis.html">
 
   
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="https://appscan-hq.com/assets/images/illustrations/appscan-cryptos-snow.png">
+    <meta name="twitter:image" content="https://appscan-hq.com/assets/images/illustrations/appscan-hijacked-schemes.png">
   
 
   
 
 
 
-  <meta property="article:published_time" content="2022-08-30T00:00:00+02:00">
+  <meta property="article:published_time" content="2022-09-26T00:00:00+02:00">
 
 
 
@@ -59,7 +59,7 @@
   
 
 
-<link rel="canonical" href="https://appscan-hq.com/appscan-crypto-apps-part-4-security.html">
+<link rel="canonical" href="https://appscan-hq.com/appscan-database-url-schemes-analysis.html">
 
 
 
@@ -171,19 +171,18 @@
 
 
 <div class="page__hero--overlay"
-  style=" background-image: url('/assets/images/illustrations/appscan-cryptos-snow.png');"
+  style=" background-image: url('/assets/images/illustrations/appscan-hijacked-schemes.png');"
 >
   
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline">
         
-          Crypto Apps - Benchmark - Part 4 - Security
+          AppScan Schemes Database
 
         
       </h1>
       
-        <p class="page__lead">Apps relative to crypto are very recent.<br />
-We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.
+        <p class="page__lead">Using 5665 top ranked Apps, we built a <strong>schemes</strong> database.
 
 </p>
       
@@ -344,9 +343,9 @@ We wanted to study those Apps to make an smart article about technical stacks &a
 
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Crypto Apps - Benchmark - Part 4 - Security">
-    <meta itemprop="description" content="Apps relative to crypto are very recent.We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.">
-    <meta itemprop="datePublished" content="2022-08-30T00:00:00+02:00">
+    <meta itemprop="headline" content="AppScan Schemes Database">
+    <meta itemprop="description" content="Using 5665 top ranked Apps, we built a schemes database.">
+    <meta itemprop="datePublished" content="2022-09-26T00:00:00+02:00">
     
 
     <div class="page__inner-wrap">
@@ -354,131 +353,268 @@ We wanted to study those Apps to make an smart article about technical stacks &a
 
       <section class="page__content e-content" itemprop="text">
         
-        <p>Apps relative to crypto are very recent.<br />
-We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.</p>
+        <p>Using 5665 top ranked Apps, we built a <strong>schemes</strong> database.</p>
 
-<p>This article is the last of this serie :</p>
+<h1 id="app-schemes">App Schemes</h1>
+
+<p>App schemes give a way to open your App using a custom declared <strong>scheme</strong>.</p>
+
+<h2 id="what-is-a-scheme">What is a Scheme</h2>
+
+<p>A URL (Uniform Resource Locator) is a unique identifier used to locate a resource.<br />
+URLs consist of multiple parts – including a protocol and domain name – that tell a web browser how and where to retrieve a resource.</p>
+
+<p><a href="https://developer.apple.com/documentation/xcode/defining-a-custom-url-scheme-for-your-app">The documentation of Apple</a> is pretty simple :</p>
 <ul>
-  <li><a href="/appscan-crypto-apps-part-1-introduction.html">Part 1 - Introduction</a></li>
-  <li><a href="/appscan-crypto-apps-part-2-resources.html">Part 2 - Resources</a></li>
-  <li><a href="/appscan-crypto-apps-part-3-interactions.html">Part 3 - Interactions</a></li>
-  <li>👉 <a href="/appscan-crypto-apps-part-4-security.html">Part 4 - Security</a></li>
+  <li>Yes, you can expose custom Scheme to allow other Apps to trigger your app</li>
+  <li>But it’s bad in terms of security</li>
 </ul>
 
-<h1 id="app-security">App Security</h1>
+<p class="notice--danger"><strong>Warning</strong><br />
+URL schemes offer a potential attack vector into your app, so make sure to validate all URL parameters and discard any malformed URLs.<br />
+In addition, limit the available actions to those that don’t risk the user’s data.<br />
+For example, don’t allow other apps to directly delete content or access sensitive information about the user.<br />
+When testing your URL-handling code, make sure your test cases include improperly formatted URLs.</p>
 
-<p>The security score is actually evaluated by checking 3 things :</p>
+<p>So, you can declare a custom <strong>scheme</strong> and your app will be open if someome click on a link <a href="openMyAwesomeApp://">openMyAwesomeApp://</a></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>openMyAwesomeApp://
+</code></pre></div></div>
+
+<p>but everybody is able to register this, so i can create my hijacking App and declare the same custom <strong>scheme</strong> and my application can be opened instead of yours.</p>
+
+<p>On September 2022, AppScan Database contains <strong>5665 Apps</strong>, we compiled the App declared public <strong>schemes</strong> to illustrate the problems and the schemes usage.</p>
+
+<h2 id="some-metrics-about-our-ios-schemes-database">Some metrics about our iOS Schemes database</h2>
+
 <ul>
-  <li>detect “risky” files inside the app bundle (something human readable that might contains important informations)</li>
-  <li>detect bad security configuration</li>
-  <li>detect api keys/token easy to hijack</li>
+  <li>30 schemes are used more that 5 times.</li>
+  <li>347 schemes are used more that one time,</li>
+  <li>13932 unique schemes,</li>
 </ul>
+
+<h2 id="ios-top-hijacked-schemes">iOS top hijacked Schemes</h2>
 
 <table>
-  <thead>
-    <tr>
-      <th style="text-align: left">App</th>
-      <th style="text-align: center">Security Score</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td style="text-align: left"><img src="/assets/images/ios-apps/metamask.webp" width="50" height="50" /> MetaMask - Blockchain Wallet</td>
-      <td style="text-align: center">4 (5)</td>
+      <td>Schemes</td>
+      <td>number of apps</td>
     </tr>
     <tr>
-      <td style="text-align: left"><img src="/assets/images/ios-apps/crypto.com.webp" width="50" height="50" /> Crypto.com  - Buy Bitcoin, ETH</td>
-      <td style="text-align: center">4</td>
+      <td>prefs</td>
+      <td>153</td>
     </tr>
     <tr>
-      <td style="text-align: left"><img src="/assets/images/ios-apps/coinmarkercap.webp" width="50" height="50" /> CoinMarketCap</td>
-      <td style="text-align: center">4</td>
+      <td>https</td>
+      <td>28</td>
     </tr>
     <tr>
-      <td style="text-align: left"><img src="/assets/images/ios-apps/ftx.webp" width="50" height="50" /> FTX (anciennement Blockfolio)</td>
-      <td style="text-align: center">3</td>
+      <td>capacitor</td>
+      <td>23</td>
     </tr>
     <tr>
-      <td style="text-align: left"><img src="/assets/images/ios-apps/zengo.webp" width="50" height="50" /> ZenGo: Crypto &amp; Bitcoin Wallet</td>
-      <td style="text-align: center">3</td>
+      <td>http</td>
+      <td>22</td>
     </tr>
     <tr>
-      <td style="text-align: left"><img src="/assets/images/ios-apps/coinbase.webp" width="50" height="50" /> Coinbase: Buy Bitcoin &amp; Ether</td>
-      <td style="text-align: center">3</td>
+      <td>kindle</td>
+      <td>17</td>
     </tr>
     <tr>
-      <td style="text-align: left"><img src="/assets/images/ios-apps/etoro money.webp" width="50" height="50" /> eToro Money</td>
-      <td style="text-align: center">3</td>
+      <td>tel</td>
+      <td>17</td>
     </tr>
     <tr>
-      <td style="text-align: left"><img src="/assets/images/ios-apps/binance.webp" width="50" height="50" /> Binance: Buy Bitcoin &amp; Crypto</td>
-      <td style="text-align: center">3</td>
+      <td>mailto</td>
+      <td>17</td>
+    </tr>
+    <tr>
+      <td>sms</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td>bma4sreceiver</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td>appcenter-</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>expapp000</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td>App-Prefs</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>app</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>otpauth</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>amazonmobile</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>org-appextension-feature-password-management</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>twitterkit-bqNRNye1eU89E7gVP5aam6O6t</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>com.googleusercontent.apps.</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>oauth-swift</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>twitterkit-8WIpExNRasgkylPREYlfqweEg</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>com.apple.maps.action</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>twitterkit-szwcBj2lCk6nxhm8T6rXj4nc6</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>ssh</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>bitcoin</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>amp7ff551b939b977813a3dbf3-10cba16c-ce5e-11e4-567d-00a426b17dd8</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>ampe66fe6fc347887f0d3e0a14-8db8df16-cefc-11e4-abdf-005cf8cbabd8</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>applinks</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>myapp</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>App-prefs</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>fb172293932915627</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>com.clubconnect</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>sa716c15f0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>twitterkit-lran9vOUIglaprUmKeS4IxwQh</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>saceb0ee80</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>rtsp</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>mms</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>sftp</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>fb96799550818</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>twitterkit-</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>moboreader</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>changdushare</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>wb923966971</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>dingoa6zugqg5bmxelgyvo</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Prefs</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>msauth.com.microsoft.intunemam</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>auth</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>com.venmo.touch.v2</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>tg</td>
+      <td>4</td>
     </tr>
   </tbody>
 </table>
 
-<h2 id="risks-due-to-the-app-configuration">Risks due to the App configuration</h2>
-
-<p>Each Apps can adapt a very important security layer between the App and internet.<br />
-In this section, we scan the Apps <a href="https://developer.apple.com/documentation/bundleresources/information_property_list/nsapptransportsecurity">NSAppTransportSecurity</a> configuration.</p>
-
-<p>Only 2 Apps don’t modify this security layer</p>
-<ul>
-  <li>MetaMask - Blockchain Wallet</li>
-  <li>Crypto.com  - Buy Bitcoin, ETH</li>
-</ul>
-
-<p>The others Apps are reducing the App security using some parameters</p>
-<ul>
-  <li><strong>NSAllowsArbitraryLoads</strong> : A Boolean value indicating whether App Transport Security restrictions are disabled for all network connections.</li>
-  <li><strong>NSAllowsLocalNetworking</strong> : A Boolean value indicating whether to allow loading of local resources.</li>
-  <li><strong>NSAllowsArbitraryLoadsInWebContent</strong> : A Boolean value indicating whether all App Transport Security restrictions are disabled for requests made from web views.</li>
-  <li><strong>NSExceptionAllowsInsecureHTTPLoads</strong> : A Boolean value indicating whether to allow insecure HTTP loads.</li>
-</ul>
-
-<h2 id="risky-keysvalues">Risky keys/values</h2>
-
-<p>Some places inside the App are protected and not easy to read (for exemple the executable element of the App).<br />
-In a lot of Apps, we can detect some important keys/values not stored at the right place.</p>
-
-<p>Only 3 Apps are not storing critical value in a low security environement</p>
-<ul>
-  <li>MetaMask - Blockchain Wallet</li>
-  <li>CoinMarketCap</li>
-  <li>FTX (anciennement Blockfolio)</li>
-</ul>
-
-<h2 id="risky-files">Risky files</h2>
-
-<p>An package App is not so complicatd to get and to inspect.<br />
-The packaging is not a good protection because an App package is just a zip file 🤯.<br />
-AppScan analyse the entire content of the package :</p>
-<ul>
-  <li>Main bundle,</li>
-  <li>Each bundles,</li>
-  <li>Each librairies, frameworks,</li>
-  <li>All files in the App.</li>
-</ul>
-
-<p>The idea is to detect files that can contains infomrations in a more or less readable format.<br />
-All those files with extensions has been detected in the Apps.</p>
+<h2 id="so-what">So what?</h2>
 
 <ul>
-  <li><strong>.cer, .der</strong>, those files are certificates, probably to if the server is really the real server</li>
-  <li><strong>.xml, .yml</strong>, data files, fully readdable, we can get lot of informations exploring them</li>
-  <li><strong>.json</strong>, fully readdable, we can get lot of informations exploring them</li>
-  <li><strong>.xcconfig</strong>, really not a normal place in an App … it’s a configuration file for Xcode</li>
-  <li><strong>.md, .txt</strong>, text files … sometimes readMe, release notes, etc</li>
-  <li><strong>.js</strong>, yes, some JS files can be very interesting and contains lot of data.</li>
-</ul>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<ul class="notice--warning">
-  <li>MetaMask is over the other, we only detect some .cer &amp; .der files which can be usefull for security validation</li>
-  <li>Lot of Apps are exposing apiKeys &amp; critical tokens inside readable sources (Info.plist for example)</li>
-  <li>Too much Apps are updating the NSAppTransportSecurity … this parameter reduce the App security</li>
-  <li>I would consider Apps to be more secure because alternatives create more data inside “readable” format (.json, .txt, .js, .yml). Those files can contains important data.</li>
+  <li>
+    <p>😋 It’s funny, on average, applications declare more than 2 custom URL Schemes. It’s not so incredible, if we look deeper inside, multiple time it’s explained by the external login process of Facebook, Twitter, etc, because you have to expose an entry to be called back by the third party oauth.</p>
+  </li>
+  <li>
+    <p>😤 What is very concerning in the fact that 347 schemes are used by multiple Apps, so be aware than trying to open an App using a URL scheme doesn’t guaranty you to open that App. It’s a random process.</p>
+  </li>
+  <li>
+    <p>😵‍💫 Some Apple <strong>schemes</strong> are supposed to be private … i don’t know why Apple doesn’t reject those Apps</p>
+  </li>
+  <li>😡 More concerning, some <strong>schemes</strong> are really not recommended
+    <ul>
+      <li>those 30 ones overused</li>
+      <li>the 347 hijacked (if you are not sure that your App is the one opened…)</li>
+    </ul>
+  </li>
+  <li>🤬 Some <strong>schemes</strong> are very close of the system : https://, http://, prefs://, tel://, sms:// and i’m not sure there is a desire of Apple to open them on the system (not as the mailto://)</li>
+  <li>🍏 Even more for Public “Security” scheme <em>org-appextension-feature-password-management</em> … Is it normal for Apple to allow this kind of thing?</li>
 </ul>
 
         
@@ -496,7 +632,7 @@ All those files with extensions has been detected in the Apps.</p>
     <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
     <span itemprop="keywords">
     
-      <a href="/tags/#nsapptransportsecurity" class="page__taxonomy-item p-category" rel="tag">NSAppTransportSecurity</a><span class="sep">, </span>
+      <a href="/tags/#scheme" class="page__taxonomy-item p-category" rel="tag">Scheme</a><span class="sep">, </span>
     
       <a href="/tags/#security" class="page__taxonomy-item p-category" rel="tag">Security</a>
     
@@ -515,9 +651,13 @@ All those files with extensions has been detected in the Apps.</p>
     <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
     <span itemprop="keywords">
     
-      <a href="/categories/#audits" class="page__taxonomy-item p-category" rel="tag">Audits</a><span class="sep">, </span>
+      <a href="/categories/#appscan" class="page__taxonomy-item p-category" rel="tag">AppScan</a><span class="sep">, </span>
     
-      <a href="/categories/#benchmark" class="page__taxonomy-item p-category" rel="tag">Benchmark</a><span class="sep">, </span>
+      <a href="/categories/#appstore" class="page__taxonomy-item p-category" rel="tag">AppStore</a><span class="sep">, </span>
+    
+      <a href="/categories/#database" class="page__taxonomy-item p-category" rel="tag">Database</a><span class="sep">, </span>
+    
+      <a href="/categories/#scheme" class="page__taxonomy-item p-category" rel="tag">Scheme</a><span class="sep">, </span>
     
       <a href="/categories/#security" class="page__taxonomy-item p-category" rel="tag">Security</a>
     
@@ -527,7 +667,7 @@ All those files with extensions has been detected in the Apps.</p>
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2022-08-30T00:00:00+02:00">August 30, 2022</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2022-09-26T00:00:00+02:00">September 26, 2022</time></p>
 
       </footer>
 
@@ -536,23 +676,22 @@ All those files with extensions has been detected in the Apps.</p>
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?via=leverdeterre&text=Crypto+Apps+-+Benchmark+-+Part+4+-+Security%20https%3A%2F%2Fappscan-hq.com%2Fappscan-crypto-apps-part-4-security.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?via=leverdeterre&text=AppScan+Schemes+Database+%20https%3A%2F%2Fappscan-hq.com%2Fappscan-database-url-schemes-analysis.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fappscan-hq.com%2Fappscan-crypto-apps-part-4-security.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fappscan-hq.com%2Fappscan-database-url-schemes-analysis.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fappscan-hq.com%2Fappscan-crypto-apps-part-4-security.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fappscan-hq.com%2Fappscan-database-url-schemes-analysis.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
       
   <nav class="pagination">
     
-      <a href="/appscan-crypto-apps-part-3-interactions.html" class="pagination--pager" title="Crypto Apps - Benchmark - Part 3 - Interactions
+      <a href="/appscan-appstore-smart-quesries.html" class="pagination--pager" title="Big data &amp; Smart queries
 ">Previous</a>
     
     
-      <a href="/appscan-appstore-smart-quesries.html" class="pagination--pager" title="Big data &amp; Smart queries
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
@@ -566,47 +705,6 @@ All those files with extensions has been detected in the Apps.</p>
     <div class="page__related">
       <h2 class="page__related-title">You may also enjoy</h2>
       <div class="grid__wrapper">
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/appscan-database-url-schemes-analysis.html" rel="permalink">AppScan Schemes Database
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          3 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">Using 5665 top ranked Apps, we built a schemes database.
-
-</p>
-  </article>
-</div>
-
         
           
 
@@ -644,6 +742,48 @@ All those files with extensions has been detected in the Apps.</p>
 
     <p class="archive__item-excerpt" itemprop="description">AppScan collected 50 datapoints for more than 5000 Apps. What can we do with this data?
 Smaaaaaaart queries.
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/appscan-crypto-apps-part-4-security.html" rel="permalink">Crypto Apps - Benchmark - Part 4 - Security
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Apps relative to crypto are very recent.
+We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.
 
 </p>
   </article>

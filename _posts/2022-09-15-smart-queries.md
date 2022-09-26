@@ -1,5 +1,7 @@
 ---
 title: "Big data & Smart queries"
+description: Kind of data requests to do using the AppStore data
+permalink: appscan-appstore-smart-quesries.html
 categories:
   - AppAudits
   - AppStore
@@ -9,7 +11,8 @@ tags:
   
 ---
 
-If we use all the metadata we can do smart queries.
+AppScan collected 50 datapoints for more than 5000 Apps. What can we do with this data?
+Smaaaaaaart queries.
 
 # To help to take product decisions
   

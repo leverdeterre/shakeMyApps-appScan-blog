@@ -12,6 +12,10 @@ tags:
   - Scheme
   - Queried Scheme
   - App Extensions
+
+image: /assets/images/illustrations/appscan-cryptos-snow.png
+header:
+    overlay_image: /assets/images/illustrations/appscan-cryptos-snow.png
 ---
 
 Apps relative to crypto are very recent.

@@ -1,5 +1,7 @@
 ---
 title: "App Technologies"
+description: Discover the App Technologies to make an App in 2022
+permalink: appscan-appstore-technologies.html
 categories:
   - AppStore
   - Cross Platform
