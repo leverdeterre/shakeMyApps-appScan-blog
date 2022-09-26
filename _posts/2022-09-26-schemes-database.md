@@ -82,30 +82,6 @@ On September 2022, AppScan Database contains **5665 Apps**, we compiled the App 
 | twitterkit-szwcBj2lCk6nxhm8T6rXj4nc6 | 6 | 
 | ssh | 6 | 
 | bitcoin | 5 | 
-| amp7ff551b939b977813a3dbf3-10cba16c-ce5e-11e4-567d-00a426b17dd8 | 5 | 
-| ampe66fe6fc347887f0d3e0a14-8db8df16-cefc-11e4-abdf-005cf8cbabd8 | 5 | 
-| applinks | 5 | 
-| myapp | 5 | 
-| App-prefs | 5 | 
-| fb172293932915627 | 5 | 
-| com.clubconnect | 4 | 
-| sa716c15f0 | 4 | 
-| twitterkit-lran9vOUIglaprUmKeS4IxwQh | 4 | 
-| saceb0ee80 | 4 | 
-| rtsp | 4 | 
-| mms | 4 | 
-| sftp | 4 | 
-| fb96799550818 | 4 | 
-| twitterkit- | 4 | 
-| moboreader | 4 | 
-| changdushare | 4 | 
-| wb923966971 | 4 | 
-| dingoa6zugqg5bmxelgyvo | 4 | 
-| Prefs | 4 | 
-| msauth.com.microsoft.intunemam | 4 | 
-| auth | 4 | 
-| com.venmo.touch.v2 | 4 | 
-| tg | 4 |
 
 ## So what?
 
