@@ -1,6 +1,6 @@
 ---
 title: "Crypto Apps - Benchmark - Part 4 - Security"
-description: 
+description: Security analysis of the most important crypto Apps.
 permalink: appscan-crypto-apps-part-4-security.html
 categories:
   - Audits
@@ -13,6 +13,7 @@ tags:
 
 image: /assets/images/illustrations/appscan-cryptos-snow.png
 header:
+    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
     overlay_image: /assets/images/illustrations/appscan-cryptos-snow.png
 ---
 

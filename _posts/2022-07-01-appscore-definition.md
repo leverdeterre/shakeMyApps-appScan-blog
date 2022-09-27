@@ -7,6 +7,12 @@ categories:
   - AppScore
 tags:
   - 
+
+image: /assets/images/illustrations/appscan-complex-problem.png
+header:
+    overlay_image: /assets/images/illustrations/appscan-complex-problem.png
+    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+    show_overlay_excerpt: false
 ---
 
 **why?**
@@ -35,6 +41,6 @@ AppScore computation is the sum of multiple scores:
 
 **App security** - God dam shit
 
-**App - interactions with other Apps** - Users love to be heard
+**App - interactions with other Apps** - Users like to have their preferences considered
 
 **App - interactions with the iOS system** - Yeah! Very good points to be loved by Apple and maybe the Users 

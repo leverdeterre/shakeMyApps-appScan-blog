@@ -5,10 +5,16 @@ permalink: appscan-data-collect.html
 categories:
   - AppStore
   - Product
+
 tags:
   - ipa
   - scan
-  
+
+image: /assets/images/illustrations/appscan-apps-painting-style.png
+header:
+    overlay_image: /assets/images/illustrations/appscan-apps-painting-style.png
+    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+    show_overlay_excerpt: false
 ---
 
 I started to work on that project some years ago. I was working another project RocketSkill, a quizz App for the tech recruiters.

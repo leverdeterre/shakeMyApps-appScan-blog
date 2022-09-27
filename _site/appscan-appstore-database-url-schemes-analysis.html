@@ -9,8 +9,8 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>AppScan Schemes Database  - AppScan - Better Apps with better data</title>
-<meta name="description" content="iOS URL Schemes analysis">
+<!-- begin _includes/seo.html --><title>AppStore schemes database - AppScan - Better Apps with better data</title>
+<meta name="description" content="AppScan has computed all the scanned data to build the first URL schemes database">
 
 
   <meta name="author" content="MORISSARD Jérôme">
@@ -22,11 +22,11 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="AppScan - Better Apps with better data">
-<meta property="og:title" content="AppScan Schemes Database">
-<meta property="og:url" content="https://appscan-hq.com/appscan-database-url-schemes-analysis.html">
+<meta property="og:title" content="AppStore schemes database">
+<meta property="og:url" content="https://appscan-hq.com/appscan-appstore-database-url-schemes-analysis.html">
 
 
-  <meta property="og:description" content="iOS URL Schemes analysis">
+  <meta property="og:description" content="AppScan has computed all the scanned data to build the first URL schemes database">
 
 
 
@@ -35,9 +35,9 @@
 
 
   <meta name="twitter:site" content="@leverdeterre">
-  <meta name="twitter:title" content="AppScan Schemes Database">
-  <meta name="twitter:description" content="iOS URL Schemes analysis">
-  <meta name="twitter:url" content="https://appscan-hq.com/appscan-database-url-schemes-analysis.html">
+  <meta name="twitter:title" content="AppStore schemes database">
+  <meta name="twitter:description" content="AppScan has computed all the scanned data to build the first URL schemes database">
+  <meta name="twitter:url" content="https://appscan-hq.com/appscan-appstore-database-url-schemes-analysis.html">
 
   
     <meta name="twitter:card" content="summary_large_image">
@@ -59,7 +59,7 @@
   
 
 
-<link rel="canonical" href="https://appscan-hq.com/appscan-database-url-schemes-analysis.html">
+<link rel="canonical" href="https://appscan-hq.com/appscan-appstore-database-url-schemes-analysis.html">
 
 
 
@@ -177,12 +177,13 @@
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline">
         
-          AppScan Schemes Database
+          AppStore schemes database
 
         
       </h1>
       
-        <p class="page__lead">Using 5665 top ranked Apps, we built a <strong>schemes</strong> database.
+        <p class="page__lead">On September 2022, AppScan has scanned more that 5000 Apps in the most top ranked.<br />
+Finally, with the results, we decided to built a <strong>schemes</strong> database &amp; to published somes of our discoveries.
 
 </p>
       
@@ -208,6 +209,11 @@
 
 
       
+      
+        <p>
+        
+          <a href="mailto://hello@appscan-hq.com?subject=AppStore%20schemes%20database" class="btn btn--light-outline btn--large">Download</a>
+        
       
     </div>
   
@@ -343,8 +349,8 @@
 
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="AppScan Schemes Database">
-    <meta itemprop="description" content="Using 5665 top ranked Apps, we built a schemes database.">
+    <meta itemprop="headline" content="AppStore schemes database">
+    <meta itemprop="description" content="On September 2022, AppScan has scanned more that 5000 Apps in the most top ranked.Finally, with the results, we decided to built a schemes database &amp; to published somes of our discoveries.">
     <meta itemprop="datePublished" content="2022-09-26T00:00:00+02:00">
     
 
@@ -353,7 +359,8 @@
 
       <section class="page__content e-content" itemprop="text">
         
-        <p>Using 5665 top ranked Apps, we built a <strong>schemes</strong> database.</p>
+        <p>On September 2022, AppScan has scanned more that 5000 Apps in the most top ranked.<br />
+Finally, with the results, we decided to built a <strong>schemes</strong> database &amp; to published somes of our discoveries.</p>
 
 <h1 id="app-schemes">App Schemes</h1>
 
@@ -382,7 +389,7 @@ When testing your URL-handling code, make sure your test cases include improperl
 
 <p>but everybody is able to register this, so i can create my hijacking App and declare the same custom <strong>scheme</strong> and my application can be opened instead of yours.</p>
 
-<p>On September 2022, AppScan Database contains <strong>5665 Apps</strong>, we compiled the App declared public <strong>schemes</strong> to illustrate the problems and the schemes usage.</p>
+<p>On September 2022, AppScan database contains <strong>5665 Apps</strong>, we compiled the App declared public <strong>schemes</strong> to illustrate the problems and the schemes usage.</p>
 
 <h2 id="some-metrics-about-our-ios-schemes-database">Some metrics about our iOS Schemes database</h2>
 
@@ -517,8 +524,10 @@ When testing your URL-handling code, make sure your test cases include improperl
       <li>the 347 hijacked (if you are not sure that your App is the one opened…)</li>
     </ul>
   </li>
-  <li>🤬 Some <strong>schemes</strong> are very close of the system : https://, http://, prefs://, tel://, sms:// and i’m not sure there is a desire of Apple to open them on the system (not as the mailto://)</li>
-  <li>🍏 Even more for Public “Security” scheme <em>org-appextension-feature-password-management</em> … Is it normal for Apple to allow this kind of thing?</li>
+  <li>
+    <p>🤬 Some <strong>schemes</strong> are very close of the system : <code class="language-plaintext highlighter-rouge">https://</code>, <code class="language-plaintext highlighter-rouge">http://, </code>prefs://<code class="language-plaintext highlighter-rouge">, </code>tel://<code class="language-plaintext highlighter-rouge">, </code>sms://` and i’m not sure there is a desire of Apple to open them on the system (not as the mailto://)</p>
+  </li>
+  <li>🍏 Even more for Public “Security” scheme <code class="language-plaintext highlighter-rouge">org-appextension-feature-password-management://</code> … Is it normal for Apple to allow this kind of thing?</li>
 </ul>
 
         
@@ -580,18 +589,18 @@ When testing your URL-handling code, make sure your test cases include improperl
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?via=leverdeterre&text=AppScan+Schemes+Database+%20https%3A%2F%2Fappscan-hq.com%2Fappscan-database-url-schemes-analysis.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?via=leverdeterre&text=AppStore+schemes+database%20https%3A%2F%2Fappscan-hq.com%2Fappscan-appstore-database-url-schemes-analysis.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fappscan-hq.com%2Fappscan-database-url-schemes-analysis.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fappscan-hq.com%2Fappscan-appstore-database-url-schemes-analysis.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fappscan-hq.com%2Fappscan-database-url-schemes-analysis.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fappscan-hq.com%2Fappscan-appstore-database-url-schemes-analysis.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
       
   <nav class="pagination">
     
-      <a href="/appscan-appstore-smart-quesries.html" class="pagination--pager" title="Big data &amp; Smart queries
+      <a href="/appscan-crypto-apps-part-4-security.html" class="pagination--pager" title="Crypto Apps - Benchmark - Part 4 - Security
 ">Previous</a>
     
     
@@ -609,48 +618,6 @@ When testing your URL-handling code, make sure your test cases include improperl
     <div class="page__related">
       <h2 class="page__related-title">You may also enjoy</h2>
       <div class="grid__wrapper">
-        
-          
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/appscan-appstore-smart-quesries.html" rel="permalink">Big data &amp; Smart queries
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          less than 1 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">AppScan collected 50 datapoints for more than 5000 Apps. What can we do with this data?
-Smaaaaaaart queries.
-
-</p>
-  </article>
-</div>
-
         
           
 
@@ -774,6 +741,46 @@ We wanted to study those Apps to make an smart article about technical stacks &a
 We wanted to study those Apps to make an smart article about technical stacks &amp; good practices.
 
 </p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/appscan-crypto-apps-part-1-introduction.html" rel="permalink">Crypto Apps - Benchmark - Part 1 - Introduction
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Apps relative to crypto are very recent and now common on the AppStore.
+We wanted to study those Apps to make an smart article about technical stacks &amp; g...</p>
   </article>
 </div>
 

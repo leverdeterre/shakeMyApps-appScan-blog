@@ -1,7 +1,7 @@
 ---
-title: "AppScan Schemes Database "
-description: iOS URL Schemes analysis
-permalink: appscan-database-url-schemes-analysis.html
+title: "AppStore schemes database"
+description: AppScan has computed all the scanned data to build the first URL schemes database 
+permalink: appscan-appstore-database-url-schemes-analysis.html
 categories:
   - AppStore
   - AppScan
@@ -14,9 +14,14 @@ tags:
 image: /assets/images/illustrations/appscan-hijacked-schemes.png
 header:
     overlay_image: /assets/images/illustrations/appscan-hijacked-schemes.png
+    actions:
+        -
+            label: "Download"
+            url: "mailto://hello@appscan-hq.com?subject=AppStore%20schemes%20database"
 ---
 
-Using 5665 top ranked Apps, we built a **schemes** database.
+On September 2022, AppScan has scanned more that 5000 Apps in the most top ranked.
+Finally, with the results, we decided to built a **schemes** database & to published somes of our discoveries.
 
 # App Schemes
 
@@ -47,7 +52,7 @@ but everybody is able to register this, so i can create my hijacking App and dec
 
 
 
-On September 2022, AppScan Database contains **5665 Apps**, we compiled the App declared public **schemes** to illustrate the problems and the schemes usage.
+On September 2022, AppScan database contains **5665 Apps**, we compiled the App declared public **schemes** to illustrate the problems and the schemes usage.
 
 ## Some metrics about our iOS Schemes database
 
@@ -95,5 +100,6 @@ On September 2022, AppScan Database contains **5665 Apps**, we compiled the App 
     - those 30 ones overused
     - the 347 hijacked (if you are not sure that your App is the one opened...)
 
-- 🤬 Some **schemes** are very close of the system : https://, http://, prefs://, tel://, sms:// and i'm not sure there is a desire of Apple to open them on the system (not as the mailto://) 
-- 🍏 Even more for Public "Security" scheme *org-appextension-feature-password-management* ... Is it normal for Apple to allow this kind of thing?
+- 🤬 Some **schemes** are very close of the system : `https://`, `http://, `prefs://`, `tel://`, `sms://` and i'm not sure there is a desire of Apple to open them on the system (not as the mailto://) 
+
+- 🍏 Even more for Public "Security" scheme `org-appextension-feature-password-management://` ... Is it normal for Apple to allow this kind of thing?

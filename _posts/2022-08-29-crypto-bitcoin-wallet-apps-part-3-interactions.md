@@ -1,6 +1,6 @@
 ---
 title: "Crypto Apps - Benchmark - Part 3 - Interactions"
-description: Technical analysis of crypto Apps interactions with the system & the other Apps.
+description: Interactions analysis of the most important crypto Apps.
 permalink: appscan-crypto-apps-part-3-interactions.html
 categories:
   - Audits
@@ -15,6 +15,7 @@ tags:
 
 image: /assets/images/illustrations/appscan-cryptos-snow.png
 header:
+    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
     overlay_image: /assets/images/illustrations/appscan-cryptos-snow.png
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Crypto Apps - Benchmark - Part 2 - Resources"
-description: Technical analysis of crypto Apps resources, assets & languages management.
+description: Apps resources, assets & languages management in the most important crypto Apps.
 permalink: appscan-crypto-apps-part-2-resources.html
 categories:
   - Audits
@@ -16,6 +16,7 @@ tags:
 
 image: /assets/images/illustrations/appscan-cryptos-snow.png
 header:
+    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
     overlay_image: /assets/images/illustrations/appscan-cryptos-snow.png
 ---
 

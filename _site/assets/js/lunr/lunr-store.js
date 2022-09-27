@@ -1,6 +1,6 @@
 var store = [{
         "title": "App Technologies",
-        "excerpt":"Since 10 years i have seen a lot of cross-plateform technologies. Every time, there is some reasons to select an alternative technology. Reduce the cost of the App Use the internal resources to develop the App Recruitment too complex For several years, we the maturity of some challengers, i was...","categories": ["AppStore","Cross Platform","Flutter","React Native"],
+        "excerpt":"Since 10 years we have seen a lot of cross-plateform technologies. Every time, there is some reasons to select an alternative technology. Reduce the cost of the App Use the internal resources to develop the App Recruitment too complex For several years, we the maturity of some challengers, i was...","categories": ["AppStore","Cross Platform","Flutter","React Native"],
         "tags": ["Xamarin","React Native","Cordova","Web App","Flutter","Native"],
         "url": "/appscan-appstore-technologies.html",
         "teaser": null
@@ -47,15 +47,9 @@ var store = [{
         "url": "/appscan-crypto-apps-part-4-security.html",
         "teaser": null
       },{
-        "title": "Big data & Smart queries",
-        "excerpt":"AppScan collected 50 datapoints for more than 5000 Apps. What can we do with this data? Smaaaaaaart queries. To help to take product decisions On top 100 of “Lifestyle” category of AppStore, How many Apps are optimized for iPad? On top 100 of “Lifestyle” category of AppStore, What is the...","categories": ["AppAudits","AppStore","AppScan","Metadata"],
-        "tags": [],
-        "url": "/appscan-appstore-smart-quesries.html",
-        "teaser": null
-      },{
-        "title": "AppScan Schemes Database ",
-        "excerpt":"Using 5665 top ranked Apps, we built a schemes database. App Schemes App schemes give a way to open your App using a custom declared scheme. What is a Scheme A URL (Uniform Resource Locator) is a unique identifier used to locate a resource. URLs consist of multiple parts –...","categories": ["AppStore","AppScan","Database","Scheme","Security"],
+        "title": "AppStore schemes database",
+        "excerpt":"On September 2022, AppScan has scanned more that 5000 Apps in the most top ranked. Finally, with the results, we decided to built a schemes database &amp; to published somes of our discoveries. App Schemes App schemes give a way to open your App using a custom declared scheme. What...","categories": ["AppStore","AppScan","Database","Scheme","Security"],
         "tags": ["Scheme","Security"],
-        "url": "/appscan-database-url-schemes-analysis.html",
+        "url": "/appscan-appstore-database-url-schemes-analysis.html",
         "teaser": null
       }]

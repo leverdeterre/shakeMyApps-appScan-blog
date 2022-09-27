@@ -1,6 +1,6 @@
 ---
 title: "App Technologies"
-description: Discover the App Technologies to make an App in 2022
+description: Discover the technologies you should know about to start an App in 2022
 permalink: appscan-appstore-technologies.html
 categories:
   - AppStore
@@ -15,9 +15,14 @@ tags:
   - Web App
   - Flutter
   - Native
+
+image: /assets/images/illustrations/appscan-app-technologies.png
+header:
+    overlay_image: /assets/images/illustrations/appscan-app-technologies.png
+    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-Since 10 years i have seen a lot of cross-plateform technologies.
+Since 10 years we have seen a lot of cross-plateform technologies.
 Every time, there is some reasons to select an alternative technology.
 
 - Reduce the cost of the App
