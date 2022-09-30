@@ -48,7 +48,7 @@ var store = [{
         "teaser": null
       },{
         "title": "AppStore schemes database",
-        "excerpt":"On September 2022, AppScan has scanned more that 5000 Apps in the most top ranked. Finally, with the results, we decided to built a schemes database &amp; to published somes of our discoveries. App Schemes App schemes give a way to open your App using a custom declared scheme. What...","categories": ["AppStore","AppScan","Database","Scheme","Security"],
+        "excerpt":"On September 2022, AppScan has scanned more that 5000 Apps in the most top ranked. Finally, we decided to build a schemes database &amp; to published somes of our discoveries. App Schemes App schemes give a way to open your App using a custom declared scheme. What is a Scheme...","categories": ["AppStore","AppScan","Database","Scheme","Security"],
         "tags": ["Scheme","Security"],
         "url": "/appscan-appstore-database-url-schemes-analysis.html",
         "teaser": null

@@ -1,6 +1,6 @@
 ---
 title: "AppStore schemes database"
-description: AppScan has computed all the scanned data to build the first URL schemes database 
+description: AppScan computed more than 5000 top ranked app data to build the first URL schemes database 
 permalink: appscan-appstore-database-url-schemes-analysis.html
 categories:
   - AppStore
@@ -21,7 +21,7 @@ header:
 ---
 
 On September 2022, AppScan has scanned more that 5000 Apps in the most top ranked.
-Finally, with the results, we decided to built a **schemes** database & to published somes of our discoveries.
+Finally, we decided to build a **schemes** database & to published somes of our discoveries.
 
 # App Schemes
 
