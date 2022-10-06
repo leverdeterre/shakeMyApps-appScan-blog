@@ -25,4 +25,5 @@ Discover your strengths and weaknesses using the exlcusive AppScan data points :
 - 🏋️‍♂️ Assets analysis
 - 🗣 Languages analysis
     - The list of supported languages
-    - How the App does to supported languages 
+    - How the App does to supported languages
+
