@@ -1,0 +1,41 @@
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
+<script>
+    /**
+ * Convert a string to HTML entities
+ */
+    String.prototype.toHtmlEntities = function () {
+        return this.replace(/./gm, function (s) {
+            // return "&#" + s.charCodeAt(0) + ";";
+            return (s.match(/[a-z0-9\s]+/i)) ? s : "&#" + s.charCodeAt(0) + ";";
+        });
+    };
+
+    window.addEventListener("DOMContentLoaded", (event) => {
+        // Load queryParams
+        const urlParams = new URLSearchParams(window.location.search);
+        const bundleID = urlParams.get('bundleID');
+        var url = "https://itunes.apple.com/lookup?bundleId=" + bundleID + "&country=us"
+        console.log("url:" + url);
+        $.ajax({
+            url: url,
+            cache: false,
+            dataType: 'json',
+            success: function (data) {
+                console.log("data.results.length : " + data.results.length);
+                if (data.results.length == 1) {
+                    var json = data.results[0];
+                    trackName = json["trackName"];
+                    airtable = document.getElementById("airtable");
+                    console.log("airtable: " + airtable);
+                    airtable.src = "https://airtable.com/embed/shrbuxi0EDwYbELNt?backgroundColor=blue&prefill_AppBundleID=" + bundleID + "&prefill_AppName=" + trackName.toHtmlEntities();
+                }
+            }
+        })
+    });
+</script>
+
+<div>
+    <iframe id="airtable" class="airtable-embed airtable-dynamic-height" src="" frameborder="0" onmousewheel="" width="100%" height="1175" style="background: transparent; border: 1px solid #ccc;"></iframe>
+</div>
+
+

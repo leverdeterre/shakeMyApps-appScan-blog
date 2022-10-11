@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Request an .ipa audit - AppScan - Better Apps with better data</title>
+<!-- begin _includes/seo.html --><title>Evaluate any App on the AppStore - AppScan - Better Apps with better data</title>
 <meta name="description" content="">
 
 
@@ -20,8 +20,8 @@
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="AppScan - Better Apps with better data">
-<meta property="og:title" content="Request an .ipa audit">
-<meta property="og:url" content="https://appscan-hq.com/request-audit-ipa-app.html">
+<meta property="og:title" content="Evaluate any App on the AppStore">
+<meta property="og:url" content="https://appscan-hq.com/evaluate-any-appstore-app.html">
 
 
   <meta property="og:description" content="">
@@ -33,9 +33,9 @@
 
 
   <meta name="twitter:site" content="@leverdeterre">
-  <meta name="twitter:title" content="Request an .ipa audit">
+  <meta name="twitter:title" content="Evaluate any App on the AppStore">
   <meta name="twitter:description" content="">
-  <meta name="twitter:url" content="https://appscan-hq.com/request-audit-ipa-app.html">
+  <meta name="twitter:url" content="https://appscan-hq.com/evaluate-any-appstore-app.html">
 
   
     <meta name="twitter:card" content="summary_large_image">
@@ -55,7 +55,7 @@
   
 
 
-<link rel="canonical" href="https://appscan-hq.com/request-audit-ipa-app.html">
+<link rel="canonical" href="https://appscan-hq.com/evaluate-any-appstore-app.html">
 
 
 
@@ -171,7 +171,7 @@
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline">
         
-          Request an .ipa audit
+          Evaluate any App on the AppStore
 
         
       </h1>
@@ -194,128 +194,10 @@
 
 <div id="main" role="main">
   
-  <div class="sidebar sticky">
-  
-
-
-<div itemscope itemtype="https://schema.org/Person" class="h-card">
-
-  
-    <div class="author__avatar">
-      <a href="https://appscan-hq.com/">
-        <img src="/assets/images/239767.png" alt="MORISSARD Jérôme" itemprop="image" class="u-photo">
-      </a>
-    </div>
-  
-
-  <div class="author__content">
-    <h3 class="author__name p-name" itemprop="name">
-      <a class="u-url" rel="me" href="https://appscan-hq.com/" itemprop="url">MORISSARD Jérôme</a>
-    </h3>
-    
-      <div class="author__bio p-note" itemprop="description">
-        <p>A product lover. iOS &amp; android developer. Interested in security, privacy &amp; quality.</p>
-
-      </div>
-    
-  </div>
-
-  <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
-      
-        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">France</span>
-        </li>
-      
-
-      
-        
-          
-        
-          
-            <li><a href="https://github.com/leverdeterre" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
-          
-        
-          
-            <li><a href="https://www.linkedin.com/in/morissard/" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
-          
-        
-      
-
-      
-
-      
-        <li>
-          <a href="mailto:hello@appscan-hq.com" rel="me" class="u-email">
-            <meta itemprop="email" content="hello@appscan-hq.com" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
-          </a>
-        </li>
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      <!--
-  <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
-    </a>
-  </li>
--->
-    </ul>
-  </div>
-</div>
-
-  
-  </div>
-
 
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Request an .ipa audit">
+    <meta itemprop="headline" content="Evaluate any App on the AppStore">
     
     
     
@@ -325,12 +207,108 @@
 
       <section class="page__content e-content" itemprop="text">
         
-        
-<div>
-    <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
-    <iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrwflBqQ6xQYjMz7?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="661" style="background: transparent; border: 1px solid #ccc;"></iframe>
-</div>
+        <p>We have created an <a href="/appscan-appscore.html">AppScore</a> to give a first vision of the quality of the App.</p>
 
+<script>
+    var selected_bundle_id = null;
+    var selected_appname = null;
+
+    function enable(selector) {
+        const element = document.querySelector(selector);
+        element.classList.remove("none")
+    }
+
+    function disable(selector) {
+        const element = document.querySelector(selector);
+        element.classList.add("none")
+    }
+
+    function clear(selector) {
+        var container = document.querySelector(selector);
+        container.textContent = '';
+    }
+
+    function simpleItunesSearch(term, country) {
+        console.log('simpleItunesSearch term:' + term);
+        disable("#bundle-id-selected");
+        clear("#bundle-id-selected");
+        clear("#results-container");
+        enable("#results-container");
+
+        var c = 'us';
+        if (country) {
+            c = country;
+        }
+        var url = 'https://itunes.apple.com/search?term=' + term + '&entity=software&country=' + c
+
+        $.ajax({
+            url: url,
+            cache: false,
+            dataType: 'json',
+            success: function (data) {
+                console.log('success', data);
+                clear("#results-container");
+
+                var table = document.createElement("table");
+                var container = document.querySelector("#results-container");
+                container.appendChild(table);
+        
+                for (let i = 0; i < data.results.length; i++) {
+                    var returnResponse = document.createElement("tr");
+                    console.log(i);
+                    var json = data.results[i];
+                    console.log(json);
+
+                    if (true) {
+                        console.log(json);
+                        returnResponse.innerHTML = `
+            <tr>
+            <td>
+            <img src=${json.artworkUrl60} alt="Album Image" class="cornered paddings">
+            </td>
+            <td>${json.trackName}
+            <br>
+            <small>${json.bundleId}</small>            
+            </td>
+            <td>
+            <a href="/appscore-evaluation-appstore-one-app.html?bundleID=${json.bundleId}" target="_blank"> discover the AppScore </a>
+            </td>
+            </tr>
+            `;
+                        table.appendChild(returnResponse);
+                    }
+                }
+            },
+            error: function (request, status, error) {
+                console.log('error', error);
+            }
+        });
+
+    }
+
+    window.addEventListener("DOMContentLoaded", (event) => {
+
+        const node = document.querySelector("#search-button");
+        node.addEventListener("click", () => {
+            const input = document.querySelector("#site-search");
+            simpleItunesSearch(input.value, 'us');
+        });
+    });
+</script>
+
+<div class="search-content__inner-wrap">
+    <fieldset>
+        <legend> 📦 Search an app</legend>
+        <p class="bg-success none paddings" id="bundle-id-selected"> </p>
+        <input type="search" id="site-search" class="form-control" /><button id="search-button">Search</button>
+    </fieldset>
+    <br />
+
+    <fieldset id="fieldset-results-container">
+        <legend> 📦 Request an app</legend>
+        <div id="results-container"></div>
+    </fieldset>
+</div>
 
         
       </section>

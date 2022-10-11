@@ -21,7 +21,7 @@ author_profile: true
 
 [1]:{{ site.url }}/assets/data/zenly/com.alertus.zenly_838848566_v5.6.6_561_appscan.html.zip
 [2]:{{ site.url }}/assets/data/zenly/com.alertus.zenly_838848566_v5.6.6_561_sonar_metrics.html.zip
-[3]:{{ site.url }}/assets/data/zenly/com.alertus.zenly_838848566_v5.6.6_561_appscore.txt.zip
+[3]:{{ site.url }}/assets/data/zenly/com.alertus.zenly_838848566_v5.7.0_617_appscore.html.zip
 
 
 ## {::nomarkdown}<a href="mailto:hello@appscan-hq.com?subject=Extended%20Audit%20Request&body=Hi%20I%20want%20to%20scan%20an%20app.">📩 Request an extended audit</a>{:/} 

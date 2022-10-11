@@ -1,0 +1,100 @@
+<script>
+    var selected_bundle_id = null;
+    var selected_appname = null;
+
+    function enable(selector) {
+        const element = document.querySelector(selector);
+        element.classList.remove("none")
+    }
+
+    function disable(selector) {
+        const element = document.querySelector(selector);
+        element.classList.add("none")
+    }
+
+    function clear(selector) {
+        var container = document.querySelector(selector);
+        container.textContent = '';
+    }
+
+    function simpleItunesSearch(term, country) {
+        console.log('simpleItunesSearch term:' + term);
+        disable("#bundle-id-selected");
+        clear("#bundle-id-selected");
+        clear("#results-container");
+        enable("#results-container");
+
+        var c = 'us';
+        if (country) {
+            c = country;
+        }
+        var url = 'https://itunes.apple.com/search?term=' + term + '&entity=software&country=' + c
+
+        $.ajax({
+            url: url,
+            cache: false,
+            dataType: 'json',
+            success: function (data) {
+                console.log('success', data);
+                clear("#results-container");
+
+                var table = document.createElement("table");
+                var container = document.querySelector("#results-container");
+                container.appendChild(table);
+        
+                for (let i = 0; i < data.results.length; i++) {
+                    var returnResponse = document.createElement("tr");
+                    console.log(i);
+                    var json = data.results[i];
+                    console.log(json);
+
+                    if (true) {
+                        console.log(json);
+                        returnResponse.innerHTML = `
+            <tr>
+            <td>
+            <img src=${json.artworkUrl60} alt="Album Image" class="cornered paddings">
+            </td>
+            <td>${json.trackName}
+            <br>
+            <small>${json.bundleId}</small>            
+            </td>
+            <td>
+            <a href="/appscore-evaluation-appstore-one-app.html?bundleID=${json.bundleId}" target="_blank"> discover the AppScore </a>
+            </td>
+            </tr>
+            `;
+                        table.appendChild(returnResponse);
+                    }
+                }
+            },
+            error: function (request, status, error) {
+                console.log('error', error);
+            }
+        });
+
+    }
+
+    window.addEventListener("DOMContentLoaded", (event) => {
+
+        const node = document.querySelector("#search-button");
+        node.addEventListener("click", () => {
+            const input = document.querySelector("#site-search");
+            simpleItunesSearch(input.value, 'us');
+        });
+    });
+</script>
+
+<div class="search-content__inner-wrap">
+    <fieldset>
+        <legend> 📦 Search an app</legend>
+        <p class="bg-success none paddings" id="bundle-id-selected"> </p>
+        <input type="search" id="site-search" class="form-control"><button id="search-button">Search</button>
+    </fieldset>
+    <br>
+
+    <fieldset id="fieldset-results-container">
+        <legend> 📦 Request an app</legend>
+        <div id="results-container"></div>
+    </fieldset>
+</div>
