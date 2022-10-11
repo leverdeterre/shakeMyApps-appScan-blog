@@ -52,14 +52,14 @@
                         console.log(json);
                         returnResponse.innerHTML = `
             <tr>
-            <td>
+            <td class="width15"">
             <img src=${json.artworkUrl60} alt="Album Image" class="cornered paddings">
             </td>
-            <td>${json.trackName}
+            <td class="width60">${json.trackName}
             <br>
             <small>${json.bundleId}</small>            
             </td>
-            <td>
+            <td class="width15">
             <a href="/appscore-evaluation-appstore-one-app.html?bundleID=${json.bundleId}" target="_blank"> discover the AppScore </a>
             </td>
             </tr>
