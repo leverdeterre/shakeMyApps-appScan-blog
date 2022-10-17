@@ -52,4 +52,10 @@ var store = [{
         "tags": ["Scheme","Security"],
         "url": "/appscan-appstore-database-url-schemes-analysis.html",
         "teaser": null
+      },{
+        "title": "More than 81% of the top Apps are Native Apps",
+        "excerpt":"Since the beginning of this project I have been wondering. It’s it so important for the end User to use an App that is not developed natively. For my part, i am too much in love with the Apple ecosystem &amp; Swift. So I was wondering if we could detect...","categories": ["AppStore","AppScan","Technology","Native"],
+        "tags": [],
+        "url": "/appscan-technology-rank-correlation.html",
+        "teaser": null
       }]

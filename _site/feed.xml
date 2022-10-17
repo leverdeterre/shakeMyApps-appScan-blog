@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://appscan-hq.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://appscan-hq.com/" rel="alternate" type="text/html" /><updated>2022-10-11T21:40:05+02:00</updated><id>https://appscan-hq.com/feed.xml</id><title type="html">AppScan - Better Apps with better data</title><subtitle></subtitle><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><entry><title type="html">AppStore schemes database</title><link href="https://appscan-hq.com/appscan-appstore-database-url-schemes-analysis.html" rel="alternate" type="text/html" title="AppStore schemes database" /><published>2022-09-26T00:00:00+02:00</published><updated>2022-09-26T00:00:00+02:00</updated><id>https://appscan-hq.com/schemes-database</id><content type="html" xml:base="https://appscan-hq.com/appscan-appstore-database-url-schemes-analysis.html">&lt;p&gt;On September 2022, AppScan has scanned more that 5000 Apps in the most top ranked.&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://appscan-hq.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://appscan-hq.com/" rel="alternate" type="text/html" /><updated>2022-10-18T00:19:39+02:00</updated><id>https://appscan-hq.com/feed.xml</id><title type="html">AppScan - Better Apps with better data</title><subtitle></subtitle><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><entry><title type="html">More than 81% of the top Apps are Native Apps</title><link href="https://appscan-hq.com/appscan-technology-rank-correlation.html" rel="alternate" type="text/html" title="More than 81% of the top Apps are Native Apps" /><published>2022-10-17T00:00:00+02:00</published><updated>2022-10-17T00:00:00+02:00</updated><id>https://appscan-hq.com/technlogy-impact-your-rank</id><content type="html" xml:base="https://appscan-hq.com/appscan-technology-rank-correlation.html">&lt;p&gt;Since the beginning of this project I have been wondering.&lt;br /&gt;
+It’s it so important for the end User to use an App that is not developed natively.&lt;br /&gt;
+For my part, i am too much in love with the Apple ecosystem &amp;amp; Swift.&lt;/p&gt;
+
+&lt;p&gt;So I was wondering if we could detect and measure an impact on the choice of technology used to develop the application.&lt;/p&gt;
+
+&lt;p&gt;In this study, I decided to focus on Apps rankings, using 10566 Apps scanned by AppScan.&lt;/p&gt;
+
+&lt;h1 id=&quot;native-is-dominiting-the-apps-development&quot;&gt;Native is dominiting the Apps development&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://appscan-hq.com/assets/images/illustrations/technology-native-rank.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Native development is far ahead&lt;/li&gt;
+  &lt;li&gt;Globally, without a focus on the top ranked Apps, we detected 75% of native Apps, which is very close to the first 1st article of that blog &lt;a href=&quot;/appscan-appstore-technologies.html&quot;&gt;the 1st article&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;If we look from the Top 100 to the Top 10, the pourcentage increase at every step.&lt;/li&gt;
+  &lt;li&gt;Finally, if we study only the 401 Top 10 Apps, 81.3% are fully native.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;react-native-at-the-second-place&quot;&gt;React native at the second place&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://appscan-hq.com/assets/images/illustrations/technology-reactnative-rank.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ReactNative is the number 2.&lt;/li&gt;
+  &lt;li&gt;If we look to the Top 100 to 10, React Native is pretty stable. (is it a sign of maturity?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;flutter-the-challenger&quot;&gt;Flutter, the challenger?&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://appscan-hq.com/assets/images/illustrations/technology-flutter-rank.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Flutter is the number 3.&lt;/li&gt;
+  &lt;li&gt;To the Top 100 to 10, Flutter decrease at every step.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;impact-of-the-technology-on-rank-conclusion&quot;&gt;Impact of the technology on rank, conclusion&lt;/h2&gt;
+
+&lt;p&gt;If your goal is to take a seat in the top ranked Apps, developing a native app seems mandatory. ReactNative et Flutter are good challengers.&lt;br /&gt;
+I forgot to mention Cordova &amp;amp; Xamarin in this study but the numbers are small than Flutter and the correlation pretty similar (less and less pourentage on each steps to the top 10)&lt;/p&gt;
+
+&lt;h2 id=&quot;but--how-is-ranked-an-app&quot;&gt;But …. how is ranked an App?&lt;/h2&gt;
+
+&lt;p&gt;While writing this article I had some hesitations…&lt;br /&gt;
+How does Apple decide to rank an app?&lt;br /&gt;
+Is it just a fair result?&lt;/p&gt;</content><author><name>MORISSARD Jérôme</name><email>hello@appscan-hq.com</email></author><category term="AppStore" /><category term="AppScan" /><category term="Technology" /><category term="Native" /><summary type="html">Since the beginning of this project I have been wondering. It’s it so important for the end User to use an App that is not developed natively. For my part, i am too much in love with the Apple ecosystem &amp;amp; Swift.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://appscan-hq.com/assets/images/illustrations/appscan-books.png" /><media:content medium="image" url="https://appscan-hq.com/assets/images/illustrations/appscan-books.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AppStore schemes database</title><link href="https://appscan-hq.com/appscan-appstore-database-url-schemes-analysis.html" rel="alternate" type="text/html" title="AppStore schemes database" /><published>2022-09-26T00:00:00+02:00</published><updated>2022-09-26T00:00:00+02:00</updated><id>https://appscan-hq.com/schemes-database</id><content type="html" xml:base="https://appscan-hq.com/appscan-appstore-database-url-schemes-analysis.html">&lt;p&gt;On September 2022, AppScan has scanned more that 5000 Apps in the most top ranked.&lt;br /&gt;
 Finally, we decided to build a &lt;strong&gt;schemes&lt;/strong&gt; database &amp;amp; to published somes of our discoveries.&lt;/p&gt;
 
 &lt;h1 id=&quot;app-schemes&quot;&gt;App Schemes&lt;/h1&gt;
