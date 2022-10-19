@@ -71,5 +71,23 @@ header:
             </ul>
         </div>
     </div>
-</div>
+</div> 
 <!-- /.row -->
+
+## Example of documents for Zenly App
+###  AppScan synthesis
+  
+[Zenly AppScan.html][1]
+  
+## Improvements metrics
+  
+[Zenly SonarMetrics.html][2]
+  
+
+### AppScores
+  
+[Zenly AppScores][3]
+
+[1]:{{ site.url }}/assets/data/zenly/com.alertus.zenly_838848566_v5.6.6_561_appscan.html.zip
+[2]:{{ site.url }}/assets/data/zenly/com.alertus.zenly_838848566_v5.6.6_561_sonar_metrics.html.zip
+[3]:{{ site.url }}/assets/data/zenly/com.alertus.zenly_838848566_v5.7.0_617_appscore.html.zip

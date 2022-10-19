@@ -8,6 +8,10 @@ categories:
   - Technology
   - Native
 image: /assets/images/illustrations/appscan-books.png
+header:
+    overlay_image: /assets/images/illustrations/appscan-books.png
+    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+    show_overlay_excerpt: false
 ---
 
 Since the beginning of this project I have been wondering.
