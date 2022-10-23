@@ -13,13 +13,13 @@ feature_row:
   - image_path: /assets/images/illustrations/appscan-apps-painting-style.png
     alt: "Audit your App"
     title: "Audit your App"
-    excerpt: "Keep your source code secret, we can analyze the published App."
+    excerpt: "Keep your source code for you, we can analyze the published App."
   - image_path: /assets/images/illustrations/appscan-books.png
     alt: "Audit any Apps"
     title: "Audit any Apps"
     excerpt: "Yes! We are able to audit 2 millions Apps"
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "/pricing.html"
+    btn_label: "Challenge us?"
     btn_class: "btn--primary"
   - image_path: /assets/images/illustrations/appscan-droid-scan.png
     title: "Competitor Stacks"
@@ -48,17 +48,17 @@ feature_appscore_row:
   - App interactions with the system & other Apps
     
   - App Security"
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "/assets/data/zenly/com.alertus.zenly_838848566_v5.7.0_617_appscore.html.zip"
+    btn_label: "Get a example"
     btn_class: "btn--primary"
 
 feature_audit_your_row:
   - image_path: /assets/images/illustrations/appscan-app-technologies.png
-    alt: "placeholder image 2"
+    alt: "Mobile App Analysis Tool : to get some improvements"
     title: "Mobile App Analysis Tool : to get some improvements"
     excerpt: "For each AppScore categories, we provide you a list of recommendations ordered by priority/criticity."
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "/assets/data/zenly/com.alertus.zenly_838848566_v5.6.6_561_appscan.html.zip "
+    btn_label: "Get an example"
     btn_class: "btn--primary"
 
 feature_audit_other_row:
@@ -66,8 +66,8 @@ feature_audit_other_row:
     alt: "Discover competitors strategies"
     title: "Discover competitors strategies"
     excerpt: "Use the mobile App Analysis Tool to discover the tech stacks and some good ideas."
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "/assets/data/zenly/com.alertus.zenly_838848566_v5.6.6_561_appscan.html.zip"
+    btn_label: "Get an example"
     btn_class: "btn--primary"
 
 feature_row5:
@@ -79,9 +79,6 @@ feature_row5:
     alt: "Increase your App security"
     title: "Increase your App security"
     excerpt: "Discover bad package files or bad configurations"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/illustrations/appscan-wood.png
     title: "Improve your languages support"
     excerpt: "Discover what is missing in your App."

@@ -61,10 +61,10 @@ header:
                 <span class="period">per month</span>
             </div>
             <ul class="list-group">
-                <li class="list-group-item"><strong>Unlimted</strong> .ipa / AppStore Apps</li>
-                <li class="list-group-item"><strong>Unlimted</strong> AppScan reports</li>
-                <li class="list-group-item"><strong>Unlimted</strong> Bugs reports</li>
-                <li class="list-group-item"><strong>Unlimted</strong> AppScore reports</li>
+                <li class="list-group-item"><strong>Unlimited</strong> .ipa / AppStore Apps</li>
+                <li class="list-group-item"><strong>Unlimited</strong> AppScan reports</li>
+                <li class="list-group-item"><strong>Unlimited</strong> Bugs reports</li>
+                <li class="list-group-item"><strong>Unlimited</strong> AppScore reports</li>
                 <li class="list-group-item">
                     <a href="mailto:hello@appscan-hq.com?subject=AppScan%20Ultra&body=Hi" class="btn btn-primary">Let's talk!</a>
                 </li>
@@ -74,19 +74,9 @@ header:
 </div> 
 <!-- /.row -->
 
-## Example of documents for Zenly App
-###  AppScan synthesis
-  
-[Zenly AppScan.html][1]
-  
-## Improvements metrics
-  
-[Zenly SonarMetrics.html][2]
-  
-
-### AppScores
-  
-[Zenly AppScores][3]
+- 🎁 AppScan repor example for Zenly App : [Zenly AppScan.html][1]
+- 🎁 AppScan Bugs report example for Zenly App : [Zenly SonarMetrics.html][2]
+- 🎁 AppScan AppScores report : [Zenly AppScores][3]
 
 [1]:{{ site.url }}/assets/data/zenly/com.alertus.zenly_838848566_v5.6.6_561_appscan.html.zip
 [2]:{{ site.url }}/assets/data/zenly/com.alertus.zenly_838848566_v5.6.6_561_sonar_metrics.html.zip
