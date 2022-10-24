@@ -5,7 +5,7 @@ main:
   - title: "Data Points"
     url: /data-points.html
   - title: "Blog"
-    url: /index.html
+    url: /blog.html
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/

@@ -1,6 +1,6 @@
 ---
 title: "Mobile App Analysis Tool"
-permalink: /mobile-app-analysis-tool.html
+permalink: /index.html
 layout: splash
 author_profile: false
 image: /assets/images/illustrations/appscan-apps-painting-style.png
@@ -8,7 +8,7 @@ header:
     overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
     overlay_image: /assets/images/illustrations/appscan-apps-painting-style.png
 intro: 
-  - excerpt: "The first tool able to analyse any iOS App on the AppStore. We don't need the access to your source code."
+  - excerpt: "The first tool able to analyse any iOS App on the AppStore. We don't need the access thes source code."
 feature_row:
   - image_path: /assets/images/illustrations/appscan-apps-painting-style.png
     alt: "Audit your App"
@@ -17,9 +17,9 @@ feature_row:
   - image_path: /assets/images/illustrations/appscan-books.png
     alt: "Audit any Apps"
     title: "Audit any Apps"
-    excerpt: "Yes! We are able to audit 2 millions Apps"
+    excerpt: "Yes! We can audit 2 millions Apps"
     url: "/pricing.html"
-    btn_label: "Challenge us?"
+    btn_label: "Try it?"
     btn_class: "btn--primary"
   - image_path: /assets/images/illustrations/appscan-droid-scan.png
     title: "Competitor Stacks"
