@@ -3,51 +3,61 @@ title: "Bass Booster (com.bass.booster.app)"
 permalink: /apps/ios/com.bass.booster.app.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/38/74/ca/3874cacd-a212-ef58-8818-a695274370f4/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/38/74/ca/3874cacd-a212-ef58-8818-a695274370f4/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 ---
-Bass Booster (com.bass.booster.app) AppScan description of the content of the iOS application Bass Booster (com.bass.booster.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Bass Booster (com.bass.booster.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Bass Booster (com.bass.booster.app)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/38/74/ca/3874cacd-a212-ef58-8818-a695274370f4/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Bass Booster (com.bass.booster.app
 
 **BundleId:** com.bass.booster.app
 **App Version:** 1.0
 **App Name:** Bass Booster
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 31
 **Public keys:** 4
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 2
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 23
-- Tools: 14 lib(s)
 - Tracking: 3 lib(s)
-- Storage: 1 lib(s)
 - Crash: 1 lib(s)
-
+- Tools: 14 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -80,5 +90,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

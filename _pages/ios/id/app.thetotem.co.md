@@ -3,34 +3,43 @@ title: "TOTEM (app.thetotem.co)"
 permalink: /apps/ios/app.thetotem.co.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/fe/14/66/fe146662-f01b-1678-2991-a62286f88052/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/fe/14/66/fe146662-f01b-1678-2991-a62286f88052/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-TOTEM (app.thetotem.co) AppScan description of the content of the iOS application TOTEM (app.thetotem.co). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application TOTEM (app.thetotem.co). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# TOTEM (app.thetotem.co)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/fe/14/66/fe146662-f01b-1678-2991-a62286f88052/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# TOTEM (app.thetotem.co
 
 **BundleId:** app.thetotem.co
 **App Version:** 5.6.0
 **App Name:** TOTEM
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 33
 **Public keys:** 5
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -40,11 +49,10 @@ build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
-
 
 **Apple dylibs:**
 
@@ -88,5 +96,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

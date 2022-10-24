@@ -3,28 +3,35 @@ title: "HyperShell (com.hyper.shell)"
 permalink: /apps/ios/com.hyper.shell.html
 layout: single
 author_profile: false
----
-HyperShell (com.hyper.shell) AppScan description of the content of the iOS application HyperShell (com.hyper.shell). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# HyperShell (com.hyper.shell)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application HyperShell (com.hyper.shell). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# HyperShell (com.hyper.shell
 
 **BundleId:** com.hyper.shell
 **App Version:** 2.0
 **App Name:** HyperShell
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 27
 **Public keys:** 3
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -34,15 +41,14 @@ build using Xcode 13
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
-- Tools: 11 lib(s)
 - Network: 5 lib(s)
 - Storage: 3 lib(s)
 - UI: 2 lib(s)
-
+- Tools: 11 lib(s)
 
 **Apple dylibs:**
 
@@ -66,5 +72,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

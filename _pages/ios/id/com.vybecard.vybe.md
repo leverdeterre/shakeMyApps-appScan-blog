@@ -3,33 +3,35 @@ title: "Vybe (com.vybecard.vybe)"
 permalink: /apps/ios/com.vybecard.vybe.html
 layout: single
 author_profile: false
----
-Vybe (com.vybecard.vybe) AppScan description of the content of the iOS application Vybe (com.vybecard.vybe). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Vybe (com.vybecard.vybe)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Vybe (com.vybecard.vybe). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Vybe (com.vybecard.vybe
 
 **BundleId:** com.vybecard.vybe
 **App Version:** 2.7.83
 **App Name:** Vybe
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSFaceIDUsageDescription
-- NSContactsUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 30
 **Public keys:** 9
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -38,13 +40,12 @@ supported devices iPhone & iPad
 build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
 - Tools: 1 lib(s)
 - UI: 1 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -106,5 +107,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

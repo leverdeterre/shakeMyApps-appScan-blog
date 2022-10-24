@@ -3,29 +3,35 @@ title: "Followers (com.Followers.Tool.app)"
 permalink: /apps/ios/com.Followers.Tool.app.html
 layout: single
 author_profile: false
----
-Followers (com.Followers.Tool.app) AppScan description of the content of the iOS application Followers (com.Followers.Tool.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Followers (com.Followers.Tool.app)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Followers (com.Followers.Tool.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Followers (com.Followers.Tool.app
 
 **BundleId:** com.Followers.Tool.app
 **App Version:** 1.9.5
 **App Name:** Followers
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 29
 **Public keys:** 4
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -35,11 +41,10 @@ supported devices iPhone & iPad
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
-
 
 **Apple dylibs:**
 
@@ -80,5 +85,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

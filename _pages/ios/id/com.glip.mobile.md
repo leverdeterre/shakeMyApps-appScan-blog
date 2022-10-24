@@ -3,42 +3,43 @@ title: "RingCentral (com.glip.mobile)"
 permalink: /apps/ios/com.glip.mobile.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/6d/9b/9a6d9bdf-764b-8e6a-223c-0fb280cef0b8/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/6d/9b/9a6d9bdf-764b-8e6a-223c-0fb280cef0b8/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-RingCentral (com.glip.mobile) AppScan description of the content of the iOS application RingCentral (com.glip.mobile). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application RingCentral (com.glip.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# RingCentral (com.glip.mobile)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/6d/9b/9a6d9bdf-764b-8e6a-223c-0fb280cef0b8/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# RingCentral (com.glip.mobile
 
 **BundleId:** com.glip.mobile
 **App Version:** 22.3.30
 **App Name:** RingCentral
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCalendarsUsageDescription
-- NSSiriUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSMicrophoneUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSContactsUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 34
 **Public keys:** 8
 **Custom keys:** 23
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -51,11 +52,10 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-
 
 **Apple dylibs:**
 
@@ -112,5 +112,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,49 +3,54 @@ title: "Preview (com.sensio.instapreview)"
 permalink: /apps/ios/com.sensio.instapreview.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/22/15/98/221598da-2338-8f96-c65c-b2519c5a0426/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/22/15/98/221598da-2338-8f96-c65c-b2519c5a0426/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Preview (com.sensio.instapreview) AppScan description of the content of the iOS application Preview (com.sensio.instapreview). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Preview (com.sensio.instapreview). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Preview (com.sensio.instapreview)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/22/15/98/221598da-2338-8f96-c65c-b2519c5a0426/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Preview (com.sensio.instapreview
 
 **BundleId:** com.sensio.instapreview
 **App Version:** 3.25.3
 **App Name:** Preview
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 32
 **Public keys:** 7
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
-Facebook Login detected
+FacebookLogin detected
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
-
 
 **Apple dylibs:**
 
@@ -54,5 +59,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

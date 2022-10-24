@@ -3,31 +3,35 @@ title: "全球翻译通 (com.global.translation.king)"
 permalink: /apps/ios/com.global.translation.king.html
 layout: single
 author_profile: false
----
-全球翻译通 (com.global.translation.king) AppScan description of the content of the iOS application 全球翻译通 (com.global.translation.king). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# 全球翻译通 (com.global.translation.king)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application 全球翻译通 (com.global.translation.king). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# 全球翻译通 (com.global.translation.king
 
 **BundleId:** com.global.translation.king
 **App Version:** 1.0.2
 **App Name:** 全球翻译通
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSSpeechRecognitionUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 25
 **Public keys:** 6
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -36,14 +40,13 @@ Native App
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
 - Tools: 2 lib(s)
-- Network: 3 lib(s)
 - UI: 1 lib(s)
-
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -74,5 +77,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,58 +3,78 @@ title: "Colorful Widget (com.widget.theme)"
 permalink: /apps/ios/com.widget.theme.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/55/ed/53/55ed5324-c1d3-2fb9-b933-067e5c4a8f38/AppIcon-Test3-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/29/e6/a3/29e6a335-e342-84ff-c1af-b537753a2b9c/AppIcon-Test3-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/55/ed/53/55ed5324-c1d3-2fb9-b933-067e5c4a8f38/AppIcon-Test3-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/29/e6/a3/29e6a335-e342-84ff-c1af-b537753a2b9c/AppIcon-Test3-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Colorful Widget (com.widget.theme) AppScan description of the content of the iOS application Colorful Widget (com.widget.theme). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Colorful Widget (com.widget.theme). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Colorful Widget (com.widget.theme)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/29/e6/a3/29e6a335-e342-84ff-c1af-b537753a2b9c/AppIcon-Test3-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Colorful Widget (com.widget.theme
 
 **BundleId:** com.widget.theme
 **App Version:** 1.7.4
 **App Name:** Colorful Widget
 
 
+## AppScore : 4.23 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSMotionUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSContactsUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 31
 **Public keys:** 8
 **Custom keys:** 12
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
+FacebookLogin detected
 Native App
 contains 2 App extensions
 support multiple languages
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 49
-- Crash: 1 lib(s)
-- Tracking: 5 lib(s)
-- Storage: 1 lib(s)
+- UI: 4 lib(s)
 - Network: 3 lib(s)
 - Tools: 15 lib(s)
-- UI: 4 lib(s)
-
+- Crash: 1 lib(s)
+- Storage: 1 lib(s)
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 
@@ -116,5 +136,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,63 +3,80 @@ title: "Notino (com.notino.notino)"
 permalink: /apps/ios/com.notino.notino.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/13/c4/06/13c406f7-0aa1-997c-55a9-abcf7a0f5fb8/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/3f/64/b6/3f64b62a-d638-31df-024f-ff192afe4b14/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/13/c4/06/13c406f7-0aa1-997c-55a9-abcf7a0f5fb8/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/3f/64/b6/3f64b62a-d638-31df-024f-ff192afe4b14/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Notino (com.notino.notino) AppScan description of the content of the iOS application Notino (com.notino.notino). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Notino (com.notino.notino). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Notino (com.notino.notino)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/3f/64/b6/3f64b62a-d638-31df-024f-ff192afe4b14/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Notino (com.notino.notino
 
 **BundleId:** com.notino.notino
 **App Version:** 3.14.3
 **App Name:** Notino
 
 
+## AppScore : 4.31 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSFaceIDUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 74
-- Tracking: 4 lib(s)
 - Network: 4 lib(s)
+- UI: 5 lib(s)
 - Logs: 1 lib(s)
+- Tools: 20 lib(s)
 - Storage: 3 lib(s)
 - Crash: 1 lib(s)
-- UI: 5 lib(s)
-- Tools: 20 lib(s)
-
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -97,5 +114,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

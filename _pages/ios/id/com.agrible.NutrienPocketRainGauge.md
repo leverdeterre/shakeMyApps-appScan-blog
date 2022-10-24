@@ -3,40 +3,57 @@ title: "Rain Gauge (com.agrible.NutrienPocketRainGauge)"
 permalink: /apps/ios/com.agrible.NutrienPocketRainGauge.html
 layout: single
 author_profile: false
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/12/2a/4b122a31-37b3-d7fd-fda8-63445c841491/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/08/f9/ba08f9d5-54a9-a263-874d-1aff23f01629/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/12/2a/4b122a31-37b3-d7fd-fda8-63445c841491/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/08/f9/ba08f9d5-54a9-a263-874d-1aff23f01629/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Rain Gauge (com.agrible.NutrienPocketRainGauge) AppScan description of the content of the iOS application Rain Gauge (com.agrible.NutrienPocketRainGauge). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Rain Gauge (com.agrible.NutrienPocketRainGauge). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Rain Gauge (com.agrible.NutrienPocketRainGauge)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/08/f9/ba08f9d5-54a9-a263-874d-1aff23f01629/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Rain Gauge (com.agrible.NutrienPocketRainGauge
 
 **BundleId:** com.agrible.NutrienPocketRainGauge
-**App Version:** 3.0.3
+**App Version:** 3.0.4
 **App Name:** Rain Gauge
 
 
+## AppScore : 4.33 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSRemindersUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSCameraUsageDescription
-- NSMotionUsageDescription
-- NSContactsUsageDescription
-- NSCalendarsUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 29
 **Public keys:** 4
 **Custom keys:** 16
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -44,11 +61,10 @@ Number of entitlements detected: 5
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -125,5 +141,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

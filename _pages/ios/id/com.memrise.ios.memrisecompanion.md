@@ -3,43 +3,63 @@ title: "Memrise (com.memrise.ios.memrisecompanion)"
 permalink: /apps/ios/com.memrise.ios.memrisecompanion.html
 layout: single
 author_profile: false
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/22/16/f5221680-830f-3258-a14d-5a990fd32811/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-0-85-220-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/36/52/8f36529e-6ebf-1cd1-10fb-9cb6107976a5/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/22/16/f5221680-830f-3258-a14d-5a990fd32811/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-0-85-220-0.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/36/52/8f36529e-6ebf-1cd1-10fb-9cb6107976a5/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-0-85-220-0.png/512x512bb.jpg
 ---
-Memrise (com.memrise.ios.memrisecompanion) AppScan description of the content of the iOS application Memrise (com.memrise.ios.memrisecompanion). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Memrise (com.memrise.ios.memrisecompanion). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Memrise (com.memrise.ios.memrisecompanion)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/36/52/8f36529e-6ebf-1cd1-10fb-9cb6107976a5/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Memrise (com.memrise.ios.memrisecompanion
 
 **BundleId:** com.memrise.ios.memrisecompanion
 **App Version:** 2022.10.3
 **App Name:** Memrise
 
 
+## AppScore : 4.41 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysUsageDescription 
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 32
 **Public keys:** 6
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 contains 1 App extensions
@@ -47,14 +67,13 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
 - Network: 1 lib(s)
-- Tools: 8 lib(s)
 - UI: 2 lib(s)
-
+- Tools: 8 lib(s)
 
 **Apple dylibs:**
 
@@ -100,5 +119,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

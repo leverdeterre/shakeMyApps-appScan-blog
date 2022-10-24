@@ -3,44 +3,62 @@ title: "Dictionary (com.m-w.dictionary)"
 permalink: /apps/ios/com.m-w.dictionary.html
 layout: single
 author_profile: false
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/e3/e7/d6e3e7fb-02cc-9336-36b5-86c3ee852709/contsched.wgspgkip.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/ca/f0/1ccaf050-da16-7504-1ef1-9a46df2ce6cb/contsched.dzcvlvzs.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/e3/e7/d6e3e7fb-02cc-9336-36b5-86c3ee852709/contsched.wgspgkip.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/ca/f0/1ccaf050-da16-7504-1ef1-9a46df2ce6cb/contsched.dzcvlvzs.png/512x512bb.jpg
 ---
-Dictionary (com.m-w.dictionary) AppScan description of the content of the iOS application Dictionary (com.m-w.dictionary). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Dictionary (com.m-w.dictionary). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Dictionary (com.m-w.dictionary)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/ca/f0/1ccaf050-da16-7504-1ef1-9a46df2ce6cb/contsched.dzcvlvzs.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Dictionary (com.m-w.dictionary
 
 **BundleId:** com.m-w.dictionary
-**App Version:** 5.6.5
+**App Version:** 5.6.6
 **App Name:** Dictionary
 
 
+## AppScore : 4.36 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-- NSCameraUsageDescription
-- NSRemindersUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 30
-**Public keys:** 8
+**Public keys:** 9
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 8
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -48,18 +66,17 @@ contains 5 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- Storage: 2 lib(s)
 - Network: 2 lib(s)
+- Tracking: 2 lib(s)
 - UI: 4 lib(s)
+- Storage: 2 lib(s)
+- Tools: 10 lib(s)
 - Crash: 2 lib(s)
 - Logs: 1 lib(s)
-- Tracking: 2 lib(s)
-- Tools: 10 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -125,5 +142,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,44 +3,43 @@ title: "BJ's (com.bjs.mobileapp)"
 permalink: /apps/ios/com.bjs.mobileapp.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/0c/33/d90c3388-00f1-96d4-e459-339643fada89/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7c/93/c9/7c93c9b3-7bd9-9839-f71e-49d4c41b3214/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/0c/33/d90c3388-00f1-96d4-e459-339643fada89/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7c/93/c9/7c93c9b3-7bd9-9839-f71e-49d4c41b3214/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-BJ's (com.bjs.mobileapp) AppScan description of the content of the iOS application BJ's (com.bjs.mobileapp). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application BJ's (com.bjs.mobileapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# BJ's (com.bjs.mobileapp)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7c/93/c9/7c93c9b3-7bd9-9839-f71e-49d4c41b3214/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# BJ's (com.bjs.mobileapp
 
 **BundleId:** com.bjs.mobileapp
-**App Version:** 11.0.0
+**App Version:** 11.0.2
 **App Name:** BJ's
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSMotionUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSMicrophoneUsageDescription
-- NSContactsUsageDescription
-- NSFaceIDUsageDescription
-- NSAppleMusicUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSCalendarsUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 13
 **Private keys:** 28
 **Public keys:** 7
 **Custom keys:** 15
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -49,12 +48,11 @@ build using Xcode 13
 contains 1 App extensions
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
 - Tools: 1 lib(s)
-
 
 **Apple dylibs:**
 - libswiftCore
@@ -116,5 +114,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

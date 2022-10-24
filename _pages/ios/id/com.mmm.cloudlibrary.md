@@ -3,40 +3,43 @@ title: "cloudLibrary (com.mmm.cloudlibrary)"
 permalink: /apps/ios/com.mmm.cloudlibrary.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/92/68/a6/9268a68d-7486-6931-36eb-f82786fd8add/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/92/68/a6/9268a68d-7486-6931-36eb-f82786fd8add/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 ---
-cloudLibrary (com.mmm.cloudlibrary) AppScan description of the content of the iOS application cloudLibrary (com.mmm.cloudlibrary). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application cloudLibrary (com.mmm.cloudlibrary). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# cloudLibrary (com.mmm.cloudlibrary)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/92/68/a6/9268a68d-7486-6931-36eb-f82786fd8add/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+  
+# cloudLibrary (com.mmm.cloudlibrary
 
 **BundleId:** com.mmm.cloudlibrary
 **App Version:** 5.8.1
 **App Name:** cloudLibrary
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCalendarsUsageDescription
-- NFCReaderUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 32
 **Public keys:** 6
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -48,17 +51,16 @@ contains 1 App extensions
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 41
-- Tracking: 1 lib(s)
-- Tools: 12 lib(s)
-- Crash: 1 lib(s)
 - UI: 4 lib(s)
 - Network: 1 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 1 lib(s)
 - Storage: 1 lib(s)
-
+- Tools: 12 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -123,5 +125,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

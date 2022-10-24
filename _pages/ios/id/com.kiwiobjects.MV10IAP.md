@@ -3,36 +3,43 @@ title: "GasManager (com.kiwiobjects.MV10IAP)"
 permalink: /apps/ios/com.kiwiobjects.MV10IAP.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/c1/29/e2c12964-2aaf-3453-8b5f-c8cfb74d15f6/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/c1/29/e2c12964-2aaf-3453-8b5f-c8cfb74d15f6/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-GasManager (com.kiwiobjects.MV10IAP) AppScan description of the content of the iOS application GasManager (com.kiwiobjects.MV10IAP). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application GasManager (com.kiwiobjects.MV10IAP). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# GasManager (com.kiwiobjects.MV10IAP)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/c1/29/e2c12964-2aaf-3453-8b5f-c8cfb74d15f6/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# GasManager (com.kiwiobjects.MV10IAP
 
 **BundleId:** com.kiwiobjects.MV10IAP
 **App Version:** 1.59
 **App Name:** GasManager
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSLocationUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -42,11 +49,10 @@ supported devices iPhone & iPad
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
-
 
 **Apple dylibs:**
 
@@ -71,5 +77,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

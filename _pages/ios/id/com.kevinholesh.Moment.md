@@ -3,31 +3,35 @@ title: "Moment (com.kevinholesh.Moment)"
 permalink: /apps/ios/com.kevinholesh.Moment.html
 layout: single
 author_profile: false
----
-Moment (com.kevinholesh.Moment) AppScan description of the content of the iOS application Moment (com.kevinholesh.Moment). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Moment (com.kevinholesh.Moment)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Moment (com.kevinholesh.Moment). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Moment (com.kevinholesh.Moment
 
 **BundleId:** com.kevinholesh.Moment
 **App Version:** 2021.12
 **App Name:** Moment
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 31
 **Public keys:** 5
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -38,11 +42,10 @@ contains 1 App extensions
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -77,5 +80,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

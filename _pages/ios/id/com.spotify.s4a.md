@@ -3,48 +3,58 @@ title: "Artists (com.spotify.s4a)"
 permalink: /apps/ios/com.spotify.s4a.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/55/e5/b3/55e5b3bd-39bc-6127-3bb1-ee3ebb880173/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/55/e5/b3/55e5b3bd-39bc-6127-3bb1-ee3ebb880173/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/512x512bb.jpg
 ---
-Artists (com.spotify.s4a) AppScan description of the content of the iOS application Artists (com.spotify.s4a). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Artists (com.spotify.s4a). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Artists (com.spotify.s4a)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/55/e5/b3/55e5b3bd-39bc-6127-3bb1-ee3ebb880173/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Artists (com.spotify.s4a
 
 **BundleId:** com.spotify.s4a
 **App Version:** 2.0.83
 **App Name:** Artists
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 30
 **Public keys:** 5
 **Custom keys:** 18
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
+FacebookLogin detected
 Native App
 build using Xcode 13
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
-
 
 **Apple dylibs:**
 
@@ -84,5 +94,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

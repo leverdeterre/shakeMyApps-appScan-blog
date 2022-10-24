@@ -3,55 +3,50 @@ title: "GuidePal (com.guidepal.guidepalcityguides)"
 permalink: /apps/ios/com.guidepal.guidepalcityguides.html
 layout: single
 author_profile: false
----
-GuidePal (com.guidepal.guidepalcityguides) AppScan description of the content of the iOS application GuidePal (com.guidepal.guidepalcityguides). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# GuidePal (com.guidepal.guidepalcityguides)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application GuidePal (com.guidepal.guidepalcityguides). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# GuidePal (com.guidepal.guidepalcityguides
 
 **BundleId:** com.guidepal.guidepalcityguides
 **App Version:** 4.0.6
 **App Name:** GuidePal
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSMotionUsageDescription
-- NSLocationUsageDescription
-- NSContactsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSMicrophoneUsageDescription
-- NSCameraUsageDescription
-- NSRemindersUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 12
 **Private keys:** 32
 **Public keys:** 4
 **Custom keys:** 20
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
+FacebookLogin detected
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 104
-- Logs: 2 lib(s)
-- Tools: 12 lib(s)
-- Tracking: 4 lib(s)
 - UI: 1 lib(s)
-
+- Tools: 12 lib(s)
+- Logs: 2 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -105,5 +100,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

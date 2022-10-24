@@ -3,48 +3,62 @@ title: "MoneyGram (com.moneygram.us)"
 permalink: /apps/ios/com.moneygram.us.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/37/4d/b2/374db2b5-e53d-269e-edc9-a0c11cad33e1/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/7f/d8/ab7fd8d3-9348-22e4-1600-ecbb62795453/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/37/4d/b2/374db2b5-e53d-269e-edc9-a0c11cad33e1/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/7f/d8/ab7fd8d3-9348-22e4-1600-ecbb62795453/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-MoneyGram (com.moneygram.us) AppScan description of the content of the iOS application MoneyGram (com.moneygram.us). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application MoneyGram (com.moneygram.us). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# MoneyGram (com.moneygram.us)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/7f/d8/ab7fd8d3-9348-22e4-1600-ecbb62795453/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# MoneyGram (com.moneygram.us
 
 **BundleId:** com.moneygram.us
 **App Version:** 22.9.1
 **App Name:** MoneyGram
 
 
+## AppScore : 4.16 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysUsageDescription
-- NFCReaderUsageDescription
-- NSMicrophoneUsageDescription
-- NSContactsUsageDescription
-- NSFaceIDUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSAppleMusicUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 12
 **Private keys:** 29
 **Public keys:** 5
 **Custom keys:** 17
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -53,15 +67,14 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 30
-- Tracking: 7 lib(s)
 - Crash: 1 lib(s)
 - Tools: 8 lib(s)
+- Tracking: 7 lib(s)
 - UI: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -108,5 +121,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

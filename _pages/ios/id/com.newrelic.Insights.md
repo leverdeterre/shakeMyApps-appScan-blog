@@ -3,30 +3,35 @@ title: "Insights (com.newrelic.Insights)"
 permalink: /apps/ios/com.newrelic.Insights.html
 layout: single
 author_profile: false
----
-Insights (com.newrelic.Insights) AppScan description of the content of the iOS application Insights (com.newrelic.Insights). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Insights (com.newrelic.Insights)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Insights (com.newrelic.Insights). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Insights (com.newrelic.Insights
 
 **BundleId:** com.newrelic.Insights
 **App Version:** 1.13.4
 **App Name:** Insights
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSFaceIDUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSBluetoothAlwaysUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 33
 **Public keys:** 6
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -37,14 +42,13 @@ contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- Network: 1 lib(s)
 - Tools: 2 lib(s)
 - Tracking: 1 lib(s)
-
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -84,5 +88,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

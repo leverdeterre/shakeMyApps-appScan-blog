@@ -3,44 +3,64 @@ title: "Anchor (com.anchorfminc.Anchor)"
 permalink: /apps/ios/com.anchorfminc.Anchor.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/d5/dc/c5d5dc82-c2b6-38e5-aaec-625a677d8851/AppIcon-Rebrand-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/e1/d9/c3e1d9fd-6bf6-f29b-9ef7-e5932d6fcb68/AppIcon-Rebrand-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/d5/dc/c5d5dc82-c2b6-38e5-aaec-625a677d8851/AppIcon-Rebrand-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/e1/d9/c3e1d9fd-6bf6-f29b-9ef7-e5932d6fcb68/AppIcon-Rebrand-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Anchor (com.anchorfminc.Anchor) AppScan description of the content of the iOS application Anchor (com.anchorfminc.Anchor). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Anchor (com.anchorfminc.Anchor). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Anchor (com.anchorfminc.Anchor)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/e1/d9/c3e1d9fd-6bf6-f29b-9ef7-e5932d6fcb68/AppIcon-Rebrand-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Anchor (com.anchorfminc.Anchor
 
 **BundleId:** com.anchorfminc.Anchor
 **App Version:** 3.143.0
 **App Name:** Anchor
 
 
+## AppScore : 4.38 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSCameraUsageDescription
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 33
 **Public keys:** 7
 **Custom keys:** 19
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Twitter Login detected
-Facebook Login detected
-Google Login detected
+AppleSignIn detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -49,17 +69,16 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 56
+- Tracking: 6 lib(s)
 - Storage: 1 lib(s)
 - UI: 2 lib(s)
-- Network: 3 lib(s)
-- Crash: 1 lib(s)
-- Tracking: 6 lib(s)
 - Tools: 17 lib(s)
-
+- Crash: 1 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -110,5 +129,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

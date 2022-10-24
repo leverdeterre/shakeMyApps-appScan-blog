@@ -3,41 +3,43 @@ title: "ActiveCaptain (com.garmin.MarineMobile)"
 permalink: /apps/ios/com.garmin.MarineMobile.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/5c/ae/605caec4-e0c2-b0b4-8a20-b8bf06cd3233/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/5c/ae/605caec4-e0c2-b0b4-8a20-b8bf06cd3233/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-ActiveCaptain (com.garmin.MarineMobile) AppScan description of the content of the iOS application ActiveCaptain (com.garmin.MarineMobile). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application ActiveCaptain (com.garmin.MarineMobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# ActiveCaptain (com.garmin.MarineMobile)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/5c/ae/605caec4-e0c2-b0b4-8a20-b8bf06cd3233/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# ActiveCaptain (com.garmin.MarineMobile
 
 **BundleId:** com.garmin.MarineMobile
 **App Version:** 28.0
 **App Name:** ActiveCaptain
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSFaceIDUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocalNetworkUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSContactsUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 32
 **Public keys:** 7
 **Custom keys:** 27
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -48,11 +50,10 @@ build using Xcode 13
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
-
 
 **Apple dylibs:**
 
@@ -91,5 +92,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

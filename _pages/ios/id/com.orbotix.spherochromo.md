@@ -3,27 +3,35 @@ title: "Chromo (com.orbotix.spherochromo)"
 permalink: /apps/ios/com.orbotix.spherochromo.html
 layout: single
 author_profile: false
----
-Chromo (com.orbotix.spherochromo) AppScan description of the content of the iOS application Chromo (com.orbotix.spherochromo). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Chromo (com.orbotix.spherochromo)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Chromo (com.orbotix.spherochromo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Chromo (com.orbotix.spherochromo
 
 **BundleId:** com.orbotix.spherochromo
 **App Version:** 1.1.2
 **App Name:** Chromo
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 30
 **Public keys:** 7
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -32,11 +40,10 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -59,5 +66,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

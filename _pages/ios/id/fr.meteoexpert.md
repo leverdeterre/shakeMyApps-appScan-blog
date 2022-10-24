@@ -3,40 +3,43 @@ title: "Météo Expert (fr.meteoexpert)"
 permalink: /apps/ios/fr.meteoexpert.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e2/85/14/e285144b-e0af-4cda-1278-2cce94f2ac0d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e2/85/14/e285144b-e0af-4cda-1278-2cce94f2ac0d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Météo Expert (fr.meteoexpert) AppScan description of the content of the iOS application Météo Expert (fr.meteoexpert). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Météo Expert (fr.meteoexpert). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Météo Expert (fr.meteoexpert)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e2/85/14/e285144b-e0af-4cda-1278-2cce94f2ac0d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Météo Expert (fr.meteoexpert
 
 **BundleId:** fr.meteoexpert
 **App Version:** 1.0
 **App Name:** Météo Expert
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 33
 **Public keys:** 9
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -46,12 +49,11 @@ build using Xcode 13
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
 - Tools: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -101,5 +103,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

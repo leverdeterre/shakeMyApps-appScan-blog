@@ -3,45 +3,49 @@ title: "Promova (genesis.tenwords)"
 permalink: /apps/ios/genesis.tenwords.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/c0/cd/aac0cda3-78dc-87d9-49ef-fda950b48c18/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/c0/cd/aac0cda3-78dc-87d9-49ef-fda950b48c18/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-Promova (genesis.tenwords) AppScan description of the content of the iOS application Promova (genesis.tenwords). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Promova (genesis.tenwords). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Promova (genesis.tenwords)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/c0/cd/aac0cda3-78dc-87d9-49ef-fda950b48c18/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Promova (genesis.tenwords
 
 **BundleId:** genesis.tenwords
 **App Version:** 4.20.0
 **App Name:** Promova
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-- NSMotionUsageDescription
-- NSMicrophoneUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 29
 **Public keys:** 7
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 build using Xcode 13
 contains 4 App extensions
@@ -49,17 +53,16 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 50
-- UI: 1 lib(s)
-- Storage: 3 lib(s)
 - Tracking: 2 lib(s)
-- Crash: 1 lib(s)
 - Tools: 26 lib(s)
+- Storage: 3 lib(s)
 - Network: 4 lib(s)
-
+- UI: 1 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -114,5 +117,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

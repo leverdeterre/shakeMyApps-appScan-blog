@@ -3,47 +3,71 @@ title: "NYS Wallet (gov.ny.its.healthpassport.wallet)"
 permalink: /apps/ios/gov.ny.its.healthpassport.wallet.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/e5/95/c7/e595c77b-d031-20b4-1ca6-e0cf2ffe243f/source/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/8b/d2/c68bd21b-e199-a842-8e90-f90687991588/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/e5/95/c7/e595c77b-d031-20b4-1ca6-e0cf2ffe243f/source/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/8b/d2/c68bd21b-e199-a842-8e90-f90687991588/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-NYS Wallet (gov.ny.its.healthpassport.wallet) AppScan description of the content of the iOS application NYS Wallet (gov.ny.its.healthpassport.wallet). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application NYS Wallet (gov.ny.its.healthpassport.wallet). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# NYS Wallet (gov.ny.its.healthpassport.wallet)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/8b/d2/c68bd21b-e199-a842-8e90-f90687991588/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# NYS Wallet (gov.ny.its.healthpassport.wallet
 
 **BundleId:** gov.ny.its.healthpassport.wallet
 **App Version:** 2.9.0
 **App Name:** NYS Wallet
 
 
+## AppScore : 4.37 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 34
 **Public keys:** 5
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
 Native App
 supported devices iPhone & iPad
+build using Xcode 13
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
-
 
 **Apple dylibs:**
 
@@ -69,5 +93,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

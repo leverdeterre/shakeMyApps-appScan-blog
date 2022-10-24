@@ -3,31 +3,43 @@ title: "Scout (com.instatfootball.sc)"
 permalink: /apps/ios/com.instatfootball.sc.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/b6/86/0cb68617-bbe1-e816-20d4-ee12a9150525/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/b6/86/0cb68617-bbe1-e816-20d4-ee12a9150525/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Scout (com.instatfootball.sc) AppScan description of the content of the iOS application Scout (com.instatfootball.sc). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Scout (com.instatfootball.sc). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Scout (com.instatfootball.sc)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/0c/b6/86/0cb68617-bbe1-e816-20d4-ee12a9150525/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Scout (com.instatfootball.sc
 
 **BundleId:** com.instatfootball.sc
 **App Version:** 2.1.31
 **App Name:** Scout
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 31
 **Public keys:** 6
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -39,15 +51,14 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
-- Network: 2 lib(s)
-- Storage: 2 lib(s)
 - Tracking: 2 lib(s)
 - Tools: 12 lib(s)
-
+- Storage: 2 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -83,5 +94,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

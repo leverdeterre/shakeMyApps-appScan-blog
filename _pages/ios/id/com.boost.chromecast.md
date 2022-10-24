@@ -3,40 +3,63 @@ title: "Chromecaster (com.boost.chromecast)"
 permalink: /apps/ios/com.boost.chromecast.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/89/b3/a8/89b3a8e7-0b1b-5599-bf92-42a9f114d1fc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/89/b3/a8/89b3a8e7-0b1b-5599-bf92-42a9f114d1fc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Chromecaster (com.boost.chromecast) AppScan description of the content of the iOS application Chromecaster (com.boost.chromecast). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Chromecaster (com.boost.chromecast). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Chromecaster (com.boost.chromecast)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/89/b3/a8/89b3a8e7-0b1b-5599-bf92-42a9f114d1fc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Chromecaster (com.boost.chromecast
 
 **BundleId:** com.boost.chromecast
 **App Version:** 2.1.1
 **App Name:** Chromecaster
 
 
+## AppScore : 4.34 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocalNetworkUsageDescription
-- NSAppleMusicUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 32
 **Public keys:** 7
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -44,17 +67,16 @@ contains 1 App extensions
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 42
-- Storage: 1 lib(s)
-- Crash: 1 lib(s)
 - Tools: 16 lib(s)
-- UI: 1 lib(s)
-- Network: 4 lib(s)
 - Tracking: 2 lib(s)
-
+- Network: 4 lib(s)
+- Crash: 1 lib(s)
+- Storage: 1 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -127,5 +149,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

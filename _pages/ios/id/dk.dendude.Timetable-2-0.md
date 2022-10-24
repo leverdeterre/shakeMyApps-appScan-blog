@@ -3,40 +3,48 @@ title: "Timetable (dk.dendude.Timetable-2-0)"
 permalink: /apps/ios/dk.dendude.Timetable-2-0.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/fc/89/abfc8905-822f-ee07-db2d-90962e4bf580/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/fc/89/abfc8905-822f-ee07-db2d-90962e4bf580/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Timetable (dk.dendude.Timetable-2-0) AppScan description of the content of the iOS application Timetable (dk.dendude.Timetable-2-0). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Timetable (dk.dendude.Timetable-2-0). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Timetable (dk.dendude.Timetable-2-0)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/fc/89/abfc8905-822f-ee07-db2d-90962e4bf580/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Timetable (dk.dendude.Timetable-2-0
 
 **BundleId:** dk.dendude.Timetable-2-0
 **App Version:** 7.9.2
 **App Name:** Timetable
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCalendarsUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 29
 **Public keys:** 7
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 12
-Google Login detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -46,11 +54,10 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -91,5 +98,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

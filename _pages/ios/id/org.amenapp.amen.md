@@ -3,59 +3,64 @@ title: "Amen (org.amenapp.amen)"
 permalink: /apps/ios/org.amenapp.amen.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b8/a6/a2/b8a6a28a-8158-d4f8-fd9f-d23a85d2cd29/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/c4/a9/ad/c4a9adfd-59c2-7fc4-b6d6-7c5a3fcfbf70/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b8/a6/a2/b8a6a28a-8158-d4f8-fd9f-d23a85d2cd29/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/c4/a9/ad/c4a9adfd-59c2-7fc4-b6d6-7c5a3fcfbf70/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Amen (org.amenapp.amen) AppScan description of the content of the iOS application Amen (org.amenapp.amen). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Amen (org.amenapp.amen). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Amen (org.amenapp.amen)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/c4/a9/ad/c4a9adfd-59c2-7fc4-b6d6-7c5a3fcfbf70/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Amen (org.amenapp.amen
 
 **BundleId:** org.amenapp.amen
-**App Version:** 1.0.43
+**App Version:** 1.0.45
 **App Name:** Amen
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSHealthUpdateUsageDescription
-- NSCameraUsageDescription
-- NSHealthShareUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 32
 **Public keys:** 8
 **Custom keys:** 15
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 8
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 34
-- Crash: 1 lib(s)
+**Number of Third Party Library detected:** 36
+- Tools: 20 lib(s)
+- Tracking: 5 lib(s)
 - Network: 4 lib(s)
+- Crash: 1 lib(s)
+- UI: 1 lib(s)
 - Storage: 1 lib(s)
-- Tracking: 3 lib(s)
-- UI: 2 lib(s)
-- Tools: 19 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -111,13 +116,13 @@ Some userActivityTypes
 - AVFoundation
 - AdSupport
 - iAd
+- CoreServices
 - Intents
 - IntentsUI
 - AVKit
 - AuthenticationServices
-- Photos
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,60 +3,62 @@ title: "Hollister (com.abercrombie.hollister)"
 permalink: /apps/ios/com.abercrombie.hollister.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/5c/fd/dc5cfdff-1fc7-0837-f2d3-612708ec7881/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/e9/5d/18e95db1-c783-f661-6b81-39128e01451b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/5c/fd/dc5cfdff-1fc7-0837-f2d3-612708ec7881/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/e9/5d/18e95db1-c783-f661-6b81-39128e01451b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-Hollister (com.abercrombie.hollister) AppScan description of the content of the iOS application Hollister (com.abercrombie.hollister). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Hollister (com.abercrombie.hollister). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Hollister (com.abercrombie.hollister)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/e9/5d/18e95db1-c783-f661-6b81-39128e01451b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Hollister (com.abercrombie.hollister
 
 **BundleId:** com.abercrombie.hollister
-**App Version:** 11.1.0
+**App Version:** 11.2.0
 **App Name:** Hollister
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSMicrophoneUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 32
 **Public keys:** 8
-**Custom keys:** 41
+**Custom keys:** 42
 **Low securit keys:** 8
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
 Native App
-build using Xcode 13
 contains 3 App extensions
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 63
-- Tracking: 1 lib(s)
-- Logs: 2 lib(s)
-- Network: 1 lib(s)
 - Tools: 2 lib(s)
+- Logs: 2 lib(s)
 - UI: 2 lib(s)
-
+- Tracking: 1 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -81,6 +83,8 @@ Some userActivityTypes
 - Accounts
 - CoreLocation
 - Social
+- SafariServices
+- AuthenticationServices
 - CoreSpotlight
 - CoreServices
 - iAd
@@ -92,5 +96,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

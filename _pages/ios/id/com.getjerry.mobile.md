@@ -3,58 +3,58 @@ title: "Jerry (com.getjerry.mobile)"
 permalink: /apps/ios/com.getjerry.mobile.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/9f/8c/43/9f8c43c5-e62d-ff43-638e-92459d6b869b/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/9f/8c/43/9f8c43c5-e62d-ff43-638e-92459d6b869b/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Jerry (com.getjerry.mobile) AppScan description of the content of the iOS application Jerry (com.getjerry.mobile). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Jerry (com.getjerry.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Jerry (com.getjerry.mobile)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/9f/8c/43/9f8c43c5-e62d-ff43-638e-92459d6b869b/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Jerry (com.getjerry.mobile
 
 **BundleId:** com.getjerry.mobile
 **App Version:** 3.54
 **App Name:** Jerry
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMotionUsageDescription
-- NSContactsUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationTemporaryUsageDescriptionDictionary
-  
-  
+**Number of permissions:** 11
 **Private keys:** 30
 **Public keys:** 7
 **Custom keys:** 24
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Facebook Login detected
+FacebookLogin detected
 contains 1 App extensions
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
-- Tracking: 2 lib(s)
 - Tools: 3 lib(s)
-
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -119,5 +119,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

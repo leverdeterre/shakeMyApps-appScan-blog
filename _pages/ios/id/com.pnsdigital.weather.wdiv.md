@@ -3,41 +3,43 @@ title: "4Warn (com.pnsdigital.weather.wdiv)"
 permalink: /apps/ios/com.pnsdigital.weather.wdiv.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/14/48/7a/14487ab4-6a5a-4663-9875-e6df72bd60d2/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/14/48/7a/14487ab4-6a5a-4663-9875-e6df72bd60d2/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 ---
-4Warn (com.pnsdigital.weather.wdiv) AppScan description of the content of the iOS application 4Warn (com.pnsdigital.weather.wdiv). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application 4Warn (com.pnsdigital.weather.wdiv). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# 4Warn (com.pnsdigital.weather.wdiv)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/14/48/7a/14487ab4-6a5a-4663-9875-e6df72bd60d2/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# 4Warn (com.pnsdigital.weather.wdiv
 
 **BundleId:** com.pnsdigital.weather.wdiv
 **App Version:** 6.13.2
 **App Name:** 4Warn
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCalendarsUsageDescription
-- NSCameraUsageDescription
-- NSUserTrackingUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSContactsUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 34
 **Public keys:** 6
 **Custom keys:** 25
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -47,17 +49,16 @@ supported devices iPhone & iPad
 build using Xcode 13
 contains 2 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 126
-- Tracking: 4 lib(s)
-- Crash: 2 lib(s)
-- Network: 5 lib(s)
-- Tools: 23 lib(s)
 - Logs: 2 lib(s)
 - UI: 9 lib(s)
-
+- Tools: 23 lib(s)
+- Network: 5 lib(s)
+- Tracking: 4 lib(s)
+- Crash: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -107,5 +108,5 @@ contains 2 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

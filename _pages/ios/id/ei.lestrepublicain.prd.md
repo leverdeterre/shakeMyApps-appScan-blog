@@ -3,57 +3,62 @@ title: "L'Est Rep  (ei.lestrepublicain.prd)"
 permalink: /apps/ios/ei.lestrepublicain.prd.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/02/4c/eb024cf0-c189-11be-66ba-9e00c2ade021/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/02/4c/eb024cf0-c189-11be-66ba-9e00c2ade021/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-L'Est Rep  (ei.lestrepublicain.prd) AppScan description of the content of the iOS application L'Est Rep  (ei.lestrepublicain.prd). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application L'Est Rep  (ei.lestrepublicain.prd). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# L'Est Rep  (ei.lestrepublicain.prd)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/02/4c/eb024cf0-c189-11be-66ba-9e00c2ade021/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# L'Est Rep  (ei.lestrepublicain.prd
 
 **BundleId:** ei.lestrepublicain.prd
 **App Version:** 4.1.0
 **App Name:** L'Est Rep 
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 32
 **Public keys:** 7
 **Custom keys:** 83
 **Low securit keys:** 6
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
-- Tools: 2 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 2 lib(s)
 - UI: 1 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -124,5 +129,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

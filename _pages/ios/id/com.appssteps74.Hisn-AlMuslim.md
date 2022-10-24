@@ -3,31 +3,43 @@ title: "Hisn AlMuslim (com.appssteps74.Hisn-AlMuslim)"
 permalink: /apps/ios/com.appssteps74.Hisn-AlMuslim.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/d0/55/a2/d055a2c1-c697-8239-9128-15f3de9de865/AppIcon-1x_U007emarketing-85-220-0-6.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/d0/55/a2/d055a2c1-c697-8239-9128-15f3de9de865/AppIcon-1x_U007emarketing-85-220-0-6.png/512x512bb.jpg
 ---
-Hisn AlMuslim (com.appssteps74.Hisn-AlMuslim) AppScan description of the content of the iOS application Hisn AlMuslim (com.appssteps74.Hisn-AlMuslim). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Hisn AlMuslim (com.appssteps74.Hisn-AlMuslim). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Hisn AlMuslim (com.appssteps74.Hisn-AlMuslim)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/d0/55/a2/d055a2c1-c697-8239-9128-15f3de9de865/AppIcon-1x_U007emarketing-85-220-0-6.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Hisn AlMuslim (com.appssteps74.Hisn-AlMuslim
 
 **BundleId:** com.appssteps74.Hisn-AlMuslim
 **App Version:** 18.4.6
 **App Name:** Hisn AlMuslim
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 32
 **Public keys:** 2
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -35,12 +47,11 @@ Native App
 supported devices iPhone & iPad
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
 - Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -49,5 +60,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

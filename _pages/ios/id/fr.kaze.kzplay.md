@@ -3,33 +3,57 @@ title: "ADN (fr.kaze.kzplay)"
 permalink: /apps/ios/fr.kaze.kzplay.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/93/b6/db/93b6db0c-f87e-8d21-7b0a-1bda7d39627e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/93/b6/db/93b6db0c-f87e-8d21-7b0a-1bda7d39627e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-ADN (fr.kaze.kzplay) AppScan description of the content of the iOS application ADN (fr.kaze.kzplay). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application ADN (fr.kaze.kzplay). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# ADN (fr.kaze.kzplay)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/93/b6/db/93b6db0c-f87e-8d21-7b0a-1bda7d39627e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# ADN (fr.kaze.kzplay
 
 **BundleId:** fr.kaze.kzplay
 **App Version:** 7.8.3
 **App Name:** ADN
 
 
+## AppScore : 4.12 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocalNetworkUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -41,16 +65,15 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
-- Tracking: 2 lib(s)
-- Crash: 1 lib(s)
 - Tools: 13 lib(s)
 - Storage: 2 lib(s)
 - Network: 3 lib(s)
-
+- Tracking: 2 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -90,5 +113,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

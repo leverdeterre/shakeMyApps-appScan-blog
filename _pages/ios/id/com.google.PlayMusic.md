@@ -3,52 +3,50 @@ title: "Play Music (com.google.PlayMusic)"
 permalink: /apps/ios/com.google.PlayMusic.html
 layout: single
 author_profile: false
----
-Play Music (com.google.PlayMusic) AppScan description of the content of the iOS application Play Music (com.google.PlayMusic). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Play Music (com.google.PlayMusic)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Play Music (com.google.PlayMusic). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Play Music (com.google.PlayMusic
 
 **BundleId:** com.google.PlayMusic
 **App Version:** 3.62.1017
 **App Name:** Play Music
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSMicrophoneUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMotionUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 35
 **Public keys:** 6
 **Custom keys:** 17
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Google Login detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
 - Tools: 1 lib(s)
-
 
 **Apple dylibs:**
 - libswiftCore
@@ -97,5 +95,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

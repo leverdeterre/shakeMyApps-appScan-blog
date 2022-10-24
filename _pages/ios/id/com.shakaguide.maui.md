@@ -3,59 +3,64 @@ title: "Shaka Maui (com.shakaguide.maui)"
 permalink: /apps/ios/com.shakaguide.maui.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/09/b4/09/09b409bf-fdd4-14a5-676a-9a3befd609b4/AppIcon-Maui-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/d5/2d/bad52db6-62c4-a6ef-646c-13d444e135f6/AppIcon-Maui-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/09/b4/09/09b409bf-fdd4-14a5-676a-9a3befd609b4/AppIcon-Maui-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/d5/2d/bad52db6-62c4-a6ef-646c-13d444e135f6/AppIcon-Maui-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Shaka Maui (com.shakaguide.maui) AppScan description of the content of the iOS application Shaka Maui (com.shakaguide.maui). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Shaka Maui (com.shakaguide.maui). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Shaka Maui (com.shakaguide.maui)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/d5/2d/bad52db6-62c4-a6ef-646c-13d444e135f6/AppIcon-Maui-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Shaka Maui (com.shakaguide.maui
 
 **BundleId:** com.shakaguide.maui
-**App Version:** 6.1.0
+**App Version:** 8.0.0
 **App Name:** Shaka Maui
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 35
 **Public keys:** 8
-**Custom keys:** 23
-**Low securit keys:** 1
+**Custom keys:** 25
+**Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
-support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 54
+**Number of Third Party Library detected:** 52
 - Storage: 1 lib(s)
-- Network: 2 lib(s)
-- Logs: 1 lib(s)
 - Tracking: 3 lib(s)
-- UI: 10 lib(s)
 - Tools: 13 lib(s)
-
+- UI: 8 lib(s)
+- Logs: 1 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -92,22 +97,18 @@ at least 2 entitlemented features (strong iOS integration)
 - AVFoundation
 - Accelerate
 - Accounts
-- AdSupport
-- AddressBook
-- AudioToolbox
 - CoreData
 - CoreGraphics
 - CoreImage
 - CoreLocation
 - CoreMedia
-- MobileCoreServices
+- CoreServices
 - CoreTelephony
 - CoreText
+- CoreVideo
 - Foundation
 - ImageIO
-- JavaScriptCore
 - LocalAuthentication
-- Photos
 - QuartzCore
 - SafariServices
 - Security
@@ -117,6 +118,8 @@ at least 2 entitlemented features (strong iOS integration)
 - UIKit
 - WebKit
 - iAd
+- AdSupport
+- AudioToolbox
 - AuthenticationServices
 - Social
 - UserNotifications
@@ -125,12 +128,10 @@ at least 2 entitlemented features (strong iOS integration)
 - MapKit
 - MessageUI
 - AssetsLibrary
-- AVKit
-- CFNetwork
 - CoreFoundation
-- CryptoKit
+- Photos
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

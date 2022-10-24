@@ -3,27 +3,35 @@ title: "MiniCast (com.highlvl.MiniCast)"
 permalink: /apps/ios/com.highlvl.MiniCast.html
 layout: single
 author_profile: false
----
-MiniCast (com.highlvl.MiniCast) AppScan description of the content of the iOS application MiniCast (com.highlvl.MiniCast). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# MiniCast (com.highlvl.MiniCast)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application MiniCast (com.highlvl.MiniCast). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# MiniCast (com.highlvl.MiniCast
 
 **BundleId:** com.highlvl.MiniCast
 **App Version:** 1.0.7
 **App Name:** MiniCast
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 29
 **Public keys:** 6
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -33,15 +41,14 @@ supported devices iPhone & iPad
 contains 2 App extensions
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
-- Network: 2 lib(s)
 - Logs: 1 lib(s)
-- Tools: 2 lib(s)
 - UI: 1 lib(s)
-
+- Network: 2 lib(s)
+- Tools: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftCloudKit
@@ -74,5 +81,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

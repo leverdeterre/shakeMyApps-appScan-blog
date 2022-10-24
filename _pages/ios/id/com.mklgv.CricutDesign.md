@@ -3,33 +3,43 @@ title: "CricutDesign (com.mklgv.CricutDesign)"
 permalink: /apps/ios/com.mklgv.CricutDesign.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/36/ac/12/36ac127c-6e92-4eb5-0166-31628791660e/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/36/ac/12/36ac127c-6e92-4eb5-0166-31628791660e/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-CricutDesign (com.mklgv.CricutDesign) AppScan description of the content of the iOS application CricutDesign (com.mklgv.CricutDesign). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application CricutDesign (com.mklgv.CricutDesign). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# CricutDesign (com.mklgv.CricutDesign)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/36/ac/12/36ac127c-6e92-4eb5-0166-31628791660e/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# CricutDesign (com.mklgv.CricutDesign
 
 **BundleId:** com.mklgv.CricutDesign
 **App Version:** 1.71
 **App Name:** CricutDesign
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 27
 **Public keys:** 3
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -40,18 +50,17 @@ build using Xcode 13
 contains 1 App extensions
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 43
-- Storage: 5 lib(s)
-- Tracking: 3 lib(s)
+- Network: 1 lib(s)
 - Tools: 12 lib(s)
 - Logs: 1 lib(s)
-- Network: 1 lib(s)
+- Tracking: 3 lib(s)
 - UI: 2 lib(s)
+- Storage: 5 lib(s)
 - Crash: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -84,5 +93,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

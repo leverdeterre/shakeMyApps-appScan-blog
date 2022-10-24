@@ -3,36 +3,43 @@ title: "Remote TV (Quanticapps.RemoteTV)"
 permalink: /apps/ios/Quanticapps.RemoteTV.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/00/d7/ea00d790-dc0e-7f2d-0aa7-f22961001b4d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/00/d7/ea00d790-dc0e-7f2d-0aa7-f22961001b4d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Remote TV (Quanticapps.RemoteTV) AppScan description of the content of the iOS application Remote TV (Quanticapps.RemoteTV). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Remote TV (Quanticapps.RemoteTV). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Remote TV (Quanticapps.RemoteTV)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/00/d7/ea00d790-dc0e-7f2d-0aa7-f22961001b4d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Remote TV (Quanticapps.RemoteTV
 
 **BundleId:** Quanticapps.RemoteTV
 **App Version:** 3.5.1
 **App Name:** Remote TV
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocalNetworkUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 31
 **Public keys:** 8
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -46,16 +53,15 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
-- Network: 3 lib(s)
-- Storage: 1 lib(s)
 - Tracking: 2 lib(s)
 - Crash: 1 lib(s)
+- Network: 3 lib(s)
 - Tools: 8 lib(s)
-
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -136,5 +142,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,30 +3,35 @@ title: "Vid Mate (meet.vidmate)"
 permalink: /apps/ios/meet.vidmate.html
 layout: single
 author_profile: false
----
-Vid Mate (meet.vidmate) AppScan description of the content of the iOS application Vid Mate (meet.vidmate). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Vid Mate (meet.vidmate)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Vid Mate (meet.vidmate). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Vid Mate (meet.vidmate
 
 **BundleId:** meet.vidmate
 **App Version:** 1.9
 **App Name:** Vid Mate
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-- NSAppleMusicUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 28
 **Public keys:** 6
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -35,16 +40,15 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- Tools: 8 lib(s)
 - Tracking: 1 lib(s)
-- Network: 1 lib(s)
 - Crash: 1 lib(s)
+- Network: 1 lib(s)
 - UI: 2 lib(s)
-
+- Tools: 8 lib(s)
 
 **Apple dylibs:**
 
@@ -80,5 +84,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

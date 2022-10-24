@@ -3,57 +3,63 @@ title: "Scanner Club (com.goappclub.scannerclub)"
 permalink: /apps/ios/com.goappclub.scannerclub.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/26/00/8a/26008ad5-b5aa-029a-9849-e7c9505749f6/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/26/00/8a/26008ad5-b5aa-029a-9849-e7c9505749f6/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Scanner Club (com.goappclub.scannerclub) AppScan description of the content of the iOS application Scanner Club (com.goappclub.scannerclub). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Scanner Club (com.goappclub.scannerclub). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Scanner Club (com.goappclub.scannerclub)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/26/00/8a/26008ad5-b5aa-029a-9849-e7c9505749f6/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Scanner Club (com.goappclub.scannerclub
 
 **BundleId:** com.goappclub.scannerclub
 **App Version:** 3.1.8
 **App Name:** Scanner Club
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSFaceIDUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 29
 **Public keys:** 5
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 2
-Google Login detected
+GoogleLogin detected
 Native App
 build using Xcode 13
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 45
 - Tools: 11 lib(s)
-- Storage: 2 lib(s)
-- Tracking: 2 lib(s)
-- Crash: 1 lib(s)
-- Network: 3 lib(s)
 - UI: 4 lib(s)
-
+- Crash: 1 lib(s)
+- Storage: 2 lib(s)
+- Network: 3 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -128,5 +134,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

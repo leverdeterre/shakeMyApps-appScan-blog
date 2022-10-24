@@ -3,62 +3,65 @@ title: "Les Habitués (fr.rbl.leshabitues)"
 permalink: /apps/ios/fr.rbl.leshabitues.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/12/12/b5/1212b51b-8bde-a1f0-255b-a06cedd201da/source/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/12/12/b5/1212b51b-8bde-a1f0-255b-a06cedd201da/source/512x512bb.jpg
 ---
-Les Habitués (fr.rbl.leshabitues) AppScan description of the content of the iOS application Les Habitués (fr.rbl.leshabitues). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Les Habitués (fr.rbl.leshabitues). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Les Habitués (fr.rbl.leshabitues)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/12/12/b5/1212b51b-8bde-a1f0-255b-a06cedd201da/source/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Les Habitués (fr.rbl.leshabitues
 
 **BundleId:** fr.rbl.leshabitues
 **App Version:** 3.4.0
 **App Name:** Les Habitués
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NFCReaderUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSCameraUsageDescription
-- NSFaceIDUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 32
 **Public keys:** 6
 **Custom keys:** 18
 **Low securit keys:** 4
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 55
-- Storage: 5 lib(s)
-- Crash: 1 lib(s)
-- Tracking: 4 lib(s)
-- UI: 5 lib(s)
-- Tools: 21 lib(s)
-- Network: 7 lib(s)
 - Logs: 1 lib(s)
-
+- Storage: 5 lib(s)
+- Tracking: 4 lib(s)
+- Network: 7 lib(s)
+- UI: 5 lib(s)
+- Crash: 1 lib(s)
+- Tools: 21 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -123,5 +126,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

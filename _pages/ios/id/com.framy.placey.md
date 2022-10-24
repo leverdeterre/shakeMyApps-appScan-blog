@@ -3,47 +3,63 @@ title: "Playsee (com.framy.placey)"
 permalink: /apps/ios/com.framy.placey.html
 layout: single
 author_profile: false
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/fd/2e/2afd2ea6-cdd8-5c75-928c-3d3f0844c1c7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/25/96/3a/25963ac7-37ad-daac-7bf1-78bc7d151d71/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/fd/2e/2afd2ea6-cdd8-5c75-928c-3d3f0844c1c7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/25/96/3a/25963ac7-37ad-daac-7bf1-78bc7d151d71/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Playsee (com.framy.placey) AppScan description of the content of the iOS application Playsee (com.framy.placey). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Playsee (com.framy.placey). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Playsee (com.framy.placey)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/25/96/3a/25963ac7-37ad-daac-7bf1-78bc7d151d71/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Playsee (com.framy.placey
 
 **BundleId:** com.framy.placey
-**App Version:** 8.2.18
+**App Version:** 8.2.19
 **App Name:** Playsee
 
 
+## AppScore : 4.38 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSAppleMusicUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 33
 **Public keys:** 10
 **Custom keys:** 28
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
@@ -51,16 +67,15 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 69
-- Storage: 5 lib(s)
-- Tools: 18 lib(s)
-- Crash: 1 lib(s)
+**Number of Third Party Library detected:** 70
 - Network: 1 lib(s)
+- Tools: 18 lib(s)
 - Tracking: 3 lib(s)
-
+- Crash: 1 lib(s)
+- Storage: 7 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -128,5 +143,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

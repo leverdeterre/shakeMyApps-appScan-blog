@@ -3,60 +3,62 @@ title: "YES (com.yesnetwork.yes)"
 permalink: /apps/ios/com.yesnetwork.yes.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/45/21/a1/4521a12e-25dc-d1a1-50e2-ecce104bad5a/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/24/95/e4/2495e466-48d6-43fa-935a-9637f1fecc82/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/45/21/a1/4521a12e-25dc-d1a1-50e2-ecce104bad5a/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/24/95/e4/2495e466-48d6-43fa-935a-9637f1fecc82/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-YES (com.yesnetwork.yes) AppScan description of the content of the iOS application YES (com.yesnetwork.yes). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application YES (com.yesnetwork.yes). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# YES (com.yesnetwork.yes)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/24/95/e4/2495e466-48d6-43fa-935a-9637f1fecc82/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# YES (com.yesnetwork.yes
 
 **BundleId:** com.yesnetwork.yes
-**App Version:** 4.5
+**App Version:** 4.6
 **App Name:** YES
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSVideoSubscriberAccountUsageDescription
-- NSCameraUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocalNetworkUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSCameraUsageDescription - 2
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 18
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 26
 - Tools: 14 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 3 lib(s)
-
 
 **Apple dylibs:**
 
@@ -96,5 +98,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

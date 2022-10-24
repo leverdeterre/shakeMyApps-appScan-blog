@@ -3,56 +3,74 @@ title: "Dream Art (com.smartwidgetlabs.aiart)"
 permalink: /apps/ios/com.smartwidgetlabs.aiart.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/74/00/80/740080bc-6549-f3d3-6f5c-0d9f9ac296ba/AppIcon1-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/a8/b3/2da8b30a-8971-b6b0-3eb9-da68d49604e0/AppIcon1-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/74/00/80/740080bc-6549-f3d3-6f5c-0d9f9ac296ba/AppIcon1-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/a8/b3/2da8b30a-8971-b6b0-3eb9-da68d49604e0/AppIcon1-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Dream Art (com.smartwidgetlabs.aiart) AppScan description of the content of the iOS application Dream Art (com.smartwidgetlabs.aiart). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Dream Art (com.smartwidgetlabs.aiart). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Dream Art (com.smartwidgetlabs.aiart)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/a8/b3/2da8b30a-8971-b6b0-3eb9-da68d49604e0/AppIcon1-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Dream Art (com.smartwidgetlabs.aiart
 
 **BundleId:** com.smartwidgetlabs.aiart
-**App Version:** 2.5.9
+**App Version:** 2.7.2
 **App Name:** Dream Art
 
 
+## AppScore : 4.09 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocalNetworkUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 32
 **Public keys:** 9
-**Custom keys:** 14
+**Custom keys:** 15
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
-Number of entitlements detected: 7
-Facebook Login detected
+Number of entitlements detected: 3
+FacebookLogin detected
 Native App
-build using Xcode 13
 contains 1 App extensions
-at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 34
-- Tracking: 2 lib(s)
-- Network: 2 lib(s)
 - UI: 4 lib(s)
 - Tools: 10 lib(s)
-
+- Network: 2 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -81,9 +99,8 @@ Some userActivityTypes
 - MobileCoreServices
 - iAd
 - CloudKit
-- AppTrackingTransparency
 - CoreFoundation
-- JavaScriptCore
+- CoreVideo
 - MessageUI
 - SafariServices
 - StoreKit
@@ -91,5 +108,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

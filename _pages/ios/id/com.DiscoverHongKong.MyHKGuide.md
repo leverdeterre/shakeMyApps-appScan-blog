@@ -3,48 +3,51 @@ title: "HKTB (com.DiscoverHongKong.MyHKGuide)"
 permalink: /apps/ios/com.DiscoverHongKong.MyHKGuide.html
 layout: single
 author_profile: false
----
-HKTB (com.DiscoverHongKong.MyHKGuide) AppScan description of the content of the iOS application HKTB (com.DiscoverHongKong.MyHKGuide). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# HKTB (com.DiscoverHongKong.MyHKGuide)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application HKTB (com.DiscoverHongKong.MyHKGuide). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# HKTB (com.DiscoverHongKong.MyHKGuide
 
 **BundleId:** com.DiscoverHongKong.MyHKGuide
 **App Version:** 1.3.6
 **App Name:** HKTB
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 32
 **Public keys:** 6
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Facebook Login detected
+FacebookLogin detected
 Native App
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
 - UI: 3 lib(s)
-- Network: 2 lib(s)
 - Tools: 3 lib(s)
 - Tracking: 1 lib(s)
-
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -81,5 +84,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,30 +3,35 @@ title: "Biglive (com.fideaoo.bigidea)"
 permalink: /apps/ios/com.fideaoo.bigidea.html
 layout: single
 author_profile: false
----
-Biglive (com.fideaoo.bigidea) AppScan description of the content of the iOS application Biglive (com.fideaoo.bigidea). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Biglive (com.fideaoo.bigidea)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Biglive (com.fideaoo.bigidea). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Biglive (com.fideaoo.bigidea
 
 **BundleId:** com.fideaoo.bigidea
 **App Version:** 1.0.1
 **App Name:** Biglive
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSMicrophoneUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 30
 **Public keys:** 4
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -34,16 +39,15 @@ Number of entitlements detected: 4
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 69
-- Tracking: 1 lib(s)
 - Network: 3 lib(s)
-- Tools: 15 lib(s)
-- Crash: 1 lib(s)
 - Storage: 2 lib(s)
-
+- Tracking: 1 lib(s)
+- Crash: 1 lib(s)
+- Tools: 15 lib(s)
 
 **Apple dylibs:**
 
@@ -69,5 +73,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

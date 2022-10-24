@@ -3,67 +3,61 @@ title: "Gula (com.gulaapp.apst)"
 permalink: /apps/ios/com.gulaapp.apst.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a1/a8/67/a1a8673d-d03e-3a14-f421-2e4bd6440116/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a1/a8/67/a1a8673d-d03e-3a14-f421-2e4bd6440116/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg
 ---
-Gula (com.gulaapp.apst) AppScan description of the content of the iOS application Gula (com.gulaapp.apst). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Gula (com.gulaapp.apst). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Gula (com.gulaapp.apst)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a1/a8/67/a1a8673d-d03e-3a14-f421-2e4bd6440116/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Gula (com.gulaapp.apst
 
 **BundleId:** com.gulaapp.apst
 **App Version:** 1.0.1
 **App Name:** Gula
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothPeripheralUsageDescription
-- NSCameraUsageDescription
-- NSContactsUsageDescription
-- NSMicrophoneUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocalNetworkUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSAppleMusicUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSMotionUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSLocationUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 17
 **Private keys:** 29
 **Public keys:** 5
 **Custom keys:** 25
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 53
 - UI: 1 lib(s)
+- Crash: 1 lib(s)
 - Network: 1 lib(s)
+- Tools: 7 lib(s)
 - Storage: 2 lib(s)
 - Tracking: 4 lib(s)
-- Tools: 7 lib(s)
-- Crash: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -72,5 +66,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

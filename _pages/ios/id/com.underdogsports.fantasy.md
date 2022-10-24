@@ -3,76 +3,61 @@ title: "Underdog (com.underdogsports.fantasy)"
 permalink: /apps/ios/com.underdogsports.fantasy.html
 layout: single
 author_profile: false
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/a7/7a/b3a77ac3-bb08-6359-1ac5-a73c6dae862f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/19/5a/b9195ae1-c8e2-3524-6518-51b5663de9ec/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/a7/7a/b3a77ac3-bb08-6359-1ac5-a73c6dae862f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/19/5a/b9195ae1-c8e2-3524-6518-51b5663de9ec/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Underdog (com.underdogsports.fantasy) AppScan description of the content of the iOS application Underdog (com.underdogsports.fantasy). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Underdog (com.underdogsports.fantasy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Underdog (com.underdogsports.fantasy)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/19/5a/b9195ae1-c8e2-3524-6518-51b5663de9ec/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Underdog (com.underdogsports.fantasy
 
 **BundleId:** com.underdogsports.fantasy
-**App Version:** 1.20.13
+**App Version:** 1.21.0
 **App Name:** Underdog
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 26
 **Public keys:** 7
 **Custom keys:** 24
 **Low securit keys:** 6
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
+FacebookLogin detected
 Native App
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
 - Tools: 7 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 2 lib(s)
-
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
-- libswiftAVFoundation
-- libswiftAccelerate
-- libswiftCore
-- libswiftCoreAudio
-- libswiftCoreFoundation
-- libswiftCoreGraphics
-- libswiftCoreImage
-- libswiftCoreLocation
-- libswiftCoreMedia
-- libswiftDarwin
-- libswiftDispatch
-- libswiftMapKit
-- libswiftMetal
-- libswiftMetalKit
-- libswiftModelIO
-- libswiftNetwork
-- libswiftObjectiveC
-- libswiftQuartzCore
-- libswiftUIKit
-- libswiftVision
-- libswiftos
-- libswiftsimd
-- libswiftFoundation
 
 
 **Apple System Library Frameworks:**
@@ -105,5 +90,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

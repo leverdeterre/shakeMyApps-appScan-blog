@@ -3,43 +3,43 @@ title: "Fox Nation (com.foxnews.nation)"
 permalink: /apps/ios/com.foxnews.nation.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/cc/34/f1/cc34f13d-68b3-1aa4-8a00-6ee9fb1ad2f3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/cc/34/f1/cc34f13d-68b3-1aa4-8a00-6ee9fb1ad2f3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Fox Nation (com.foxnews.nation) AppScan description of the content of the iOS application Fox Nation (com.foxnews.nation). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Fox Nation (com.foxnews.nation). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Fox Nation (com.foxnews.nation)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/cc/34/f1/cc34f13d-68b3-1aa4-8a00-6ee9fb1ad2f3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Fox Nation (com.foxnews.nation
 
 **BundleId:** com.foxnews.nation
 **App Version:** 3.55
 **App Name:** Fox Nation
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocalNetworkUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSVideoSubscriberAccountUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 12
 **Private keys:** 32
 **Public keys:** 9
 **Custom keys:** 28
 **Low securit keys:** 4
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -52,16 +52,15 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 46
+- Logs: 1 lib(s)
 - Tools: 7 lib(s)
+- UI: 3 lib(s)
 - Network: 2 lib(s)
 - Tracking: 4 lib(s)
-- UI: 3 lib(s)
-- Logs: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -111,5 +110,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,63 +3,73 @@ title: "Simrad (com.simrad-yachting.Simrad)"
 permalink: /apps/ios/com.simrad-yachting.Simrad.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/6e/0c/03/6e0c03bb-3feb-2f2f-cc6e-4f75ca3758fe/Simrad-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/6e/0c/03/6e0c03bb-3feb-2f2f-cc6e-4f75ca3758fe/Simrad-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Simrad (com.simrad-yachting.Simrad) AppScan description of the content of the iOS application Simrad (com.simrad-yachting.Simrad). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Simrad (com.simrad-yachting.Simrad). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Simrad (com.simrad-yachting.Simrad)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/6e/0c/03/6e0c03bb-3feb-2f2f-cc6e-4f75ca3758fe/Simrad-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Simrad (com.simrad-yachting.Simrad
 
 **BundleId:** com.simrad-yachting.Simrad
 **App Version:** 2.0.34
 **App Name:** Simrad
 
 
+## AppScore : 4.26 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSMotionUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSCalendarsUsageDescription
-- NSMicrophoneUsageDescription
-- NSAppleMusicUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocalNetworkUsageDescription
-- NSSpeechRecognitionUsageDescription
-  
-  
+**Number of permissions:** 15
 **Private keys:** 31
 **Public keys:** 8
 **Custom keys:** 22
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
+FacebookLogin detected
 supported devices iPhone & iPad
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- Tools: 3 lib(s)
 - UI: 1 lib(s)
 - Tracking: 3 lib(s)
-
+- Tools: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -133,5 +143,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

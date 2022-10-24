@@ -3,31 +3,35 @@ title: "Infuse 4 (com.firecore.fuse)"
 permalink: /apps/ios/com.firecore.fuse.html
 layout: single
 author_profile: false
----
-Infuse 4 (com.firecore.fuse) AppScan description of the content of the iOS application Infuse 4 (com.firecore.fuse). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Infuse 4 (com.firecore.fuse)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Infuse 4 (com.firecore.fuse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Infuse 4 (com.firecore.fuse
 
 **BundleId:** com.firecore.fuse
 **App Version:** 4.3.7
 **App Name:** Infuse 4
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSAppleMusicUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSCameraUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 35
 **Public keys:** 10
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -36,11 +40,10 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -82,5 +85,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

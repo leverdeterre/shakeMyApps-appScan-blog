@@ -3,39 +3,57 @@ title: "Speedometer (com.blocoware.speedometerfree)"
 permalink: /apps/ios/com.blocoware.speedometerfree.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/be/6c/1f/be6c1fc0-ca07-535f-f25c-d83d95de1f85/contsched.aeshimuu.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/be/6c/1f/be6c1fc0-ca07-535f-f25c-d83d95de1f85/contsched.aeshimuu.png/512x512bb.jpg
 ---
-Speedometer (com.blocoware.speedometerfree) AppScan description of the content of the iOS application Speedometer (com.blocoware.speedometerfree). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Speedometer (com.blocoware.speedometerfree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Speedometer (com.blocoware.speedometerfree)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/be/6c/1f/be6c1fc0-ca07-535f-f25c-d83d95de1f85/contsched.aeshimuu.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Speedometer (com.blocoware.speedometerfree
 
 **BundleId:** com.blocoware.speedometerfree
 **App Version:** 3.5
 **App Name:** Speedometer
 
 
+## AppScore : 4.59 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMotionUsageDescription
-- NSAppleMusicUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 31
 **Public keys:** 8
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -46,11 +64,10 @@ support multiple languages
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -119,5 +136,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

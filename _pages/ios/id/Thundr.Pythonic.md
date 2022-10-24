@@ -3,49 +3,54 @@ title: "Py (Thundr.Pythonic)"
 permalink: /apps/ios/Thundr.Pythonic.html
 layout: single
 author_profile: false
----
-Py (Thundr.Pythonic) AppScan description of the content of the iOS application Py (Thundr.Pythonic). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Py (Thundr.Pythonic)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Py (Thundr.Pythonic). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Py (Thundr.Pythonic
 
 **BundleId:** Thundr.Pythonic
 **App Version:** 6.3.6
 **App Name:** Py
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSContactsUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 32
 **Public keys:** 7
 **Custom keys:** 9
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Twitter Login detected
-Facebook Login detected
-Google Login detected
+AppleSignIn detected
+FacebookLogin detected
+GoogleLogin detected
 supported devices iPhone & iPad
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- Network: 5 lib(s)
-- Storage: 2 lib(s)
-- Tracking: 5 lib(s)
 - UI: 2 lib(s)
 - Tools: 10 lib(s)
-
+- Tracking: 5 lib(s)
+- Storage: 2 lib(s)
+- Network: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -103,5 +108,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

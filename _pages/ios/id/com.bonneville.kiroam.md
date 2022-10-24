@@ -3,38 +3,57 @@ title: "Seattle Sports 710 AM (com.bonneville.kiroam)"
 permalink: /apps/ios/com.bonneville.kiroam.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/3d/33/ec3d331f-a4f8-6edc-8e79-fecd5db2ae25/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/3d/33/ec3d331f-a4f8-6edc-8e79-fecd5db2ae25/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
 ---
-Seattle Sports 710 AM (com.bonneville.kiroam) AppScan description of the content of the iOS application Seattle Sports 710 AM (com.bonneville.kiroam). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Seattle Sports 710 AM (com.bonneville.kiroam). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Seattle Sports 710 AM (com.bonneville.kiroam)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/3d/33/ec3d331f-a4f8-6edc-8e79-fecd5db2ae25/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Seattle Sports 710 AM (com.bonneville.kiroam
 
 **BundleId:** com.bonneville.kiroam
 **App Version:** 8.2.7
 **App Name:** Seattle Sports 710 AM
 
 
+## AppScore : 4.12 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 29
 **Public keys:** 5
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -45,13 +64,12 @@ build using Xcode 13
 contains 1 App extensions
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
 - Tools: 7 lib(s)
 - Network: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -90,5 +108,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

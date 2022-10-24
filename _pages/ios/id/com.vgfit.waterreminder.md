@@ -3,39 +3,43 @@ title: "Water Reminder (com.vgfit.waterreminder)"
 permalink: /apps/ios/com.vgfit.waterreminder.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/62/a0/b8/62a0b8cf-e41b-1a45-4bc8-05f051790900/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/62/a0/b8/62a0b8cf-e41b-1a45-4bc8-05f051790900/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Water Reminder (com.vgfit.waterreminder) AppScan description of the content of the iOS application Water Reminder (com.vgfit.waterreminder). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Water Reminder (com.vgfit.waterreminder). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Water Reminder (com.vgfit.waterreminder)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/62/a0/b8/62a0b8cf-e41b-1a45-4bc8-05f051790900/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Water Reminder (com.vgfit.waterreminder
 
 **BundleId:** com.vgfit.waterreminder
 **App Version:** 1.7.28
 **App Name:** Water Reminder
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSHealthShareUsageDescription
-- NSHealthUpdateUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -47,16 +51,15 @@ support multiple languages
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
+- Network: 2 lib(s)
+- Tools: 13 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 4 lib(s)
 - Storage: 1 lib(s)
-- Crash: 1 lib(s)
-- Tools: 13 lib(s)
-- Network: 2 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -118,5 +121,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,54 +3,54 @@ title: "jaaccelere (jaaccelere)"
 permalink: /apps/ios/jaaccelere.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/95/a5/bb/95a5bbaa-5b1a-02a6-3564-75d2163de628/mzl.eamyumvd.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/95/a5/bb/95a5bbaa-5b1a-02a6-3564-75d2163de628/mzl.eamyumvd.png/512x512bb.jpg
 ---
-jaaccelere (jaaccelere) AppScan description of the content of the iOS application jaaccelere (jaaccelere). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application jaaccelere (jaaccelere). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# jaaccelere (jaaccelere)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/95/a5/bb/95a5bbaa-5b1a-02a6-3564-75d2163de628/mzl.eamyumvd.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# jaaccelere (jaaccelere
 
 **BundleId:** jaaccelere
 **App Version:** 3.7
 **App Name:** jaaccelere
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSContactsUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSRemindersUsageDescription
-- NSCalendarsUsageDescription
-- NSMotionUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 29
 **Public keys:** 5
 **Custom keys:** 17
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -59,5 +59,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

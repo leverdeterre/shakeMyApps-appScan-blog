@@ -3,37 +3,43 @@ title: "QrCreator (qr.bar.code.generator.scan.app)"
 permalink: /apps/ios/qr.bar.code.generator.scan.app.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/07/fc/92/07fc9209-27ce-d41d-9fdf-ff59660336e9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/07/fc/92/07fc9209-27ce-d41d-9fdf-ff59660336e9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-QrCreator (qr.bar.code.generator.scan.app) AppScan description of the content of the iOS application QrCreator (qr.bar.code.generator.scan.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application QrCreator (qr.bar.code.generator.scan.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# QrCreator (qr.bar.code.generator.scan.app)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/07/fc/92/07fc9209-27ce-d41d-9fdf-ff59660336e9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# QrCreator (qr.bar.code.generator.scan.app
 
 **BundleId:** qr.bar.code.generator.scan.app
 **App Version:** 1.1
 **App Name:** QrCreator
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSCalendarsUsageDescription
-- NSCameraUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 27
 **Public keys:** 3
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -44,11 +50,10 @@ build using Xcode 13
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -87,5 +92,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

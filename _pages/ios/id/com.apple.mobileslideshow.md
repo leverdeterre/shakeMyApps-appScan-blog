@@ -3,34 +3,43 @@ title: "Photos (com.apple.mobileslideshow)"
 permalink: /apps/ios/com.apple.mobileslideshow.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/b3/97/ffb397bf-145b-b06e-1485-8edc4f8e9bed/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/b3/97/ffb397bf-145b-b06e-1485-8edc4f8e9bed/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Photos (com.apple.mobileslideshow) AppScan description of the content of the iOS application Photos (com.apple.mobileslideshow). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Photos (com.apple.mobileslideshow). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Photos (com.apple.mobileslideshow)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/b3/97/ffb397bf-145b-b06e-1485-8edc4f8e9bed/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Photos (com.apple.mobileslideshow
 
 **BundleId:** com.apple.mobileslideshow
 **App Version:** 1.0
 **App Name:** Photos
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 29
 **Public keys:** 7
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -41,11 +50,10 @@ contains 10 App extensions
 support multiple languages
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -68,5 +76,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

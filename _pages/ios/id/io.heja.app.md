@@ -3,56 +3,57 @@ title: "Heja (io.heja.app)"
 permalink: /apps/ios/io.heja.app.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/9f/54/7e9f54ef-abea-cef8-cd0f-4a0fd55326d7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/53/a8/cf53a822-10d2-5adb-5daa-56728aac1ef6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/9f/54/7e9f54ef-abea-cef8-cd0f-4a0fd55326d7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/53/a8/cf53a822-10d2-5adb-5daa-56728aac1ef6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Heja (io.heja.app) AppScan description of the content of the iOS application Heja (io.heja.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Heja (io.heja.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Heja (io.heja.app)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/53/a8/cf53a822-10d2-5adb-5daa-56728aac1ef6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Heja (io.heja.app
 
 **BundleId:** io.heja.app
-**App Version:** 474.0
+**App Version:** 485.0
 **App Name:** Heja
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSAppleMusicUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSMotionUsageDescription
-- NSCalendarsUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 17
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
-
 
 **Apple dylibs:**
 
@@ -112,5 +113,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,34 +3,57 @@ title: "Family Dollar (com.familydollar.consumer)"
 permalink: /apps/ios/com.familydollar.consumer.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/27/48/a0/2748a06d-4ff6-0790-3c53-a5f32f830faf/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/5d/a2/1d5da2a8-6150-8b91-5ebb-f262e721bbbb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/27/48/a0/2748a06d-4ff6-0790-3c53-a5f32f830faf/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/5d/a2/1d5da2a8-6150-8b91-5ebb-f262e721bbbb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Family Dollar (com.familydollar.consumer) AppScan description of the content of the iOS application Family Dollar (com.familydollar.consumer). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Family Dollar (com.familydollar.consumer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Family Dollar (com.familydollar.consumer)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/5d/a2/1d5da2a8-6150-8b91-5ebb-f262e721bbbb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Family Dollar (com.familydollar.consumer
 
 **BundleId:** com.familydollar.consumer
-**App Version:** 4.13.0
+**App Version:** 4.14.0
 **App Name:** Family Dollar
 
 
+## AppScore : 4.21 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSFaceIDUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 28
 **Public keys:** 5
 **Custom keys:** 5
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -41,12 +64,11 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
 - Tools: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -85,5 +107,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

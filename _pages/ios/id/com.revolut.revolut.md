@@ -3,49 +3,62 @@ title: "Revolut (com.revolut.revolut)"
 permalink: /apps/ios/com.revolut.revolut.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7f/4b/01/7f4b01c1-16e1-a201-3cdf-144f0825a15d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/0a/b1/3e0ab165-9d69-f98e-a2a0-f909664c73e2/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7f/4b/01/7f4b01c1-16e1-a201-3cdf-144f0825a15d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/0a/b1/3e0ab165-9d69-f98e-a2a0-f909664c73e2/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Revolut (com.revolut.revolut) AppScan description of the content of the iOS application Revolut (com.revolut.revolut). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Revolut (com.revolut.revolut). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Revolut (com.revolut.revolut)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/0a/b1/3e0ab165-9d69-f98e-a2a0-f909664c73e2/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Revolut (com.revolut.revolut
 
 **BundleId:** com.revolut.revolut
 **App Version:** 8.75
 **App Name:** Revolut
 
 
+## AppScore : 4.58 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSMicrophoneUsageDescription
-- NSFaceIDUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 13
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 19
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 13
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -55,12 +68,11 @@ at least 3 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
 - Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -121,5 +133,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

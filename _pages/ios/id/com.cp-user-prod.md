@@ -3,51 +3,54 @@ title: "Kapten (com.cp-user-prod)"
 permalink: /apps/ios/com.cp-user-prod.html
 layout: single
 author_profile: false
----
-Kapten (com.cp-user-prod) AppScan description of the content of the iOS application Kapten (com.cp-user-prod). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Kapten (com.cp-user-prod)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Kapten (com.cp-user-prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Kapten (com.cp-user-prod
 
 **BundleId:** com.cp-user-prod
 **App Version:** 3.96.0
 **App Name:** Kapten
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 35
 **Public keys:** 6
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 8
-Facebook Login detected
+FacebookLogin detected
 Native App
 contains 2 App extensions
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
-- Network: 3 lib(s)
 - Tracking: 3 lib(s)
-- UI: 2 lib(s)
 - Tools: 9 lib(s)
-
+- Network: 3 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -98,5 +101,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

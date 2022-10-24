@@ -3,39 +3,43 @@ title: "Icon Maker (com.poster.widgets)"
 permalink: /apps/ios/com.poster.widgets.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/95/69/52/956952c0-3b54-9095-f259-9ee70439da32/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/95/69/52/956952c0-3b54-9095-f259-9ee70439da32/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Icon Maker (com.poster.widgets) AppScan description of the content of the iOS application Icon Maker (com.poster.widgets). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Icon Maker (com.poster.widgets). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Icon Maker (com.poster.widgets)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/95/69/52/956952c0-3b54-9095-f259-9ee70439da32/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Icon Maker (com.poster.widgets
 
 **BundleId:** com.poster.widgets
 **App Version:** 2.2.9
 **App Name:** Icon Maker
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSHealthUpdateUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSHealthClinicalHealthRecordsShareUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSHealthShareUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -46,17 +50,16 @@ support multiple languages
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
 - Storage: 3 lib(s)
+- Network: 2 lib(s)
 - Crash: 1 lib(s)
-- Tools: 8 lib(s)
 - UI: 3 lib(s)
 - Tracking: 1 lib(s)
-- Network: 2 lib(s)
-
+- Tools: 8 lib(s)
 
 **Apple dylibs:**
 
@@ -97,5 +100,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,43 +3,48 @@ title: "Merlin Bird ID (edu.cornell.birds.merlin)"
 permalink: /apps/ios/edu.cornell.birds.merlin.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/38/02/1c3802b4-fcee-0f5b-f078-fabc28b29500/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/38/02/1c3802b4-fcee-0f5b-f078-fabc28b29500/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg
 ---
-Merlin Bird ID (edu.cornell.birds.merlin) AppScan description of the content of the iOS application Merlin Bird ID (edu.cornell.birds.merlin). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Merlin Bird ID (edu.cornell.birds.merlin). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Merlin Bird ID (edu.cornell.birds.merlin)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/38/02/1c3802b4-fcee-0f5b-f078-fabc28b29500/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Merlin Bird ID (edu.cornell.birds.merlin
 
 **BundleId:** edu.cornell.birds.merlin
 **App Version:** 2.1.2
 **App Name:** Merlin Bird ID
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSLocationTemporaryUsageDescriptionDictionary
-- NSAppleMusicUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 32
 **Public keys:** 7
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
+FacebookLogin detected
 Native App
 build using Xcode 13
 contains 1 App extensions
@@ -47,16 +52,15 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
-- Crash: 1 lib(s)
 - Tracking: 4 lib(s)
+- Crash: 1 lib(s)
 - Network: 1 lib(s)
 - UI: 3 lib(s)
 - Tools: 10 lib(s)
-
 
 **Apple dylibs:**
 
@@ -99,5 +103,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

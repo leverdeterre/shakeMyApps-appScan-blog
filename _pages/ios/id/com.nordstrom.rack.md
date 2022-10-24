@@ -3,41 +3,43 @@ title: "Nordstrom Rack (com.nordstrom.rack)"
 permalink: /apps/ios/com.nordstrom.rack.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/17/b4/6017b4cd-4e90-9e6b-3e54-c227f9fa0acd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/17/b4/6017b4cd-4e90-9e6b-3e54-c227f9fa0acd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Nordstrom Rack (com.nordstrom.rack) AppScan description of the content of the iOS application Nordstrom Rack (com.nordstrom.rack). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Nordstrom Rack (com.nordstrom.rack). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Nordstrom Rack (com.nordstrom.rack)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/17/b4/6017b4cd-4e90-9e6b-3e54-c227f9fa0acd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Nordstrom Rack (com.nordstrom.rack
 
 **BundleId:** com.nordstrom.rack
 **App Version:** 9.6.1
 **App Name:** Nordstrom Rack
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSFaceIDUsageDescription
-- NSUserTrackingUsageDescription
-- NSMotionUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSMicrophoneUsageDescription
-- NSCalendarsUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 31
 **Public keys:** 9
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -50,16 +52,15 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 67
-- Crash: 1 lib(s)
 - Tools: 14 lib(s)
-- Network: 3 lib(s)
 - Tracking: 2 lib(s)
 - Storage: 2 lib(s)
-
+- Network: 3 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -103,5 +104,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

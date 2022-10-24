@@ -3,38 +3,43 @@ title: "KSL NewsRadio (com.bonneville.kslnewsradio)"
 permalink: /apps/ios/com.bonneville.kslnewsradio.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/3e/36/f53e3618-10ec-4545-651e-d10f99e8bea5/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/3e/36/f53e3618-10ec-4545-651e-d10f99e8bea5/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
 ---
-KSL NewsRadio (com.bonneville.kslnewsradio) AppScan description of the content of the iOS application KSL NewsRadio (com.bonneville.kslnewsradio). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application KSL NewsRadio (com.bonneville.kslnewsradio). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# KSL NewsRadio (com.bonneville.kslnewsradio)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/3e/36/f53e3618-10ec-4545-651e-d10f99e8bea5/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# KSL NewsRadio (com.bonneville.kslnewsradio
 
 **BundleId:** com.bonneville.kslnewsradio
 **App Version:** 8.2.7
 **App Name:** KSL NewsRadio
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 29
 **Public keys:** 5
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -45,13 +50,12 @@ build using Xcode 13
 contains 1 App extensions
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
-- Network: 2 lib(s)
 - Tools: 7 lib(s)
-
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -90,5 +94,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

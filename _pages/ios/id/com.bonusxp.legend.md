@@ -3,28 +3,35 @@ title: "Stranger Things: The Game (com.bonusxp.legend)"
 permalink: /apps/ios/com.bonusxp.legend.html
 layout: single
 author_profile: false
----
-Stranger Things: The Game (com.bonusxp.legend) AppScan description of the content of the iOS application Stranger Things: The Game (com.bonusxp.legend). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Stranger Things: The Game (com.bonusxp.legend)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Stranger Things: The Game (com.bonusxp.legend). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Stranger Things: The Game (com.bonusxp.legend
 
 **BundleId:** com.bonusxp.legend
 **App Version:** 1.0.280
 **App Name:** Stranger Things: The Game
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 32
 **Public keys:** 7
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -32,11 +39,10 @@ Number of entitlements detected: 3
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -74,5 +80,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

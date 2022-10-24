@@ -3,39 +3,43 @@ title: "Trainline (com.thetrainline.iphone)"
 permalink: /apps/ios/com.thetrainline.iphone.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/92/ca/77/92ca7744-777a-7a20-44a4-68bc192880eb/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/92/ca/77/92ca7744-777a-7a20-44a4-68bc192880eb/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-Trainline (com.thetrainline.iphone) AppScan description of the content of the iOS application Trainline (com.thetrainline.iphone). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Trainline (com.thetrainline.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Trainline (com.thetrainline.iphone)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/92/ca/77/92ca7744-777a-7a20-44a4-68bc192880eb/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Trainline (com.thetrainline.iphone
 
 **BundleId:** com.thetrainline.iphone
 **App Version:** 245
 **App Name:** Trainline
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-- NSCalendarsUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 32
 **Public keys:** 8
 **Custom keys:** 18
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -49,14 +53,13 @@ at least 4 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 26
 - UI: 1 lib(s)
-- Tracking: 1 lib(s)
 - Tools: 3 lib(s)
-
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -107,5 +110,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

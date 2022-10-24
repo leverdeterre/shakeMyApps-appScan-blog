@@ -3,65 +3,78 @@ title: "Cannabis Cactus+ (branded.md29f9b5ed6f64fc6b4e1c63138593ab9.cannabiscact
 permalink: /apps/ios/branded.md29f9b5ed6f64fc6b4e1c63138593ab9.cannabiscactus.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/92/8e/12/928e1206-f823-bfcb-5bed-043d8bfaa024/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/92/8e/12/928e1206-f823-bfcb-5bed-043d8bfaa024/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Cannabis Cactus+ (branded.md29f9b5ed6f64fc6b4e1c63138593ab9.cannabiscactus) AppScan description of the content of the iOS application Cannabis Cactus+ (branded.md29f9b5ed6f64fc6b4e1c63138593ab9.cannabiscactus). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Cannabis Cactus+ (branded.md29f9b5ed6f64fc6b4e1c63138593ab9.cannabiscactus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Cannabis Cactus+ (branded.md29f9b5ed6f64fc6b4e1c63138593ab9.cannabiscactus)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/92/8e/12/928e1206-f823-bfcb-5bed-043d8bfaa024/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Cannabis Cactus+ (branded.md29f9b5ed6f64fc6b4e1c63138593ab9.cannabiscactus
 
 **BundleId:** branded.md29f9b5ed6f64fc6b4e1c63138593ab9.cannabiscactus
 **App Version:** 2.65048.4
 **App Name:** Cannabis Cactus+
 
 
+## AppScore : 4.00 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocalNetworkUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCalendarsUsageDescription
-- NSBluetoothAlwaysUsageDescription
-  
-  
+**Number of permissions:** 12
 **Private keys:** 31
 **Public keys:** 9
 **Custom keys:** 34
 **Low securit keys:** 4
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 698
-- Tools: 16 lib(s)
 - UI: 9 lib(s)
+- Tools: 16 lib(s)
+- Tracking: 4 lib(s)
 - Network: 4 lib(s)
 - Logs: 1 lib(s)
-- Tracking: 4 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -154,5 +167,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,46 +3,57 @@ title: "So Happy (be.peopleware.sodexo.sohappy.prod)"
 permalink: /apps/ios/be.peopleware.sodexo.sohappy.prod.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/84/8a/fa848a10-1440-5c12-2575-3c126ad8f36f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/84/8a/fa848a10-1440-5c12-2575-3c126ad8f36f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-So Happy (be.peopleware.sodexo.sohappy.prod) AppScan description of the content of the iOS application So Happy (be.peopleware.sodexo.sohappy.prod). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application So Happy (be.peopleware.sodexo.sohappy.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# So Happy (be.peopleware.sodexo.sohappy.prod)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/84/8a/fa848a10-1440-5c12-2575-3c126ad8f36f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# So Happy (be.peopleware.sodexo.sohappy.prod
 
 **BundleId:** be.peopleware.sodexo.sohappy.prod
 **App Version:** 2.1.4
 **App Name:** So Happy
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 30
 **Public keys:** 4
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Facebook Login detected
+FacebookLogin detected
 supported devices iPhone & iPad
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
-- Tools: 2 lib(s)
 - Tracking: 1 lib(s)
-
+- Tools: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -66,5 +77,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

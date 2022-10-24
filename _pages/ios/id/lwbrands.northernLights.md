@@ -3,37 +3,43 @@ title: "Aurora Forecast (lwbrands.northernLights)"
 permalink: /apps/ios/lwbrands.northernLights.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/fe/0c/4afe0c08-e6f4-72ef-15f1-b75d8b4bdd09/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/fe/0c/4afe0c08-e6f4-72ef-15f1-b75d8b4bdd09/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Aurora Forecast (lwbrands.northernLights) AppScan description of the content of the iOS application Aurora Forecast (lwbrands.northernLights). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Aurora Forecast (lwbrands.northernLights). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Aurora Forecast (lwbrands.northernLights)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/fe/0c/4afe0c08-e6f4-72ef-15f1-b75d8b4bdd09/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Aurora Forecast (lwbrands.northernLights
 
 **BundleId:** lwbrands.northernLights
 **App Version:** 1.2.10
 **App Name:** Aurora Forecast
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 30
 **Public keys:** 5
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -43,11 +49,10 @@ supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -83,5 +88,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

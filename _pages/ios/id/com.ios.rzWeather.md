@@ -3,38 +3,43 @@ title: "RedZone Weather (com.ios.rzWeather)"
 permalink: /apps/ios/com.ios.rzWeather.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/82/df/f482dfbb-7903-9772-e3a0-41a9193acb9b/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/82/df/f482dfbb-7903-9772-e3a0-41a9193acb9b/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-RedZone Weather (com.ios.rzWeather) AppScan description of the content of the iOS application RedZone Weather (com.ios.rzWeather). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application RedZone Weather (com.ios.rzWeather). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# RedZone Weather (com.ios.rzWeather)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/82/df/f482dfbb-7903-9772-e3a0-41a9193acb9b/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# RedZone Weather (com.ios.rzWeather
 
 **BundleId:** com.ios.rzWeather
 **App Version:** 257
 **App Name:** RedZone Weather
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSFaceIDUsageDescription
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSAppleMusicUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 26
 **Public keys:** 4
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -43,13 +48,12 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
-- UI: 1 lib(s)
 - Tools: 2 lib(s)
-
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -72,5 +76,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

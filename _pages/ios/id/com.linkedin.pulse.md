@@ -3,28 +3,35 @@ title: "Pulse (com.linkedin.pulse)"
 permalink: /apps/ios/com.linkedin.pulse.html
 layout: single
 author_profile: false
----
-Pulse (com.linkedin.pulse) AppScan description of the content of the iOS application Pulse (com.linkedin.pulse). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Pulse (com.linkedin.pulse)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Pulse (com.linkedin.pulse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Pulse (com.linkedin.pulse
 
 **BundleId:** com.linkedin.pulse
 **App Version:** 1.2.6
 **App Name:** Pulse
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 34
 **Public keys:** 6
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -34,15 +41,14 @@ contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 23
-- UI: 1 lib(s)
-- Logs: 1 lib(s)
-- Storage: 1 lib(s)
 - Network: 2 lib(s)
-
+- Storage: 1 lib(s)
+- Logs: 1 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -81,5 +87,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

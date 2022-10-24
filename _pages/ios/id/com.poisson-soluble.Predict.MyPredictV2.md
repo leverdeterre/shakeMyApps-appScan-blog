@@ -3,44 +3,43 @@ title: "myPredict (com.poisson-soluble.Predict.MyPredictV2)"
 permalink: /apps/ios/com.poisson-soluble.Predict.MyPredictV2.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/d0/19/f3d0193b-e968-9b43-eb21-6e5e70a1d03b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/d0/19/f3d0193b-e968-9b43-eb21-6e5e70a1d03b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-myPredict (com.poisson-soluble.Predict.MyPredictV2) AppScan description of the content of the iOS application myPredict (com.poisson-soluble.Predict.MyPredictV2). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application myPredict (com.poisson-soluble.Predict.MyPredictV2). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# myPredict (com.poisson-soluble.Predict.MyPredictV2)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/d0/19/f3d0193b-e968-9b43-eb21-6e5e70a1d03b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# myPredict (com.poisson-soluble.Predict.MyPredictV2
 
 **BundleId:** com.poisson-soluble.Predict.MyPredictV2
 **App Version:** 2.1.8
 **App Name:** myPredict
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCalendarsUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSMotionUsageDescription
-- NSCameraUsageDescription
-- NSAppleMusicUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 13
 **Private keys:** 28
 **Public keys:** 6
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -48,11 +47,10 @@ Number of entitlements detected: 3
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
-
 
 **Apple dylibs:**
 
@@ -96,5 +94,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

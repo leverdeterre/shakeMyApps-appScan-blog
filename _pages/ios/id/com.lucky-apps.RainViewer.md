@@ -3,39 +3,61 @@ title: "RainViewer (com.lucky-apps.RainViewer)"
 permalink: /apps/ios/com.lucky-apps.RainViewer.html
 layout: single
 author_profile: false
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/50/bb/5650bb0d-29ac-604b-96f9-c235ab30b338/app-icon-main-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c6/ee/1a/c6ee1aa6-2941-7cbc-1bcd-8a5b4f2b6174/app-icon-main-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/50/bb/5650bb0d-29ac-604b-96f9-c235ab30b338/app-icon-main-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c6/ee/1a/c6ee1aa6-2941-7cbc-1bcd-8a5b4f2b6174/app-icon-main-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-RainViewer (com.lucky-apps.RainViewer) AppScan description of the content of the iOS application RainViewer (com.lucky-apps.RainViewer). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application RainViewer (com.lucky-apps.RainViewer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# RainViewer (com.lucky-apps.RainViewer)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c6/ee/1a/c6ee1aa6-2941-7cbc-1bcd-8a5b4f2b6174/app-icon-main-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# RainViewer (com.lucky-apps.RainViewer
 
 **BundleId:** com.lucky-apps.RainViewer
-**App Version:** 2.18.3
+**App Version:** 2.18.4
 **App Name:** RainViewer
 
 
+## AppScore : 4.78 (⭐️⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 28
 **Public keys:** 7
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
-Number of entitlements detected: 6
+Number of entitlements detected: 7
 Native App
 supported devices iPhone & iPad
 contains 5 App extensions
@@ -43,12 +65,11 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
 - Tools: 3 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -117,5 +138,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,55 +3,58 @@ title: "PointCards (rezo.mesarkishvili.PointCards)"
 permalink: /apps/ios/rezo.mesarkishvili.PointCards.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e7/c6/d8/e7c6d8bc-07ff-403a-2cb4-38f3c627fc76/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e7/c6/d8/e7c6d8bc-07ff-403a-2cb4-38f3c627fc76/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-PointCards (rezo.mesarkishvili.PointCards) AppScan description of the content of the iOS application PointCards (rezo.mesarkishvili.PointCards). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application PointCards (rezo.mesarkishvili.PointCards). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# PointCards (rezo.mesarkishvili.PointCards)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e7/c6/d8/e7c6d8bc-07ff-403a-2cb4-38f3c627fc76/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# PointCards (rezo.mesarkishvili.PointCards
 
 **BundleId:** rezo.mesarkishvili.PointCards
 **App Version:** 6.5
 **App Name:** PointCards
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSFaceIDUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocalNetworkUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 30
 **Public keys:** 11
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 11
-Facebook Login detected
+FacebookLogin detected
 Native App
 contains 2 App extensions
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -96,5 +99,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

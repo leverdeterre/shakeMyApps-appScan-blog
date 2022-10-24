@@ -3,35 +3,43 @@ title: "早报 (com.sph.cnd.zaobao.iphone.row)"
 permalink: /apps/ios/com.sph.cnd.zaobao.iphone.row.html
 layout: single
 author_profile: false
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/80/ce/21/80ce2137-3528-edd6-63f8-20587be89ccb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/fb/dd/fbfbddae-29fe-996f-4262-74400baf25fe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/80/ce/21/80ce2137-3528-edd6-63f8-20587be89ccb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/fb/dd/fbfbddae-29fe-996f-4262-74400baf25fe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-早报 (com.sph.cnd.zaobao.iphone.row) AppScan description of the content of the iOS application 早报 (com.sph.cnd.zaobao.iphone.row). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application 早报 (com.sph.cnd.zaobao.iphone.row). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# 早报 (com.sph.cnd.zaobao.iphone.row)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/fb/dd/fbfbddae-29fe-996f-4262-74400baf25fe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# 早报 (com.sph.cnd.zaobao.iphone.row
 
 **BundleId:** com.sph.cnd.zaobao.iphone.row
-**App Version:** 6.3.6
+**App Version:** 6.3.7
 **App Name:** 早报
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-- NSFaceIDUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 28
 **Public keys:** 5
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -43,17 +51,16 @@ contains 1 App extensions
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 54
-- Storage: 3 lib(s)
+**Number of Third Party Library detected:** 55
+- Crash: 1 lib(s)
+- Tracking: 3 lib(s)
+- Tools: 15 lib(s)
 - Network: 2 lib(s)
 - UI: 3 lib(s)
-- Crash: 1 lib(s)
-- Tools: 15 lib(s)
-- Tracking: 3 lib(s)
-
+- Storage: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -64,10 +71,12 @@ at least 1 entitlemented features (strong iOS integration)
 - libswiftCoreFoundation
 - libswiftCoreGraphics
 - libswiftCoreImage
+- libswiftCoreLocation
 - libswiftCoreMedia
 - libswiftDarwin
 - libswiftDispatch
 - libswiftFoundation
+- libswiftMapKit
 - libswiftMediaPlayer
 - libswiftMetal
 - libswiftObjectiveC
@@ -86,6 +95,7 @@ at least 1 entitlemented features (strong iOS integration)
 - CoreData
 - CoreFoundation
 - CoreGraphics
+- CoreLocation
 - CoreMedia
 - CoreServices
 - CoreTelephony
@@ -93,6 +103,7 @@ at least 1 entitlemented features (strong iOS integration)
 - Foundation
 - JavaScriptCore
 - LocalAuthentication
+- MapKit
 - MediaPlayer
 - MessageUI
 - MobileCoreServices
@@ -112,5 +123,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

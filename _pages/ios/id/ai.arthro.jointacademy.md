@@ -3,35 +3,43 @@ title: "Joint Academy (ai.arthro.jointacademy)"
 permalink: /apps/ios/ai.arthro.jointacademy.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/f5/96/f9f5962a-1dd5-ef61-d609-aa359ff7b397/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/f5/96/f9f5962a-1dd5-ef61-d609-aa359ff7b397/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Joint Academy (ai.arthro.jointacademy) AppScan description of the content of the iOS application Joint Academy (ai.arthro.jointacademy). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Joint Academy (ai.arthro.jointacademy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Joint Academy (ai.arthro.jointacademy)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/f5/96/f9f5962a-1dd5-ef61-d609-aa359ff7b397/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Joint Academy (ai.arthro.jointacademy
 
 **BundleId:** ai.arthro.jointacademy
 **App Version:** 2.1.3
 **App Name:** Joint Academy
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 8
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -42,11 +50,10 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -120,5 +127,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

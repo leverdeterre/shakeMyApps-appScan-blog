@@ -3,33 +3,43 @@ title: "FP Notebook (com.usbmis.fpnb)"
 permalink: /apps/ios/com.usbmis.fpnb.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/7b/ad/b6/7badb650-6d39-a0f4-3977-2635d259d8da/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/7b/ad/b6/7badb650-6d39-a0f4-3977-2635d259d8da/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-FP Notebook (com.usbmis.fpnb) AppScan description of the content of the iOS application FP Notebook (com.usbmis.fpnb). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application FP Notebook (com.usbmis.fpnb). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# FP Notebook (com.usbmis.fpnb)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/7b/ad/b6/7badb650-6d39-a0f4-3977-2635d259d8da/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# FP Notebook (com.usbmis.fpnb
 
 **BundleId:** com.usbmis.fpnb
 **App Version:** 3.1.3
 **App Name:** FP Notebook
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 31
 **Public keys:** 5
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -38,13 +48,12 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 26
 - Storage: 1 lib(s)
 - Logs: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -55,5 +64,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

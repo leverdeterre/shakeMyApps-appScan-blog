@@ -3,35 +3,43 @@ title: "Avito (com.bikhir.ma.iphone)"
 permalink: /apps/ios/com.bikhir.ma.iphone.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/52/f5/99/52f5998a-c3ac-3e0e-18bb-04ec6d9a115c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/52/f5/99/52f5998a-c3ac-3e0e-18bb-04ec6d9a115c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Avito (com.bikhir.ma.iphone) AppScan description of the content of the iOS application Avito (com.bikhir.ma.iphone). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Avito (com.bikhir.ma.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Avito (com.bikhir.ma.iphone)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/52/f5/99/52f5998a-c3ac-3e0e-18bb-04ec6d9a115c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Avito (com.bikhir.ma.iphone
 
 **BundleId:** com.bikhir.ma.iphone
 **App Version:** 2.12.0
 **App Name:** Avito
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -40,16 +48,15 @@ build using Xcode 13
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
 - UI: 1 lib(s)
+- Tracking: 2 lib(s)
 - Tools: 12 lib(s)
 - Crash: 1 lib(s)
 - Network: 3 lib(s)
-- Tracking: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -58,5 +65,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

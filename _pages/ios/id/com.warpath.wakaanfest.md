@@ -3,64 +3,61 @@ title: "Wakaan Fest (com.warpath.wakaanfest)"
 permalink: /apps/ios/com.warpath.wakaanfest.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/65/7d/ec657d49-d96a-641a-d8d4-552219972170/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/65/7d/ec657d49-d96a-641a-d8d4-552219972170/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Wakaan Fest (com.warpath.wakaanfest) AppScan description of the content of the iOS application Wakaan Fest (com.warpath.wakaanfest). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Wakaan Fest (com.warpath.wakaanfest). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Wakaan Fest (com.warpath.wakaanfest)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/65/7d/ec657d49-d96a-641a-d8d4-552219972170/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Wakaan Fest (com.warpath.wakaanfest
 
 **BundleId:** com.warpath.wakaanfest
 **App Version:** 1.0.0
 **App Name:** Wakaan Fest
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSMotionUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSAppleMusicUsageDescription
-- NSCameraUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSSpeechRecognitionUsageDescription
-  
-  
+**Number of permissions:** 14
 **Private keys:** 32
 **Public keys:** 4
 **Custom keys:** 18
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Facebook Login detected
+FacebookLogin detected
 build using Xcode 13
 contains 1 App extensions
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 60
-- Tools: 14 lib(s)
-- Storage: 2 lib(s)
-- Network: 1 lib(s)
 - Crash: 1 lib(s)
+- Storage: 2 lib(s)
+- Tools: 14 lib(s)
 - Tracking: 3 lib(s)
-
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -100,5 +97,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,47 +3,49 @@ title: "Wallpaper (com.yacea.wallpaper)"
 permalink: /apps/ios/com.yacea.wallpaper.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/94/87/5b9487a5-3511-ac3b-7fd1-25c2dcc5aa12/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/94/87/5b9487a5-3511-ac3b-7fd1-25c2dcc5aa12/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 ---
-Wallpaper (com.yacea.wallpaper) AppScan description of the content of the iOS application Wallpaper (com.yacea.wallpaper). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Wallpaper (com.yacea.wallpaper). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Wallpaper (com.yacea.wallpaper)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/5b/94/87/5b9487a5-3511-ac3b-7fd1-25c2dcc5aa12/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Wallpaper (com.yacea.wallpaper
 
 **BundleId:** com.yacea.wallpaper
 **App Version:** 1.3.3
 **App Name:** Wallpaper
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSMicrophoneUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSMotionUsageDescription
-- NSSiriUsageDescription
-- NSUserTrackingUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 29
 **Public keys:** 6
 **Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 build using Xcode 13
 contains 3 App extensions
@@ -51,13 +53,12 @@ support multiple languages
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
-- Tools: 1 lib(s)
 - Tracking: 2 lib(s)
-
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -107,5 +108,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

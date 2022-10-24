@@ -3,46 +3,55 @@ title: "Pranky (com.imegasolutions.vacilapp)"
 permalink: /apps/ios/com.imegasolutions.vacilapp.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/92/72/e1927235-f1e1-b12f-51ca-d00fdefafd61/AppIcon-0-1x_U007emarketing-0-0-85-220-0-8.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/92/72/e1927235-f1e1-b12f-51ca-d00fdefafd61/AppIcon-0-1x_U007emarketing-0-0-85-220-0-8.png/512x512bb.jpg
 ---
-Pranky (com.imegasolutions.vacilapp) AppScan description of the content of the iOS application Pranky (com.imegasolutions.vacilapp). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Pranky (com.imegasolutions.vacilapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Pranky (com.imegasolutions.vacilapp)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/92/72/e1927235-f1e1-b12f-51ca-d00fdefafd61/AppIcon-0-1x_U007emarketing-0-0-85-220-0-8.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Pranky (com.imegasolutions.vacilapp
 
 **BundleId:** com.imegasolutions.vacilapp
 **App Version:** 2.5
 **App Name:** Pranky
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 7
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -51,5 +60,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

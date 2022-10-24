@@ -3,46 +3,48 @@ title: "Control (com.adt.ADTControlAlarm)"
 permalink: /apps/ios/com.adt.ADTControlAlarm.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/1b/15/6e1b1581-c3bf-b058-7af6-8cdddbf4d83a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/1b/15/6e1b1581-c3bf-b058-7af6-8cdddbf4d83a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Control (com.adt.ADTControlAlarm) AppScan description of the content of the iOS application Control (com.adt.ADTControlAlarm). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Control (com.adt.ADTControlAlarm). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Control (com.adt.ADTControlAlarm)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/1b/15/6e1b1581-c3bf-b058-7af6-8cdddbf4d83a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Control (com.adt.ADTControlAlarm
 
 **BundleId:** com.adt.ADTControlAlarm
 **App Version:** 4.21.8
 **App Name:** Control
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSMicrophoneUsageDescription
-- NSMotionUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-- NSFaceIDUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 34
 **Public keys:** 10
 **Custom keys:** 17
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 8
-Google Login detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -51,13 +53,12 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-- Tracking: 1 lib(s)
 - Network: 1 lib(s)
-
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -102,5 +103,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

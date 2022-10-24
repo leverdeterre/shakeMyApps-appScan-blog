@@ -3,42 +3,63 @@ title: "PictureThis (cn.danatech.xingseus)"
 permalink: /apps/ios/cn.danatech.xingseus.html
 layout: single
 author_profile: false
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/71/43/e4/7143e478-6c88-eb41-10e9-52c41119f1dc/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/ec/ee/aaeceec5-9a12-5166-cfd9-386af66916db/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/71/43/e4/7143e478-6c88-eb41-10e9-52c41119f1dc/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/ec/ee/aaeceec5-9a12-5166-cfd9-386af66916db/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-PictureThis (cn.danatech.xingseus) AppScan description of the content of the iOS application PictureThis (cn.danatech.xingseus). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application PictureThis (cn.danatech.xingseus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# PictureThis (cn.danatech.xingseus)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/ec/ee/aaeceec5-9a12-5166-cfd9-386af66916db/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# PictureThis (cn.danatech.xingseus
 
 **BundleId:** cn.danatech.xingseus
 **App Version:** 3.33.1
 **App Name:** PictureThis
 
 
+## AppScore : 4.44 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSMotionUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 30
 **Public keys:** 8
 **Custom keys:** 11
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Twitter Login detected
-Facebook Login detected
+AppleSignIn detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 contains 2 App extensions
@@ -46,15 +67,14 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 228
-- UI: 1 lib(s)
-- Tracking: 2 lib(s)
 - Network: 2 lib(s)
 - Tools: 7 lib(s)
-
+- UI: 1 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -99,5 +119,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

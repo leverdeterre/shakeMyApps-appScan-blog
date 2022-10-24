@@ -3,38 +3,43 @@ title: "Varo (com.varomoney.VaroBank)"
 permalink: /apps/ios/com.varomoney.VaroBank.html
 layout: single
 author_profile: false
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/42/77/43/4277433a-82e2-2ed4-d32a-bcb31c688d58/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/56/f0/74/56f074ed-3345-1a45-2ce7-4cae235207a6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/42/77/43/4277433a-82e2-2ed4-d32a-bcb31c688d58/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/56/f0/74/56f074ed-3345-1a45-2ce7-4cae235207a6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Varo (com.varomoney.VaroBank) AppScan description of the content of the iOS application Varo (com.varomoney.VaroBank). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Varo (com.varomoney.VaroBank). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Varo (com.varomoney.VaroBank)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/56/f0/74/56f074ed-3345-1a45-2ce7-4cae235207a6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Varo (com.varomoney.VaroBank
 
 **BundleId:** com.varomoney.VaroBank
-**App Version:** 2.43.0
+**App Version:** 2.44.0
 **App Name:** Varo
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSFaceIDUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 31
 **Public keys:** 8
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -47,15 +52,14 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 47
-- UI: 3 lib(s)
 - Tracking: 5 lib(s)
-- Network: 1 lib(s)
+- UI: 3 lib(s)
 - Tools: 12 lib(s)
-
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -92,5 +96,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

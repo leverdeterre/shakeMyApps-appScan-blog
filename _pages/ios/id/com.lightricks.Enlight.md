@@ -3,47 +3,51 @@ title: "Enlight (com.lightricks.Enlight)"
 permalink: /apps/ios/com.lightricks.Enlight.html
 layout: single
 author_profile: false
----
-Enlight (com.lightricks.Enlight) AppScan description of the content of the iOS application Enlight (com.lightricks.Enlight). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Enlight (com.lightricks.Enlight)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Enlight (com.lightricks.Enlight). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Enlight (com.lightricks.Enlight
 
 **BundleId:** com.lightricks.Enlight
 **App Version:** 1.4.11
 **App Name:** Enlight
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 32
 **Public keys:** 7
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-- Tools: 1 lib(s)
-- Network: 1 lib(s)
 - UI: 1 lib(s)
-
+- Network: 1 lib(s)
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -81,5 +85,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

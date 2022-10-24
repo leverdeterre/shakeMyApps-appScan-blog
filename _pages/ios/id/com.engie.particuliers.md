@@ -3,45 +3,49 @@ title: "ENGIE (com.engie.particuliers)"
 permalink: /apps/ios/com.engie.particuliers.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/df/47/f1/df47f128-05a6-b7b5-4e57-a8da8a979f7b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/df/47/f1/df47f128-05a6-b7b5-4e57-a8da8a979f7b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-ENGIE (com.engie.particuliers) AppScan description of the content of the iOS application ENGIE (com.engie.particuliers). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application ENGIE (com.engie.particuliers). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# ENGIE (com.engie.particuliers)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/df/47/f1/df47f128-05a6-b7b5-4e57-a8da8a979f7b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# ENGIE (com.engie.particuliers
 
 **BundleId:** com.engie.particuliers
 **App Version:** 7.1.2
 **App Name:** ENGIE
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothPeripheralUsageDescription
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSFaceIDUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 32
 **Public keys:** 10
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 at least 1 entitlemented features (strong iOS integration)
@@ -49,16 +53,15 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 66
-- Tools: 22 lib(s)
-- UI: 5 lib(s)
-- Tracking: 7 lib(s)
 - Crash: 1 lib(s)
 - Network: 2 lib(s)
-
+- Tools: 22 lib(s)
+- Tracking: 7 lib(s)
+- UI: 5 lib(s)
 
 **Apple dylibs:**
 
@@ -107,5 +110,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

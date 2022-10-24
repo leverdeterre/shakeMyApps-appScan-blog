@@ -3,52 +3,56 @@ title: "Vision Test (bz.sight.VisionTestApp)"
 permalink: /apps/ios/bz.sight.VisionTestApp.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/50/a0/f750a081-53d8-a1eb-1248-bc0765a6e1ee/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/83/75/f583752c-75be-fd5e-4e53-a91a9d50f549/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/50/a0/f750a081-53d8-a1eb-1248-bc0765a6e1ee/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/83/75/f583752c-75be-fd5e-4e53-a91a9d50f549/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
 ---
-Vision Test (bz.sight.VisionTestApp) AppScan description of the content of the iOS application Vision Test (bz.sight.VisionTestApp). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Vision Test (bz.sight.VisionTestApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Vision Test (bz.sight.VisionTestApp)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/83/75/f583752c-75be-fd5e-4e53-a91a9d50f549/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Vision Test (bz.sight.VisionTestApp
 
 **BundleId:** bz.sight.VisionTestApp
-**App Version:** 24.0.0
+**App Version:** 25.0.0
 **App Name:** Vision Test
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocalNetworkUsageDescription
-- NSMicrophoneUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 32
 **Public keys:** 5
-**Custom keys:** 33
+**Custom keys:** 34
 **Low securit keys:** 4
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
-Number of entitlements detected: 4
+Number of entitlements detected: 5
 Native App
 supported devices iPhone & iPad
-build using Xcode 13
-at least 2 entitlemented features (strong iOS integration)
+at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
-
 
 **Apple dylibs:**
 
@@ -85,6 +89,7 @@ SwiftUI
 - DeviceCheck
 - ImageIO
 - LocalAuthentication
+- MapKit
 - MessageUI
 - PassKit
 - QuartzCore
@@ -96,5 +101,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,56 +3,62 @@ title: "Icon Themer (co.vulcanlabs.iconmaker)"
 permalink: /apps/ios/co.vulcanlabs.iconmaker.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/d3/ef/e0d3efb9-cbf3-d429-9b1f-f2d54c743eaa/AppIcon16-1x_U007emarketing-0-5-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/d3/ef/e0d3efb9-cbf3-d429-9b1f-f2d54c743eaa/AppIcon16-1x_U007emarketing-0-5-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg
 ---
-Icon Themer (co.vulcanlabs.iconmaker) AppScan description of the content of the iOS application Icon Themer (co.vulcanlabs.iconmaker). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Icon Themer (co.vulcanlabs.iconmaker). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Icon Themer (co.vulcanlabs.iconmaker)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/d3/ef/e0d3efb9-cbf3-d429-9b1f-f2d54c743eaa/AppIcon16-1x_U007emarketing-0-5-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Icon Themer (co.vulcanlabs.iconmaker
 
 **BundleId:** co.vulcanlabs.iconmaker
 **App Version:** 7.8
 **App Name:** Icon Themer
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocalNetworkUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 32
 **Public keys:** 9
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
+FacebookLogin detected
 Native App
 contains 2 App extensions
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 38
-- Network: 2 lib(s)
-- Storage: 2 lib(s)
-- Tracking: 2 lib(s)
 - Tools: 9 lib(s)
+- Tracking: 2 lib(s)
+- Network: 2 lib(s)
 - UI: 4 lib(s)
-
+- Storage: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -97,5 +103,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

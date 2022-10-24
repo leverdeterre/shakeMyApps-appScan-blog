@@ -3,43 +3,49 @@ title: "Cleanup (com.codeway.cleanerplus)"
 permalink: /apps/ios/com.codeway.cleanerplus.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9b/6c/23/9b6c2367-2a7d-6589-2915-37ba15845155/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9b/6c/23/9b6c2367-2a7d-6589-2915-37ba15845155/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Cleanup (com.codeway.cleanerplus) AppScan description of the content of the iOS application Cleanup (com.codeway.cleanerplus). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Cleanup (com.codeway.cleanerplus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Cleanup (com.codeway.cleanerplus)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9b/6c/23/9b6c2367-2a7d-6589-2915-37ba15845155/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Cleanup (com.codeway.cleanerplus
 
 **BundleId:** com.codeway.cleanerplus
 **App Version:** 3.9.3
 **App Name:** Cleanup
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-- NSUserTrackingUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 29
 **Public keys:** 7
 **Custom keys:** 20
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 build using Xcode 13
 contains 2 App extensions
@@ -47,16 +53,15 @@ support multiple languages
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 46
-- Crash: 1 lib(s)
-- UI: 2 lib(s)
-- Tools: 21 lib(s)
-- Tracking: 5 lib(s)
 - Network: 2 lib(s)
-
+- Tracking: 5 lib(s)
+- UI: 2 lib(s)
+- Crash: 1 lib(s)
+- Tools: 21 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -135,5 +140,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

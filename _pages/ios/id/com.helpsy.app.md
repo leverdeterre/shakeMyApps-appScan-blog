@@ -3,32 +3,35 @@ title: "Helpsy (com.helpsy.app)"
 permalink: /apps/ios/com.helpsy.app.html
 layout: single
 author_profile: false
----
-Helpsy (com.helpsy.app) AppScan description of the content of the iOS application Helpsy (com.helpsy.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Helpsy (com.helpsy.app)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Helpsy (com.helpsy.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Helpsy (com.helpsy.app
 
 **BundleId:** com.helpsy.app
 **App Version:** 3.0
 **App Name:** Helpsy
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-- NSFaceIDUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 31
 **Public keys:** 4
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -38,7 +41,7 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
@@ -46,7 +49,6 @@ support multiple languages
 - Tracking: 3 lib(s)
 - UI: 3 lib(s)
 - Storage: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -70,5 +72,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

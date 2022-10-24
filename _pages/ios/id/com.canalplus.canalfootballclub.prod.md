@@ -3,40 +3,47 @@ title: "Football App (com.canalplus.canalfootballclub.prod)"
 permalink: /apps/ios/com.canalplus.canalfootballclub.prod.html
 layout: single
 author_profile: false
----
-Football App (com.canalplus.canalfootballclub.prod) AppScan description of the content of the iOS application Football App (com.canalplus.canalfootballclub.prod). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Football App (com.canalplus.canalfootballclub.prod)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Football App (com.canalplus.canalfootballclub.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Football App (com.canalplus.canalfootballclub.prod
 
 **BundleId:** com.canalplus.canalfootballclub.prod
 **App Version:** 8.4.4
 **App Name:** Football App
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 32
 **Public keys:** 5
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -74,5 +81,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

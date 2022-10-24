@@ -3,43 +3,47 @@ title: "SNCF Direct (fr.sncf.engares)"
 permalink: /apps/ios/fr.sncf.engares.html
 layout: single
 author_profile: false
----
-SNCF Direct (fr.sncf.engares) AppScan description of the content of the iOS application SNCF Direct (fr.sncf.engares). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# SNCF Direct (fr.sncf.engares)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application SNCF Direct (fr.sncf.engares). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# SNCF Direct (fr.sncf.engares
 
 **BundleId:** fr.sncf.engares
 **App Version:** 4.3.1
 **App Name:** SNCF Direct
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 33
 **Public keys:** 7
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -71,5 +75,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

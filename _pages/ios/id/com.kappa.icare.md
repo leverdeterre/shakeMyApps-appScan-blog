@@ -3,51 +3,52 @@ title: "iCare (com.kappa.icare)"
 permalink: /apps/ios/com.kappa.icare.html
 layout: single
 author_profile: false
----
-iCare (com.kappa.icare) AppScan description of the content of the iOS application iCare (com.kappa.icare). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# iCare (com.kappa.icare)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application iCare (com.kappa.icare). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# iCare (com.kappa.icare
 
 **BundleId:** com.kappa.icare
 **App Version:** 1.0.6
 **App Name:** iCare
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 31
 **Public keys:** 6
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- Tracking: 2 lib(s)
-- UI: 5 lib(s)
 - Network: 5 lib(s)
+- Tracking: 2 lib(s)
 - Tools: 9 lib(s)
-
+- UI: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -123,5 +124,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

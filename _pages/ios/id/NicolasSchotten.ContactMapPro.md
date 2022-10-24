@@ -3,36 +3,43 @@ title: "Contact Map (NicolasSchotten.ContactMapPro)"
 permalink: /apps/ios/NicolasSchotten.ContactMapPro.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/81/42/b2814276-8faa-1651-4372-732af83a3bdf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/81/42/b2814276-8faa-1651-4372-732af83a3bdf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Contact Map (NicolasSchotten.ContactMapPro) AppScan description of the content of the iOS application Contact Map (NicolasSchotten.ContactMapPro). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Contact Map (NicolasSchotten.ContactMapPro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Contact Map (NicolasSchotten.ContactMapPro)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/81/42/b2814276-8faa-1651-4372-732af83a3bdf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Contact Map (NicolasSchotten.ContactMapPro
 
 **BundleId:** NicolasSchotten.ContactMapPro
 **App Version:** 3.0.5
 **App Name:** Contact Map
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 32
 **Public keys:** 4
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -43,11 +50,10 @@ contains 1 App extensions
 support multiple languages
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -82,5 +88,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

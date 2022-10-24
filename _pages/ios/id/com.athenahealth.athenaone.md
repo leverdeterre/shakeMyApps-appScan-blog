@@ -3,42 +3,43 @@ title: "athenaOne (com.athenahealth.athenaone)"
 permalink: /apps/ios/com.athenahealth.athenaone.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/21/ba/5b/21ba5b91-8d72-32da-6701-0b54c5132d21/AppIcon-athenaOne-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/21/ba/5b/21ba5b91-8d72-32da-6701-0b54c5132d21/AppIcon-athenaOne-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-athenaOne (com.athenahealth.athenaone) AppScan description of the content of the iOS application athenaOne (com.athenahealth.athenaone). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application athenaOne (com.athenahealth.athenaone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# athenaOne (com.athenahealth.athenaone)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/21/ba/5b/21ba5b91-8d72-32da-6701-0b54c5132d21/AppIcon-athenaOne-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# athenaOne (com.athenahealth.athenaone
 
 **BundleId:** com.athenahealth.athenaone
 **App Version:** 2.2.61
 **App Name:** athenaOne
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothPeripheralUsageDescription
-- NSFaceIDUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSAppleMusicUsageDescription
-- NSCalendarsUsageDescription
-- NSMicrophoneUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 36
 **Public keys:** 8
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -49,16 +50,15 @@ build using Xcode 13
 contains 3 App extensions
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 57
 - Tools: 9 lib(s)
-- Network: 2 lib(s)
-- Tracking: 3 lib(s)
 - UI: 4 lib(s)
+- Tracking: 3 lib(s)
 - Crash: 1 lib(s)
-
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -111,5 +111,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

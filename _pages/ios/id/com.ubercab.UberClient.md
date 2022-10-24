@@ -3,66 +3,62 @@ title: "Uber (com.ubercab.UberClient)"
 permalink: /apps/ios/com.ubercab.UberClient.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/50/ae/e1/50aee177-f0be-ee8d-caf2-b479c3c27f01/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/58/d4/3d/58d43d1e-6908-a769-e3ec-c15808e2aae8/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/50/ae/e1/50aee177-f0be-ee8d-caf2-b479c3c27f01/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/58/d4/3d/58d43d1e-6908-a769-e3ec-c15808e2aae8/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Uber (com.ubercab.UberClient) AppScan description of the content of the iOS application Uber (com.ubercab.UberClient). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Uber (com.ubercab.UberClient). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Uber (com.ubercab.UberClient)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/58/d4/3d/58d43d1e-6908-a769-e3ec-c15808e2aae8/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Uber (com.ubercab.UberClient
 
 **BundleId:** com.ubercab.UberClient
-**App Version:** 3.531.10000
+**App Version:** 3.532.10002
 **App Name:** Uber
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSFaceIDUsageDescription
-- NSSiriUsageDescription
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSMotionUsageDescription
-- NFCReaderUsageDescription
-- NSLocationTemporaryUsageDescriptionDictionary
-  
-  
+**Number of permissions:** 14
 **Private keys:** 30
 **Public keys:** 8
 **Custom keys:** 23
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 13
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
-build using Xcode 13
 contains 5 App extensions
 support multiple languages
 at least 4 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
 - Network: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -138,5 +134,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

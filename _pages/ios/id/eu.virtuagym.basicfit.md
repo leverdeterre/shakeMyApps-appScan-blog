@@ -3,36 +3,35 @@ title: "Basic-Fit (eu.virtuagym.basicfit)"
 permalink: /apps/ios/eu.virtuagym.basicfit.html
 layout: single
 author_profile: false
----
-Basic-Fit (eu.virtuagym.basicfit) AppScan description of the content of the iOS application Basic-Fit (eu.virtuagym.basicfit). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Basic-Fit (eu.virtuagym.basicfit)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Basic-Fit (eu.virtuagym.basicfit). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Basic-Fit (eu.virtuagym.basicfit
 
 **BundleId:** eu.virtuagym.basicfit
 **App Version:** 9.8.0
 **App Name:** Basic-Fit
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSHealthUpdateUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSHealthShareUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 33
 **Public keys:** 6
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -41,11 +40,10 @@ Native App
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 - libswiftCore
@@ -105,5 +103,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

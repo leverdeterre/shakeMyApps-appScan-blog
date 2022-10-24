@@ -3,49 +3,55 @@ title: "FemaleFitness (com.reezo.femaleworkout)"
 permalink: /apps/ios/com.reezo.femaleworkout.html
 layout: single
 author_profile: false
----
-FemaleFitness (com.reezo.femaleworkout) AppScan description of the content of the iOS application FemaleFitness (com.reezo.femaleworkout). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# FemaleFitness (com.reezo.femaleworkout)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application FemaleFitness (com.reezo.femaleworkout). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# FemaleFitness (com.reezo.femaleworkout
 
 **BundleId:** com.reezo.femaleworkout
 **App Version:** 10.3.9
 **App Name:** FemaleFitness
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 33
 **Public keys:** 7
 **Custom keys:** 20
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
+- Crash: 1 lib(s)
 - UI: 3 lib(s)
 - Tools: 13 lib(s)
-- Crash: 1 lib(s)
+- Storage: 1 lib(s)
 - Tracking: 4 lib(s)
 - Network: 1 lib(s)
-- Storage: 1 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -90,5 +96,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

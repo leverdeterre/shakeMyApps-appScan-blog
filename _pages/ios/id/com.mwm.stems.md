@@ -3,31 +3,43 @@ title: "Stemz (com.mwm.stems)"
 permalink: /apps/ios/com.mwm.stems.html
 layout: single
 author_profile: false
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/9c/dd/eb9cdd2d-f94f-120b-256e-66e1cdb5ed22/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/8c/87/d48c87e7-b0bc-134b-aa75-8ca92c3e8b01/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/9c/dd/eb9cdd2d-f94f-120b-256e-66e1cdb5ed22/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/8c/87/d48c87e7-b0bc-134b-aa75-8ca92c3e8b01/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-Stemz (com.mwm.stems) AppScan description of the content of the iOS application Stemz (com.mwm.stems). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Stemz (com.mwm.stems). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Stemz (com.mwm.stems)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/8c/87/d48c87e7-b0bc-134b-aa75-8ca92c3e8b01/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Stemz (com.mwm.stems
 
 **BundleId:** com.mwm.stems
-**App Version:** 2.02.00
+**App Version:** 2.04.00
 **App Name:** Stemz
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 25
 **Public keys:** 4
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -36,11 +48,10 @@ Native App
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
-
 
 **Apple dylibs:**
 
@@ -68,9 +79,10 @@ at least 1 entitlemented features (strong iOS integration)
 - CoreMedia
 - CoreServices
 - MediaPlayer
+- MetricKit
 - WebKit
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

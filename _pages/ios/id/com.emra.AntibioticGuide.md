@@ -3,42 +3,53 @@ title: "EMRA ABx (com.emra.AntibioticGuide)"
 permalink: /apps/ios/com.emra.AntibioticGuide.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/eb/54/fc/eb54fcf0-06b6-ddb3-15fd-e6569d3449a7/AppIcon-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/eb/54/fc/eb54fcf0-06b6-ddb3-15fd-e6569d3449a7/AppIcon-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg
 ---
-EMRA ABx (com.emra.AntibioticGuide) AppScan description of the content of the iOS application EMRA ABx (com.emra.AntibioticGuide). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application EMRA ABx (com.emra.AntibioticGuide). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# EMRA ABx (com.emra.AntibioticGuide)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/eb/54/fc/eb54fcf0-06b6-ddb3-15fd-e6569d3449a7/AppIcon-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# EMRA ABx (com.emra.AntibioticGuide
 
 **BundleId:** com.emra.AntibioticGuide
 **App Version:** 1.0.2
 **App Name:** EMRA ABx
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 27
 **Public keys:** 5
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
-
 
 **Apple dylibs:**
 
@@ -73,5 +84,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

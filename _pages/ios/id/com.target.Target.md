@@ -3,40 +3,57 @@ title: "Target (com.target.Target)"
 permalink: /apps/ios/com.target.Target.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/26/cc/ee26cc40-0383-4ed6-1524-4a54c67f9f2f/AppIconShiny-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/79/b1/eb/79b1ebe4-63af-8f9e-6412-3b52d4d90c52/AppIconShiny-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/26/cc/ee26cc40-0383-4ed6-1524-4a54c67f9f2f/AppIconShiny-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/79/b1/eb/79b1ebe4-63af-8f9e-6412-3b52d4d90c52/AppIconShiny-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Target (com.target.Target) AppScan description of the content of the iOS application Target (com.target.Target). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Target (com.target.Target). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Target (com.target.Target)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/79/b1/eb/79b1ebe4-63af-8f9e-6412-3b52d4d90c52/AppIconShiny-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Target (com.target.Target
 
 **BundleId:** com.target.Target
 **App Version:** 2022.40.0
 **App Name:** Target
 
 
+## AppScore : 4.82 (⭐️⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSFaceIDUsageDescription
-- NSSiriUsageDescription
-- NSUserTrackingUsageDescription
-- NSMicrophoneUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 30
 **Public keys:** 10
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -50,12 +67,11 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
 - Tracking: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -114,5 +130,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

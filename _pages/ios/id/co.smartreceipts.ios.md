@@ -3,53 +3,59 @@ title: "Smart Receipts (co.smartreceipts.ios)"
 permalink: /apps/ios/co.smartreceipts.ios.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cb/4d/69/cb4d6961-6db1-482f-8cb3-8a7d142a8cb8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cb/4d/69/cb4d6961-6db1-482f-8cb3-8a7d142a8cb8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Smart Receipts (co.smartreceipts.ios) AppScan description of the content of the iOS application Smart Receipts (co.smartreceipts.ios). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Smart Receipts (co.smartreceipts.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Smart Receipts (co.smartreceipts.ios)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cb/4d/69/cb4d6961-6db1-482f-8cb3-8a7d142a8cb8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Smart Receipts (co.smartreceipts.ios
 
 **BundleId:** co.smartreceipts.ios
 **App Version:** 1.22.4
 **App Name:** Smart Receipts
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCalendarsUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 33
 **Public keys:** 8
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Google Login detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
 - Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -103,5 +109,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,35 +3,43 @@ title: "Blood Oxygen App (com.pulse.oximeter.app)"
 permalink: /apps/ios/com.pulse.oximeter.app.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/dc/30/7adc301d-62a7-babe-b80e-0b574d3668c8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/dc/30/7adc301d-62a7-babe-b80e-0b574d3668c8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Blood Oxygen App (com.pulse.oximeter.app) AppScan description of the content of the iOS application Blood Oxygen App (com.pulse.oximeter.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Blood Oxygen App (com.pulse.oximeter.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Blood Oxygen App (com.pulse.oximeter.app)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/dc/30/7adc301d-62a7-babe-b80e-0b574d3668c8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Blood Oxygen App (com.pulse.oximeter.app
 
 **BundleId:** com.pulse.oximeter.app
 **App Version:** 2.7.0
 **App Name:** Blood Oxygen App
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSHealthUpdateUsageDescription
-- NSCameraUsageDescription
-- NSHealthClinicalHealthRecordsShareUsageDescription
-- NSHealthShareUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -44,11 +52,10 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -92,5 +99,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

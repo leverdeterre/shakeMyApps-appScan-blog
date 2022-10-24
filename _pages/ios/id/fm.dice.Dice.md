@@ -3,46 +3,48 @@ title: "DICE (fm.dice.Dice)"
 permalink: /apps/ios/fm.dice.Dice.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/1b/a2/04/1ba204e9-34cc-70da-25a6-3aaf637168b3/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/1b/a2/04/1ba204e9-34cc-70da-25a6-3aaf637168b3/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-DICE (fm.dice.Dice) AppScan description of the content of the iOS application DICE (fm.dice.Dice). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application DICE (fm.dice.Dice). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# DICE (fm.dice.Dice)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/1b/a2/04/1ba204e9-34cc-70da-25a6-3aaf637168b3/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# DICE (fm.dice.Dice
 
 **BundleId:** fm.dice.Dice
 **App Version:** 4.69.0
 **App Name:** DICE
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-- NSAppleMusicUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocalNetworkUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 33
 **Public keys:** 11
 **Custom keys:** 18
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
+FacebookLogin detected
 Native App
 contains 1 App extensions
 support multiple languages
@@ -51,11 +53,10 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-
 
 **Apple dylibs:**
 
@@ -110,5 +111,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,45 +3,50 @@ title: "La Banque Postale (fr.labanquepostale.portefeuille)"
 permalink: /apps/ios/fr.labanquepostale.portefeuille.html
 layout: single
 author_profile: false
----
-La Banque Postale (fr.labanquepostale.portefeuille) AppScan description of the content of the iOS application La Banque Postale (fr.labanquepostale.portefeuille). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# La Banque Postale (fr.labanquepostale.portefeuille)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application La Banque Postale (fr.labanquepostale.portefeuille). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# La Banque Postale (fr.labanquepostale.portefeuille
 
 **BundleId:** fr.labanquepostale.portefeuille
 **App Version:** 4.12
 **App Name:** La Banque Postale
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 32
 **Public keys:** 5
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Logs: 1 lib(s)
 - UI: 3 lib(s)
 - Tools: 6 lib(s)
-- Network: 1 lib(s)
+- Logs: 1 lib(s)
 - Tracking: 1 lib(s)
-
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -95,5 +100,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

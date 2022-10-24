@@ -3,31 +3,43 @@ title: "Modern House Maps MCPE (com.mcpetools.mapsmaster)"
 permalink: /apps/ios/com.mcpetools.mapsmaster.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/96/75/5b/96755b2b-d3b9-62f7-6ffd-500e5fd4a71b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/96/75/5b/96755b2b-d3b9-62f7-6ffd-500e5fd4a71b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Modern House Maps MCPE (com.mcpetools.mapsmaster) AppScan description of the content of the iOS application Modern House Maps MCPE (com.mcpetools.mapsmaster). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Modern House Maps MCPE (com.mcpetools.mapsmaster). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Modern House Maps MCPE (com.mcpetools.mapsmaster)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/96/75/5b/96755b2b-d3b9-62f7-6ffd-500e5fd4a71b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Modern House Maps MCPE (com.mcpetools.mapsmaster
 
 **BundleId:** com.mcpetools.mapsmaster
 **App Version:** 1.5.1
 **App Name:** Modern House Maps MCPE
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 29
 **Public keys:** 8
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -36,7 +48,7 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 30
@@ -44,7 +56,6 @@ support multiple languages
 - Tools: 13 lib(s)
 - Storage: 2 lib(s)
 - Tracking: 2 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -107,5 +118,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,34 +3,43 @@ title: "Hair Color Booth (com.pop.hair.color)"
 permalink: /apps/ios/com.pop.hair.color.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/62/76/8c/62768c64-854a-cb76-b7e3-1f045e31afb3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/51/39/d0/5139d0db-db07-a18f-5620-08e3b121568b/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/62/76/8c/62768c64-854a-cb76-b7e3-1f045e31afb3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/51/39/d0/5139d0db-db07-a18f-5620-08e3b121568b/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Hair Color Booth (com.pop.hair.color) AppScan description of the content of the iOS application Hair Color Booth (com.pop.hair.color). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Hair Color Booth (com.pop.hair.color). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Hair Color Booth (com.pop.hair.color)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/51/39/d0/5139d0db-db07-a18f-5620-08e3b121568b/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Hair Color Booth (com.pop.hair.color
 
 **BundleId:** com.pop.hair.color
-**App Version:** 2.1.2
+**App Version:** 2.1.3
 **App Name:** Hair Color Booth
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 29
 **Public keys:** 5
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -40,17 +49,17 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
+- Logs: 1 lib(s)
 - UI: 3 lib(s)
 - Tools: 7 lib(s)
-- Logs: 1 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
+- libswiftAccelerate
 - libswiftCore
 - libswiftCoreAudio
 - libswiftCoreFoundation
@@ -97,16 +106,19 @@ support multiple languages
 - SafariServices
 - EventKit
 - EventKitUI
+- Accelerate
 - CoreFoundation
 - CoreImage
 - CoreMotion
 - CoreText
+- ImageIO
 - Metal
 - MetalKit
 - MetalPerformanceShaders
 - Photos
+- PhotosUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

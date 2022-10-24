@@ -3,44 +3,62 @@ title: "My Invisalign (com.aligntech.myinvisalign)"
 permalink: /apps/ios/com.aligntech.myinvisalign.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/4d/fb/af/4dfbaf90-46ab-06be-f264-2e28c20d6ac6/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/07/e0/63/07e0639e-a605-7e26-9fa3-78b6ff800531/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/4d/fb/af/4dfbaf90-46ab-06be-f264-2e28c20d6ac6/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/07/e0/63/07e0639e-a605-7e26-9fa3-78b6ff800531/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg
 ---
-My Invisalign (com.aligntech.myinvisalign) AppScan description of the content of the iOS application My Invisalign (com.aligntech.myinvisalign). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application My Invisalign (com.aligntech.myinvisalign). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# My Invisalign (com.aligntech.myinvisalign)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/07/e0/63/07e0639e-a605-7e26-9fa3-78b6ff800531/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# My Invisalign (com.aligntech.myinvisalign
 
 **BundleId:** com.aligntech.myinvisalign
 **App Version:** 3004.6.3
 **App Name:** My Invisalign
 
 
+## AppScore : 4.41 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCalendarsUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSFaceIDUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 28
 **Public keys:** 6
 **Custom keys:** 28
 **Low securit keys:** 4
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
+FacebookLogin detected
 Native App
 build using Xcode 13
 contains 1 App extensions
@@ -48,16 +66,15 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 43
-- Network: 3 lib(s)
-- Tools: 16 lib(s)
 - Tracking: 7 lib(s)
 - UI: 2 lib(s)
+- Tools: 16 lib(s)
 - Crash: 1 lib(s)
-
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -105,5 +122,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

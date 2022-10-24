@@ -3,52 +3,52 @@ title: "TouchUp (com.jmo.touchup)"
 permalink: /apps/ios/com.jmo.touchup.html
 layout: single
 author_profile: false
----
-TouchUp (com.jmo.touchup) AppScan description of the content of the iOS application TouchUp (com.jmo.touchup). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# TouchUp (com.jmo.touchup)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application TouchUp (com.jmo.touchup). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# TouchUp (com.jmo.touchup
 
 **BundleId:** com.jmo.touchup
 **App Version:** 1.2
 **App Name:** TouchUp
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSContactsUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 35
 **Public keys:** 6
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Twitter Login detected
-Facebook Login detected
+AppleSignIn detected
+FacebookLogin detected
 Native App
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
-- Tools: 10 lib(s)
 - Tracking: 1 lib(s)
 - UI: 4 lib(s)
-
+- Tools: 10 lib(s)
 
 **Apple dylibs:**
 - libswiftCloudKit
@@ -97,5 +97,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

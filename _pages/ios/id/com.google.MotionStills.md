@@ -3,30 +3,35 @@ title: "Motion Stills (com.google.MotionStills)"
 permalink: /apps/ios/com.google.MotionStills.html
 layout: single
 author_profile: false
----
-Motion Stills (com.google.MotionStills) AppScan description of the content of the iOS application Motion Stills (com.google.MotionStills). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Motion Stills (com.google.MotionStills)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Motion Stills (com.google.MotionStills). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Motion Stills (com.google.MotionStills
 
 **BundleId:** com.google.MotionStills
 **App Version:** 2.0.2
 **App Name:** Motion Stills
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSMicrophoneUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 30
 **Public keys:** 3
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -34,12 +39,11 @@ Number of entitlements detected: 3
 Native App
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
 - Network: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -73,5 +77,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

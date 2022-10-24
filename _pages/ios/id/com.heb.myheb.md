@@ -3,52 +3,57 @@ title: "My H‑E‑B (com.heb.myheb)"
 permalink: /apps/ios/com.heb.myheb.html
 layout: single
 author_profile: false
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/30/9d/b4309dfc-8c97-ffa9-43b9-d9c210a81d49/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/0c/bd/a70cbd85-38e5-12c0-1b13-4b8cbe09cc5d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/30/9d/b4309dfc-8c97-ffa9-43b9-d9c210a81d49/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/0c/bd/a70cbd85-38e5-12c0-1b13-4b8cbe09cc5d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-My H‑E‑B (com.heb.myheb) AppScan description of the content of the iOS application My H‑E‑B (com.heb.myheb). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application My H‑E‑B (com.heb.myheb). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# My H‑E‑B (com.heb.myheb)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/0c/bd/a70cbd85-38e5-12c0-1b13-4b8cbe09cc5d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# My H‑E‑B (com.heb.myheb
 
 **BundleId:** com.heb.myheb
-**App Version:** 3.15.1
+**App Version:** 3.18.0
 **App Name:** My H‑E‑B
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSCalendarsUsageDescription
-- NSFaceIDUsageDescription
-- NSSiriUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 32
 **Public keys:** 7
-**Custom keys:** 10
+**Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
 Native App
-build using Xcode 13
 contains 2 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
-
 
 **Apple dylibs:**
 
@@ -89,6 +94,7 @@ Some userActivityTypes
 - Intents
 - LocalAuthentication
 - MapKit
+- MessageUI
 - MetricKit
 - PDFKit
 - SafariServices
@@ -100,5 +106,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,35 +3,43 @@ title: "iLocation+ (net.echoline.LocationPinFree)"
 permalink: /apps/ios/net.echoline.LocationPinFree.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/92/b2/4c/92b24cc0-7fd9-2215-7586-ce4e30869343/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/92/b2/4c/92b24cc0-7fd9-2215-7586-ce4e30869343/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-iLocation+ (net.echoline.LocationPinFree) AppScan description of the content of the iOS application iLocation+ (net.echoline.LocationPinFree). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application iLocation+ (net.echoline.LocationPinFree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# iLocation+ (net.echoline.LocationPinFree)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/92/b2/4c/92b24cc0-7fd9-2215-7586-ce4e30869343/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# iLocation+ (net.echoline.LocationPinFree
 
 **BundleId:** net.echoline.LocationPinFree
 **App Version:** 3.20
 **App Name:** iLocation+
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 30
 **Public keys:** 4
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -40,11 +48,10 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -74,5 +81,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

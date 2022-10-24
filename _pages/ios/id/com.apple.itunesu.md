@@ -3,33 +3,35 @@ title: "iTunes U (com.apple.itunesu)"
 permalink: /apps/ios/com.apple.itunesu.html
 layout: single
 author_profile: false
----
-iTunes U (com.apple.itunesu) AppScan description of the content of the iOS application iTunes U (com.apple.itunesu). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# iTunes U (com.apple.itunesu)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application iTunes U (com.apple.itunesu). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# iTunes U (com.apple.itunesu
 
 **BundleId:** com.apple.itunesu
 **App Version:** 3.8.3
 **App Name:** iTunes U
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSAppleMusicUsageDescription
-- NSMicrophoneUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSCalendarsUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 35
 **Public keys:** 5
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -40,11 +42,10 @@ contains 1 App extensions
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -88,5 +89,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

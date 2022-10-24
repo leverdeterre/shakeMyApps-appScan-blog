@@ -3,32 +3,43 @@ title: "Mission Lane (com.lendup.ArrowCard)"
 permalink: /apps/ios/com.lendup.ArrowCard.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/50/e5/df/50e5df9e-7355-488d-a3aa-45adc2815b6c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/50/e5/df/50e5df9e-7355-488d-a3aa-45adc2815b6c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Mission Lane (com.lendup.ArrowCard) AppScan description of the content of the iOS application Mission Lane (com.lendup.ArrowCard). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Mission Lane (com.lendup.ArrowCard). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Mission Lane (com.lendup.ArrowCard)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/50/e5/df/50e5df9e-7355-488d-a3aa-45adc2815b6c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Mission Lane (com.lendup.ArrowCard
 
 **BundleId:** com.lendup.ArrowCard
 **App Version:** 5.15.0
 **App Name:** Mission Lane
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSFaceIDUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 28
 **Public keys:** 6
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -36,12 +47,11 @@ Number of entitlements detected: 4
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
 - Tracking: 2 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -97,5 +107,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

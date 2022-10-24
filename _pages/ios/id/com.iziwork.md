@@ -3,55 +3,61 @@ title: "iziwork (com.iziwork)"
 permalink: /apps/ios/com.iziwork.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/37/05/063705e1-9a6c-67a7-da73-94315e99ea27/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/37/05/063705e1-9a6c-67a7-da73-94315e99ea27/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 ---
-iziwork (com.iziwork) AppScan description of the content of the iOS application iziwork (com.iziwork). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application iziwork (com.iziwork). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# iziwork (com.iziwork)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/37/05/063705e1-9a6c-67a7-da73-94315e99ea27/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# iziwork (com.iziwork
 
 **BundleId:** com.iziwork
 **App Version:** 10.0.0
 **App Name:** iziwork
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 30
 **Public keys:** 7
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 12
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 at least 4 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 46
-- Tools: 23 lib(s)
 - Network: 3 lib(s)
-- UI: 4 lib(s)
+- Tools: 23 lib(s)
 - Tracking: 5 lib(s)
 - Logs: 1 lib(s)
-
+- UI: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -93,5 +99,5 @@ at least 4 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

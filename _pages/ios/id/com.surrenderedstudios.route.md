@@ -3,56 +3,64 @@ title: "Droppath (com.surrenderedstudios.route)"
 permalink: /apps/ios/com.surrenderedstudios.route.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/c6/71/a9c671ff-c408-84c8-8b99-3135796dc1ee/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/c6/71/a9c671ff-c408-84c8-8b99-3135796dc1ee/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-Droppath (com.surrenderedstudios.route) AppScan description of the content of the iOS application Droppath (com.surrenderedstudios.route). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Droppath (com.surrenderedstudios.route). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Droppath (com.surrenderedstudios.route)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/c6/71/a9c671ff-c408-84c8-8b99-3135796dc1ee/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Droppath (com.surrenderedstudios.route
 
 **BundleId:** com.surrenderedstudios.route
 **App Version:** 4.9.3
 **App Name:** Droppath
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 33
 **Public keys:** 7
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
-- Network: 1 lib(s)
-- Tracking: 2 lib(s)
 - Tools: 12 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 2 lib(s)
 - UI: 1 lib(s)
-
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -92,5 +100,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

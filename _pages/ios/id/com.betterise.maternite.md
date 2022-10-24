@@ -3,52 +3,51 @@ title: "#MBM (com.betterise.maternite)"
 permalink: /apps/ios/com.betterise.maternite.html
 layout: single
 author_profile: false
----
-#MBM (com.betterise.maternite) AppScan description of the content of the iOS application #MBM (com.betterise.maternite). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# #MBM (com.betterise.maternite)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application #MBM (com.betterise.maternite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# #MBM (com.betterise.maternite
 
 **BundleId:** com.betterise.maternite
 **App Version:** 6
 **App Name:** #MBM
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMotionUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 32
 **Public keys:** 5
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Facebook Login detected
+FacebookLogin detected
 Native App
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
-- Network: 2 lib(s)
+- Tools: 5 lib(s)
 - Tracking: 1 lib(s)
 - Logs: 1 lib(s)
-- Tools: 5 lib(s)
-
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -102,5 +101,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

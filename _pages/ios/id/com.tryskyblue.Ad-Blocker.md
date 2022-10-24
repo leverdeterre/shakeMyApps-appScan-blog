@@ -3,32 +3,43 @@ title: "Ad Blocker (com.tryskyblue.Ad-Blocker)"
 permalink: /apps/ios/com.tryskyblue.Ad-Blocker.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/97/11/25/97112533-5cae-b576-4723-32b9af11a2dc/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/76/9b/f2/769bf24d-f70a-5b52-5cd2-5827db34b3bb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/97/11/25/97112533-5cae-b576-4723-32b9af11a2dc/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/76/9b/f2/769bf24d-f70a-5b52-5cd2-5827db34b3bb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Ad Blocker (com.tryskyblue.Ad-Blocker) AppScan description of the content of the iOS application Ad Blocker (com.tryskyblue.Ad-Blocker). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Ad Blocker (com.tryskyblue.Ad-Blocker). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Ad Blocker (com.tryskyblue.Ad-Blocker)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/76/9b/f2/769bf24d-f70a-5b52-5cd2-5827db34b3bb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Ad Blocker (com.tryskyblue.Ad-Blocker
 
 **BundleId:** com.tryskyblue.Ad-Blocker
-**App Version:** 2022.05.09
+**App Version:** 2022.09.12
 **App Name:** Ad Blocker
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 27
 **Public keys:** 3
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -38,14 +49,13 @@ supported devices iPhone & iPad
 build using Xcode 13
 contains 7 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 18
-- Crash: 1 lib(s)
-- Tools: 11 lib(s)
+**Number of Third Party Library detected:** 17
+- Tools: 9 lib(s)
 - Tracking: 4 lib(s)
-
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -68,5 +78,5 @@ contains 7 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

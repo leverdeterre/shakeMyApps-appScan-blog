@@ -3,56 +3,63 @@ title: "My Movies (dk.mymovies.mymovies4)"
 permalink: /apps/ios/dk.mymovies.mymovies4.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/02/ff/41/02ff4138-7bbb-dd87-c434-af9712fcdb42/contsched.ykhsbkjc.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/02/ff/41/02ff4138-7bbb-dd87-c434-af9712fcdb42/contsched.ykhsbkjc.png/512x512bb.jpg
 ---
-My Movies (dk.mymovies.mymovies4) AppScan description of the content of the iOS application My Movies (dk.mymovies.mymovies4). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application My Movies (dk.mymovies.mymovies4). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# My Movies (dk.mymovies.mymovies4)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/02/ff/41/02ff4138-7bbb-dd87-c434-af9712fcdb42/contsched.ykhsbkjc.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# My Movies (dk.mymovies.mymovies4
 
 **BundleId:** dk.mymovies.mymovies4
 **App Version:** 4.09
 **App Name:** My Movies
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 33
 **Public keys:** 4
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Twitter Login detected
-Facebook Login detected
+AppleSignIn detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- UI: 2 lib(s)
-- Tracking: 1 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 1 lib(s)
+- UI: 2 lib(s)
 - Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -112,5 +119,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

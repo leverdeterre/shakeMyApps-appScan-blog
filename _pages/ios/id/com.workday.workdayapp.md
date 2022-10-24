@@ -3,41 +3,43 @@ title: "Workday (com.workday.workdayapp)"
 permalink: /apps/ios/com.workday.workdayapp.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/48/fb/f0/48fbf020-2210-a60d-773c-ccbb91a97c1f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/48/fb/f0/48fbf020-2210-a60d-773c-ccbb91a97c1f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Workday (com.workday.workdayapp) AppScan description of the content of the iOS application Workday (com.workday.workdayapp). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Workday (com.workday.workdayapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Workday (com.workday.workdayapp)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/48/fb/f0/48fbf020-2210-a60d-773c-ccbb91a97c1f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Workday (com.workday.workdayapp
 
 **BundleId:** com.workday.workdayapp
 **App Version:** 2022.0.81
 **App Name:** Workday
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSSpeechRecognitionUsageDescription
-- NSMicrophoneUsageDescription
-- NSFaceIDUsageDescription
-- NSLocationTemporaryUsageDescriptionDictionary
-- NSLocationWhenInUseUsageDescription
-- NSCalendarsUsageDescription
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 32
 **Public keys:** 8
 **Custom keys:** 18
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -50,16 +52,15 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 127
-- Network: 2 lib(s)
+- Logs: 2 lib(s)
 - Storage: 1 lib(s)
 - UI: 3 lib(s)
+- Network: 2 lib(s)
 - Tools: 7 lib(s)
-- Logs: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -78,5 +79,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

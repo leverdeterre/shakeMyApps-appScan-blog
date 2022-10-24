@@ -3,30 +3,35 @@ title: "PS Video (com.playstation.video)"
 permalink: /apps/ios/com.playstation.video.html
 layout: single
 author_profile: false
----
-PS Video (com.playstation.video) AppScan description of the content of the iOS application PS Video (com.playstation.video). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# PS Video (com.playstation.video)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application PS Video (com.playstation.video). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# PS Video (com.playstation.video
 
 **BundleId:** com.playstation.video
 **App Version:** 3.4
 **App Name:** PS Video
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 36
 **Public keys:** 7
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -35,12 +40,11 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
 - Network: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -72,5 +76,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

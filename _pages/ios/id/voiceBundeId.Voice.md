@@ -3,40 +3,49 @@ title: "Peech (voiceBundeId.Voice)"
 permalink: /apps/ios/voiceBundeId.Voice.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/69/71/f7/6971f7fa-aa34-09ca-7137-99cc9f6681bd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/69/71/f7/6971f7fa-aa34-09ca-7137-99cc9f6681bd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Peech (voiceBundeId.Voice) AppScan description of the content of the iOS application Peech (voiceBundeId.Voice). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Peech (voiceBundeId.Voice). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Peech (voiceBundeId.Voice)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/69/71/f7/6971f7fa-aa34-09ca-7137-99cc9f6681bd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Peech (voiceBundeId.Voice
 
 **BundleId:** voiceBundeId.Voice
 **App Version:** 4.5.0
 **App Name:** Peech
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 31
 **Public keys:** 6
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 10
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -44,15 +53,14 @@ contains 2 App extensions
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
+- Network: 2 lib(s)
+- Tracking: 1 lib(s)
 - UI: 2 lib(s)
 - Tools: 12 lib(s)
-- Tracking: 1 lib(s)
-- Network: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -93,5 +101,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

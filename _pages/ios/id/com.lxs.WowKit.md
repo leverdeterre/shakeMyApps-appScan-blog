@@ -3,44 +3,63 @@ title: "WowKit (com.lxs.WowKit)"
 permalink: /apps/ios/com.lxs.WowKit.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/39/c4/ae/39c4ae06-b02b-b1d4-c5cc-2e9f3d47445f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/69/51/c6695172-3679-3d6d-353a-ffdcf307a231/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/39/c4/ae/39c4ae06-b02b-b1d4-c5cc-2e9f3d47445f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/69/51/c6695172-3679-3d6d-353a-ffdcf307a231/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-WowKit (com.lxs.WowKit) AppScan description of the content of the iOS application WowKit (com.lxs.WowKit). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application WowKit (com.lxs.WowKit). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# WowKit (com.lxs.WowKit)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/69/51/c6695172-3679-3d6d-353a-ffdcf307a231/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# WowKit (com.lxs.WowKit
 
 **BundleId:** com.lxs.WowKit
 **App Version:** 1.0.9
 **App Name:** WowKit
 
 
+## AppScore : 4.43 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothPeripheralUsageDescription
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMotionUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 28
 **Public keys:** 7
 **Custom keys:** 18
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 build using Xcode 13
 contains 2 App extensions
@@ -49,12 +68,11 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
 - Tools: 3 lib(s)
-
 
 **Apple dylibs:**
 
@@ -117,5 +135,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

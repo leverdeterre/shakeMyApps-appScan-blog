@@ -3,37 +3,43 @@ title: "dotloop (com.dotloop.dotloop)"
 permalink: /apps/ios/com.dotloop.dotloop.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/fd/98/6dfd98a0-9a88-e468-8236-1926c4092c92/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/fd/98/6dfd98a0-9a88-e468-8236-1926c4092c92/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-dotloop (com.dotloop.dotloop) AppScan description of the content of the iOS application dotloop (com.dotloop.dotloop). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application dotloop (com.dotloop.dotloop). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# dotloop (com.dotloop.dotloop)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/fd/98/6dfd98a0-9a88-e468-8236-1926c4092c92/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# dotloop (com.dotloop.dotloop
 
 **BundleId:** com.dotloop.dotloop
 **App Version:** 5.5.3
 **App Name:** dotloop
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription - 2
-- NSContactsUsageDescription
-- NSCameraUsageDescription - 2
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 38
 **Public keys:** 6
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -44,7 +50,7 @@ build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
@@ -53,7 +59,6 @@ SwiftUI
 - Crash: 1 lib(s)
 - Tracking: 2 lib(s)
 - UI: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -99,5 +104,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

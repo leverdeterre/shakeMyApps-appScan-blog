@@ -3,51 +3,58 @@ title: "Tape Measure (com.teamlevellabs.measuretape)"
 permalink: /apps/ios/com.teamlevellabs.measuretape.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c6/9e/6c/c69e6cf9-294c-9880-1efd-b419ede280e9/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/66/51/bc/6651bca1-5067-92db-d895-38c7b76fb62f/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c6/9e/6c/c69e6cf9-294c-9880-1efd-b419ede280e9/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/66/51/bc/6651bca1-5067-92db-d895-38c7b76fb62f/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 ---
-Tape Measure (com.teamlevellabs.measuretape) AppScan description of the content of the iOS application Tape Measure (com.teamlevellabs.measuretape). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Tape Measure (com.teamlevellabs.measuretape). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Tape Measure (com.teamlevellabs.measuretape)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/66/51/bc/6651bca1-5067-92db-d895-38c7b76fb62f/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Tape Measure (com.teamlevellabs.measuretape
 
 **BundleId:** com.teamlevellabs.measuretape
-**App Version:** 3.31
+**App Version:** 3.35
 **App Name:** Tape Measure
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 34
 **Public keys:** 5
-**Custom keys:** 7
+**Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 2
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
-build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 7
+**Number of Third Party Library detected:** 6
 - Storage: 1 lib(s)
 - Tools: 3 lib(s)
-- Crash: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -72,10 +79,9 @@ support multiple languages
 - UIKit
 - WebKit
 - AdSupport
-- CoreLocation
 - JavaScriptCore
 - SafariServices
-- WatchConnectivity
+- RoomPlan
 - AdServices
 - SceneKit
 - ARKit
@@ -83,11 +89,13 @@ support multiple languages
 - CoreFoundation
 - CoreMotion
 - CoreServices
+- CoreText
+- ModelIO
 - PDFKit
 - Photos
 - SpriteKit
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

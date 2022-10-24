@@ -3,49 +3,53 @@ title: "Ringtones for iPhone - Tunes (com.ringtonescool)"
 permalink: /apps/ios/com.ringtonescool.html
 layout: single
 author_profile: false
----
-Ringtones for iPhone - Tunes (com.ringtonescool) AppScan description of the content of the iOS application Ringtones for iPhone - Tunes (com.ringtonescool). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Ringtones for iPhone - Tunes (com.ringtonescool)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Ringtones for iPhone - Tunes (com.ringtonescool). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Ringtones for iPhone - Tunes (com.ringtonescool
 
 **BundleId:** com.ringtonescool
 **App Version:** 2.5
 **App Name:** Ringtones for iPhone - Tunes
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSMicrophoneUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 29
 **Public keys:** 5
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 2
-Google Login detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 23
 - Tools: 11 lib(s)
-- Storage: 1 lib(s)
-- Tracking: 2 lib(s)
 - Network: 2 lib(s)
-
+- Tracking: 2 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -109,5 +113,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

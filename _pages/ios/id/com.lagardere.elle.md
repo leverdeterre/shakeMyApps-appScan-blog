@@ -3,39 +3,63 @@ title: "ELLE (com.lagardere.elle)"
 permalink: /apps/ios/com.lagardere.elle.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/82/60/cf8260dd-4cc5-c7f0-6f6f-c9467e182809/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/82/60/cf8260dd-4cc5-c7f0-6f6f-c9467e182809/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-ELLE (com.lagardere.elle) AppScan description of the content of the iOS application ELLE (com.lagardere.elle). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application ELLE (com.lagardere.elle). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# ELLE (com.lagardere.elle)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/82/60/cf8260dd-4cc5-c7f0-6f6f-c9467e182809/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# ELLE (com.lagardere.elle
 
 **BundleId:** com.lagardere.elle
 **App Version:** 3.2.8
 **App Name:** ELLE
 
 
+## AppScore : 3.98 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocalNetworkUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 33
 **Public keys:** 6
 **Custom keys:** 10
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -43,16 +67,15 @@ contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 38
-- Tracking: 6 lib(s)
-- Network: 4 lib(s)
 - Logs: 1 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 6 lib(s)
+- Network: 4 lib(s)
 - Tools: 16 lib(s)
-
 
 **Apple dylibs:**
 
@@ -100,5 +123,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,34 +3,43 @@ title: "LANDI Wetter (com.landi.weather)"
 permalink: /apps/ios/com.landi.weather.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/75/88/50/75885064-f721-9e92-e8a1-b8a5611ab57e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/75/88/50/75885064-f721-9e92-e8a1-b8a5611ab57e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-LANDI Wetter (com.landi.weather) AppScan description of the content of the iOS application LANDI Wetter (com.landi.weather). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application LANDI Wetter (com.landi.weather). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# LANDI Wetter (com.landi.weather)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/75/88/50/75885064-f721-9e92-e8a1-b8a5611ab57e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# LANDI Wetter (com.landi.weather
 
 **BundleId:** com.landi.weather
 **App Version:** 3.2.17
 **App Name:** LANDI Wetter
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -43,15 +52,14 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
 - Crash: 1 lib(s)
 - Network: 1 lib(s)
-- Tools: 12 lib(s)
 - Tracking: 2 lib(s)
-
+- Tools: 12 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -98,5 +106,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

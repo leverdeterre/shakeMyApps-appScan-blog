@@ -3,58 +3,61 @@ title: "lululemon (com.lululemon.shopapp)"
 permalink: /apps/ios/com.lululemon.shopapp.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/34/fc/7d34fc81-3c2c-93b2-c6d3-ad970700de9b/AppIcon-1x_U007emarketing-0-0-0-5-0-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/12/12/3f1212d0-7022-5f81-6634-7f3b3077ca14/AppIcon-1x_U007emarketing-0-0-0-5-0-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/34/fc/7d34fc81-3c2c-93b2-c6d3-ad970700de9b/AppIcon-1x_U007emarketing-0-0-0-5-0-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/12/12/3f1212d0-7022-5f81-6634-7f3b3077ca14/AppIcon-1x_U007emarketing-0-0-0-5-0-0-sRGB-85-220.png/512x512bb.jpg
 ---
-lululemon (com.lululemon.shopapp) AppScan description of the content of the iOS application lululemon (com.lululemon.shopapp). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application lululemon (com.lululemon.shopapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# lululemon (com.lululemon.shopapp)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/12/12/3f1212d0-7022-5f81-6634-7f3b3077ca14/AppIcon-1x_U007emarketing-0-0-0-5-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# lululemon (com.lululemon.shopapp
 
 **BundleId:** com.lululemon.shopapp
-**App Version:** 5.34.96
+**App Version:** 5.40.123
 **App Name:** lululemon
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSFaceIDUsageDescription
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 29
 **Public keys:** 7
-**Custom keys:** 13
+**Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
-Number of entitlements detected: 7
+Number of entitlements detected: 8
 Native App
-build using Xcode 13
 contains 2 App extensions
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 25
-- Tracking: 1 lib(s)
+**Number of Third Party Library detected:** 33
 - Tools: 7 lib(s)
-- Network: 1 lib(s)
+- Tracking: 1 lib(s)
 - UI: 1 lib(s)
-
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -80,7 +83,6 @@ SwiftUI
 - SystemConfiguration
 - UIKit
 - UserNotifications
-- WebKit
 - AVKit
 - BackgroundTasks
 - Combine
@@ -96,9 +98,11 @@ SwiftUI
 - LinkPresentation
 - MapKit
 - MessageUI
+- SharedWithYou
 - SwiftUI
+- WebKit
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

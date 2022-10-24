@@ -3,62 +3,62 @@ title: "ConnectSmart (com.connectsmart.carpool.transit.gps.directions.rideshare.
 permalink: /apps/ios/com.connectsmart.carpool.transit.gps.directions.rideshare.navigate.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/2c/6b/7b/2c6b7b57-7913-acb4-a603-1efa457cdf99/AppIcon-ConnectSmart-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/2c/6b/7b/2c6b7b57-7913-acb4-a603-1efa457cdf99/AppIcon-ConnectSmart-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-ConnectSmart (com.connectsmart.carpool.transit.gps.directions.rideshare.navigate) AppScan description of the content of the iOS application ConnectSmart (com.connectsmart.carpool.transit.gps.directions.rideshare.navigate). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application ConnectSmart (com.connectsmart.carpool.transit.gps.directions.rideshare.navigate). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# ConnectSmart (com.connectsmart.carpool.transit.gps.directions.rideshare.navigate)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/2c/6b/7b/2c6b7b57-7913-acb4-a603-1efa457cdf99/AppIcon-ConnectSmart-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# ConnectSmart (com.connectsmart.carpool.transit.gps.directions.rideshare.navigate
 
 **BundleId:** com.connectsmart.carpool.transit.gps.directions.rideshare.navigate
 **App Version:** 1.93.0
 **App Name:** ConnectSmart
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothPeripheralUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSMotionUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSCalendarsUsageDescription
-- NSCameraUsageDescription
-- NSContactsUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 33
 **Public keys:** 7
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 build using Xcode 13
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
-- Tools: 8 lib(s)
 - Network: 1 lib(s)
+- Tools: 8 lib(s)
 - Storage: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -114,5 +114,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

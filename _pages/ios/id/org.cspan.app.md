@@ -3,33 +3,57 @@ title: "C-SPAN Now (org.cspan.app)"
 permalink: /apps/ios/org.cspan.app.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/4b/19/804b1904-56e1-a5dc-db4e-3c0b9f75a4d0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/4b/19/804b1904-56e1-a5dc-db4e-3c0b9f75a4d0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-C-SPAN Now (org.cspan.app) AppScan description of the content of the iOS application C-SPAN Now (org.cspan.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application C-SPAN Now (org.cspan.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# C-SPAN Now (org.cspan.app)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/80/4b/19/804b1904-56e1-a5dc-db4e-3c0b9f75a4d0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# C-SPAN Now (org.cspan.app
 
 **BundleId:** org.cspan.app
 **App Version:** 1.10.0
 **App Name:** C-SPAN Now
 
 
+## AppScore : 4.19 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSVideoSubscriberAccountUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 15
 **Low securit keys:** 6
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -38,16 +62,15 @@ Native App
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
+- Network: 2 lib(s)
+- UI: 1 lib(s)
 - Crash: 1 lib(s)
 - Tools: 7 lib(s)
 - Tracking: 2 lib(s)
-- Network: 2 lib(s)
-- UI: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -83,5 +106,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

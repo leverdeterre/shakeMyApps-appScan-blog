@@ -3,64 +3,59 @@ title: "Synctuition (com.synctuition.synctuition)"
 permalink: /apps/ios/com.synctuition.synctuition.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/15/11/8c/15118ce1-afd9-c82a-c0fd-a476db63e316/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/15/11/8c/15118ce1-afd9-c82a-c0fd-a476db63e316/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Synctuition (com.synctuition.synctuition) AppScan description of the content of the iOS application Synctuition (com.synctuition.synctuition). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Synctuition (com.synctuition.synctuition). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Synctuition (com.synctuition.synctuition)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/15/11/8c/15118ce1-afd9-c82a-c0fd-a476db63e316/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Synctuition (com.synctuition.synctuition
 
 **BundleId:** com.synctuition.synctuition
 **App Version:** 3.32.11
 **App Name:** Synctuition
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMotionUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSAppleMusicUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCalendarsUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSMicrophoneUsageDescription
-- NSHealthShareUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSHealthUpdateUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSCameraUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 16
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 21
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 9
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 supported devices iPhone & iPad
 build using Xcode 13
 at least 3 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
 - Tracking: 2 lib(s)
 - Tools: 3 lib(s)
-
 
 **Apple dylibs:**
 - libswiftCore
@@ -120,5 +115,5 @@ at least 3 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

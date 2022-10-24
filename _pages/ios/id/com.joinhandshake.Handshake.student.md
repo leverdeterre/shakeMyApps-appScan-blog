@@ -3,31 +3,43 @@ title: "Handshake (com.joinhandshake.Handshake.student)"
 permalink: /apps/ios/com.joinhandshake.Handshake.student.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/18/7b/02/187b02b9-b2c9-a8fa-d4b9-784feb0c6fe9/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/60/d3/d5/60d3d5f1-abb8-78ca-990a-121e709e8e7b/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/18/7b/02/187b02b9-b2c9-a8fa-d4b9-784feb0c6fe9/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/60/d3/d5/60d3d5f1-abb8-78ca-990a-121e709e8e7b/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-Handshake (com.joinhandshake.Handshake.student) AppScan description of the content of the iOS application Handshake (com.joinhandshake.Handshake.student). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Handshake (com.joinhandshake.Handshake.student). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Handshake (com.joinhandshake.Handshake.student)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/60/d3/d5/60d3d5f1-abb8-78ca-990a-121e709e8e7b/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Handshake (com.joinhandshake.Handshake.student
 
 **BundleId:** com.joinhandshake.Handshake.student
-**App Version:** 4.30.0
+**App Version:** 4.31.0
 **App Name:** Handshake
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 30
 **Public keys:** 8
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -39,7 +51,7 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
@@ -47,7 +59,6 @@ Some userActivityTypes
 - Storage: 1 lib(s)
 - Tracking: 2 lib(s)
 - Tools: 8 lib(s)
-
 
 **Apple dylibs:**
 
@@ -62,6 +73,7 @@ Some userActivityTypes
 - UserNotifications
 - CFNetwork
 - AudioToolbox
+- AVFAudio
 - AVFoundation
 - Accelerate
 - BackgroundTasks
@@ -89,5 +101,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

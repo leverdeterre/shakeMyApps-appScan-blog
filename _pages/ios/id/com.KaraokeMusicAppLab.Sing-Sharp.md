@@ -3,53 +3,59 @@ title: "Sing Sharp (com.KaraokeMusicAppLab.Sing-Sharp)"
 permalink: /apps/ios/com.KaraokeMusicAppLab.Sing-Sharp.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/9c/13/2e9c135f-d81e-a504-b0a1-49a19e07bd43/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/9c/13/2e9c135f-d81e-a504-b0a1-49a19e07bd43/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-Sing Sharp (com.KaraokeMusicAppLab.Sing-Sharp) AppScan description of the content of the iOS application Sing Sharp (com.KaraokeMusicAppLab.Sing-Sharp). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Sing Sharp (com.KaraokeMusicAppLab.Sing-Sharp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Sing Sharp (com.KaraokeMusicAppLab.Sing-Sharp)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/9c/13/2e9c135f-d81e-a504-b0a1-49a19e07bd43/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Sing Sharp (com.KaraokeMusicAppLab.Sing-Sharp
 
 **BundleId:** com.KaraokeMusicAppLab.Sing-Sharp
 **App Version:** 6.1
 **App Name:** Sing Sharp
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSAppleMusicUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 32
 **Public keys:** 5
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 9
-Twitter Login detected
-Facebook Login detected
-Google Login detected
+AppleSignIn detected
+FacebookLogin detected
+GoogleLogin detected
 supported devices iPhone & iPad
 build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
 - Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -102,5 +108,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,60 +3,76 @@ title: "HQ (co.intermedialabs.hq)"
 permalink: /apps/ios/co.intermedialabs.hq.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/c7/20/c9/c720c9e8-e706-eba3-cba3-64a1be848230/HQAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/c4/57/3fc457b0-11eb-4cb0-f054-ad8b68a6e8f8/HQAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/c7/20/c9/c720c9e8-e706-eba3-cba3-64a1be848230/HQAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/c4/57/3fc457b0-11eb-4cb0-f054-ad8b68a6e8f8/HQAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-HQ (co.intermedialabs.hq) AppScan description of the content of the iOS application HQ (co.intermedialabs.hq). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application HQ (co.intermedialabs.hq). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# HQ (co.intermedialabs.hq)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/c4/57/3fc457b0-11eb-4cb0-f054-ad8b68a6e8f8/HQAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# HQ (co.intermedialabs.hq
 
 **BundleId:** co.intermedialabs.hq
 **App Version:** 1.7.7
 **App Name:** HQ
 
 
+## AppScore : 4.04 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSContactsUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 35
 **Public keys:** 5
 **Custom keys:** 19
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 at least 3 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 67
-- Tools: 23 lib(s)
 - Crash: 1 lib(s)
-- Storage: 1 lib(s)
 - Tracking: 4 lib(s)
+- Tools: 23 lib(s)
+- Storage: 1 lib(s)
 - Network: 5 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -140,5 +156,5 @@ at least 3 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

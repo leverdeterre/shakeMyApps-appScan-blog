@@ -3,53 +3,55 @@ title: "RocketSkill (com.jmo.conquestskill)"
 permalink: /apps/ios/com.jmo.conquestskill.html
 layout: single
 author_profile: false
----
-RocketSkill (com.jmo.conquestskill) AppScan description of the content of the iOS application RocketSkill (com.jmo.conquestskill). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# RocketSkill (com.jmo.conquestskill)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application RocketSkill (com.jmo.conquestskill). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# RocketSkill (com.jmo.conquestskill
 
 **BundleId:** com.jmo.conquestskill
 **App Version:** 2.0.2
 **App Name:** RocketSkill
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 32
 **Public keys:** 7
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Twitter Login detected
-Facebook Login detected
-Google Login detected
+AppleSignIn detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- Network: 2 lib(s)
-- Tools: 14 lib(s)
 - Crash: 1 lib(s)
+- Tools: 14 lib(s)
+- Network: 2 lib(s)
 - UI: 4 lib(s)
 - Tracking: 2 lib(s)
-
 
 **Apple dylibs:**
 - libswiftCore
@@ -95,5 +97,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

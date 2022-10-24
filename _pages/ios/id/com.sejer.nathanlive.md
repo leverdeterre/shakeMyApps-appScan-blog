@@ -3,36 +3,43 @@ title: "Nathan Live (com.sejer.nathanlive)"
 permalink: /apps/ios/com.sejer.nathanlive.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/07/2a/b4/072ab45e-61fe-ed8c-4aeb-e787f2a2cdc9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/07/2a/b4/072ab45e-61fe-ed8c-4aeb-e787f2a2cdc9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Nathan Live (com.sejer.nathanlive) AppScan description of the content of the iOS application Nathan Live (com.sejer.nathanlive). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Nathan Live (com.sejer.nathanlive). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Nathan Live (com.sejer.nathanlive)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/07/2a/b4/072ab45e-61fe-ed8c-4aeb-e787f2a2cdc9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Nathan Live (com.sejer.nathanlive
 
 **BundleId:** com.sejer.nathanlive
 **App Version:** 5.3.5
 **App Name:** Nathan Live
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 30
 **Public keys:** 5
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -42,14 +49,13 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
-- Tools: 4 lib(s)
-- Network: 2 lib(s)
 - Storage: 1 lib(s)
-
+- Network: 2 lib(s)
+- Tools: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftARKit
@@ -89,5 +95,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

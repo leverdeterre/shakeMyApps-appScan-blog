@@ -3,44 +3,49 @@ title: "Red Bull TV (com.nousguide.rbms)"
 permalink: /apps/ios/com.nousguide.rbms.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/0e/52/b10e52e3-5596-ce10-c09c-8051d2ec83e2/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/0e/52/b10e52e3-5596-ce10-c09c-8051d2ec83e2/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-Red Bull TV (com.nousguide.rbms) AppScan description of the content of the iOS application Red Bull TV (com.nousguide.rbms). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Red Bull TV (com.nousguide.rbms). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Red Bull TV (com.nousguide.rbms)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/0e/52/b10e52e3-5596-ce10-c09c-8051d2ec83e2/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Red Bull TV (com.nousguide.rbms
 
 **BundleId:** com.nousguide.rbms
 **App Version:** 5.9.13
 **App Name:** Red Bull TV
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSMicrophoneUsageDescription
-- NSCalendarsUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocalNetworkUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSBluetoothAlwaysUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 31
 **Public keys:** 11
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -51,13 +56,12 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
-- Tools: 1 lib(s)
 - Tracking: 1 lib(s)
-
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -106,5 +110,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

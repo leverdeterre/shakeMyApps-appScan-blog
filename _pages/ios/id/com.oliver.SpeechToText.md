@@ -3,37 +3,43 @@ title: "Duo for WhatsApp (com.oliver.SpeechToText)"
 permalink: /apps/ios/com.oliver.SpeechToText.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/7c/2a/48/7c2a48dc-ec31-15ed-5805-eae52c196331/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/7c/2a/48/7c2a48dc-ec31-15ed-5805-eae52c196331/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Duo for WhatsApp (com.oliver.SpeechToText) AppScan description of the content of the iOS application Duo for WhatsApp (com.oliver.SpeechToText). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Duo for WhatsApp (com.oliver.SpeechToText). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Duo for WhatsApp (com.oliver.SpeechToText)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/7c/2a/48/7c2a48dc-ec31-15ed-5805-eae52c196331/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Duo for WhatsApp (com.oliver.SpeechToText
 
 **BundleId:** com.oliver.SpeechToText
 **App Version:** 11.8
 **App Name:** Duo for WhatsApp
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSFaceIDUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 29
 **Public keys:** 8
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -45,15 +51,14 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
-- Storage: 1 lib(s)
 - Tools: 11 lib(s)
+- Storage: 1 lib(s)
 - Tracking: 1 lib(s)
 - Network: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -109,5 +114,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

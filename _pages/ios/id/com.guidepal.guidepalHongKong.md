@@ -3,38 +3,45 @@ title: "Hong Kong (com.guidepal.guidepalHongKong)"
 permalink: /apps/ios/com.guidepal.guidepalHongKong.html
 layout: single
 author_profile: false
----
-Hong Kong (com.guidepal.guidepalHongKong) AppScan description of the content of the iOS application Hong Kong (com.guidepal.guidepalHongKong). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Hong Kong (com.guidepal.guidepalHongKong)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Hong Kong (com.guidepal.guidepalHongKong). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Hong Kong (com.guidepal.guidepalHongKong
 
 **BundleId:** com.guidepal.guidepalHongKong
 **App Version:** 2.0
 **App Name:** Hong Kong
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 32
 **Public keys:** 4
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -57,5 +64,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,37 +3,57 @@ title: "discovery+ (com.discovery.mobile.discoveryplus)"
 permalink: /apps/ios/com.discovery.mobile.discoveryplus.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/07/7f/ae/077fae9c-a76a-d65a-cefc-db19000b74ce/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/42/a2/2b/42a22b0f-0187-16da-bde1-ab62208bbb7c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/07/7f/ae/077fae9c-a76a-d65a-cefc-db19000b74ce/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/42/a2/2b/42a22b0f-0187-16da-bde1-ab62208bbb7c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-discovery+ (com.discovery.mobile.discoveryplus) AppScan description of the content of the iOS application discovery+ (com.discovery.mobile.discoveryplus). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application discovery+ (com.discovery.mobile.discoveryplus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# discovery+ (com.discovery.mobile.discoveryplus)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/42/a2/2b/42a22b0f-0187-16da-bde1-ab62208bbb7c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# discovery+ (com.discovery.mobile.discoveryplus
 
 **BundleId:** com.discovery.mobile.discoveryplus
 **App Version:** 17.0.0
 **App Name:** discovery+
 
 
+## AppScore : 4.38 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocalNetworkUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 29
 **Public keys:** 7
 **Custom keys:** 10
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -46,14 +66,13 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 74
-- Tracking: 4 lib(s)
-- Network: 1 lib(s)
 - Tools: 5 lib(s)
-
+- Network: 1 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -87,5 +106,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

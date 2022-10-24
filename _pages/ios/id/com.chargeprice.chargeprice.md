@@ -3,32 +3,43 @@ title: "Chargeprice (com.chargeprice.chargeprice)"
 permalink: /apps/ios/com.chargeprice.chargeprice.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/43/19/f9/4319f906-52c2-5ad3-7a77-81c1e9be046d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/43/19/f9/4319f906-52c2-5ad3-7a77-81c1e9be046d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Chargeprice (com.chargeprice.chargeprice) AppScan description of the content of the iOS application Chargeprice (com.chargeprice.chargeprice). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Chargeprice (com.chargeprice.chargeprice). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Chargeprice (com.chargeprice.chargeprice)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/43/19/f9/4319f906-52c2-5ad3-7a77-81c1e9be046d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Chargeprice (com.chargeprice.chargeprice
 
 **BundleId:** com.chargeprice.chargeprice
 **App Version:** 1.2.1
 **App Name:** Chargeprice
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 27
 **Public keys:** 4
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -38,13 +49,12 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
 - Tools: 7 lib(s)
 - Tracking: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -69,5 +79,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

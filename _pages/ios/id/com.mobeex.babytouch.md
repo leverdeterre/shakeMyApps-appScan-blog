@@ -3,42 +3,49 @@ title: "Beebs (com.mobeex.babytouch)"
 permalink: /apps/ios/com.mobeex.babytouch.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/79/e9/7f/79e97f71-6b26-4861-f3c0-8bacaac9eccf/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/79/e9/7f/79e97f71-6b26-4861-f3c0-8bacaac9eccf/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 ---
-Beebs (com.mobeex.babytouch) AppScan description of the content of the iOS application Beebs (com.mobeex.babytouch). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Beebs (com.mobeex.babytouch). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Beebs (com.mobeex.babytouch)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/79/e9/7f/79e97f71-6b26-4861-f3c0-8bacaac9eccf/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Beebs (com.mobeex.babytouch
 
 **BundleId:** com.mobeex.babytouch
 **App Version:** 8.6.4
 **App Name:** Beebs
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSContactsUsageDescription
-- NSCalendarsUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 12
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -46,18 +53,17 @@ support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 90
-- Network: 8 lib(s)
-- Tracking: 5 lib(s)
-- Storage: 2 lib(s)
 - Tools: 33 lib(s)
-- Logs: 1 lib(s)
 - UI: 10 lib(s)
+- Logs: 1 lib(s)
 - Crash: 1 lib(s)
-
+- Tracking: 5 lib(s)
+- Network: 8 lib(s)
+- Storage: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -99,5 +105,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

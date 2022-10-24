@@ -3,48 +3,48 @@ title: "Voxer (com.rebelvox.voxer-lite)"
 permalink: /apps/ios/com.rebelvox.voxer-lite.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/af/d4/5f/afd45f2d-6822-bd26-a387-e6faf216464f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/af/d4/5f/afd45f2d-6822-bd26-a387-e6faf216464f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Voxer (com.rebelvox.voxer-lite) AppScan description of the content of the iOS application Voxer (com.rebelvox.voxer-lite). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Voxer (com.rebelvox.voxer-lite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Voxer (com.rebelvox.voxer-lite)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/af/d4/5f/afd45f2d-6822-bd26-a387-e6faf216464f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Voxer (com.rebelvox.voxer-lite
 
 **BundleId:** com.rebelvox.voxer-lite
 **App Version:** 3.23.0
 **App Name:** Voxer
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSMicrophoneUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-- NSBluetoothAlwaysUsageDescription
-  
-  
+**Number of permissions:** 12
 **Private keys:** 34
 **Public keys:** 11
 **Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -52,11 +52,10 @@ contains 2 App extensions
 support multiple languages
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
-
 
 **Apple dylibs:**
 
@@ -65,5 +64,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

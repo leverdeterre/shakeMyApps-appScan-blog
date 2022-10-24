@@ -3,27 +3,35 @@ title: "CONALITEG Digital (mx.conaliteg.biblioteca)"
 permalink: /apps/ios/mx.conaliteg.biblioteca.html
 layout: single
 author_profile: false
----
-CONALITEG Digital (mx.conaliteg.biblioteca) AppScan description of the content of the iOS application CONALITEG Digital (mx.conaliteg.biblioteca). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# CONALITEG Digital (mx.conaliteg.biblioteca)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application CONALITEG Digital (mx.conaliteg.biblioteca). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# CONALITEG Digital (mx.conaliteg.biblioteca
 
 **BundleId:** mx.conaliteg.biblioteca
 **App Version:** 1.2.6
 **App Name:** CONALITEG Digital
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 31
 **Public keys:** 5
 **Custom keys:** 0
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -32,14 +40,13 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
 - Tools: 5 lib(s)
-- UI: 2 lib(s)
 - Network: 4 lib(s)
-
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAccelerate
@@ -74,5 +81,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

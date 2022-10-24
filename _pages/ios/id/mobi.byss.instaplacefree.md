@@ -3,49 +3,63 @@ title: "PhotoPlace (mobi.byss.instaplacefree)"
 permalink: /apps/ios/mobi.byss.instaplacefree.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/58/27/42/58274287-18de-59b1-8130-f49075edae9d/AppIconPhotoPlace-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/6d/b1/0c6db1a8-7742-8e94-3a62-edf3052e80f5/AppIconPhotoPlace-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/58/27/42/58274287-18de-59b1-8130-f49075edae9d/AppIconPhotoPlace-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/6d/b1/0c6db1a8-7742-8e94-3a62-edf3052e80f5/AppIconPhotoPlace-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg
 ---
-PhotoPlace (mobi.byss.instaplacefree) AppScan description of the content of the iOS application PhotoPlace (mobi.byss.instaplacefree). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application PhotoPlace (mobi.byss.instaplacefree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# PhotoPlace (mobi.byss.instaplacefree)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/6d/b1/0c6db1a8-7742-8e94-3a62-edf3052e80f5/AppIconPhotoPlace-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# PhotoPlace (mobi.byss.instaplacefree
 
 **BundleId:** mobi.byss.instaplacefree
 **App Version:** 6.4.3
 **App Name:** PhotoPlace
 
 
+## AppScore : 4.46 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSMotionUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSCameraUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 12
 **Private keys:** 32
 **Public keys:** 9
 **Custom keys:** 22
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 supported devices iPhone & iPad
 build using Xcode 13
 contains 2 App extensions
@@ -53,18 +67,17 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 52
-- Crash: 1 lib(s)
-- Network: 6 lib(s)
-- Tools: 20 lib(s)
-- Tracking: 5 lib(s)
-- Storage: 5 lib(s)
 - UI: 1 lib(s)
+- Tools: 20 lib(s)
 - Logs: 1 lib(s)
-
+- Tracking: 5 lib(s)
+- Network: 6 lib(s)
+- Storage: 5 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -122,5 +135,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

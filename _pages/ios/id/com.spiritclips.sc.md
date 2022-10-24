@@ -3,31 +3,43 @@ title: "Hallmark Movies Now (com.spiritclips.sc)"
 permalink: /apps/ios/com.spiritclips.sc.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/2b/f3/35/2bf3354b-59d9-4bbf-1f31-631bcf11c458/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/2b/f3/35/2bf3354b-59d9-4bbf-1f31-631bcf11c458/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 ---
-Hallmark Movies Now (com.spiritclips.sc) AppScan description of the content of the iOS application Hallmark Movies Now (com.spiritclips.sc). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Hallmark Movies Now (com.spiritclips.sc). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Hallmark Movies Now (com.spiritclips.sc)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/2b/f3/35/2bf3354b-59d9-4bbf-1f31-631bcf11c458/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Hallmark Movies Now (com.spiritclips.sc
 
 **BundleId:** com.spiritclips.sc
 **App Version:** 8.1.54
 **App Name:** Hallmark Movies Now
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -37,17 +49,16 @@ supported devices iPhone & iPad
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 34
-- UI: 1 lib(s)
-- Network: 2 lib(s)
 - Tools: 2 lib(s)
-- Storage: 1 lib(s)
-- Logs: 1 lib(s)
 - Tracking: 1 lib(s)
-
+- Network: 2 lib(s)
+- Storage: 1 lib(s)
+- UI: 1 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -83,5 +94,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

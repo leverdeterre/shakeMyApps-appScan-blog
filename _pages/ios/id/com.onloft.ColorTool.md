@@ -3,33 +3,43 @@ title: "Colorlogix (com.onloft.ColorTool)"
 permalink: /apps/ios/com.onloft.ColorTool.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/09/1b/d1/091bd177-bb4c-4081-2734-b4ea34ca3b7c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/09/1b/d1/091bd177-bb4c-4081-2734-b4ea34ca3b7c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Colorlogix (com.onloft.ColorTool) AppScan description of the content of the iOS application Colorlogix (com.onloft.ColorTool). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Colorlogix (com.onloft.ColorTool). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Colorlogix (com.onloft.ColorTool)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/09/1b/d1/091bd177-bb4c-4081-2734-b4ea34ca3b7c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Colorlogix (com.onloft.ColorTool
 
 **BundleId:** com.onloft.ColorTool
 **App Version:** 1.2.1
 **App Name:** Colorlogix
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 27
 **Public keys:** 4
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -39,11 +49,10 @@ supported devices iPhone & iPad
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 7
-
 
 **Apple dylibs:**
 
@@ -60,5 +69,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

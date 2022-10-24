@@ -3,42 +3,43 @@ title: "USAA (com.usaa.UsaaMobile)"
 permalink: /apps/ios/com.usaa.UsaaMobile.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0b/e5/31/0be531cd-0ea6-4e4e-d6f6-7c95053939f2/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0b/e5/31/0be531cd-0ea6-4e4e-d6f6-7c95053939f2/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg
 ---
-USAA (com.usaa.UsaaMobile) AppScan description of the content of the iOS application USAA (com.usaa.UsaaMobile). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application USAA (com.usaa.UsaaMobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# USAA (com.usaa.UsaaMobile)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0b/e5/31/0be531cd-0ea6-4e4e-d6f6-7c95053939f2/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# USAA (com.usaa.UsaaMobile
 
 **BundleId:** com.usaa.UsaaMobile
 **App Version:** 8.20.3
 **App Name:** USAA
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSContactsUsageDescription
-- NSLocationUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSSiriUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSFaceIDUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 31
 **Public keys:** 11
 **Custom keys:** 24
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -52,11 +53,10 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
-
 
 **Apple dylibs:**
 
@@ -119,5 +119,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

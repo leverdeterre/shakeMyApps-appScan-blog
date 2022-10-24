@@ -3,34 +3,35 @@ title: "Tech Programs (com.geteventfuel.eutechprograms)"
 permalink: /apps/ios/com.geteventfuel.eutechprograms.html
 layout: single
 author_profile: false
----
-Tech Programs (com.geteventfuel.eutechprograms) AppScan description of the content of the iOS application Tech Programs (com.geteventfuel.eutechprograms). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Tech Programs (com.geteventfuel.eutechprograms)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Tech Programs (com.geteventfuel.eutechprograms). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Tech Programs (com.geteventfuel.eutechprograms
 
 **BundleId:** com.geteventfuel.eutechprograms
 **App Version:** 5.8.2
 **App Name:** Tech Programs
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSFaceIDUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 32
 **Public keys:** 5
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -39,14 +40,13 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
-- Network: 3 lib(s)
 - Tools: 5 lib(s)
 - UI: 3 lib(s)
-
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -87,5 +87,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

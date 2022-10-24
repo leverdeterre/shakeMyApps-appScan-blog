@@ -3,44 +3,48 @@ title: "Cameos (com.google.directanswers)"
 permalink: /apps/ios/com.google.directanswers.html
 layout: single
 author_profile: false
----
-Cameos (com.google.directanswers) AppScan description of the content of the iOS application Cameos (com.google.directanswers). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Cameos (com.google.directanswers)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Cameos (com.google.directanswers). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Cameos (com.google.directanswers
 
 **BundleId:** com.google.directanswers
 **App Version:** 1.9.7
 **App Name:** Cameos
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 31
 **Public keys:** 6
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Google Login detected
+GoogleLogin detected
 Native App
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 - libswiftCore
@@ -81,5 +85,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

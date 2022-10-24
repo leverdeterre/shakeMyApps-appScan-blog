@@ -3,62 +3,60 @@ title: "Yalla (com.weieyu.yalla)"
 permalink: /apps/ios/com.weieyu.yalla.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/75/56/69/755669ed-e50d-abcc-e6f2-f0c07d42e0ed/AppIcon-Yalla-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/75/56/69/755669ed-e50d-abcc-e6f2-f0c07d42e0ed/AppIcon-Yalla-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Yalla (com.weieyu.yalla) AppScan description of the content of the iOS application Yalla (com.weieyu.yalla). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Yalla (com.weieyu.yalla). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Yalla (com.weieyu.yalla)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/75/56/69/755669ed-e50d-abcc-e6f2-f0c07d42e0ed/AppIcon-Yalla-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Yalla (com.weieyu.yalla
 
 **BundleId:** com.weieyu.yalla
 **App Version:** 2.17.0
 **App Name:** Yalla
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSAppleMusicUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSRemindersUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCalendarsUsageDescription
-  
-  
+**Number of permissions:** 13
 **Private keys:** 29
 **Public keys:** 5
 **Custom keys:** 21
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Twitter Login detected
-Facebook Login detected
+AppleSignIn detected
+FacebookLogin detected
 Native App
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
-- Storage: 1 lib(s)
-- Tools: 6 lib(s)
 - Tracking: 2 lib(s)
-
+- Tools: 6 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -123,5 +121,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,49 +3,64 @@ title: "BIGO LIVE (sg.bigo.live)"
 permalink: /apps/ios/sg.bigo.live.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/0f/72/b80f72e7-b140-5ad9-1cef-94ee535c3722/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/6c/ef/8a6cef33-0de5-d754-d7b5-fb43a9982340/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/0f/72/b80f72e7-b140-5ad9-1cef-94ee535c3722/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/6c/ef/8a6cef33-0de5-d754-d7b5-fb43a9982340/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-BIGO LIVE (sg.bigo.live) AppScan description of the content of the iOS application BIGO LIVE (sg.bigo.live). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application BIGO LIVE (sg.bigo.live). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# BIGO LIVE (sg.bigo.live)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/6c/ef/8a6cef33-0de5-d754-d7b5-fb43a9982340/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# BIGO LIVE (sg.bigo.live
 
 **BundleId:** sg.bigo.live
-**App Version:** 5.30.4
+**App Version:** 5.30.5
 **App Name:** BIGO LIVE
 
 
+## AppScore : 4.66 (⭐️⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSAppleMusicUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 35
 **Public keys:** 8
 **Custom keys:** 23
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 10
-Twitter Login detected
-Facebook Login detected
-Google Login detected
+AppleSignIn detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -54,12 +69,11 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
 - Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 - libswiftCoreGraphics
@@ -151,5 +165,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

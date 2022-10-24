@@ -3,36 +3,43 @@ title: "Finalcad (fr.knowledgecorp.finalcad-swift)"
 permalink: /apps/ios/fr.knowledgecorp.finalcad-swift.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/46/70/70/467070b1-eb70-7aa7-6130-ba45dae416b3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/46/70/70/467070b1-eb70-7aa7-6130-ba45dae416b3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Finalcad (fr.knowledgecorp.finalcad-swift) AppScan description of the content of the iOS application Finalcad (fr.knowledgecorp.finalcad-swift). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Finalcad (fr.knowledgecorp.finalcad-swift). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Finalcad (fr.knowledgecorp.finalcad-swift)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/46/70/70/467070b1-eb70-7aa7-6130-ba45dae416b3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Finalcad (fr.knowledgecorp.finalcad-swift
 
 **BundleId:** fr.knowledgecorp.finalcad-swift
 **App Version:** 8.7
 **App Name:** Finalcad
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSCalendarsUsageDescription
-- NSLocalNetworkUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 32
 **Public keys:** 9
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -43,17 +50,16 @@ build using Xcode 13
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
-- Network: 1 lib(s)
+- Storage: 1 lib(s)
 - Crash: 2 lib(s)
 - UI: 2 lib(s)
 - Tracking: 2 lib(s)
-- Storage: 1 lib(s)
+- Network: 1 lib(s)
 - Tools: 14 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -114,5 +120,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

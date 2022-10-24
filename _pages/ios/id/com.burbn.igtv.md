@@ -3,51 +3,48 @@ title: "IGTV (com.burbn.igtv)"
 permalink: /apps/ios/com.burbn.igtv.html
 layout: single
 author_profile: false
----
-IGTV (com.burbn.igtv) AppScan description of the content of the iOS application IGTV (com.burbn.igtv). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# IGTV (com.burbn.igtv)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application IGTV (com.burbn.igtv). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# IGTV (com.burbn.igtv
 
 **BundleId:** com.burbn.igtv
 **App Version:** 195.0
 **App Name:** IGTV
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 33
 **Public keys:** 6
 **Custom keys:** 32
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 10
-Facebook Login detected
+FacebookLogin detected
 contains 1 App extensions
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -169,5 +166,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

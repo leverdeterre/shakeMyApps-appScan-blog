@@ -3,45 +3,49 @@ title: "Fishbrain (com.fishbrain.app)"
 permalink: /apps/ios/com.fishbrain.app.html
 layout: single
 author_profile: false
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/38/01/e2380146-fc04-b676-1e1f-e6eccf020810/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/04/0c/4b/040c4ba4-81d7-7a37-e05c-873ff21f31cf/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/38/01/e2380146-fc04-b676-1e1f-e6eccf020810/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/04/0c/4b/040c4ba4-81d7-7a37-e05c-873ff21f31cf/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-Fishbrain (com.fishbrain.app) AppScan description of the content of the iOS application Fishbrain (com.fishbrain.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Fishbrain (com.fishbrain.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Fishbrain (com.fishbrain.app)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/04/0c/4b/040c4ba4-81d7-7a37-e05c-873ff21f31cf/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Fishbrain (com.fishbrain.app
 
 **BundleId:** com.fishbrain.app
-**App Version:** 8.124.0
+**App Version:** 8.125.0
 **App Name:** Fishbrain
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 32
 **Public keys:** 9
 **Custom keys:** 33
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 9
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 contains 3 App extensions
@@ -51,28 +55,24 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
+- Tools: 2 lib(s)
 - Tracking: 1 lib(s)
 - UI: 3 lib(s)
-- Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 
 
 **Apple System Library Frameworks:**
 - WebKit
-- UIKit
-- Security
-- StoreKit
-- SystemConfiguration
-- CoreTelephony
 - Accelerate
-- QuartzCore
+- CoreTelephony
 - CoreData
+- SystemConfiguration
+- QuartzCore
 - CoreImage
 - CoreText
 - UserNotifications
@@ -105,10 +105,13 @@ Some userActivityTypes
 - PassKit
 - Photos
 - SafariServices
+- Security
+- StoreKit
 - SwiftUI
+- UIKit
 - WatchConnectivity
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

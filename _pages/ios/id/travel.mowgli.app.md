@@ -3,46 +3,66 @@ title: "Mowgli (travel.mowgli.app)"
 permalink: /apps/ios/travel.mowgli.app.html
 layout: single
 author_profile: false
----
-Mowgli (travel.mowgli.app) AppScan description of the content of the iOS application Mowgli (travel.mowgli.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Mowgli (travel.mowgli.app)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Mowgli (travel.mowgli.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Mowgli (travel.mowgli.app
 
 **BundleId:** travel.mowgli.app
 **App Version:** 2.9.2
 **App Name:** Mowgli
 
 
+## AppScore : 3.86 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 30
 **Public keys:** 5
 **Custom keys:** 6
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Google Login detected
+GoogleLogin detected
 supported devices iPhone & iPad
 at least 3 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 32
-- Storage: 2 lib(s)
-- Tracking: 3 lib(s)
-- Tools: 13 lib(s)
+**Number of Third Party Library detected:** 47
 - Network: 1 lib(s)
-
+- Tracking: 5 lib(s)
+- Storage: 2 lib(s)
+- Crash: 1 lib(s)
+- Tools: 19 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -82,5 +102,5 @@ at least 3 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

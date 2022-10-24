@@ -3,51 +3,66 @@ title: "Rugby App (com.canalplus.canalrugbyapp.prod)"
 permalink: /apps/ios/com.canalplus.canalrugbyapp.prod.html
 layout: single
 author_profile: false
----
-Rugby App (com.canalplus.canalrugbyapp.prod) AppScan description of the content of the iOS application Rugby App (com.canalplus.canalrugbyapp.prod). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Rugby App (com.canalplus.canalrugbyapp.prod)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Rugby App (com.canalplus.canalrugbyapp.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Rugby App (com.canalplus.canalrugbyapp.prod
 
 **BundleId:** com.canalplus.canalrugbyapp.prod
 **App Version:** 3.1.3
 **App Name:** Rugby App
 
 
+## AppScore : 4.01 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSMicrophoneUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 31
 **Public keys:** 8
 **Custom keys:** 29
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 28
 - Network: 3 lib(s)
-- Logs: 1 lib(s)
 - Tools: 5 lib(s)
+- Logs: 1 lib(s)
 - Tracking: 1 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -107,5 +122,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

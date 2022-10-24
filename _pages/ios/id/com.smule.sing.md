@@ -3,58 +3,60 @@ title: "Smule (com.smule.sing)"
 permalink: /apps/ios/com.smule.sing.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/cc/cc/b0cccc78-972a-68ff-564a-53db425d535f/AppIcon-CCCP-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/cc/cc/b0cccc78-972a-68ff-564a-53db425d535f/AppIcon-CCCP-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Smule (com.smule.sing) AppScan description of the content of the iOS application Smule (com.smule.sing). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Smule (com.smule.sing). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Smule (com.smule.sing)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/cc/cc/b0cccc78-972a-68ff-564a-53db425d535f/AppIcon-CCCP-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Smule (com.smule.sing
 
 **BundleId:** com.smule.sing
 **App Version:** 11.0.3
 **App Name:** Smule
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMotionUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSUserTrackingUsageDescription
-- NSRemindersUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 34
 **Public keys:** 8
 **Custom keys:** 18
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
 - Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -117,5 +119,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

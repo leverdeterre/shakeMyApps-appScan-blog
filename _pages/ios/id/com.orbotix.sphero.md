@@ -3,31 +3,35 @@ title: "Sphero (com.orbotix.sphero)"
 permalink: /apps/ios/com.orbotix.sphero.html
 layout: single
 author_profile: false
----
-Sphero (com.orbotix.sphero) AppScan description of the content of the iOS application Sphero (com.orbotix.sphero). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Sphero (com.orbotix.sphero)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Sphero (com.orbotix.sphero). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Sphero (com.orbotix.sphero
 
 **BundleId:** com.orbotix.sphero
 **App Version:** 3.5.5
 **App Name:** Sphero
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -36,11 +40,10 @@ Native App
 supported devices iPhone & iPad
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -77,5 +80,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

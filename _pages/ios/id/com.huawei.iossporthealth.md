@@ -3,65 +3,76 @@ title: "HUAWEI Health (com.huawei.iossporthealth)"
 permalink: /apps/ios/com.huawei.iossporthealth.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/3f/99/e8/3f99e891-58a9-4380-6384-e3c6ead3a59c/healthlogo_app_release-1x_U007emarketing-0-4-0-0-sRGB-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/94/02/f0/9402f05f-34f4-2e27-dfec-abf213901b2a/healthlogo_app_release-1x_U007emarketing-0-4-0-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/3f/99/e8/3f99e891-58a9-4380-6384-e3c6ead3a59c/healthlogo_app_release-1x_U007emarketing-0-4-0-0-sRGB-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/94/02/f0/9402f05f-34f4-2e27-dfec-abf213901b2a/healthlogo_app_release-1x_U007emarketing-0-4-0-0-sRGB-85-220.png/512x512bb.jpg
 ---
-HUAWEI Health (com.huawei.iossporthealth) AppScan description of the content of the iOS application HUAWEI Health (com.huawei.iossporthealth). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application HUAWEI Health (com.huawei.iossporthealth). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# HUAWEI Health (com.huawei.iossporthealth)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/94/02/f0/9402f05f-34f4-2e27-dfec-abf213901b2a/healthlogo_app_release-1x_U007emarketing-0-4-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# HUAWEI Health (com.huawei.iossporthealth
 
 **BundleId:** com.huawei.iossporthealth
 **App Version:** 12.1.91
 **App Name:** HUAWEI Health
 
 
+## AppScore : 4.39 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSMotionUsageDescription
-- NSHealthShareUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSContactsUsageDescription
-- NSCalendarsUsageDescription
-- NSHealthUpdateUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 14
 **Private keys:** 32
 **Public keys:** 9
 **Custom keys:** 22
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 8
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 build using Xcode 13
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 38
-- UI: 2 lib(s)
-- Storage: 1 lib(s)
 - Network: 2 lib(s)
 - Tools: 4 lib(s)
-
+- Storage: 1 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -140,5 +151,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

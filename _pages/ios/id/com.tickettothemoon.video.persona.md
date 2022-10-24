@@ -3,41 +3,62 @@ title: "Persona (com.tickettothemoon.video.persona)"
 permalink: /apps/ios/com.tickettothemoon.video.persona.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/39/8d/a0/398da0d5-63ce-22d5-9902-0c8d43e7db90/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/28/e6/f6/28e6f622-e5b3-7db6-6720-84a05901353f/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/39/8d/a0/398da0d5-63ce-22d5-9902-0c8d43e7db90/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/28/e6/f6/28e6f622-e5b3-7db6-6720-84a05901353f/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 ---
-Persona (com.tickettothemoon.video.persona) AppScan description of the content of the iOS application Persona (com.tickettothemoon.video.persona). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Persona (com.tickettothemoon.video.persona). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Persona (com.tickettothemoon.video.persona)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/28/e6/f6/28e6f622-e5b3-7db6-6720-84a05901353f/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Persona (com.tickettothemoon.video.persona
 
 **BundleId:** com.tickettothemoon.video.persona
 **App Version:** 1.5.34
 **App Name:** Persona
 
 
+## AppScore : 4.06 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 30
 **Public keys:** 5
 **Custom keys:** 18
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -46,16 +67,15 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 37
-- Tracking: 3 lib(s)
 - UI: 3 lib(s)
-- Network: 2 lib(s)
-- Tools: 15 lib(s)
 - Crash: 1 lib(s)
-
+- Network: 2 lib(s)
+- Tracking: 3 lib(s)
+- Tools: 15 lib(s)
 
 **Apple dylibs:**
 
@@ -103,5 +123,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

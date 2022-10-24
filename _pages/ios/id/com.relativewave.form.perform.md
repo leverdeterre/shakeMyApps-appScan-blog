@@ -3,29 +3,35 @@ title: "Form Viewer (com.relativewave.form.perform)"
 permalink: /apps/ios/com.relativewave.form.perform.html
 layout: single
 author_profile: false
----
-Form Viewer (com.relativewave.form.perform) AppScan description of the content of the iOS application Form Viewer (com.relativewave.form.perform). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Form Viewer (com.relativewave.form.perform)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Form Viewer (com.relativewave.form.perform). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Form Viewer (com.relativewave.form.perform
 
 **BundleId:** com.relativewave.form.perform
 **App Version:** 1.4.1
 **App Name:** Form Viewer
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -33,11 +39,10 @@ Number of entitlements detected: 2
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
-
 
 **Apple dylibs:**
 
@@ -53,5 +58,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

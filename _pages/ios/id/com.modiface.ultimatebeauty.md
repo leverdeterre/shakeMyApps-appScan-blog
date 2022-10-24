@@ -3,47 +3,50 @@ title: "Makeover (com.modiface.ultimatebeauty)"
 permalink: /apps/ios/com.modiface.ultimatebeauty.html
 layout: single
 author_profile: false
----
-Makeover (com.modiface.ultimatebeauty) AppScan description of the content of the iOS application Makeover (com.modiface.ultimatebeauty). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Makeover (com.modiface.ultimatebeauty)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Makeover (com.modiface.ultimatebeauty). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Makeover (com.modiface.ultimatebeauty
 
 **BundleId:** com.modiface.ultimatebeauty
 **App Version:** 4.5
 **App Name:** Makeover
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCalendarsUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 35
 **Public keys:** 5
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Facebook Login detected
+FacebookLogin detected
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 26
-- Tracking: 1 lib(s)
 - Crash: 1 lib(s)
 - Tools: 3 lib(s)
+- Tracking: 1 lib(s)
 - UI: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -86,5 +89,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

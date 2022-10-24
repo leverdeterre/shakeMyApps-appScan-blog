@@ -3,36 +3,43 @@ title: "London (com.busexpertapp.gb.londontransport)"
 permalink: /apps/ios/com.busexpertapp.gb.londontransport.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/9a/5a/3f9a5a30-9bd4-2e27-3c8e-d7cd53ae0d55/AppIcon-0-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/9a/5a/3f9a5a30-9bd4-2e27-3c8e-d7cd53ae0d55/AppIcon-0-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg
 ---
-London (com.busexpertapp.gb.londontransport) AppScan description of the content of the iOS application London (com.busexpertapp.gb.londontransport). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application London (com.busexpertapp.gb.londontransport). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# London (com.busexpertapp.gb.londontransport)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/9a/5a/3f9a5a30-9bd4-2e27-3c8e-d7cd53ae0d55/AppIcon-0-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# London (com.busexpertapp.gb.londontransport
 
 **BundleId:** com.busexpertapp.gb.londontransport
 **App Version:** 2022.5.1
 **App Name:** London
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSContactsUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 26
 **Public keys:** 8
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -44,11 +51,10 @@ at least 3 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-
 
 **Apple dylibs:**
 
@@ -105,5 +111,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

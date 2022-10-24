@@ -3,34 +3,43 @@ title: "Last Voyage (com.semidome.LastVoyage)"
 permalink: /apps/ios/com.semidome.LastVoyage.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/14/d2/87/14d287ad-4247-73e7-7afa-e708553473d3/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/14/d2/87/14d287ad-4247-73e7-7afa-e708553473d3/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg
 ---
-Last Voyage (com.semidome.LastVoyage) AppScan description of the content of the iOS application Last Voyage (com.semidome.LastVoyage). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Last Voyage (com.semidome.LastVoyage). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Last Voyage (com.semidome.LastVoyage)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/14/d2/87/14d287ad-4247-73e7-7afa-e708553473d3/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Last Voyage (com.semidome.LastVoyage
 
 **BundleId:** com.semidome.LastVoyage
 **App Version:** 2.5
 **App Name:** Last Voyage
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 32
 **Public keys:** 6
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -38,11 +47,10 @@ Number of entitlements detected: 3
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -77,5 +85,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

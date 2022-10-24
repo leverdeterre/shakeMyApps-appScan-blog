@@ -3,48 +3,57 @@ title: "Anime Wallpaper (com.ios.animex)"
 permalink: /apps/ios/com.ios.animex.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/80/6e/b0/806eb026-41b8-ff4a-9980-18cad9ecafaa/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/80/6e/b0/806eb026-41b8-ff4a-9980-18cad9ecafaa/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Anime Wallpaper (com.ios.animex) AppScan description of the content of the iOS application Anime Wallpaper (com.ios.animex). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Anime Wallpaper (com.ios.animex). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Anime Wallpaper (com.ios.animex)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/80/6e/b0/806eb026-41b8-ff4a-9980-18cad9ecafaa/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Anime Wallpaper (com.ios.animex
 
 **BundleId:** com.ios.animex
 **App Version:** 1.0.3
 **App Name:** Anime Wallpaper
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 28
 **Public keys:** 4
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
-- UI: 3 lib(s)
-- Storage: 3 lib(s)
 - Tools: 8 lib(s)
+- Storage: 3 lib(s)
 - Network: 2 lib(s)
 - Logs: 1 lib(s)
-
+- UI: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -53,5 +62,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

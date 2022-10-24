@@ -3,28 +3,35 @@ title: "الاسطوره TV (com.sport.ostoora)"
 permalink: /apps/ios/com.sport.ostoora.html
 layout: single
 author_profile: false
----
-الاسطوره TV (com.sport.ostoora) AppScan description of the content of the iOS application الاسطوره TV (com.sport.ostoora). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# الاسطوره TV (com.sport.ostoora)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application الاسطوره TV (com.sport.ostoora). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# الاسطوره TV (com.sport.ostoora
 
 **BundleId:** com.sport.ostoora
 **App Version:** 2.2.3
 **App Name:** الاسطوره TV
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 31
 **Public keys:** 6
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -34,15 +41,14 @@ supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
-- Storage: 3 lib(s)
-- Tracking: 1 lib(s)
 - Tools: 9 lib(s)
 - Network: 1 lib(s)
-
+- Tracking: 1 lib(s)
+- Storage: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -84,5 +90,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

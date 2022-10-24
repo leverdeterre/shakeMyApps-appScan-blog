@@ -3,51 +3,58 @@ title: "ChowNow (com.ChowNow.Marketplace)"
 permalink: /apps/ios/com.ChowNow.Marketplace.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/56/19/94/56199452-5479-2185-eeaf-394a9de05033/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/27/1c/80/271c80fa-87d5-71f1-e9b4-d2a35e64dc43/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/56/19/94/56199452-5479-2185-eeaf-394a9de05033/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/27/1c/80/271c80fa-87d5-71f1-e9b4-d2a35e64dc43/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-ChowNow (com.ChowNow.Marketplace) AppScan description of the content of the iOS application ChowNow (com.ChowNow.Marketplace). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application ChowNow (com.ChowNow.Marketplace). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# ChowNow (com.ChowNow.Marketplace)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/27/1c/80/271c80fa-87d5-71f1-e9b4-d2a35e64dc43/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# ChowNow (com.ChowNow.Marketplace
 
 **BundleId:** com.ChowNow.Marketplace
-**App Version:** 1.27.0
+**App Version:** 1.28.0
 **App Name:** ChowNow
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSLocalNetworkUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 31
 **Public keys:** 8
 **Custom keys:** 8
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 8
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 at least 4 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
-
 
 **Apple dylibs:**
 
@@ -86,5 +93,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

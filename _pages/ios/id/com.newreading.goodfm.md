@@ -3,59 +3,64 @@ title: "GoodFM (com.newreading.goodfm)"
 permalink: /apps/ios/com.newreading.goodfm.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/43/5a/4d/435a4d12-7e2d-ff8f-d6cc-47109c8a47a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/43/5a/4d/435a4d12-7e2d-ff8f-d6cc-47109c8a47a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-GoodFM (com.newreading.goodfm) AppScan description of the content of the iOS application GoodFM (com.newreading.goodfm). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application GoodFM (com.newreading.goodfm). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# GoodFM (com.newreading.goodfm)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/43/5a/4d/435a4d12-7e2d-ff8f-d6cc-47109c8a47a3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# GoodFM (com.newreading.goodfm
 
 **BundleId:** com.newreading.goodfm
 **App Version:** 1.4.5
 **App Name:** GoodFM
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSContactsUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 build using Xcode 13
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- Network: 2 lib(s)
-- Crash: 1 lib(s)
-- Storage: 1 lib(s)
-- Tools: 16 lib(s)
-- UI: 4 lib(s)
 - Tracking: 5 lib(s)
-
+- Tools: 16 lib(s)
+- Storage: 1 lib(s)
+- UI: 4 lib(s)
+- Crash: 1 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -115,5 +120,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

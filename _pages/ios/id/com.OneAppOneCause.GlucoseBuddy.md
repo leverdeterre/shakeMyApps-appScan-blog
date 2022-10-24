@@ -3,62 +3,58 @@ title: "Glucose Buddy (com.OneAppOneCause.GlucoseBuddy)"
 permalink: /apps/ios/com.OneAppOneCause.GlucoseBuddy.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/db/5f/2a/db5f2af0-e2a4-a85a-bdd1-b3f508b4c527/AppIcon-GB-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/db/5f/2a/db5f2af0-e2a4-a85a-bdd1-b3f508b4c527/AppIcon-GB-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Glucose Buddy (com.OneAppOneCause.GlucoseBuddy) AppScan description of the content of the iOS application Glucose Buddy (com.OneAppOneCause.GlucoseBuddy). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Glucose Buddy (com.OneAppOneCause.GlucoseBuddy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Glucose Buddy (com.OneAppOneCause.GlucoseBuddy)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/db/5f/2a/db5f2af0-e2a4-a85a-bdd1-b3f508b4c527/AppIcon-GB-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Glucose Buddy (com.OneAppOneCause.GlucoseBuddy
 
 **BundleId:** com.OneAppOneCause.GlucoseBuddy
 **App Version:** 5.378
 **App Name:** Glucose Buddy
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSCalendarsUsageDescription
-- NSAppleMusicUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSHealthShareUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSMotionUsageDescription
-- NSHealthUpdateUsageDescription
-  
-  
+**Number of permissions:** 15
 **Private keys:** 32
 **Public keys:** 7
 **Custom keys:** 52
 **Low securit keys:** 6
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 9
-Facebook Login detected
+FacebookLogin detected
 build using Xcode 13
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
-- Logs: 1 lib(s)
 - Tools: 2 lib(s)
-
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftARKit
@@ -159,5 +155,5 @@ at least 3 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,48 +3,51 @@ title: "Whoosh! (com.parkeon.whoosh)"
 permalink: /apps/ios/com.parkeon.whoosh.html
 layout: single
 author_profile: false
----
-Whoosh! (com.parkeon.whoosh) AppScan description of the content of the iOS application Whoosh! (com.parkeon.whoosh). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Whoosh! (com.parkeon.whoosh)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Whoosh! (com.parkeon.whoosh). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Whoosh! (com.parkeon.whoosh
 
 **BundleId:** com.parkeon.whoosh
 **App Version:** 2.4.2
 **App Name:** Whoosh!
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSFaceIDUsageDescription
-- NSSiriUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 32
 **Public keys:** 7
 **Custom keys:** 33
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Facebook Login detected
+FacebookLogin detected
 Native App
 contains 4 App extensions
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
-- Network: 1 lib(s)
 - Tools: 10 lib(s)
-
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -94,5 +97,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

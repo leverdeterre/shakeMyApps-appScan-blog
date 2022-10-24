@@ -3,31 +3,43 @@ title: "Cultura Ebooks (fr.cultura.culturaebooks)"
 permalink: /apps/ios/fr.cultura.culturaebooks.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/92/d8/63/92d86391-eeb6-73ae-40c6-a428bcc2ef0a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/92/d8/63/92d86391-eeb6-73ae-40c6-a428bcc2ef0a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg
 ---
-Cultura Ebooks (fr.cultura.culturaebooks) AppScan description of the content of the iOS application Cultura Ebooks (fr.cultura.culturaebooks). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Cultura Ebooks (fr.cultura.culturaebooks). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Cultura Ebooks (fr.cultura.culturaebooks)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/92/d8/63/92d86391-eeb6-73ae-40c6-a428bcc2ef0a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Cultura Ebooks (fr.cultura.culturaebooks
 
 **BundleId:** fr.cultura.culturaebooks
 **App Version:** 2.0.30
 **App Name:** Cultura Ebooks
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 36
 **Public keys:** 10
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -36,11 +48,10 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -71,5 +82,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

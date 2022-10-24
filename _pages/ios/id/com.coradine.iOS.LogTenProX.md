@@ -3,40 +3,57 @@ title: "LogTen (com.coradine.iOS.LogTenProX)"
 permalink: /apps/ios/com.coradine.iOS.LogTenProX.html
 layout: single
 author_profile: false
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ab/35/83/ab358347-06b5-52b7-38bc-11ab5f324150/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/c8/50/08/c8500879-9448-59da-35ae-dc51d7e5b4cd/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ab/35/83/ab358347-06b5-52b7-38bc-11ab5f324150/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/c8/50/08/c8500879-9448-59da-35ae-dc51d7e5b4cd/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-LogTen (com.coradine.iOS.LogTenProX) AppScan description of the content of the iOS application LogTen (com.coradine.iOS.LogTenProX). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application LogTen (com.coradine.iOS.LogTenProX). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# LogTen (com.coradine.iOS.LogTenProX)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/c8/50/08/c8500879-9448-59da-35ae-dc51d7e5b4cd/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# LogTen (com.coradine.iOS.LogTenProX
 
 **BundleId:** com.coradine.iOS.LogTenProX
 **App Version:** 2022.1
 **App Name:** LogTen
 
 
+## AppScore : 4.72 (⭐️⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSCalendarsUsageDescription
-- NSCameraUsageDescription
-- NSLocalNetworkUsageDescription
-- NSSiriUsageDescription
-- NSFaceIDUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 34
 **Public keys:** 12
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -49,15 +66,14 @@ at least 2 entitlemented features (strong iOS integration)
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 46
-- UI: 1 lib(s)
 - Logs: 1 lib(s)
-- Network: 1 lib(s)
+- UI: 1 lib(s)
 - Tools: 4 lib(s)
-
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -94,5 +110,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

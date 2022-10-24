@@ -3,37 +3,43 @@ title: "3CX (com.3cx.3cxphone14)"
 permalink: /apps/ios/com.3cx.3cxphone14.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/12/15/13/121513ab-06a6-1b48-2227-593dd2034882/AppIcon-0-1x_U007emarketing-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/12/15/13/121513ab-06a6-1b48-2227-593dd2034882/AppIcon-0-1x_U007emarketing-5-0-85-220.png/512x512bb.jpg
 ---
-3CX (com.3cx.3cxphone14) AppScan description of the content of the iOS application 3CX (com.3cx.3cxphone14). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application 3CX (com.3cx.3cxphone14). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# 3CX (com.3cx.3cxphone14)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/12/15/13/121513ab-06a6-1b48-2227-593dd2034882/AppIcon-0-1x_U007emarketing-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# 3CX (com.3cx.3cxphone14
 
 **BundleId:** com.3cx.3cxphone14
 **App Version:** 18.4.1
 **App Name:** 3CX
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSMicrophoneUsageDescription
-- NSCameraUsageDescription
-- NSContactsUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 29
 **Public keys:** 8
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -46,12 +52,11 @@ support multiple languages
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
 - Logs: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -95,5 +100,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

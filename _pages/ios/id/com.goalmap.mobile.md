@@ -3,52 +3,57 @@ title: "Goalmap (com.goalmap.mobile)"
 permalink: /apps/ios/com.goalmap.mobile.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/c6/e1/d8c6e124-adae-a083-3853-5410f7c2217c/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-5.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/c6/e1/d8c6e124-adae-a083-3853-5410f7c2217c/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-5.png/512x512bb.jpg
 ---
-Goalmap (com.goalmap.mobile) AppScan description of the content of the iOS application Goalmap (com.goalmap.mobile). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Goalmap (com.goalmap.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Goalmap (com.goalmap.mobile)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/d8/c6/e1/d8c6e124-adae-a083-3853-5410f7c2217c/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-5.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Goalmap (com.goalmap.mobile
 
 **BundleId:** com.goalmap.mobile
 **App Version:** 4.00.9
 **App Name:** Goalmap
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSHealthUpdateUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSHealthShareUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 44
+- UI: 1 lib(s)
 - Logs: 1 lib(s)
 - Tools: 5 lib(s)
-- UI: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -88,5 +93,5 @@ Google Login detected
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

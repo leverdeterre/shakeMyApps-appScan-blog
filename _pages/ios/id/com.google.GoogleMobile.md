@@ -3,47 +3,62 @@ title: "Google (com.google.GoogleMobile)"
 permalink: /apps/ios/com.google.GoogleMobile.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f3/f1/51/f3f1516d-7637-d596-56b9-3de5bdbac8d5/logo_gsa_ios_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/41/a5/c2/41a5c2a6-17af-fcf2-beb1-e3f4ee458767/logo_gsa_ios_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f3/f1/51/f3f1516d-7637-d596-56b9-3de5bdbac8d5/logo_gsa_ios_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/41/a5/c2/41a5c2a6-17af-fcf2-beb1-e3f4ee458767/logo_gsa_ios_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg
 ---
-Google (com.google.GoogleMobile) AppScan description of the content of the iOS application Google (com.google.GoogleMobile). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Google (com.google.GoogleMobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Google (com.google.GoogleMobile)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/41/a5/c2/41a5c2a6-17af-fcf2-beb1-e3f4ee458767/logo_gsa_ios_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Google (com.google.GoogleMobile
 
 **BundleId:** com.google.GoogleMobile
-**App Version:** 233.0
+**App Version:** 234.0
 **App Name:** Google
 
 
+## AppScore : 4.86 (⭐️⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSMotionUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCalendarsUsageDescription
-- NSCameraUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSAppleMusicUsageDescription
-- NSMicrophoneUsageDescription
-- NSFaceIDUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 30
 **Public keys:** 8
 **Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Google Login detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 contains 6 App extensions
@@ -53,11 +68,10 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
-
 
 **Apple dylibs:**
 
@@ -80,6 +94,7 @@ Some userActivityTypes
 - CoreImage
 - BackgroundTasks
 - ImageIO
+- CoreData
 - CoreVideo
 - GLKit
 - AVFoundation
@@ -96,7 +111,6 @@ Some userActivityTypes
 - PassKit
 - SystemConfiguration
 - Accelerate
-- CoreData
 - CoreTelephony
 - CoreHaptics
 - CoreMotion
@@ -128,16 +142,16 @@ Some userActivityTypes
 - Vision
 - VisionKit
 - PhotosUI
+- MapKit
 - Contacts
 - EventKit
 - SceneKit
 - ContactsUI
-- MapKit
 - MetricKit
 - EventKitUI
 - QuickLook
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,49 +3,59 @@ title: "woa (com.pwingo.woa)"
 permalink: /apps/ios/com.pwingo.woa.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/b2/3b/6fb23b29-800b-2f5c-e8ff-6220daae10e1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/b2/3b/6fb23b29-800b-2f5c-e8ff-6220daae10e1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-woa (com.pwingo.woa) AppScan description of the content of the iOS application woa (com.pwingo.woa). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application woa (com.pwingo.woa). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# woa (com.pwingo.woa)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/6f/b2/3b/6fb23b29-800b-2f5c-e8ff-6220daae10e1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# woa (com.pwingo.woa
 
 **BundleId:** com.pwingo.woa
 **App Version:** 1.0.0
 **App Name:** woa
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 31
 **Public keys:** 5
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Google Login detected
+GoogleLogin detected
 supported devices iPhone & iPad
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
 - Tools: 17 lib(s)
 - Tracking: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -85,5 +95,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

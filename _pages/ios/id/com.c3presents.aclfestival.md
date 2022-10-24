@@ -3,61 +3,75 @@ title: "ACL Fest (com.c3presents.aclfestival)"
 permalink: /apps/ios/com.c3presents.aclfestival.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/fd/21/d8fd2120-b82c-9200-2969-f104a6aedae8/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/fd/21/d8fd2120-b82c-9200-2969-f104a6aedae8/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-ACL Fest (com.c3presents.aclfestival) AppScan description of the content of the iOS application ACL Fest (com.c3presents.aclfestival). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application ACL Fest (com.c3presents.aclfestival). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# ACL Fest (com.c3presents.aclfestival)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/fd/21/d8fd2120-b82c-9200-2969-f104a6aedae8/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# ACL Fest (com.c3presents.aclfestival
 
 **BundleId:** com.c3presents.aclfestival
 **App Version:** 14.0.1
 **App Name:** ACL Fest
 
 
+## AppScore : 4.23 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSMotionUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSAppleMusicUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSCalendarsUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 35
 **Public keys:** 6
 **Custom keys:** 25
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
+FacebookLogin detected
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 54
-- Tools: 12 lib(s)
-- UI: 3 lib(s)
-- Tracking: 5 lib(s)
-- Network: 3 lib(s)
 - Storage: 2 lib(s)
+- UI: 3 lib(s)
+- Network: 3 lib(s)
+- Tools: 12 lib(s)
+- Tracking: 5 lib(s)
 - Crash: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -111,5 +125,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

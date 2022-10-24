@@ -3,61 +3,60 @@ title: "Kroger (com.kroger.krogermobile)"
 permalink: /apps/ios/com.kroger.krogermobile.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/3a/1c/f5/3a1cf5c0-7526-23f8-9b75-8ce175f7e572/AppIconKroger-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/0b/2a/1d0b2a84-70f0-92b8-d3f9-8c858a611206/AppIconKroger-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/3a/1c/f5/3a1cf5c0-7526-23f8-9b75-8ce175f7e572/AppIconKroger-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/0b/2a/1d0b2a84-70f0-92b8-d3f9-8c858a611206/AppIconKroger-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Kroger (com.kroger.krogermobile) AppScan description of the content of the iOS application Kroger (com.kroger.krogermobile). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Kroger (com.kroger.krogermobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Kroger (com.kroger.krogermobile)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/0b/2a/1d0b2a84-70f0-92b8-d3f9-8c858a611206/AppIconKroger-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Kroger (com.kroger.krogermobile
 
 **BundleId:** com.kroger.krogermobile
-**App Version:** 50.0
+**App Version:** 51.1
 **App Name:** Kroger
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSContactsUsageDescription
-- NSAppleMusicUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSFaceIDUsageDescription
-- NFCReaderUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 34
 **Public keys:** 7
-**Custom keys:** 22
+**Custom keys:** 23
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
-Number of entitlements detected: 9
-Google Login detected
+Number of entitlements detected: 8
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
-build using Xcode 13
 contains 1 App extensions
-at least 3 entitlemented features (strong iOS integration)
+at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 93
-- Tools: 2 lib(s)
+**Number of Third Party Library detected:** 107
+- Tools: 1 lib(s)
 - Tracking: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -75,16 +74,15 @@ SwiftUI
 - UIKit
 - CoreLocation
 - CoreTelephony
-- Foundation
 - MessageUI
 - Security
 - WebKit
 - StoreKit
 - SafariServices
+- Foundation
 - Accelerate
 - AdSupport
 - AppTrackingTransparency
-- AuthenticationServices
 - Combine
 - Contacts
 - CoreFoundation
@@ -98,9 +96,9 @@ SwiftUI
 - SwiftUI
 - UserNotifications
 - Vision
-- CloudKit
+- UIKit
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

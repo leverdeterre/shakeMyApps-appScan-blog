@@ -3,59 +3,64 @@ title: "Cizoo (io.Cizoo.Cizoo)"
 permalink: /apps/ios/io.Cizoo.Cizoo.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/98/1d/2f981d62-144d-4658-c18d-a18112e9fb8a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/98/1d/2f981d62-144d-4658-c18d-a18112e9fb8a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-Cizoo (io.Cizoo.Cizoo) AppScan description of the content of the iOS application Cizoo (io.Cizoo.Cizoo). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Cizoo (io.Cizoo.Cizoo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Cizoo (io.Cizoo.Cizoo)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/98/1d/2f981d62-144d-4658-c18d-a18112e9fb8a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Cizoo (io.Cizoo.Cizoo
 
 **BundleId:** io.Cizoo.Cizoo
 **App Version:** 4.53.4
 **App Name:** Cizoo
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSUserTrackingUsageDescription
-- NSContactsUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 31
 **Public keys:** 6
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
+FacebookLogin detected
 Native App
 build using Xcode 13
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 85
-- Tools: 21 lib(s)
-- Tracking: 6 lib(s)
 - Crash: 2 lib(s)
-- Logs: 1 lib(s)
-- Storage: 2 lib(s)
-- Network: 3 lib(s)
 - UI: 2 lib(s)
-
+- Logs: 1 lib(s)
+- Tools: 21 lib(s)
+- Network: 3 lib(s)
+- Tracking: 6 lib(s)
+- Storage: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -104,5 +109,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

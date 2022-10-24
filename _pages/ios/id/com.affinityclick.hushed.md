@@ -3,32 +3,43 @@ title: "Hushed (com.affinityclick.hushed)"
 permalink: /apps/ios/com.affinityclick.hushed.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/32/17/ad/3217ad0c-3f6c-2f66-3821-91668750efab/AppIcon-Flat-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/b9/9d/ccb99dae-d125-ada5-88ea-b75bc669f356/AppIcon-Flat-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/32/17/ad/3217ad0c-3f6c-2f66-3821-91668750efab/AppIcon-Flat-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/b9/9d/ccb99dae-d125-ada5-88ea-b75bc669f356/AppIcon-Flat-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Hushed (com.affinityclick.hushed) AppScan description of the content of the iOS application Hushed (com.affinityclick.hushed). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Hushed (com.affinityclick.hushed). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Hushed (com.affinityclick.hushed)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/b9/9d/ccb99dae-d125-ada5-88ea-b75bc669f356/AppIcon-Flat-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Hushed (com.affinityclick.hushed
 
 **BundleId:** com.affinityclick.hushed
-**App Version:** 5.6.0
+**App Version:** 5.7.0
 **App Name:** Hushed
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 34
 **Public keys:** 8
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -42,16 +53,15 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 66
-- Tracking: 1 lib(s)
 - UI: 7 lib(s)
-- Tools: 19 lib(s)
-- Network: 3 lib(s)
 - Storage: 2 lib(s)
-
+- Network: 3 lib(s)
+- Tools: 19 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -126,5 +136,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

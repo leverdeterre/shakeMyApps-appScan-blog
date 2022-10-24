@@ -3,64 +3,76 @@ title: "Overstock (com.overstock.app)"
 permalink: /apps/ios/com.overstock.app.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/87/ce/6b87ce20-7aeb-d76c-4515-5f81e9813651/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/71/4a/f7714ae2-327f-efc5-1f38-772d5d180426/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/87/ce/6b87ce20-7aeb-d76c-4515-5f81e9813651/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/71/4a/f7714ae2-327f-efc5-1f38-772d5d180426/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-Overstock (com.overstock.app) AppScan description of the content of the iOS application Overstock (com.overstock.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Overstock (com.overstock.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Overstock (com.overstock.app)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/71/4a/f7714ae2-327f-efc5-1f38-772d5d180426/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Overstock (com.overstock.app
 
 **BundleId:** com.overstock.app
 **App Version:** 2022.10.0
 **App Name:** Overstock
 
 
+## AppScore : 4.46 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSAppleMusicUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSCameraUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSUserTrackingUsageDescription
-- NSFaceIDUsageDescription
-  
-  
+**Number of permissions:** 13
 **Private keys:** 35
 **Public keys:** 8
 **Custom keys:** 30
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 contains 2 App extensions
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- UI: 1 lib(s)
 - Network: 4 lib(s)
-- Tools: 15 lib(s)
 - Tracking: 5 lib(s)
-
+- UI: 1 lib(s)
+- Tools: 15 lib(s)
 
 **Apple dylibs:**
 
@@ -112,5 +124,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

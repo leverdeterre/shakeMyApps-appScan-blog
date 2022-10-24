@@ -3,28 +3,35 @@ title: "MappyGPS (com.mappy.gpsfree)"
 permalink: /apps/ios/com.mappy.gpsfree.html
 layout: single
 author_profile: false
----
-MappyGPS (com.mappy.gpsfree) AppScan description of the content of the iOS application MappyGPS (com.mappy.gpsfree). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# MappyGPS (com.mappy.gpsfree)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application MappyGPS (com.mappy.gpsfree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# MappyGPS (com.mappy.gpsfree
 
 **BundleId:** com.mappy.gpsfree
 **App Version:** 16.0.19
 **App Name:** MappyGPS
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 35
 **Public keys:** 6
 **Custom keys:** 14
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -33,11 +40,10 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -82,5 +88,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

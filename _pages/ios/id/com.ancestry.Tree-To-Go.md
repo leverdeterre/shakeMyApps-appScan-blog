@@ -3,45 +3,50 @@ title: "Ancestry (com.ancestry.Tree-To-Go)"
 permalink: /apps/ios/com.ancestry.Tree-To-Go.html
 layout: single
 author_profile: false
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/d9/25/a1d92588-e600-9493-524f-255e273fcc6d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/2e/22/a3/2e22a3b4-f058-b617-a75b-31d4ba6bbe57/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a1/d9/25/a1d92588-e600-9493-524f-255e273fcc6d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/2e/22/a3/2e22a3b4-f058-b617-a75b-31d4ba6bbe57/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Ancestry (com.ancestry.Tree-To-Go) AppScan description of the content of the iOS application Ancestry (com.ancestry.Tree-To-Go). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Ancestry (com.ancestry.Tree-To-Go). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Ancestry (com.ancestry.Tree-To-Go)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/2e/22/a3/2e22a3b4-f058-b617-a75b-31d4ba6bbe57/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Ancestry (com.ancestry.Tree-To-Go
 
 **BundleId:** com.ancestry.Tree-To-Go
-**App Version:** 14.19
+**App Version:** 14.20
 **App Name:** Ancestry
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSSpeechRecognitionUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 33
 **Public keys:** 10
-**Custom keys:** 14
+**Custom keys:** 15
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 12
-Google Login detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
-build using Xcode 13
 contains 5 App extensions
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
@@ -49,13 +54,12 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 94
+**Number of Third Party Library detected:** 98
 - Tools: 3 lib(s)
 - UI: 5 lib(s)
-
 
 **Apple dylibs:**
 
@@ -101,5 +105,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

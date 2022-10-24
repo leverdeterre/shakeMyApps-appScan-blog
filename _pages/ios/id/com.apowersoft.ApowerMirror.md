@@ -3,46 +3,50 @@ title: "ApowerMirror (com.apowersoft.ApowerMirror)"
 permalink: /apps/ios/com.apowersoft.ApowerMirror.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/52/34/13/523413c7-eff5-9663-4be2-32f03ceaf522/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/52/34/13/523413c7-eff5-9663-4be2-32f03ceaf522/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-ApowerMirror (com.apowersoft.ApowerMirror) AppScan description of the content of the iOS application ApowerMirror (com.apowersoft.ApowerMirror). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application ApowerMirror (com.apowersoft.ApowerMirror). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# ApowerMirror (com.apowersoft.ApowerMirror)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/52/34/13/523413c7-eff5-9663-4be2-32f03ceaf522/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# ApowerMirror (com.apowersoft.ApowerMirror
 
 **BundleId:** com.apowersoft.ApowerMirror
 **App Version:** 1.4.9
 **App Name:** ApowerMirror
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSAppleMusicUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocalNetworkUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 32
 **Public keys:** 9
 **Custom keys:** 13
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Twitter Login detected
-Facebook Login detected
-Google Login detected
+AppleSignIn detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -50,16 +54,15 @@ contains 1 App extensions
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 59
-- Tracking: 3 lib(s)
+- Storage: 2 lib(s)
 - UI: 2 lib(s)
 - Network: 4 lib(s)
+- Tracking: 3 lib(s)
 - Tools: 17 lib(s)
-- Storage: 2 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -139,5 +142,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

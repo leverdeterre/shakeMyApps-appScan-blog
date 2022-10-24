@@ -3,33 +3,43 @@ title: "Caradisiac (com.caradisiac.application)"
 permalink: /apps/ios/com.caradisiac.application.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/68/19/2a/68192ab3-168f-089d-0b6d-fa7fdf6f1b7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/68/19/2a/68192ab3-168f-089d-0b6d-fa7fdf6f1b7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Caradisiac (com.caradisiac.application) AppScan description of the content of the iOS application Caradisiac (com.caradisiac.application). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Caradisiac (com.caradisiac.application). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Caradisiac (com.caradisiac.application)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/68/19/2a/68192ab3-168f-089d-0b6d-fa7fdf6f1b7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Caradisiac (com.caradisiac.application
 
 **BundleId:** com.caradisiac.application
 **App Version:** 4.13.0
 **App Name:** Caradisiac
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 28
 **Public keys:** 4
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -40,16 +50,15 @@ build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 30
-- Network: 2 lib(s)
-- Tools: 13 lib(s)
-- Tracking: 4 lib(s)
 - Crash: 1 lib(s)
 - UI: 2 lib(s)
-
+- Tools: 13 lib(s)
+- Network: 2 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -118,5 +127,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

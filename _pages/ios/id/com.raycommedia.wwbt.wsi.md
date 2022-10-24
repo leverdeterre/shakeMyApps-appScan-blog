@@ -3,42 +3,57 @@ title: "nbc12weather (com.raycommedia.wwbt.wsi)"
 permalink: /apps/ios/com.raycommedia.wwbt.wsi.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/18/9c/84/189c8454-ec92-9cc3-0656-cdd8d7ab0c46/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/18/9c/84/189c8454-ec92-9cc3-0656-cdd8d7ab0c46/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 ---
-nbc12weather (com.raycommedia.wwbt.wsi) AppScan description of the content of the iOS application nbc12weather (com.raycommedia.wwbt.wsi). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application nbc12weather (com.raycommedia.wwbt.wsi). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# nbc12weather (com.raycommedia.wwbt.wsi)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/18/9c/84/189c8454-ec92-9cc3-0656-cdd8d7ab0c46/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+  
+# nbc12weather (com.raycommedia.wwbt.wsi
 
 **BundleId:** com.raycommedia.wwbt.wsi
 **App Version:** 5.6.510
 **App Name:** nbc12weather
 
 
+## AppScore : 4.38 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 34
 **Public keys:** 5
 **Custom keys:** 20
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -47,15 +62,14 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Crash: 1 lib(s)
 - Tools: 9 lib(s)
 - UI: 2 lib(s)
 - Tracking: 2 lib(s)
-
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -98,5 +112,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

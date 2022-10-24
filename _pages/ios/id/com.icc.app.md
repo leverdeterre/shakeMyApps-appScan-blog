@@ -3,69 +3,62 @@ title: "ICC.tv (com.icc.app)"
 permalink: /apps/ios/com.icc.app.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/67/9a/7c/679a7ca6-e76b-12c4-6b76-1b2fe5fce7d7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/67/9a/7c/679a7ca6-e76b-12c4-6b76-1b2fe5fce7d7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-ICC.tv (com.icc.app) AppScan description of the content of the iOS application ICC.tv (com.icc.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application ICC.tv (com.icc.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# ICC.tv (com.icc.app)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/67/9a/7c/679a7ca6-e76b-12c4-6b76-1b2fe5fce7d7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# ICC.tv (com.icc.app
 
 **BundleId:** com.icc.app
 **App Version:** 1.7.3
 **App Name:** ICC.tv
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSVideoSubscriberAccountUsageDescription
-- NSLocationUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMotionUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSAppleMusicUsageDescription
-- NSMicrophoneUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocalNetworkUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSCameraUsageDescription
-- NSSiriUsageDescription
-- NSContactsUsageDescription
-- NSRemindersUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 18
 **Private keys:** 34
 **Public keys:** 8
 **Custom keys:** 25
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
+FacebookLogin detected
 supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 89
-- Logs: 1 lib(s)
 - Tools: 17 lib(s)
 - Tracking: 2 lib(s)
+- Logs: 1 lib(s)
 - UI: 1 lib(s)
 - Network: 2 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -134,5 +127,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

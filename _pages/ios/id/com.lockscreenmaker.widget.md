@@ -3,42 +3,43 @@ title: "LockWidget (com.lockscreenmaker.widget)"
 permalink: /apps/ios/com.lockscreenmaker.widget.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/e3/f6/1de3f6dc-a904-738c-c1e1-0f2a28df6806/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/e3/f6/1de3f6dc-a904-738c-c1e1-0f2a28df6806/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-LockWidget (com.lockscreenmaker.widget) AppScan description of the content of the iOS application LockWidget (com.lockscreenmaker.widget). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application LockWidget (com.lockscreenmaker.widget). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# LockWidget (com.lockscreenmaker.widget)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/e3/f6/1de3f6dc-a904-738c-c1e1-0f2a28df6806/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# LockWidget (com.lockscreenmaker.widget
 
 **BundleId:** com.lockscreenmaker.widget
 **App Version:** 1.0.8
 **App Name:** LockWidget
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSHealthUpdateUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSRemindersUsageDescription
-- NSHealthShareUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 29
 **Public keys:** 6
 **Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -48,11 +49,10 @@ contains 2 App extensions
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -100,5 +100,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

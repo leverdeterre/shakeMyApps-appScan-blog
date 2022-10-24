@@ -3,35 +3,43 @@ title: "AlgerianTvHub (com.LiveTvHub.AlgerianTvHubApple)"
 permalink: /apps/ios/com.LiveTvHub.AlgerianTvHubApple.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/01/cc/9e01cca1-926b-4f68-5a65-7ee314acbcf1/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/01/cc/9e01cca1-926b-4f68-5a65-7ee314acbcf1/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AlgerianTvHub (com.LiveTvHub.AlgerianTvHubApple) AppScan description of the content of the iOS application AlgerianTvHub (com.LiveTvHub.AlgerianTvHubApple). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application AlgerianTvHub (com.LiveTvHub.AlgerianTvHubApple). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# AlgerianTvHub (com.LiveTvHub.AlgerianTvHubApple)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/01/cc/9e01cca1-926b-4f68-5a65-7ee314acbcf1/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# AlgerianTvHub (com.LiveTvHub.AlgerianTvHubApple
 
 **BundleId:** com.LiveTvHub.AlgerianTvHubApple
 **App Version:** 1.8
 **App Name:** AlgerianTvHub
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 31
 **Public keys:** 6
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -41,13 +49,12 @@ supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- Tools: 7 lib(s)
 - Tracking: 1 lib(s)
-
+- Tools: 7 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -113,5 +120,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

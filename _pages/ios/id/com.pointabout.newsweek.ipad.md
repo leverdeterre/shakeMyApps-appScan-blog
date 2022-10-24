@@ -3,52 +3,98 @@ title: "Newsweek (com.pointabout.newsweek.ipad)"
 permalink: /apps/ios/com.pointabout.newsweek.ipad.html
 layout: single
 author_profile: false
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/79/33/ce/7933cee1-223e-57d9-f691-aa96f10a9650/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/52/6a/b3526afd-368e-9dea-8041-fe45b0d297ca/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/79/33/ce/7933cee1-223e-57d9-f691-aa96f10a9650/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/52/6a/b3526afd-368e-9dea-8041-fe45b0d297ca/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-Newsweek (com.pointabout.newsweek.ipad) AppScan description of the content of the iOS application Newsweek (com.pointabout.newsweek.ipad). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Newsweek (com.pointabout.newsweek.ipad). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Newsweek (com.pointabout.newsweek.ipad)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/52/6a/b3526afd-368e-9dea-8041-fe45b0d297ca/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Newsweek (com.pointabout.newsweek.ipad
 
 **BundleId:** com.pointabout.newsweek.ipad
-**App Version:** 7.0
+**App Version:** 8.0
 **App Name:** Newsweek
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCalendarsUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
-**Private keys:** 29
-**Public keys:** 7
-**Custom keys:** 6
+**Number of permissions:** 0
+**Private keys:** 27
+**Public keys:** 5
+**Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
+Number of entitlements detected: 3
 Native App
 supported devices iPhone & iPad
+build using Xcode 13
+contains 1 App extensions
+SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 0
-
+**Number of Third Party Library detected:** 44
+- Tools: 18 lib(s)
+- Network: 3 lib(s)
+- Storage: 1 lib(s)
+- Tracking: 4 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
 
 **Apple System Library Frameworks:**
+- AVFoundation
+- AudioToolbox
+- CFNetwork
+- CoreGraphics
+- CoreMedia
+- CoreTelephony
+- CoreText
+- CoreVideo
+- Foundation
+- ImageIO
+- LocalAuthentication
+- MediaPlayer
+- MessageUI
+- MobileCoreServices
+- QuartzCore
+- SafariServices
+- Security
+- StoreKit
+- SystemConfiguration
+- UIKit
+- WebKit
+- AdSupport
+- AuthenticationServices
+- JavaScriptCore
+- SwiftUI
+- UserNotifications
+- CoreFoundation
+- CoreMotion
+- CoreServices
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

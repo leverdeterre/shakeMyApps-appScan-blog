@@ -3,38 +3,43 @@ title: "WillyWeather (com.willyweather.willyweather)"
 permalink: /apps/ios/com.willyweather.willyweather.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/92/26/4e9226f2-4354-ae8e-32a9-f958bc0ecc07/source/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/92/26/4e9226f2-4354-ae8e-32a9-f958bc0ecc07/source/512x512bb.jpg
 ---
-WillyWeather (com.willyweather.willyweather) AppScan description of the content of the iOS application WillyWeather (com.willyweather.willyweather). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application WillyWeather (com.willyweather.willyweather). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# WillyWeather (com.willyweather.willyweather)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/92/26/4e9226f2-4354-ae8e-32a9-f958bc0ecc07/source/512x512bb.jpg" width="100" height="100"></div>  
+  
+# WillyWeather (com.willyweather.willyweather
 
 **BundleId:** com.willyweather.willyweather
 **App Version:** 2.10.3
 **App Name:** WillyWeather
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 33
 **Public keys:** 7
 **Custom keys:** 22
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -45,12 +50,11 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
 - Tools: 3 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -121,5 +125,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

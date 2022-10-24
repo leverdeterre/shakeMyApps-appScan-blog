@@ -3,37 +3,43 @@ title: "手机知网 (net.cnki.www.CNKIClient)"
 permalink: /apps/ios/net.cnki.www.CNKIClient.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/5e/73/ba5e73c1-6a1f-0afa-5dcd-ac0c7590e888/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/5e/73/ba5e73c1-6a1f-0afa-5dcd-ac0c7590e888/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-手机知网 (net.cnki.www.CNKIClient) AppScan description of the content of the iOS application 手机知网 (net.cnki.www.CNKIClient). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application 手机知网 (net.cnki.www.CNKIClient). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# 手机知网 (net.cnki.www.CNKIClient)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ba/5e/73/ba5e73c1-6a1f-0afa-5dcd-ac0c7590e888/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# 手机知网 (net.cnki.www.CNKIClient
 
 **BundleId:** net.cnki.www.CNKIClient
 **App Version:** 7.7.6
 **App Name:** 手机知网
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocalNetworkUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 31
 **Public keys:** 11
 **Custom keys:** 16
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -45,14 +51,13 @@ contains 1 App extensions
 at least 2 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- UI: 3 lib(s)
-- Storage: 1 lib(s)
 - Network: 1 lib(s)
-
+- Storage: 1 lib(s)
+- UI: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -99,5 +104,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

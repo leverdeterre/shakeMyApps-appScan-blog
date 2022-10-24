@@ -3,49 +3,48 @@ title: "Local (com.facebook.Socal)"
 permalink: /apps/ios/com.facebook.Socal.html
 layout: single
 author_profile: false
----
-Local (com.facebook.Socal) AppScan description of the content of the iOS application Local (com.facebook.Socal). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Local (com.facebook.Socal)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Local (com.facebook.Socal). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Local (com.facebook.Socal
 
 **BundleId:** com.facebook.Socal
 **App Version:** 34.0
 **App Name:** Local
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-- NSAppleMusicUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSMicrophoneUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 33
 **Public keys:** 8
 **Custom keys:** 25
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
+FacebookLogin detected
 Native App
 support multiple languages
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
-
 
 **Apple dylibs:**
 
@@ -128,5 +127,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

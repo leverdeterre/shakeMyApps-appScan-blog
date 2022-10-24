@@ -3,46 +3,55 @@ title: "NIV Bible (com.raanapps.newinternationalversion)"
 permalink: /apps/ios/com.raanapps.newinternationalversion.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/41/2d/41/412d415f-ded8-6654-62f2-1cbd43690088/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/41/2d/41/412d415f-ded8-6654-62f2-1cbd43690088/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/512x512bb.jpg
 ---
-NIV Bible (com.raanapps.newinternationalversion) AppScan description of the content of the iOS application NIV Bible (com.raanapps.newinternationalversion). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application NIV Bible (com.raanapps.newinternationalversion). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# NIV Bible (com.raanapps.newinternationalversion)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/41/2d/41/412d415f-ded8-6654-62f2-1cbd43690088/AppIcon-0-0-1x_U007emarketing-0-0-0-7-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# NIV Bible (com.raanapps.newinternationalversion
 
 **BundleId:** com.raanapps.newinternationalversion
 **App Version:** 1.0
 **App Name:** NIV Bible
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 29
 **Public keys:** 6
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -51,5 +60,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

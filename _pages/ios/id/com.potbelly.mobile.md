@@ -3,32 +3,43 @@ title: "Potbelly (com.potbelly.mobile)"
 permalink: /apps/ios/com.potbelly.mobile.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/8c/e3/75/8ce37577-ba6d-5291-3896-c5d5add811cd/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/8c/e3/75/8ce37577-ba6d-5291-3896-c5d5add811cd/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 ---
-Potbelly (com.potbelly.mobile) AppScan description of the content of the iOS application Potbelly (com.potbelly.mobile). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Potbelly (com.potbelly.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Potbelly (com.potbelly.mobile)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/8c/e3/75/8ce37577-ba6d-5291-3896-c5d5add811cd/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Potbelly (com.potbelly.mobile
 
 **BundleId:** com.potbelly.mobile
 **App Version:** 3.11.0
 **App Name:** Potbelly
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 30
 **Public keys:** 4
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -38,11 +49,10 @@ supported devices iPhone & iPad
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -82,5 +92,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,38 +3,43 @@ title: "Sales Nav (com.linkedin.Lighthouse)"
 permalink: /apps/ios/com.linkedin.Lighthouse.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/78/27/04/7827041c-9125-bb7f-5570-d053cedbecfb/AppIcon-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/78/27/04/7827041c-9125-bb7f-5570-d053cedbecfb/AppIcon-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg
 ---
-Sales Nav (com.linkedin.Lighthouse) AppScan description of the content of the iOS application Sales Nav (com.linkedin.Lighthouse). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Sales Nav (com.linkedin.Lighthouse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Sales Nav (com.linkedin.Lighthouse)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/78/27/04/7827041c-9125-bb7f-5570-d053cedbecfb/AppIcon-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Sales Nav (com.linkedin.Lighthouse
 
 **BundleId:** com.linkedin.Lighthouse
 **App Version:** 2022.0910.1732
 **App Name:** Sales Nav
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSContactsUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 32
 **Public keys:** 7
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -47,14 +52,13 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 188
-- UI: 1 lib(s)
 - Network: 1 lib(s)
 - Storage: 1 lib(s)
-
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -95,5 +99,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

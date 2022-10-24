@@ -3,28 +3,35 @@ title: "Trill (com.logicalnonsense.Trill)"
 permalink: /apps/ios/com.logicalnonsense.Trill.html
 layout: single
 author_profile: false
----
-Trill (com.logicalnonsense.Trill) AppScan description of the content of the iOS application Trill (com.logicalnonsense.Trill). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Trill (com.logicalnonsense.Trill)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Trill (com.logicalnonsense.Trill). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Trill (com.logicalnonsense.Trill
 
 **BundleId:** com.logicalnonsense.Trill
 **App Version:** 1.46
 **App Name:** Trill
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 31
 **Public keys:** 5
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -33,15 +40,14 @@ Native App
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
 - UI: 4 lib(s)
-- Tracking: 2 lib(s)
-- Network: 3 lib(s)
 - Tools: 6 lib(s)
-
+- Network: 3 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -67,5 +73,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

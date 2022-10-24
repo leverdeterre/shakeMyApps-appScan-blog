@@ -3,60 +3,62 @@ title: "LEDRemote (com.astralertechnology.smartlight)"
 permalink: /apps/ios/com.astralertechnology.smartlight.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/14/a8/88/14a888d7-3c89-36b3-2fa6-5de386af36f4/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/14/a8/88/14a888d7-3c89-36b3-2fa6-5de386af36f4/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-LEDRemote (com.astralertechnology.smartlight) AppScan description of the content of the iOS application LEDRemote (com.astralertechnology.smartlight). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application LEDRemote (com.astralertechnology.smartlight). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# LEDRemote (com.astralertechnology.smartlight)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/14/a8/88/14a888d7-3c89-36b3-2fa6-5de386af36f4/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# LEDRemote (com.astralertechnology.smartlight
 
 **BundleId:** com.astralertechnology.smartlight
 **App Version:** 1.0.6
 **App Name:** LEDRemote
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocalNetworkUsageDescription
-- NSAppleMusicUsageDescription
-- NSBluetoothAlwaysUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 48
-- Tools: 18 lib(s)
-- Tracking: 4 lib(s)
-- Network: 5 lib(s)
 - UI: 2 lib(s)
+- Tools: 18 lib(s)
 - Storage: 2 lib(s)
-
+- Network: 5 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -102,5 +104,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,44 +3,49 @@ title: "what3words (com.what3words.ios.what3words)"
 permalink: /apps/ios/com.what3words.ios.what3words.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/6a/38/e9/6a38e9f9-450c-1567-6230-6f84a04de774/AppIconMain-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/6a/38/e9/6a38e9f9-450c-1567-6230-6f84a04de774/AppIconMain-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-what3words (com.what3words.ios.what3words) AppScan description of the content of the iOS application what3words (com.what3words.ios.what3words). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application what3words (com.what3words.ios.what3words). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# what3words (com.what3words.ios.what3words)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/6a/38/e9/6a38e9f9-450c-1567-6230-6f84a04de774/AppIconMain-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# what3words (com.what3words.ios.what3words
 
 **BundleId:** com.what3words.ios.what3words
 **App Version:** 4.21
 **App Name:** what3words
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 33
 **Public keys:** 10
 **Custom keys:** 15
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -50,16 +55,15 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
 - Tools: 7 lib(s)
 - Storage: 1 lib(s)
-- Tracking: 4 lib(s)
 - Network: 1 lib(s)
 - UI: 1 lib(s)
-
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -108,5 +112,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

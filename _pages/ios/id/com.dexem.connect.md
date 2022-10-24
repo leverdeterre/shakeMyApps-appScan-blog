@@ -3,42 +3,49 @@ title: "Connect (com.dexem.connect)"
 permalink: /apps/ios/com.dexem.connect.html
 layout: single
 author_profile: false
----
-Connect (com.dexem.connect) AppScan description of the content of the iOS application Connect (com.dexem.connect). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Connect (com.dexem.connect)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Connect (com.dexem.connect). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Connect (com.dexem.connect
 
 **BundleId:** com.dexem.connect
 **App Version:** 2.5.0
 **App Name:** Connect
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 32
 **Public keys:** 6
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Facebook Login detected
+FacebookLogin detected
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
-- Storage: 1 lib(s)
-- Crash: 1 lib(s)
 - UI: 1 lib(s)
-
+- Crash: 1 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -68,5 +75,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

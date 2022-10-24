@@ -3,46 +3,47 @@ title: "La Felicità (com.bigmammagroup.mamma-f.prod)"
 permalink: /apps/ios/com.bigmammagroup.mamma-f.prod.html
 layout: single
 author_profile: false
----
-La Felicità (com.bigmammagroup.mamma-f.prod) AppScan description of the content of the iOS application La Felicità (com.bigmammagroup.mamma-f.prod). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# La Felicità (com.bigmammagroup.mamma-f.prod)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application La Felicità (com.bigmammagroup.mamma-f.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# La Felicità (com.bigmammagroup.mamma-f.prod
 
 **BundleId:** com.bigmammagroup.mamma-f.prod
 **App Version:** 2.7.3
 **App Name:** La Felicità
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSSpeechRecognitionUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMotionUsageDescription
-- NSAppleMusicUsageDescription
-- NSCalendarsUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 7
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Google Login detected
+GoogleLogin detected
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
-- Logs: 1 lib(s)
 - Tools: 8 lib(s)
-
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -81,5 +82,5 @@ Google Login detected
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,66 +3,77 @@ title: "Universal Tennis (com.utr.utrplay)"
 permalink: /apps/ios/com.utr.utrplay.html
 layout: single
 author_profile: false
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/44/c4/d9/44c4d958-2591-d1e1-2ffd-0dba036e4804/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/20/36/06/2036063c-477d-8a5d-9b05-f51f9daf936c/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/44/c4/d9/44c4d958-2591-d1e1-2ffd-0dba036e4804/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/20/36/06/2036063c-477d-8a5d-9b05-f51f9daf936c/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-Universal Tennis (com.utr.utrplay) AppScan description of the content of the iOS application Universal Tennis (com.utr.utrplay). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Universal Tennis (com.utr.utrplay). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Universal Tennis (com.utr.utrplay)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/20/36/06/2036063c-477d-8a5d-9b05-f51f9daf936c/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Universal Tennis (com.utr.utrplay
 
 **BundleId:** com.utr.utrplay
-**App Version:** 1.0.16
+**App Version:** 1.0.17
 **App Name:** Universal Tennis
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 29
 **Public keys:** 5
-**Custom keys:** 8
+**Custom keys:** 9
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
+FacebookLogin detected
 Native App
 build using Xcode 13
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
+- UI: 2 lib(s)
+- Tracking: 4 lib(s)
 - Crash: 1 lib(s)
 - Tools: 12 lib(s)
-- Tracking: 4 lib(s)
-- UI: 2 lib(s)
-
 
 **Apple dylibs:**
 
 
 **Apple System Library Frameworks:**
 - AVFoundation
+- AdSupport
 - AudioToolbox
 - Contacts
+- CoreData
 - CoreGraphics
 - CoreLocation
 - CoreTelephony
 - ExternalAccessory
 - Foundation
+- JavaScriptCore
 - MediaPlayer
 - PassKit
 - QuartzCore
@@ -85,5 +96,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

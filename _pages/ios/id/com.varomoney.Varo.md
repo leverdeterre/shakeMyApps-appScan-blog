@@ -3,37 +3,35 @@ title: "Varo (com.varomoney.Varo)"
 permalink: /apps/ios/com.varomoney.Varo.html
 layout: single
 author_profile: false
----
-Varo (com.varomoney.Varo) AppScan description of the content of the iOS application Varo (com.varomoney.Varo). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Varo (com.varomoney.Varo)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Varo (com.varomoney.Varo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Varo (com.varomoney.Varo
 
 **BundleId:** com.varomoney.Varo
 **App Version:** 3.0.11
 **App Name:** Varo
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSFaceIDUsageDescription
-- NSContactsUsageDescription
-- NSSiriUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 33
 **Public keys:** 8
 **Custom keys:** 14
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -42,17 +40,16 @@ Native App
 contains 5 App extensions
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 66
-- Crash: 1 lib(s)
-- Tools: 12 lib(s)
-- Storage: 1 lib(s)
-- Network: 3 lib(s)
 - Tracking: 8 lib(s)
 - UI: 7 lib(s)
-
+- Network: 3 lib(s)
+- Storage: 1 lib(s)
+- Crash: 1 lib(s)
+- Tools: 12 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -101,5 +98,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

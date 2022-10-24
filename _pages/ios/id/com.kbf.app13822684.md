@@ -3,55 +3,60 @@ title: "NYC Fire Wire (com.kbf.app13822684)"
 permalink: /apps/ios/com.kbf.app13822684.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/3e/75/d0/3e75d041-0c94-85ce-8940-c774ab6d0441/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/3e/75/d0/3e75d041-0c94-85ce-8940-c774ab6d0441/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-NYC Fire Wire (com.kbf.app13822684) AppScan description of the content of the iOS application NYC Fire Wire (com.kbf.app13822684). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application NYC Fire Wire (com.kbf.app13822684). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# NYC Fire Wire (com.kbf.app13822684)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/3e/75/d0/3e75d041-0c94-85ce-8940-c774ab6d0441/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# NYC Fire Wire (com.kbf.app13822684
 
 **BundleId:** com.kbf.app13822684
 **App Version:** 10.0.7
 **App Name:** NYC Fire Wire
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 29
 **Public keys:** 5
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
 - Tools: 4 lib(s)
-- Network: 3 lib(s)
-- UI: 2 lib(s)
 - Tracking: 2 lib(s)
-
+- UI: 2 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -92,5 +97,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

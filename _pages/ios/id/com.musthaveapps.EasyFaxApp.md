@@ -3,56 +3,63 @@ title: "Easy Fax (com.musthaveapps.EasyFaxApp)"
 permalink: /apps/ios/com.musthaveapps.EasyFaxApp.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/01/c6/0b/01c60b86-92ce-f766-fb53-9c1002128cba/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/07/0b/a5/070ba528-d898-33c3-d6d8-f4de297f0e1d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/01/c6/0b/01c60b86-92ce-f766-fb53-9c1002128cba/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/07/0b/a5/070ba528-d898-33c3-d6d8-f4de297f0e1d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Easy Fax (com.musthaveapps.EasyFaxApp) AppScan description of the content of the iOS application Easy Fax (com.musthaveapps.EasyFaxApp). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Easy Fax (com.musthaveapps.EasyFaxApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Easy Fax (com.musthaveapps.EasyFaxApp)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/07/0b/a5/070ba528-d898-33c3-d6d8-f4de297f0e1d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Easy Fax (com.musthaveapps.EasyFaxApp
 
 **BundleId:** com.musthaveapps.EasyFaxApp
-**App Version:** 3.1.11
+**App Version:** 3.1.13
 **App Name:** Easy Fax
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 27
 **Public keys:** 7
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Google Login detected
+GoogleLogin detected
 Native App
 build using Xcode 13
 contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- UI: 1 lib(s)
-- Storage: 2 lib(s)
-- Tracking: 3 lib(s)
-- Crash: 1 lib(s)
-- Network: 1 lib(s)
 - Tools: 18 lib(s)
-
+- Crash: 1 lib(s)
+- UI: 1 lib(s)
+- Network: 1 lib(s)
+- Tracking: 3 lib(s)
+- Storage: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -113,5 +120,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

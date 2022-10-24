@@ -3,41 +3,49 @@ title: "Markets.com (com.marketstrader.cosmos)"
 permalink: /apps/ios/com.marketstrader.cosmos.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/dd/82/61/dd826104-82d4-bb68-1949-846e90c345d8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/dd/82/61/dd826104-82d4-bb68-1949-846e90c345d8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-Markets.com (com.marketstrader.cosmos) AppScan description of the content of the iOS application Markets.com (com.marketstrader.cosmos). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Markets.com (com.marketstrader.cosmos). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Markets.com (com.marketstrader.cosmos)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/dd/82/61/dd826104-82d4-bb68-1949-846e90c345d8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Markets.com (com.marketstrader.cosmos
 
 **BundleId:** com.marketstrader.cosmos
 **App Version:** 74.2
 **App Name:** Markets.com
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 34
 **Public keys:** 7
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -46,15 +54,14 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 30
-- UI: 1 lib(s)
-- Crash: 1 lib(s)
 - Tools: 15 lib(s)
 - Tracking: 3 lib(s)
-
+- Crash: 1 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -97,5 +104,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

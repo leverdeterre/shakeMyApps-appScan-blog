@@ -3,36 +3,43 @@ title: "BuzzFeed (com.buzzfeed.buzzfeed)"
 permalink: /apps/ios/com.buzzfeed.buzzfeed.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/91/23/03/91230329-279e-94e8-1ff8-c33d83e9ee8e/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/91/23/03/91230329-279e-94e8-1ff8-c33d83e9ee8e/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-BuzzFeed (com.buzzfeed.buzzfeed) AppScan description of the content of the iOS application BuzzFeed (com.buzzfeed.buzzfeed). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application BuzzFeed (com.buzzfeed.buzzfeed). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# BuzzFeed (com.buzzfeed.buzzfeed)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/91/23/03/91230329-279e-94e8-1ff8-c33d83e9ee8e/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# BuzzFeed (com.buzzfeed.buzzfeed
 
 **BundleId:** com.buzzfeed.buzzfeed
 **App Version:** 2022.18
 **App Name:** BuzzFeed
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 33
 **Public keys:** 8
 **Custom keys:** 17
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -46,13 +53,12 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
-- Tracking: 1 lib(s)
 - Tools: 6 lib(s)
-
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -101,5 +107,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

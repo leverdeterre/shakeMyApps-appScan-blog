@@ -3,62 +3,79 @@ title: "AI Art (com.aiby.aiart)"
 permalink: /apps/ios/com.aiby.aiart.html
 layout: single
 author_profile: false
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/56/fc/ad/56fcadae-5736-0943-8012-828cc5532829/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/63/3d/04/633d04f7-8680-d83e-494b-d22b7d23e291/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/56/fc/ad/56fcadae-5736-0943-8012-828cc5532829/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/63/3d/04/633d04f7-8680-d83e-494b-d22b7d23e291/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AI Art (com.aiby.aiart) AppScan description of the content of the iOS application AI Art (com.aiby.aiart). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application AI Art (com.aiby.aiart). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# AI Art (com.aiby.aiart)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/63/3d/04/633d04f7-8680-d83e-494b-d22b7d23e291/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# AI Art (com.aiby.aiart
 
 **BundleId:** com.aiby.aiart
-**App Version:** 1.1
+**App Version:** 1.3
 **App Name:** AI Art
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 28
-**Public keys:** 4
-**Custom keys:** 6
-**Low securit keys:** 0
+**Public keys:** 5
+**Custom keys:** 9
+**Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 2
 Native App
-build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 28
-- Crash: 1 lib(s)
-- Storage: 3 lib(s)
-- Network: 2 lib(s)
-- Tools: 10 lib(s)
-- Tracking: 2 lib(s)
+**Number of Third Party Library detected:** 29
 - UI: 1 lib(s)
-
+- Storage: 3 lib(s)
+- Tracking: 3 lib(s)
+- Network: 2 lib(s)
+- Tools: 11 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
 
 **Apple System Library Frameworks:**
 - AVFoundation
+- Accelerate
+- AdSupport
+- AudioToolbox
 - CFNetwork
 - CoreFoundation
 - CoreGraphics
+- CoreLocation
+- CoreMedia
+- CoreMotion
 - CoreTelephony
+- CoreVideo
 - Foundation
+- MediaPlayer
+- MessageUI
 - MobileCoreServices
 - QuartzCore
 - SafariServices
@@ -68,9 +85,16 @@ build using Xcode 13
 - UIKit
 - WebKit
 - AppTrackingTransparency
+- JavaScriptCore
+- AVKit
+- CoreImage
+- CoreServices
+- Metal
+- MetalKit
+- OpenGLES
 - Photos
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

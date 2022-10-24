@@ -3,35 +3,43 @@ title: "SolarWatch (com.fifteenjugglers.solarwatch)"
 permalink: /apps/ios/com.fifteenjugglers.solarwatch.html
 layout: single
 author_profile: false
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/26/7c/8b/267c8b42-a609-3957-214c-07fdd346ec19/AppIcon-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/0d/56/b80d56eb-fbeb-ad6c-4c49-f99f7696cb2c/AppIcon-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/26/7c/8b/267c8b42-a609-3957-214c-07fdd346ec19/AppIcon-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/0d/56/b80d56eb-fbeb-ad6c-4c49-f99f7696cb2c/AppIcon-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg
 ---
-SolarWatch (com.fifteenjugglers.solarwatch) AppScan description of the content of the iOS application SolarWatch (com.fifteenjugglers.solarwatch). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application SolarWatch (com.fifteenjugglers.solarwatch). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# SolarWatch (com.fifteenjugglers.solarwatch)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/0d/56/b80d56eb-fbeb-ad6c-4c49-f99f7696cb2c/AppIcon-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+  
+# SolarWatch (com.fifteenjugglers.solarwatch
 
 **BundleId:** com.fifteenjugglers.solarwatch
-**App Version:** 1.31
+**App Version:** 1.32
 **App Name:** SolarWatch
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSLocationUsageDescription
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 28
 **Public keys:** 6
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -44,11 +52,10 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
-
 
 **Apple dylibs:**
 
@@ -82,5 +89,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

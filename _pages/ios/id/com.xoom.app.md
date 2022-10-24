@@ -3,34 +3,57 @@ title: "Xoom (com.xoom.app)"
 permalink: /apps/ios/com.xoom.app.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/64/e8/6c/64e86c9f-44d6-c69d-89c6-8a7aff5c61b8/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/88/80/cd/8880cd69-6c7c-0f1f-88d3-5f2167c97743/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/64/e8/6c/64e86c9f-44d6-c69d-89c6-8a7aff5c61b8/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/88/80/cd/8880cd69-6c7c-0f1f-88d3-5f2167c97743/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-Xoom (com.xoom.app) AppScan description of the content of the iOS application Xoom (com.xoom.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Xoom (com.xoom.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Xoom (com.xoom.app)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/88/80/cd/8880cd69-6c7c-0f1f-88d3-5f2167c97743/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Xoom (com.xoom.app
 
 **BundleId:** com.xoom.app
-**App Version:** 9.6.1
+**App Version:** 9.7
 **App Name:** Xoom
 
 
+## AppScore : 4.07 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSFaceIDUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 29
 **Public keys:** 6
 **Custom keys:** 17
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -41,16 +64,15 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 38
-- Tracking: 3 lib(s)
 - UI: 1 lib(s)
+- Tracking: 3 lib(s)
 - Tools: 14 lib(s)
 - Crash: 1 lib(s)
 - Network: 5 lib(s)
-
 
 **Apple dylibs:**
 
@@ -63,6 +85,7 @@ SwiftUI
 - AddressBook
 - AppTrackingTransparency
 - AudioToolbox
+- AuthenticationServices
 - CFNetwork
 - CoreData
 - CoreFoundation
@@ -96,5 +119,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

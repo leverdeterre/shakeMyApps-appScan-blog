@@ -3,40 +3,49 @@ title: "Apartment List (com.verticalbrands.apartmentlist)"
 permalink: /apps/ios/com.verticalbrands.apartmentlist.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ac/2a/3d/ac2a3da8-07c9-007a-11e6-985530a5dfdd/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ac/2a/3d/ac2a3da8-07c9-007a-11e6-985530a5dfdd/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Apartment List (com.verticalbrands.apartmentlist) AppScan description of the content of the iOS application Apartment List (com.verticalbrands.apartmentlist). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Apartment List (com.verticalbrands.apartmentlist). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Apartment List (com.verticalbrands.apartmentlist)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ac/2a/3d/ac2a3da8-07c9-007a-11e6-985530a5dfdd/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Apartment List (com.verticalbrands.apartmentlist
 
 **BundleId:** com.verticalbrands.apartmentlist
 **App Version:** 6.15.1
 **App Name:** Apartment List
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 32
 **Public keys:** 8
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -45,16 +54,15 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 45
-- Storage: 1 lib(s)
-- Tools: 21 lib(s)
 - UI: 6 lib(s)
+- Tools: 21 lib(s)
 - Network: 3 lib(s)
+- Storage: 1 lib(s)
 - Tracking: 5 lib(s)
-
 
 **Apple dylibs:**
 
@@ -92,5 +100,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,37 +3,57 @@ title: "Worklife (com.yoopies.worklife.ios)"
 permalink: /apps/ios/com.yoopies.worklife.ios.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/43/4b/ec434b78-276f-8d2f-0679-143a939af952/AppIcon-Prod-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/64/c4/5664c45d-7a8e-2a1f-3334-d8423e175082/AppIcon-Prod-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/43/4b/ec434b78-276f-8d2f-0679-143a939af952/AppIcon-Prod-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/64/c4/5664c45d-7a8e-2a1f-3334-d8423e175082/AppIcon-Prod-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Worklife (com.yoopies.worklife.ios) AppScan description of the content of the iOS application Worklife (com.yoopies.worklife.ios). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Worklife (com.yoopies.worklife.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Worklife (com.yoopies.worklife.ios)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/64/c4/5664c45d-7a8e-2a1f-3334-d8423e175082/AppIcon-Prod-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Worklife (com.yoopies.worklife.ios
 
 **BundleId:** com.yoopies.worklife.ios
 **App Version:** 1.4.7
 **App Name:** Worklife
 
 
+## AppScore : 4.73 (⭐️⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSUserTrackingUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 32
 **Public keys:** 4
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -44,18 +64,17 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 92
-- Tools: 30 lib(s)
-- Storage: 1 lib(s)
-- Network: 5 lib(s)
-- UI: 4 lib(s)
-- Crash: 1 lib(s)
-- Logs: 1 lib(s)
 - Tracking: 8 lib(s)
-
+- Logs: 1 lib(s)
+- Storage: 1 lib(s)
+- UI: 4 lib(s)
+- Network: 5 lib(s)
+- Tools: 30 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -91,5 +110,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

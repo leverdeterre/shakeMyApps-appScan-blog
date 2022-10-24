@@ -3,44 +3,43 @@ title: "MyCutcoRep (com.vectormarketing.myCutcoRepApplication)"
 permalink: /apps/ios/com.vectormarketing.myCutcoRepApplication.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/b6/58/5ab658a4-32c5-6ab9-59ca-21fcbd85c16f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/b6/58/5ab658a4-32c5-6ab9-59ca-21fcbd85c16f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-MyCutcoRep (com.vectormarketing.myCutcoRepApplication) AppScan description of the content of the iOS application MyCutcoRep (com.vectormarketing.myCutcoRepApplication). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application MyCutcoRep (com.vectormarketing.myCutcoRepApplication). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# MyCutcoRep (com.vectormarketing.myCutcoRepApplication)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/5a/b6/58/5ab658a4-32c5-6ab9-59ca-21fcbd85c16f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# MyCutcoRep (com.vectormarketing.myCutcoRepApplication
 
 **BundleId:** com.vectormarketing.myCutcoRepApplication
 **App Version:** 7.0.0
 **App Name:** MyCutcoRep
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSRemindersUsageDescription
-- NSMotionUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSContactsUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCalendarsUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 13
 **Private keys:** 28
 **Public keys:** 4
 **Custom keys:** 19
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -50,11 +49,10 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-
 
 **Apple dylibs:**
 - libswiftCore
@@ -92,5 +90,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,32 +3,35 @@ title: "SketchUp草图大师 (com.sketch.sumodel)"
 permalink: /apps/ios/com.sketch.sumodel.html
 layout: single
 author_profile: false
----
-SketchUp草图大师 (com.sketch.sumodel) AppScan description of the content of the iOS application SketchUp草图大师 (com.sketch.sumodel). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# SketchUp草图大师 (com.sketch.sumodel)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application SketchUp草图大师 (com.sketch.sumodel). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# SketchUp草图大师 (com.sketch.sumodel
 
 **BundleId:** com.sketch.sumodel
 **App Version:** 1.1
 **App Name:** SketchUp草图大师
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 28
 **Public keys:** 4
 **Custom keys:** 9
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -38,15 +41,14 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 18
 - UI: 4 lib(s)
 - Storage: 1 lib(s)
-- Network: 3 lib(s)
 - Tools: 1 lib(s)
-
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -83,5 +85,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

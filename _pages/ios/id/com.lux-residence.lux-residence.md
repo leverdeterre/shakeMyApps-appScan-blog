@@ -3,28 +3,35 @@ title: "Lux-Residence (com.lux-residence.lux-residence)"
 permalink: /apps/ios/com.lux-residence.lux-residence.html
 layout: single
 author_profile: false
----
-Lux-Residence (com.lux-residence.lux-residence) AppScan description of the content of the iOS application Lux-Residence (com.lux-residence.lux-residence). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Lux-Residence (com.lux-residence.lux-residence)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Lux-Residence (com.lux-residence.lux-residence). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Lux-Residence (com.lux-residence.lux-residence
 
 **BundleId:** com.lux-residence.lux-residence
 **App Version:** 3.2.1
 **App Name:** Lux-Residence
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 30
 **Public keys:** 4
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -33,11 +40,10 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -58,5 +64,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

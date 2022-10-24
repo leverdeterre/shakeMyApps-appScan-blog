@@ -3,63 +3,64 @@ title: "Airyclub (com.airyclub.ios)"
 permalink: /apps/ios/com.airyclub.ios.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/6a/6b/29/6a6b29bb-2d9e-bfc5-1915-fa40763738e2/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/6a/6b/29/6a6b29bb-2d9e-bfc5-1915-fa40763738e2/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Airyclub (com.airyclub.ios) AppScan description of the content of the iOS application Airyclub (com.airyclub.ios). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Airyclub (com.airyclub.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Airyclub (com.airyclub.ios)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/6a/6b/29/6a6b29bb-2d9e-bfc5-1915-fa40763738e2/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Airyclub (com.airyclub.ios
 
 **BundleId:** com.airyclub.ios
 **App Version:** 3.15.0
 **App Name:** Airyclub
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSMotionUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 31
 **Public keys:** 6
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 contains 1 App extensions
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 86
-- Network: 2 lib(s)
 - Tracking: 4 lib(s)
-- UI: 2 lib(s)
-- Crash: 1 lib(s)
-- Storage: 1 lib(s)
+- Network: 2 lib(s)
 - Tools: 29 lib(s)
+- Crash: 1 lib(s)
 - Logs: 1 lib(s)
-
+- UI: 2 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -124,5 +125,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

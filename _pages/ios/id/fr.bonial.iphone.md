@@ -3,44 +3,48 @@ title: "Bonial (fr.bonial.iphone)"
 permalink: /apps/ios/fr.bonial.iphone.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/8c/17/70/8c177041-e0b0-1197-c1de-6e95f5cd491a/AppIcon.app.bonial-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/8c/17/70/8c177041-e0b0-1197-c1de-6e95f5cd491a/AppIcon.app.bonial-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-Bonial (fr.bonial.iphone) AppScan description of the content of the iOS application Bonial (fr.bonial.iphone). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Bonial (fr.bonial.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Bonial (fr.bonial.iphone)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/8c/17/70/8c177041-e0b0-1197-c1de-6e95f5cd491a/AppIcon.app.bonial-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Bonial (fr.bonial.iphone
 
 **BundleId:** fr.bonial.iphone
 **App Version:** 22.19.0
 **App Name:** Bonial
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 34
 **Public keys:** 9
 **Custom keys:** 27
 **Low securit keys:** 4
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -50,14 +54,13 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
-- Tools: 12 lib(s)
 - Tracking: 3 lib(s)
+- Tools: 12 lib(s)
 - Crash: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -109,5 +112,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

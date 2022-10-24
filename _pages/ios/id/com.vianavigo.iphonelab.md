@@ -3,49 +3,48 @@ title: " (com.vianavigo.iphonelab)"
 permalink: /apps/ios/com.vianavigo.iphonelab.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/fb/d1/dffbd10b-d96c-b81c-2462-abe6e588a68f/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/fb/d1/dffbd10b-d96c-b81c-2462-abe6e588a68f/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
- (com.vianavigo.iphonelab) AppScan description of the content of the iOS application  (com.vianavigo.iphonelab). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application  (com.vianavigo.iphonelab). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-#  (com.vianavigo.iphonelab)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/df/fb/d1/dffbd10b-d96c-b81c-2462-abe6e588a68f/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+#  (com.vianavigo.iphonelab
 
 **BundleId:** com.vianavigo.iphonelab
 **App Version:** 5.85.0
 **App Name:** 
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSCameraUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationTemporaryUsageDescriptionDictionary
-- NSLocationUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSMotionUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 13
 **Private keys:** 30
 **Public keys:** 9
 **Custom keys:** 18
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Google Login detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -54,17 +53,16 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 68
 - UI: 2 lib(s)
-- Tracking: 3 lib(s)
-- Crash: 1 lib(s)
 - Tools: 28 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 3 lib(s)
 - Storage: 1 lib(s)
 - Network: 1 lib(s)
-
 
 **Apple dylibs:**
 - libswiftos
@@ -154,5 +152,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

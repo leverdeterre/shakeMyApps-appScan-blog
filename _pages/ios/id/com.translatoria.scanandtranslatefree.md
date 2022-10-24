@@ -3,43 +3,48 @@ title: "Scan&Translate (com.translatoria.scanandtranslatefree)"
 permalink: /apps/ios/com.translatoria.scanandtranslatefree.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/14/dc/cf/14dccf30-5e02-e6e6-e45c-0b6b912c4fa8/farhadsdesign-1-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/14/dc/cf/14dccf30-5e02-e6e6-e45c-0b6b912c4fa8/farhadsdesign-1-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-Scan&Translate (com.translatoria.scanandtranslatefree) AppScan description of the content of the iOS application Scan&Translate (com.translatoria.scanandtranslatefree). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Scan&Translate (com.translatoria.scanandtranslatefree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Scan&Translate (com.translatoria.scanandtranslatefree)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/14/dc/cf/14dccf30-5e02-e6e6-e45c-0b6b912c4fa8/farhadsdesign-1-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Scan&Translate (com.translatoria.scanandtranslatefree
 
 **BundleId:** com.translatoria.scanandtranslatefree
 **App Version:** 6.5.12
 **App Name:** Scan&Translate
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-- NSSpeechRecognitionUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 29
 **Public keys:** 7
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -48,13 +53,12 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
 - Tracking: 2 lib(s)
 - Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -114,5 +118,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

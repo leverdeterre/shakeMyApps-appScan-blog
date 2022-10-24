@@ -3,48 +3,50 @@ title: "BIGVU (tv.bigvu.reporter)"
 permalink: /apps/ios/tv.bigvu.reporter.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/86/b8/5686b83d-39b7-a170-50b1-c4dc39c2afae/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/86/b8/5686b83d-39b7-a170-50b1-c4dc39c2afae/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-BIGVU (tv.bigvu.reporter) AppScan description of the content of the iOS application BIGVU (tv.bigvu.reporter). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application BIGVU (tv.bigvu.reporter). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# BIGVU (tv.bigvu.reporter)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/86/b8/5686b83d-39b7-a170-50b1-c4dc39c2afae/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# BIGVU (tv.bigvu.reporter
 
 **BundleId:** tv.bigvu.reporter
 **App Version:** 2.4.12
 **App Name:** BIGVU
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSMicrophoneUsageDescription
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSCameraUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 35
 **Public keys:** 7
 **Custom keys:** 47
 **Low securit keys:** 6
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 11
-Twitter Login detected
-Facebook Login detected
-Google Login detected
+AppleSignIn detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -52,16 +54,15 @@ contains 1 App extensions
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 63
-- Tracking: 7 lib(s)
-- UI: 6 lib(s)
 - Network: 6 lib(s)
 - Crash: 1 lib(s)
 - Tools: 24 lib(s)
-
+- UI: 6 lib(s)
+- Tracking: 7 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -141,5 +142,5 @@ at least 3 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

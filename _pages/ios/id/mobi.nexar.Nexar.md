@@ -3,49 +3,48 @@ title: "Nexar (mobi.nexar.Nexar)"
 permalink: /apps/ios/mobi.nexar.Nexar.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/29/64/ed/2964edad-4fcd-18d9-8d4c-c0d735787d18/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/29/64/ed/2964edad-4fcd-18d9-8d4c-c0d735787d18/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-0-85-220-0.png/512x512bb.jpg
 ---
-Nexar (mobi.nexar.Nexar) AppScan description of the content of the iOS application Nexar (mobi.nexar.Nexar). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Nexar (mobi.nexar.Nexar). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Nexar (mobi.nexar.Nexar)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/29/64/ed/2964edad-4fcd-18d9-8d4c-c0d735787d18/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Nexar (mobi.nexar.Nexar
 
 **BundleId:** mobi.nexar.Nexar
 **App Version:** 6.0.11
 **App Name:** Nexar
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSMotionUsageDescription
-- NSMicrophoneUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocalNetworkUsageDescription
-- NSContactsUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 13
 **Private keys:** 31
 **Public keys:** 9
 **Custom keys:** 23
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 8
-Facebook Login detected
+FacebookLogin detected
 Native App
 build using Xcode 13
 contains 3 App extensions
@@ -54,18 +53,17 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 79
-- UI: 5 lib(s)
-- Crash: 1 lib(s)
 - Storage: 1 lib(s)
+- Logs: 1 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 3 lib(s)
 - Tools: 24 lib(s)
 - Network: 3 lib(s)
-- Logs: 1 lib(s)
-
+- UI: 5 lib(s)
 
 **Apple dylibs:**
 
@@ -117,5 +115,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

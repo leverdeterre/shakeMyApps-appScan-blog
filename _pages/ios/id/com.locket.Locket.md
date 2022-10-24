@@ -3,41 +3,48 @@ title: "Locket (com.locket.Locket)"
 permalink: /apps/ios/com.locket.Locket.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/9e/a9/4d9ea993-755d-0e70-9054-c42c74d79521/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/79/27/49/79274940-dc21-28cf-6428-7760995b6c93/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/9e/a9/4d9ea993-755d-0e70-9054-c42c74d79521/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/79/27/49/79274940-dc21-28cf-6428-7760995b6c93/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 ---
-Locket (com.locket.Locket) AppScan description of the content of the iOS application Locket (com.locket.Locket). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Locket (com.locket.Locket). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Locket (com.locket.Locket)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/79/27/49/79274940-dc21-28cf-6428-7760995b6c93/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Locket (com.locket.Locket
 
 **BundleId:** com.locket.Locket
-**App Version:** 1.9.1
+**App Version:** 1.9.3
 **App Name:** Locket
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSContactsUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 30
 **Public keys:** 7
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 8
-Google Login detected
+GoogleLogin detected
 Native App
 build using Xcode 13
 contains 4 App extensions
@@ -46,12 +53,11 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
 - Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -96,5 +102,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

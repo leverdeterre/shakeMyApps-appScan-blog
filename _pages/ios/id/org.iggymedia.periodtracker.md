@@ -3,39 +3,43 @@ title: "Flo (org.iggymedia.periodtracker)"
 permalink: /apps/ios/org.iggymedia.periodtracker.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5b/00/63/5b0063d9-92c7-1f16-cc98-7f89c25ceba8/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5b/00/63/5b0063d9-92c7-1f16-cc98-7f89c25ceba8/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-Flo (org.iggymedia.periodtracker) AppScan description of the content of the iOS application Flo (org.iggymedia.periodtracker). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Flo (org.iggymedia.periodtracker). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Flo (org.iggymedia.periodtracker)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5b/00/63/5b0063d9-92c7-1f16-cc98-7f89c25ceba8/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Flo (org.iggymedia.periodtracker
 
 **BundleId:** org.iggymedia.periodtracker
 **App Version:** 9.8.0
 **App Name:** Flo
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSHealthUpdateUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSUserTrackingUsageDescription
-- NSMotionUsageDescription
-- NSFaceIDUsageDescription
-- NSHealthShareUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 28
 **Public keys:** 7
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -48,12 +52,11 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
 - Storage: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -98,5 +101,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

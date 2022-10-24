@@ -3,48 +3,51 @@ title: "Inspiration (com.inspiration.inspirationlite)"
 permalink: /apps/ios/com.inspiration.inspirationlite.html
 layout: single
 author_profile: false
----
-Inspiration (com.inspiration.inspirationlite) AppScan description of the content of the iOS application Inspiration (com.inspiration.inspirationlite). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Inspiration (com.inspiration.inspirationlite)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Inspiration (com.inspiration.inspirationlite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Inspiration (com.inspiration.inspirationlite
 
 **BundleId:** com.inspiration.inspirationlite
 **App Version:** 3.1
 **App Name:** Inspiration
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 30
 **Public keys:** 10
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 8
-Google Login detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
 - Tools: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -71,5 +74,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

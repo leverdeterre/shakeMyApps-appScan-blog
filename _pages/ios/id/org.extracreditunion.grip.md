@@ -3,39 +3,43 @@ title: "Extra CU Mobile App (org.extracreditunion.grip)"
 permalink: /apps/ios/org.extracreditunion.grip.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/6c/e9/ab6ce9fa-b49e-b814-c717-c4a7d9a88efc/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/6c/e9/ab6ce9fa-b49e-b814-c717-c4a7d9a88efc/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-Extra CU Mobile App (org.extracreditunion.grip) AppScan description of the content of the iOS application Extra CU Mobile App (org.extracreditunion.grip). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Extra CU Mobile App (org.extracreditunion.grip). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Extra CU Mobile App (org.extracreditunion.grip)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/6c/e9/ab6ce9fa-b49e-b814-c717-c4a7d9a88efc/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Extra CU Mobile App (org.extracreditunion.grip
 
 **BundleId:** org.extracreditunion.grip
 **App Version:** 2.44.0
 **App Name:** Extra CU Mobile App
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSFaceIDUsageDescription
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -47,13 +51,12 @@ contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- Tools: 1 lib(s)
 - Logs: 2 lib(s)
-
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -91,5 +94,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,38 +3,43 @@ title: "Auvio (be.rtbf.auvio)"
 permalink: /apps/ios/be.rtbf.auvio.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/92/58/8f/92588fde-d247-7efa-43e6-1ad5f4c8e502/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/92/58/8f/92588fde-d247-7efa-43e6-1ad5f4c8e502/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Auvio (be.rtbf.auvio) AppScan description of the content of the iOS application Auvio (be.rtbf.auvio). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Auvio (be.rtbf.auvio). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Auvio (be.rtbf.auvio)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/92/58/8f/92588fde-d247-7efa-43e6-1ad5f4c8e502/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Auvio (be.rtbf.auvio
 
 **BundleId:** be.rtbf.auvio
 **App Version:** 2.7
 **App Name:** Auvio
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSMicrophoneUsageDescription
-- NSCameraUsageDescription
-- NSLocalNetworkUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 31
 **Public keys:** 8
 **Custom keys:** 10
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -47,13 +52,12 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
-- Tracking: 1 lib(s)
 - Tools: 2 lib(s)
-
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -112,5 +116,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

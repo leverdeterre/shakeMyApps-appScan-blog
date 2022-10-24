@@ -3,38 +3,57 @@ title: "SC-Form (com.scform.mscform)"
 permalink: /apps/ios/com.scform.mscform.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/84/d2/66/84d2667c-ba4c-baf5-7c55-68fe967863fc/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/7c/39/e1/7c39e1b7-d076-efab-2842-b7e3cbe4dee1/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/84/d2/66/84d2667c-ba4c-baf5-7c55-68fe967863fc/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/7c/39/e1/7c39e1b7-d076-efab-2842-b7e3cbe4dee1/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg
 ---
-SC-Form (com.scform.mscform) AppScan description of the content of the iOS application SC-Form (com.scform.mscform). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application SC-Form (com.scform.mscform). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# SC-Form (com.scform.mscform)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/7c/39/e1/7c39e1b7-d076-efab-2842-b7e3cbe4dee1/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# SC-Form (com.scform.mscform
 
 **BundleId:** com.scform.mscform
 **App Version:** 1.1.5
 **App Name:** SC-Form
 
 
+## AppScore : 4.58 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSAppleMusicUsageDescription
-- NSSiriUsageDescription
-- NSContactsUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSMicrophoneUsageDescription
-- NSCalendarsUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 27
 **Public keys:** 3
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -42,11 +61,10 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
-
 
 **Apple dylibs:**
 
@@ -55,5 +73,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

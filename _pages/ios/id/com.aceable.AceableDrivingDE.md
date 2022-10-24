@@ -3,51 +3,72 @@ title: "Aceable DE (com.aceable.AceableDrivingDE)"
 permalink: /apps/ios/com.aceable.AceableDrivingDE.html
 layout: single
 author_profile: false
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/c0/5e/c6c05ee8-d3bf-dc22-0c21-daecff9a60a7/DEAppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/83/af/7f/83af7f26-d6ab-8d65-e1b1-8ac852b3a86a/DEAppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/c0/5e/c6c05ee8-d3bf-dc22-0c21-daecff9a60a7/DEAppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/83/af/7f/83af7f26-d6ab-8d65-e1b1-8ac852b3a86a/DEAppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-Aceable DE (com.aceable.AceableDrivingDE) AppScan description of the content of the iOS application Aceable DE (com.aceable.AceableDrivingDE). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Aceable DE (com.aceable.AceableDrivingDE). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Aceable DE (com.aceable.AceableDrivingDE)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/83/af/7f/83af7f26-d6ab-8d65-e1b1-8ac852b3a86a/DEAppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Aceable DE (com.aceable.AceableDrivingDE
 
 **BundleId:** com.aceable.AceableDrivingDE
 **App Version:** 3.2
 **App Name:** Aceable DE
 
 
+## AppScore : 4.39 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSFaceIDUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 34
 **Public keys:** 7
 **Custom keys:** 28
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 7
 - Tools: 7 lib(s)
-
 
 **Apple dylibs:**
 
@@ -98,5 +119,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,38 +3,48 @@ title: "Readly (com.readly.Readly)"
 permalink: /apps/ios/com.readly.Readly.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/81/1e/18/811e186e-9fe9-cb9b-51c5-b51d1a8f1f8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/67/ad/e6/67ade652-387c-6b58-6c9f-d73e375ae758/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/81/1e/18/811e186e-9fe9-cb9b-51c5-b51d1a8f1f8a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/67/ad/e6/67ade652-387c-6b58-6c9f-d73e375ae758/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Readly (com.readly.Readly) AppScan description of the content of the iOS application Readly (com.readly.Readly). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Readly (com.readly.Readly). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Readly (com.readly.Readly)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/67/ad/e6/67ade652-387c-6b58-6c9f-d73e375ae758/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Readly (com.readly.Readly
 
 **BundleId:** com.readly.Readly
-**App Version:** 6.3.1
+**App Version:** 6.4.1
 **App Name:** Readly
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 31
 **Public keys:** 10
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -43,32 +53,12 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
 
-
 **Apple dylibs:**
-- libswiftAVFoundation
-- libswiftCore
-- libswiftCoreAudio
-- libswiftCoreData
-- libswiftCoreFoundation
-- libswiftCoreGraphics
-- libswiftCoreImage
-- libswiftCoreLocation
-- libswiftCoreMedia
-- libswiftDarwin
-- libswiftDispatch
-- libswiftFoundation
-- libswiftMediaPlayer
-- libswiftMetal
-- libswiftObjectiveC
-- libswiftQuartzCore
-- libswiftUIKit
-- libswiftos
-- libswiftsimd
 
 
 **Apple System Library Frameworks:**
@@ -94,14 +84,14 @@ Some userActivityTypes
 - CoreFoundation
 - CoreImage
 - CoreMedia
+- CoreServices
 - CoreSpotlight
 - MediaPlayer
 - MessageUI
 - MetricKit
-- MobileCoreServices
 - Social
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

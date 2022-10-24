@@ -3,45 +3,62 @@ title: "Glo (com.yogaglo.main)"
 permalink: /apps/ios/com.yogaglo.main.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/0b/4b/cc0b4b3c-bed4-34d5-18f8-9bf462b20ee2/AppIcon-black-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/c3/08/9ac308e5-af03-7d02-f2fe-1ce7da70a4bb/AppIcon-black-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/0b/4b/cc0b4b3c-bed4-34d5-18f8-9bf462b20ee2/AppIcon-black-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/c3/08/9ac308e5-af03-7d02-f2fe-1ce7da70a4bb/AppIcon-black-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Glo (com.yogaglo.main) AppScan description of the content of the iOS application Glo (com.yogaglo.main). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Glo (com.yogaglo.main). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Glo (com.yogaglo.main)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/c3/08/9ac308e5-af03-7d02-f2fe-1ce7da70a4bb/AppIcon-black-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Glo (com.yogaglo.main
 
 **BundleId:** com.yogaglo.main
 **App Version:** 7.1.0
 **App Name:** Glo
 
 
+## AppScore : 4.39 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocalNetworkUsageDescription
-- NSMicrophoneUsageDescription
-- NSHealthUpdateUsageDescription
-- NSUserTrackingUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSHealthShareUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 32
 **Public keys:** 8
 **Custom keys:** 15
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 9
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -50,12 +67,11 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
 - Tools: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -105,5 +121,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

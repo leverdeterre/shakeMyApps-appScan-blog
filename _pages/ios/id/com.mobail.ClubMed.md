@@ -3,37 +3,43 @@ title: "My Club Med (com.mobail.ClubMed)"
 permalink: /apps/ios/com.mobail.ClubMed.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/be/e9/e2/bee9e2cc-1776-61d5-bb55-5bfcda534b51/AppIcon-store-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/be/e9/e2/bee9e2cc-1776-61d5-bb55-5bfcda534b51/AppIcon-store-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-My Club Med (com.mobail.ClubMed) AppScan description of the content of the iOS application My Club Med (com.mobail.ClubMed). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application My Club Med (com.mobail.ClubMed). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# My Club Med (com.mobail.ClubMed)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/be/e9/e2/bee9e2cc-1776-61d5-bb55-5bfcda534b51/AppIcon-store-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# My Club Med (com.mobail.ClubMed
 
 **BundleId:** com.mobail.ClubMed
 **App Version:** 6.0.0
 **App Name:** My Club Med
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationUsageDescription
-- NSUserTrackingUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 30
 **Public keys:** 7
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -43,17 +49,16 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
-- Logs: 3 lib(s)
-- Tracking: 2 lib(s)
 - Crash: 1 lib(s)
 - UI: 4 lib(s)
 - Tools: 12 lib(s)
 - Network: 3 lib(s)
-
+- Logs: 3 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -111,5 +116,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

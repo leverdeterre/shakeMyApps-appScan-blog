@@ -3,48 +3,69 @@ title: "Wallpapers Now (com.reappsllc.TinyWorlds)"
 permalink: /apps/ios/com.reappsllc.TinyWorlds.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/81/6c/e4816cb3-6fcd-d206-d339-fb5d3b3bccc9/AppIcon-2-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/31/d0/c8/31d0c8ad-f978-f132-7632-ae83e32c522b/AppIcon-2-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/81/6c/e4816cb3-6fcd-d206-d339-fb5d3b3bccc9/AppIcon-2-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/31/d0/c8/31d0c8ad-f978-f132-7632-ae83e32c522b/AppIcon-2-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 ---
-Wallpapers Now (com.reappsllc.TinyWorlds) AppScan description of the content of the iOS application Wallpapers Now (com.reappsllc.TinyWorlds). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Wallpapers Now (com.reappsllc.TinyWorlds). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Wallpapers Now (com.reappsllc.TinyWorlds)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/31/d0/c8/31d0c8ad-f978-f132-7632-ae83e32c522b/AppIcon-2-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Wallpapers Now (com.reappsllc.TinyWorlds
 
 **BundleId:** com.reappsllc.TinyWorlds
 **App Version:** 1.2.7
 **App Name:** Wallpapers Now
 
 
+## AppScore : 4.43 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 28
 **Public keys:** 4
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 6
 - Tools: 4 lib(s)
 - Network: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -78,5 +99,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

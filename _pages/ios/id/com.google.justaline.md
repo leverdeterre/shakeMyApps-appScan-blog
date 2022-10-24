@@ -3,31 +3,35 @@ title: "Just a Line (com.google.justaline)"
 permalink: /apps/ios/com.google.justaline.html
 layout: single
 author_profile: false
----
-Just a Line (com.google.justaline) AppScan description of the content of the iOS application Just a Line (com.google.justaline). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Just a Line (com.google.justaline)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Just a Line (com.google.justaline). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Just a Line (com.google.justaline
 
 **BundleId:** com.google.justaline
 **App Version:** 1.2.2
 **App Name:** Just a Line
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 31
 **Public keys:** 4
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -36,15 +40,14 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 12
+- UI: 1 lib(s)
+- Tools: 4 lib(s)
 - Storage: 1 lib(s)
 - Network: 2 lib(s)
-- Tools: 4 lib(s)
-- UI: 1 lib(s)
-
 
 **Apple dylibs:**
 - libswiftARKit
@@ -101,5 +104,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,30 +3,35 @@ title: "NotableWomen (com.google.notablewomen)"
 permalink: /apps/ios/com.google.notablewomen.html
 layout: single
 author_profile: false
----
-NotableWomen (com.google.notablewomen) AppScan description of the content of the iOS application NotableWomen (com.google.notablewomen). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# NotableWomen (com.google.notablewomen)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application NotableWomen (com.google.notablewomen). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# NotableWomen (com.google.notablewomen
 
 **BundleId:** com.google.notablewomen
 **App Version:** 1.0.27
 **App Name:** NotableWomen
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 31
 **Public keys:** 6
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -34,12 +39,11 @@ Number of entitlements detected: 2
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
 - Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -75,5 +79,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

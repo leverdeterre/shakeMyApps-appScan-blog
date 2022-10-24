@@ -3,44 +3,48 @@ title: "AutoCAD (com.autodesk.autocadws)"
 permalink: /apps/ios/com.autodesk.autocadws.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/82/62/85/826285b9-737f-c65a-3525-3e18e891659e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/82/62/85/826285b9-737f-c65a-3525-3e18e891659e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AutoCAD (com.autodesk.autocadws) AppScan description of the content of the iOS application AutoCAD (com.autodesk.autocadws). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application AutoCAD (com.autodesk.autocadws). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# AutoCAD (com.autodesk.autocadws)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/82/62/85/826285b9-737f-c65a-3525-3e18e891659e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# AutoCAD (com.autodesk.autocadws
 
 **BundleId:** com.autodesk.autocadws
 **App Version:** 6.2.1
 **App Name:** AutoCAD
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSCameraUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-- NSBluetoothAlwaysUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 34
 **Public keys:** 8
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 11
-Google Login detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -50,17 +54,16 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 55
-- Tracking: 2 lib(s)
-- Crash: 1 lib(s)
 - Tools: 11 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 2 lib(s)
 - Network: 2 lib(s)
-- UI: 2 lib(s)
 - Logs: 1 lib(s)
-
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -98,5 +101,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,32 +3,43 @@ title: "Soosee (com.goodsnooze.allergy)"
 permalink: /apps/ios/com.goodsnooze.allergy.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4b/d9/0b/4bd90ba5-ad95-0f18-9b1d-41f939551fb6/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4b/d9/0b/4bd90ba5-ad95-0f18-9b1d-41f939551fb6/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg
 ---
-Soosee (com.goodsnooze.allergy) AppScan description of the content of the iOS application Soosee (com.goodsnooze.allergy). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Soosee (com.goodsnooze.allergy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Soosee (com.goodsnooze.allergy)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4b/d9/0b/4bd90ba5-ad95-0f18-9b1d-41f939551fb6/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Soosee (com.goodsnooze.allergy
 
 **BundleId:** com.goodsnooze.allergy
 **App Version:** 2021.16
 **App Name:** Soosee
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 27
 **Public keys:** 4
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -41,11 +52,10 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -72,5 +82,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

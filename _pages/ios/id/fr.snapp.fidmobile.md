@@ -3,65 +3,60 @@ title: "fidme (fr.snapp.fidmobile)"
 permalink: /apps/ios/fr.snapp.fidmobile.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/22/ef/a222ef17-1b85-b945-77e5-97eb2e18be8d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/22/ef/a222ef17-1b85-b945-77e5-97eb2e18be8d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-fidme (fr.snapp.fidmobile) AppScan description of the content of the iOS application fidme (fr.snapp.fidmobile). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application fidme (fr.snapp.fidmobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# fidme (fr.snapp.fidmobile)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/22/ef/a222ef17-1b85-b945-77e5-97eb2e18be8d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# fidme (fr.snapp.fidmobile
 
 **BundleId:** fr.snapp.fidmobile
 **App Version:** 8.2.1
 **App Name:** fidme
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSContactsUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSFaceIDUsageDescription
-- NSUserTrackingUsageDescription
-- NSMicrophoneUsageDescription
-- NSMotionUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSAppleMusicUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 16
 **Private keys:** 29
 **Public keys:** 6
 **Custom keys:** 31
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 build using Xcode 13
 contains 3 App extensions
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
 - Tools: 3 lib(s)
 - Tracking: 2 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -131,5 +126,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

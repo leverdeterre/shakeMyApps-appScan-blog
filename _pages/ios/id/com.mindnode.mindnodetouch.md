@@ -3,31 +3,35 @@ title: "MindNode (com.mindnode.mindnodetouch)"
 permalink: /apps/ios/com.mindnode.mindnodetouch.html
 layout: single
 author_profile: false
----
-MindNode (com.mindnode.mindnodetouch) AppScan description of the content of the iOS application MindNode (com.mindnode.mindnodetouch). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# MindNode (com.mindnode.mindnodetouch)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application MindNode (com.mindnode.mindnodetouch). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# MindNode (com.mindnode.mindnodetouch
 
 **BundleId:** com.mindnode.mindnodetouch
 **App Version:** 4.5.8
 **App Name:** MindNode
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMotionUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSRemindersUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 34
 **Public keys:** 11
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -39,13 +43,12 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- Tools: 1 lib(s)
 - UI: 2 lib(s)
-
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -92,5 +95,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

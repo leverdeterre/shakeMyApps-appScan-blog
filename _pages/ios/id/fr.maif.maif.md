@@ -3,38 +3,43 @@ title: "MAIF (fr.maif.maif)"
 permalink: /apps/ios/fr.maif.maif.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/2e/4a/d42e4ac8-1409-ecd1-60b6-4bad7e10288a/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/2e/4a/d42e4ac8-1409-ecd1-60b6-4bad7e10288a/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-MAIF (fr.maif.maif) AppScan description of the content of the iOS application MAIF (fr.maif.maif). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application MAIF (fr.maif.maif). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# MAIF (fr.maif.maif)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/2e/4a/d42e4ac8-1409-ecd1-60b6-4bad7e10288a/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# MAIF (fr.maif.maif
 
 **BundleId:** fr.maif.maif
 **App Version:** 10.1.3
 **App Name:** MAIF
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSRemindersUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSFaceIDUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 28
 **Public keys:** 8
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -47,12 +52,11 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
 - Tracking: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -98,5 +102,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

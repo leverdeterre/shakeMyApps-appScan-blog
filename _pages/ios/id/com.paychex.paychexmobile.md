@@ -3,44 +3,43 @@ title: "Paychex (com.paychex.paychexmobile)"
 permalink: /apps/ios/com.paychex.paychexmobile.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9f/8c/1f/9f8c1f1b-5ca7-5fec-5985-fa614e0d545d/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9f/8c/1f/9f8c1f1b-5ca7-5fec-5985-fa614e0d545d/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220.png/512x512bb.jpg
 ---
-Paychex (com.paychex.paychexmobile) AppScan description of the content of the iOS application Paychex (com.paychex.paychexmobile). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Paychex (com.paychex.paychexmobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Paychex (com.paychex.paychexmobile)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9f/8c/1f/9f8c1f1b-5ca7-5fec-5985-fa614e0d545d/AppIcon-1x_U007emarketing-0-10-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Paychex (com.paychex.paychexmobile
 
 **BundleId:** com.paychex.paychexmobile
 **App Version:** 72700000000
 **App Name:** Paychex
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSContactsUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSMicrophoneUsageDescription
-- NSFaceIDUsageDescription
-- NSMotionUsageDescription
-- NSRemindersUsageDescription
-  
-  
+**Number of permissions:** 13
 **Private keys:** 30
 **Public keys:** 9
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -51,11 +50,10 @@ contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -98,5 +96,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,69 +3,67 @@ title: "Invoice2go (com.invoice2go.plus)"
 permalink: /apps/ios/com.invoice2go.plus.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/bf/b2/6f/bfb26f7e-194e-2e2b-ab14-9fa53d24fb5b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/48/6b/a7/486ba769-ce03-4335-4ae4-b8fe013c786f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/bf/b2/6f/bfb26f7e-194e-2e2b-ab14-9fa53d24fb5b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/48/6b/a7/486ba769-ce03-4335-4ae4-b8fe013c786f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Invoice2go (com.invoice2go.plus) AppScan description of the content of the iOS application Invoice2go (com.invoice2go.plus). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Invoice2go (com.invoice2go.plus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Invoice2go (com.invoice2go.plus)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/48/6b/a7/486ba769-ce03-4335-4ae4-b8fe013c786f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Invoice2go (com.invoice2go.plus
 
 **BundleId:** com.invoice2go.plus
-**App Version:** 11.64.4
+**App Version:** 11.68.1
 **App Name:** Invoice2go
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSFaceIDUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSContactsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSMicrophoneUsageDescription
-- NSCalendarsUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 12
 **Private keys:** 33
 **Public keys:** 8
-**Custom keys:** 18
+**Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
-build using Xcode 13
 contains 1 App extensions
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 38
-- UI: 4 lib(s)
-- Tools: 12 lib(s)
-- Network: 3 lib(s)
-- Tracking: 3 lib(s)
-- Logs: 2 lib(s)
+**Number of Third Party Library detected:** 36
 - Storage: 1 lib(s)
-
+- UI: 4 lib(s)
+- Tools: 11 lib(s)
+- Logs: 2 lib(s)
+- Network: 2 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -74,9 +72,7 @@ Some userActivityTypes
 - CFNetwork
 - CoreGraphics
 - CoreTelephony
-- CoreText
 - Foundation
-- ImageIO
 - JavaScriptCore
 - LocalAuthentication
 - QuartzCore
@@ -86,25 +82,26 @@ Some userActivityTypes
 - SystemConfiguration
 - UIKit
 - WebKit
-- Accounts
 - AdSupport
 - AuthenticationServices
-- Social
 - SwiftUI
-- UserNotifications
 - iAd
+- CoreImage
+- CoreText
+- UserNotifications
 - CoreLocation
 - MapKit
 - AVFoundation
+- Accelerate
 - Combine
 - Contacts
 - ContactsUI
 - CoreFoundation
-- CoreImage
 - CoreServices
 - CoreSpotlight
 - EventKit
 - EventKitUI
+- ImageIO
 - Intents
 - IntentsUI
 - MessageUI
@@ -115,5 +112,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

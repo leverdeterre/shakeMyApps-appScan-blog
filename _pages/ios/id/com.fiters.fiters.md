@@ -3,39 +3,35 @@ title: "Fiters (com.fiters.fiters)"
 permalink: /apps/ios/com.fiters.fiters.html
 layout: single
 author_profile: false
----
-Fiters (com.fiters.fiters) AppScan description of the content of the iOS application Fiters (com.fiters.fiters). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Fiters (com.fiters.fiters)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Fiters (com.fiters.fiters). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Fiters (com.fiters.fiters
 
 **BundleId:** com.fiters.fiters
 **App Version:** 2.0.2
 **App Name:** Fiters
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSCalendarsUsageDescription
-- NSContactsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSMicrophoneUsageDescription
-- NSRemindersUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSMotionUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 12
 **Private keys:** 32
 **Public keys:** 6
 **Custom keys:** 20
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -44,12 +40,11 @@ supported devices iPhone & iPad
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
 - Tools: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -83,5 +78,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

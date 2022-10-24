@@ -3,72 +3,73 @@ title: "VoiceMap (me.voicemap.ios)"
 permalink: /apps/ios/me.voicemap.ios.html
 layout: single
 author_profile: false
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/b4/81/a2b481bd-63de-fa3d-b78c-b62057af406c/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/e2/fc/18e2fcc8-78ce-3300-1cc6-f680c3dc44d3/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/b4/81/a2b481bd-63de-fa3d-b78c-b62057af406c/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/e2/fc/18e2fcc8-78ce-3300-1cc6-f680c3dc44d3/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-VoiceMap (me.voicemap.ios) AppScan description of the content of the iOS application VoiceMap (me.voicemap.ios). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application VoiceMap (me.voicemap.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# VoiceMap (me.voicemap.ios)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/e2/fc/18e2fcc8-78ce-3300-1cc6-f680c3dc44d3/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# VoiceMap (me.voicemap.ios
 
 **BundleId:** me.voicemap.ios
-**App Version:** 9.0.0
+**App Version:** 9.0.6
 **App Name:** VoiceMap
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSLocationTemporaryUsageDescriptionDictionary
-- NSMotionUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 31
 **Public keys:** 6
-**Custom keys:** 12
+**Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
+FacebookLogin detected
 Native App
-build using Xcode 13
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
+SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 29
-- Network: 2 lib(s)
-- Tracking: 3 lib(s)
+**Number of Third Party Library detected:** 30
 - UI: 6 lib(s)
 - Tools: 8 lib(s)
-
+- Network: 2 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftARKit
 - libswiftAVFoundation
 - libswiftCore
 - libswiftCoreAudio
-- libswiftCoreFoundation
 - libswiftCoreGraphics
 - libswiftCoreImage
 - libswiftCoreLocation
 - libswiftCoreMedia
 - libswiftDarwin
 - libswiftDispatch
-- libswiftFoundation
 - libswiftGLKit
 - libswiftMapKit
 - libswiftMetal
@@ -82,6 +83,7 @@ at least 1 entitlemented features (strong iOS integration)
 - libswiftVision
 - libswiftos
 - libswiftsimd
+- libswiftFoundation
 
 
 **Apple System Library Frameworks:**
@@ -107,12 +109,14 @@ at least 1 entitlemented features (strong iOS integration)
 - UIKit
 - iAd
 - ARKit
+- SwiftUI
 - AuthenticationServices
 - SafariServices
 - AddressBook
 - AssetsLibrary
 - CoreMotion
 - Social
+- AdServices
 - AVFoundation
 - Accounts
 - CFNetwork
@@ -124,5 +128,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

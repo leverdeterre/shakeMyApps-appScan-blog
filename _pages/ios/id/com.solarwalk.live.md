@@ -3,35 +3,43 @@ title: "HeyU (com.solarwalk.live)"
 permalink: /apps/ios/com.solarwalk.live.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/19/f3/a4/19f3a4c5-f8c3-12d1-6569-a72844f33b54/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/19/f3/a4/19f3a4c5-f8c3-12d1-6569-a72844f33b54/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-HeyU (com.solarwalk.live) AppScan description of the content of the iOS application HeyU (com.solarwalk.live). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application HeyU (com.solarwalk.live). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# HeyU (com.solarwalk.live)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/19/f3/a4/19f3a4c5-f8c3-12d1-6569-a72844f33b54/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# HeyU (com.solarwalk.live
 
 **BundleId:** com.solarwalk.live
 **App Version:** 1.0.5
 **App Name:** HeyU
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSMicrophoneUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 29
 **Public keys:** 5
 **Custom keys:** 7
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -41,15 +49,14 @@ build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
-- Network: 3 lib(s)
-- UI: 2 lib(s)
-- Tools: 14 lib(s)
 - Storage: 2 lib(s)
-
+- UI: 2 lib(s)
+- Network: 3 lib(s)
+- Tools: 14 lib(s)
 
 **Apple dylibs:**
 
@@ -95,5 +102,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

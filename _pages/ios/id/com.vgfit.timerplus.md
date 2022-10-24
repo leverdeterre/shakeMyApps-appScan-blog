@@ -3,35 +3,43 @@ title: "TimerPlus (com.vgfit.timerplus)"
 permalink: /apps/ios/com.vgfit.timerplus.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/92/1b/9b/921b9b62-4ab5-51ad-a4fb-57c66313a10e/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/92/1b/9b/921b9b62-4ab5-51ad-a4fb-57c66313a10e/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-TimerPlus (com.vgfit.timerplus) AppScan description of the content of the iOS application TimerPlus (com.vgfit.timerplus). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application TimerPlus (com.vgfit.timerplus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# TimerPlus (com.vgfit.timerplus)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/92/1b/9b/921b9b62-4ab5-51ad-a4fb-57c66313a10e/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# TimerPlus (com.vgfit.timerplus
 
 **BundleId:** com.vgfit.timerplus
 **App Version:** 1.3.1
 **App Name:** TimerPlus
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSHealthShareUsageDescription
-- NSHealthUpdateUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -40,11 +48,10 @@ supported devices iPhone & iPad
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -53,5 +60,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

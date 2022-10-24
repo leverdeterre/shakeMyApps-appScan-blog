@@ -3,47 +3,48 @@ title: "Telemundo Puerto Rico (com.nbcuni.telemundostations.puertorico)"
 permalink: /apps/ios/com.nbcuni.telemundostations.puertorico.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7d/e7/a2/7de7a21f-413a-87b3-77a2-56e856f26b8a/AppIcon-tlmd-pr-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7d/e7/a2/7de7a21f-413a-87b3-77a2-56e856f26b8a/AppIcon-tlmd-pr-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Telemundo Puerto Rico (com.nbcuni.telemundostations.puertorico) AppScan description of the content of the iOS application Telemundo Puerto Rico (com.nbcuni.telemundostations.puertorico). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Telemundo Puerto Rico (com.nbcuni.telemundostations.puertorico). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Telemundo Puerto Rico (com.nbcuni.telemundostations.puertorico)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7d/e7/a2/7de7a21f-413a-87b3-77a2-56e856f26b8a/AppIcon-tlmd-pr-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Telemundo Puerto Rico (com.nbcuni.telemundostations.puertorico
 
 **BundleId:** com.nbcuni.telemundostations.puertorico
 **App Version:** 7.5.1
 **App Name:** Telemundo Puerto Rico
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSCalendarsUsageDescription
-- NSUserTrackingUsageDescription
-- NSVideoSubscriberAccountUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 34
 **Public keys:** 8
 **Custom keys:** 27
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -51,17 +52,16 @@ contains 2 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 37
-- Tracking: 5 lib(s)
+- Logs: 1 lib(s)
+- Crash: 1 lib(s)
 - UI: 3 lib(s)
 - Network: 2 lib(s)
-- Crash: 1 lib(s)
-- Logs: 1 lib(s)
 - Tools: 10 lib(s)
-
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -122,5 +122,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

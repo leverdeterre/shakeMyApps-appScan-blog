@@ -3,45 +3,48 @@ title: "Boomerang (com.burbn.boomerang)"
 permalink: /apps/ios/com.burbn.boomerang.html
 layout: single
 author_profile: false
----
-Boomerang (com.burbn.boomerang) AppScan description of the content of the iOS application Boomerang (com.burbn.boomerang). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Boomerang (com.burbn.boomerang)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Boomerang (com.burbn.boomerang). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Boomerang (com.burbn.boomerang
 
 **BundleId:** com.burbn.boomerang
 **App Version:** 1.4.4
 **App Name:** Boomerang
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 33
 **Public keys:** 4
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -102,5 +105,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,47 +3,43 @@ title: "Shiftsmart (co.shiftsmart.workerapp)"
 permalink: /apps/ios/co.shiftsmart.workerapp.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/e2/78/c3e278ed-015d-98de-b2f1-d83b9a2a89a2/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/e2/78/c3e278ed-015d-98de-b2f1-d83b9a2a89a2/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Shiftsmart (co.shiftsmart.workerapp) AppScan description of the content of the iOS application Shiftsmart (co.shiftsmart.workerapp). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Shiftsmart (co.shiftsmart.workerapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Shiftsmart (co.shiftsmart.workerapp)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/e2/78/c3e278ed-015d-98de-b2f1-d83b9a2a89a2/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Shiftsmart (co.shiftsmart.workerapp
 
 **BundleId:** co.shiftsmart.workerapp
 **App Version:** 1.8.0
 **App Name:** Shiftsmart
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSSpeechRecognitionUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSContactsUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSAppleMusicUsageDescription
-- NSMicrophoneUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationTemporaryUsageDescriptionDictionary
-- NSMotionUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSSiriUsageDescription
-  
-  
+**Number of permissions:** 16
 **Private keys:** 27
 **Public keys:** 6
 **Custom keys:** 20
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -51,11 +47,10 @@ Number of entitlements detected: 4
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
-
 
 **Apple dylibs:**
 - libswiftCore
@@ -125,5 +120,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

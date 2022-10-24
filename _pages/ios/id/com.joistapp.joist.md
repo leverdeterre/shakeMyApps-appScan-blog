@@ -3,61 +3,64 @@ title: "Joist (com.joistapp.joist)"
 permalink: /apps/ios/com.joistapp.joist.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/00/fb/b8/00fbb8da-ce30-7bf6-5774-b91388464d1f/JoistAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/47/4a/a0474a9b-2cab-5155-4cf5-1527befca43a/JoistAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/00/fb/b8/00fbb8da-ce30-7bf6-5774-b91388464d1f/JoistAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/47/4a/a0474a9b-2cab-5155-4cf5-1527befca43a/JoistAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Joist (com.joistapp.joist) AppScan description of the content of the iOS application Joist (com.joistapp.joist). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Joist (com.joistapp.joist). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Joist (com.joistapp.joist)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/47/4a/a0474a9b-2cab-5155-4cf5-1527befca43a/JoistAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Joist (com.joistapp.joist
 
 **BundleId:** com.joistapp.joist
-**App Version:** 3.79.3
+**App Version:** 3.81.0
 **App Name:** Joist
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCalendarsUsageDescription
-- NSMicrophoneUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSContactsUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 31
 **Public keys:** 7
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 11
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 57
+- Crash: 1 lib(s)
 - Network: 3 lib(s)
+- UI: 2 lib(s)
+- Storage: 1 lib(s)
 - Logs: 1 lib(s)
 - Tools: 27 lib(s)
-- Storage: 1 lib(s)
 - Tracking: 7 lib(s)
-- UI: 2 lib(s)
-- Crash: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -99,5 +102,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

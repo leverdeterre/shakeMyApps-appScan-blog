@@ -3,27 +3,35 @@ title: "AdPuzzle (com.adblocker.adpuzzle)"
 permalink: /apps/ios/com.adblocker.adpuzzle.html
 layout: single
 author_profile: false
----
-AdPuzzle (com.adblocker.adpuzzle) AppScan description of the content of the iOS application AdPuzzle (com.adblocker.adpuzzle). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# AdPuzzle (com.adblocker.adpuzzle)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application AdPuzzle (com.adblocker.adpuzzle). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# AdPuzzle (com.adblocker.adpuzzle
 
 **BundleId:** com.adblocker.adpuzzle
 **App Version:** 1.0.4
 **App Name:** AdPuzzle
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 28
 **Public keys:** 3
 **Custom keys:** 4
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -35,16 +43,15 @@ contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- Network: 2 lib(s)
-- Storage: 1 lib(s)
-- Tools: 2 lib(s)
 - UI: 1 lib(s)
+- Network: 2 lib(s)
+- Tools: 2 lib(s)
+- Storage: 1 lib(s)
 - Tracking: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -71,5 +78,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,31 +3,43 @@ title: "Insee Mobile (fr.insee.app)"
 permalink: /apps/ios/fr.insee.app.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/7c/74/9c7c7485-c6f7-e309-e6f3-6fe23751a30c/AppIcon-1x_U007emarketing-0-5-0-P3-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/7c/74/9c7c7485-c6f7-e309-e6f3-6fe23751a30c/AppIcon-1x_U007emarketing-0-5-0-P3-85-220.png/512x512bb.jpg
 ---
-Insee Mobile (fr.insee.app) AppScan description of the content of the iOS application Insee Mobile (fr.insee.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Insee Mobile (fr.insee.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Insee Mobile (fr.insee.app)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/7c/74/9c7c7485-c6f7-e309-e6f3-6fe23751a30c/AppIcon-1x_U007emarketing-0-5-0-P3-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Insee Mobile (fr.insee.app
 
 **BundleId:** fr.insee.app
 **App Version:** 1.2.0
 **App Name:** Insee Mobile
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 29
 **Public keys:** 4
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -36,17 +48,16 @@ Native App
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 33
 - Tools: 17 lib(s)
 - Storage: 3 lib(s)
+- Tracking: 2 lib(s)
 - UI: 1 lib(s)
 - Network: 4 lib(s)
-- Tracking: 2 lib(s)
 - Crash: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -70,5 +81,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

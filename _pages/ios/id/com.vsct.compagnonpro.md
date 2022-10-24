@@ -3,40 +3,43 @@ title: "TGV INOUI PRO (com.vsct.compagnonpro)"
 permalink: /apps/ios/com.vsct.compagnonpro.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/6b/b5/856bb5f1-8e67-064d-32b8-948b59774d2f/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/6b/b5/856bb5f1-8e67-064d-32b8-948b59774d2f/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-TGV INOUI PRO (com.vsct.compagnonpro) AppScan description of the content of the iOS application TGV INOUI PRO (com.vsct.compagnonpro). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application TGV INOUI PRO (com.vsct.compagnonpro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# TGV INOUI PRO (com.vsct.compagnonpro)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/85/6b/b5/856bb5f1-8e67-064d-32b8-948b59774d2f/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# TGV INOUI PRO (com.vsct.compagnonpro
 
 **BundleId:** com.vsct.compagnonpro
 **App Version:** 18.0.0
 **App Name:** TGV INOUI PRO
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCalendarsUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocationUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 32
 **Public keys:** 5
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -46,17 +49,16 @@ build using Xcode 13
 contains 2 App extensions
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
-- Crash: 1 lib(s)
-- Network: 2 lib(s)
-- Storage: 1 lib(s)
 - Logs: 1 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 2 lib(s)
 - Tools: 10 lib(s)
-
+- Network: 2 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -96,5 +98,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

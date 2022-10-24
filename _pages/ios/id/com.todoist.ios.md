@@ -3,38 +3,43 @@ title: "Todoist (com.todoist.ios)"
 permalink: /apps/ios/com.todoist.ios.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/80/cb/56/80cb56c7-b232-fe52-3dfb-075a85339b50/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/80/cb/56/80cb56c7-b232-fe52-3dfb-075a85339b50/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Todoist (com.todoist.ios) AppScan description of the content of the iOS application Todoist (com.todoist.ios). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Todoist (com.todoist.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Todoist (com.todoist.ios)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/80/cb/56/80cb56c7-b232-fe52-3dfb-075a85339b50/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Todoist (com.todoist.ios
 
 **BundleId:** com.todoist.ios
 **App Version:** 22.10.9
 **App Name:** Todoist
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSContactsUsageDescription
-- NSSiriUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 32
 **Public keys:** 6
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -47,15 +52,14 @@ at least 3 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 38
-- Tracking: 1 lib(s)
 - Tools: 11 lib(s)
-- Storage: 2 lib(s)
+- Tracking: 1 lib(s)
 - Network: 2 lib(s)
-
+- Storage: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -98,5 +102,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

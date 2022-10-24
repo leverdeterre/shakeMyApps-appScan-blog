@@ -3,49 +3,49 @@ title: "PDF Reader (com.kdanmobile.PDFReaderLite)"
 permalink: /apps/ios/com.kdanmobile.PDFReaderLite.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/de/32/8d/de328da6-5281-9cb4-64a8-20f7f2d9deed/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/de/32/8d/de328da6-5281-9cb4-64a8-20f7f2d9deed/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-PDF Reader (com.kdanmobile.PDFReaderLite) AppScan description of the content of the iOS application PDF Reader (com.kdanmobile.PDFReaderLite). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application PDF Reader (com.kdanmobile.PDFReaderLite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# PDF Reader (com.kdanmobile.PDFReaderLite)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/de/32/8d/de328da6-5281-9cb4-64a8-20f7f2d9deed/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# PDF Reader (com.kdanmobile.PDFReaderLite
 
 **BundleId:** com.kdanmobile.PDFReaderLite
 **App Version:** 9.7.0
 **App Name:** PDF Reader
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSContactsUsageDescription
-- NSCameraUsageDescription
-- NSCalendarsUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSFaceIDUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 12
 **Private keys:** 32
 **Public keys:** 8
 **Custom keys:** 27
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
-Twitter Login detected
-Facebook Login detected
-Google Login detected
+AppleSignIn detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -53,13 +53,12 @@ contains 7 App extensions
 support multiple languages
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 12
 - Tools: 4 lib(s)
 - UI: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -68,5 +67,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

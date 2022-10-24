@@ -3,49 +3,51 @@ title: "Adobe Sketch (com.adobe.sketch.ipad)"
 permalink: /apps/ios/com.adobe.sketch.ipad.html
 layout: single
 author_profile: false
----
-Adobe Sketch (com.adobe.sketch.ipad) AppScan description of the content of the iOS application Adobe Sketch (com.adobe.sketch.ipad). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Adobe Sketch (com.adobe.sketch.ipad)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Adobe Sketch (com.adobe.sketch.ipad). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Adobe Sketch (com.adobe.sketch.ipad
 
 **BundleId:** com.adobe.sketch.ipad
 **App Version:** 4.9.10
 **App Name:** Adobe Sketch
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 33
 **Public keys:** 6
 **Custom keys:** 14
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 9
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
 - Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -89,5 +91,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,28 +3,35 @@ title: "sanrio  (com.appoutfitclub.wallpaper)"
 permalink: /apps/ios/com.appoutfitclub.wallpaper.html
 layout: single
 author_profile: false
----
-sanrio  (com.appoutfitclub.wallpaper) AppScan description of the content of the iOS application sanrio  (com.appoutfitclub.wallpaper). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# sanrio  (com.appoutfitclub.wallpaper)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application sanrio  (com.appoutfitclub.wallpaper). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# sanrio  (com.appoutfitclub.wallpaper
 
 **BundleId:** com.appoutfitclub.wallpaper
 **App Version:** 1.3
 **App Name:** sanrio 
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 27
 **Public keys:** 4
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -33,14 +40,13 @@ Native App
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 22
 - Tools: 10 lib(s)
-- Tracking: 1 lib(s)
 - Network: 4 lib(s)
-
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -77,5 +83,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

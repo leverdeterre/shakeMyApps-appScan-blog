@@ -3,31 +3,43 @@ title: "MC Idées (com.groupemarieclaire.marieclaireidees)"
 permalink: /apps/ios/com.groupemarieclaire.marieclaireidees.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/db/51/2c/db512c51-6311-36b4-43d3-b3f6f1a0bbb2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/db/51/2c/db512c51-6311-36b4-43d3-b3f6f1a0bbb2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-MC Idées (com.groupemarieclaire.marieclaireidees) AppScan description of the content of the iOS application MC Idées (com.groupemarieclaire.marieclaireidees). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application MC Idées (com.groupemarieclaire.marieclaireidees). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# MC Idées (com.groupemarieclaire.marieclaireidees)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/db/51/2c/db512c51-6311-36b4-43d3-b3f6f1a0bbb2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# MC Idées (com.groupemarieclaire.marieclaireidees
 
 **BundleId:** com.groupemarieclaire.marieclaireidees
 **App Version:** 5.5
 **App Name:** MC Idées
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 30
 **Public keys:** 4
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -35,16 +47,15 @@ Native App
 supported devices iPhone & iPad
 contains 2 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- Tracking: 1 lib(s)
-- Network: 1 lib(s)
-- UI: 1 lib(s)
 - Crash: 2 lib(s)
 - Tools: 8 lib(s)
-
+- UI: 1 lib(s)
+- Network: 1 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -53,5 +64,5 @@ contains 2 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,41 +3,47 @@ title: "MosaLingua (com.mosalingua.mosa-ru)"
 permalink: /apps/ios/com.mosalingua.mosa-ru.html
 layout: single
 author_profile: false
----
-MosaLingua (com.mosalingua.mosa-ru) AppScan description of the content of the iOS application MosaLingua (com.mosalingua.mosa-ru). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# MosaLingua (com.mosalingua.mosa-ru)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application MosaLingua (com.mosalingua.mosa-ru). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# MosaLingua (com.mosalingua.mosa-ru
 
 **BundleId:** com.mosalingua.mosa-ru
 **App Version:** 10.12
 **App Name:** MosaLingua
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 33
 **Public keys:** 6
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
+FacebookLogin detected
 supported devices iPhone & iPad
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -67,5 +73,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

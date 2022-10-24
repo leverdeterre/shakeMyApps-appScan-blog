@@ -3,51 +3,53 @@ title: "H&M (com.hm.mcom)"
 permalink: /apps/ios/com.hm.mcom.html
 layout: single
 author_profile: false
----
-H&M (com.hm.mcom) AppScan description of the content of the iOS application H&M (com.hm.mcom). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# H&M (com.hm.mcom)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application H&M (com.hm.mcom). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# H&M (com.hm.mcom
 
 **BundleId:** com.hm.mcom
 **App Version:** 2.36.0
 **App Name:** H&M
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSFaceIDUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 31
 **Public keys:** 6
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
+FacebookLogin detected
 Native App
 contains 4 App extensions
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 6
+- Tools: 1 lib(s)
 - Network: 1 lib(s)
 - Tracking: 1 lib(s)
 - UI: 1 lib(s)
-- Tools: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -94,5 +96,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

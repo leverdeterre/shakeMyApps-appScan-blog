@@ -3,46 +3,49 @@ title: "Grasshopper (com.area120.Grasshopper.prod)"
 permalink: /apps/ios/com.area120.Grasshopper.prod.html
 layout: single
 author_profile: false
----
-Grasshopper (com.area120.Grasshopper.prod) AppScan description of the content of the iOS application Grasshopper (com.area120.Grasshopper.prod). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Grasshopper (com.area120.Grasshopper.prod)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Grasshopper (com.area120.Grasshopper.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Grasshopper (com.area120.Grasshopper.prod
 
 **BundleId:** com.area120.Grasshopper.prod
 **App Version:** 2.50.7
 **App Name:** Grasshopper
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 2
-Google Login detected
+GoogleLogin detected
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 70
 - Tools: 14 lib(s)
-- Logs: 2 lib(s)
 - Tracking: 1 lib(s)
+- Logs: 2 lib(s)
 - Storage: 2 lib(s)
-
 
 **Apple dylibs:**
 - libswiftCore
@@ -85,5 +88,5 @@ Google Login detected
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

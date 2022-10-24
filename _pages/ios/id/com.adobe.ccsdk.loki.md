@@ -3,42 +3,49 @@ title: "Creative Cloud (com.adobe.ccsdk.loki)"
 permalink: /apps/ios/com.adobe.ccsdk.loki.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/12/a5/24/12a52462-b3a3-f3ab-d39b-5a41013d7e02/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/12/a5/24/12a52462-b3a3-f3ab-d39b-5a41013d7e02/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-Creative Cloud (com.adobe.ccsdk.loki) AppScan description of the content of the iOS application Creative Cloud (com.adobe.ccsdk.loki). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Creative Cloud (com.adobe.ccsdk.loki). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Creative Cloud (com.adobe.ccsdk.loki)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/12/a5/24/12a52462-b3a3-f3ab-d39b-5a41013d7e02/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Creative Cloud (com.adobe.ccsdk.loki
 
 **BundleId:** com.adobe.ccsdk.loki
 **App Version:** 6.5
 **App Name:** Creative Cloud
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSFaceIDUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 34
 **Public keys:** 10
 **Custom keys:** 18
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 9
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -49,12 +56,11 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
 - Tools: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -102,5 +108,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

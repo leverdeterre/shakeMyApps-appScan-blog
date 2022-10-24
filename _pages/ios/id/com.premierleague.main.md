@@ -3,44 +3,50 @@ title: "PL (com.premierleague.main)"
 permalink: /apps/ios/com.premierleague.main.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/41/98/e0/4198e084-3622-b486-3de6-263564d64fb5/AppIcon-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/53/c2/c3/53c2c3ed-d5e6-5ba9-293e-91546d880de6/AppIcon-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/41/98/e0/4198e084-3622-b486-3de6-263564d64fb5/AppIcon-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/53/c2/c3/53c2c3ed-d5e6-5ba9-293e-91546d880de6/AppIcon-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg
 ---
-PL (com.premierleague.main) AppScan description of the content of the iOS application PL (com.premierleague.main). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application PL (com.premierleague.main). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# PL (com.premierleague.main)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/53/c2/c3/53c2c3ed-d5e6-5ba9-293e-91546d880de6/AppIcon-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# PL (com.premierleague.main
 
 **BundleId:** com.premierleague.main
-**App Version:** 3.0.1
+**App Version:** 3.0.2
 **App Name:** PL
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSSiriUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 32
 **Public keys:** 8
 **Custom keys:** 20
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Twitter Login detected
-Facebook Login detected
-Google Login detected
+AppleSignIn detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -49,12 +55,11 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
 - Tools: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -102,5 +107,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

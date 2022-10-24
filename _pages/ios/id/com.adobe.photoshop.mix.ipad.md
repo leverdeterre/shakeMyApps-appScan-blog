@@ -3,46 +3,51 @@ title: "Photoshop Mix (com.adobe.photoshop.mix.ipad)"
 permalink: /apps/ios/com.adobe.photoshop.mix.ipad.html
 layout: single
 author_profile: false
----
-Photoshop Mix (com.adobe.photoshop.mix.ipad) AppScan description of the content of the iOS application Photoshop Mix (com.adobe.photoshop.mix.ipad). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Photoshop Mix (com.adobe.photoshop.mix.ipad)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Photoshop Mix (com.adobe.photoshop.mix.ipad). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Photoshop Mix (com.adobe.photoshop.mix.ipad
 
 **BundleId:** com.adobe.photoshop.mix.ipad
 **App Version:** 2.8.1
 **App Name:** Photoshop Mix
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 33
 **Public keys:** 6
 **Custom keys:** 9
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 support multiple languages
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
 - Tools: 3 lib(s)
-
 
 **Apple dylibs:**
 
@@ -79,5 +84,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

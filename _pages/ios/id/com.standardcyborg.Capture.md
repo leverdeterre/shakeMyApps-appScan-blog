@@ -3,29 +3,35 @@ title: "Capture (com.standardcyborg.Capture)"
 permalink: /apps/ios/com.standardcyborg.Capture.html
 layout: single
 author_profile: false
----
-Capture (com.standardcyborg.Capture) AppScan description of the content of the iOS application Capture (com.standardcyborg.Capture). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Capture (com.standardcyborg.Capture)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Capture (com.standardcyborg.Capture). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Capture (com.standardcyborg.Capture
 
 **BundleId:** com.standardcyborg.Capture
 **App Version:** 1.2.5
 **App Name:** Capture
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 30
 **Public keys:** 3
 **Custom keys:** 4
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -33,13 +39,12 @@ Number of entitlements detected: 3
 Native App
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
-- Storage: 1 lib(s)
 - Tools: 4 lib(s)
-
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftARKit
@@ -85,5 +90,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

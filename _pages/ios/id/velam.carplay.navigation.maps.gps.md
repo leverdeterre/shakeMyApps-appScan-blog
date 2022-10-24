@@ -3,37 +3,43 @@ title: "Velam (velam.carplay.navigation.maps.gps)"
 permalink: /apps/ios/velam.carplay.navigation.maps.gps.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/f8/13/03/f813032a-d414-01cb-f200-fc2c535cd148/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/f8/13/03/f813032a-d414-01cb-f200-fc2c535cd148/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg
 ---
-Velam (velam.carplay.navigation.maps.gps) AppScan description of the content of the iOS application Velam (velam.carplay.navigation.maps.gps). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Velam (velam.carplay.navigation.maps.gps). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Velam (velam.carplay.navigation.maps.gps)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/f8/13/03/f813032a-d414-01cb-f200-fc2c535cd148/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Velam (velam.carplay.navigation.maps.gps
 
 **BundleId:** velam.carplay.navigation.maps.gps
 **App Version:** 1.0.1
 **App Name:** Velam
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMotionUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 29
 **Public keys:** 5
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -43,16 +49,15 @@ supported devices iPhone & iPad
 contains 2 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 53
-- Network: 2 lib(s)
 - Tracking: 1 lib(s)
-- Tools: 9 lib(s)
-- Storage: 2 lib(s)
 - UI: 4 lib(s)
-
+- Tools: 9 lib(s)
+- Network: 2 lib(s)
+- Storage: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -108,5 +113,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

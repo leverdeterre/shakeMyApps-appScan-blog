@@ -3,49 +3,56 @@ title: "Espace Abonné (fr.free.moncomptefree)"
 permalink: /apps/ios/fr.free.moncomptefree.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/e0/3a/f6e03add-af93-e029-26f1-ebb1393ace89/AppIcon-Production-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/ac/f2/f4acf261-427e-f4d7-ac1b-0aa00c277483/AppIcon-Production-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/e0/3a/f6e03add-af93-e029-26f1-ebb1393ace89/AppIcon-Production-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/ac/f2/f4acf261-427e-f4d7-ac1b-0aa00c277483/AppIcon-Production-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-Espace Abonné (fr.free.moncomptefree) AppScan description of the content of the iOS application Espace Abonné (fr.free.moncomptefree). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Espace Abonné (fr.free.moncomptefree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Espace Abonné (fr.free.moncomptefree)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/ac/f2/f4acf261-427e-f4d7-ac1b-0aa00c277483/AppIcon-Production-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Espace Abonné (fr.free.moncomptefree
 
 **BundleId:** fr.free.moncomptefree
 **App Version:** 1.0.3
 **App Name:** Espace Abonné
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSFaceIDUsageDescription
-- NSCameraUsageDescription
-- NSAppleMusicUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 27
 **Public keys:** 4
 **Custom keys:** 18
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
-Google Login detected
+GoogleLogin detected
 Native App
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -73,5 +80,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

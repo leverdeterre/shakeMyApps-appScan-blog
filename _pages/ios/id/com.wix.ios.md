@@ -3,67 +3,64 @@ title: "Spaces by Wix (com.wix.ios)"
 permalink: /apps/ios/com.wix.ios.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/66/8e/f4668e80-8ad9-d006-ba6e-686e11cab388/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/66/8e/f4668e80-8ad9-d006-ba6e-686e11cab388/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Spaces by Wix (com.wix.ios) AppScan description of the content of the iOS application Spaces by Wix (com.wix.ios). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Spaces by Wix (com.wix.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Spaces by Wix (com.wix.ios)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/66/8e/f4668e80-8ad9-d006-ba6e-686e11cab388/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Spaces by Wix (com.wix.ios
 
 **BundleId:** com.wix.ios
 **App Version:** 2.66200.0
 **App Name:** Spaces by Wix
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocalNetworkUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCalendarsUsageDescription
-- NSMicrophoneUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSHealthUpdateUsageDescription
-- NSContactsUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSHealthShareUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-  
-  
+**Number of permissions:** 14
 **Private keys:** 31
 **Public keys:** 9
 **Custom keys:** 35
 **Low securit keys:** 4
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 11
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 719
 - Tracking: 4 lib(s)
-- Network: 4 lib(s)
-- UI: 9 lib(s)
-- Tools: 16 lib(s)
 - Logs: 1 lib(s)
-
+- Tools: 16 lib(s)
+- UI: 9 lib(s)
+- Network: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -157,5 +154,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

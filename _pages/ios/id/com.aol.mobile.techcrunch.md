@@ -3,31 +3,35 @@ title: "TechCrunch (com.aol.mobile.techcrunch)"
 permalink: /apps/ios/com.aol.mobile.techcrunch.html
 layout: single
 author_profile: false
----
-TechCrunch (com.aol.mobile.techcrunch) AppScan description of the content of the iOS application TechCrunch (com.aol.mobile.techcrunch). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# TechCrunch (com.aol.mobile.techcrunch)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application TechCrunch (com.aol.mobile.techcrunch). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# TechCrunch (com.aol.mobile.techcrunch
 
 **BundleId:** com.aol.mobile.techcrunch
 **App Version:** 4.1.0
 **App Name:** TechCrunch
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSFaceIDUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 32
 **Public keys:** 6
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -37,13 +41,12 @@ supported devices iPhone & iPad
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
-- Tools: 2 lib(s)
 - Network: 2 lib(s)
-
+- Tools: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -91,5 +94,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

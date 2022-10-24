@@ -3,49 +3,72 @@ title: "Truth or Dare (com.mobilith.TruthOrDare)"
 permalink: /apps/ios/com.mobilith.TruthOrDare.html
 layout: single
 author_profile: false
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/43/6e/e5/436ee58f-9a4e-6543-bc78-22fdcf3be7ec/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/cb/e8/b8cbe893-d6fb-f6a5-a334-b3eb91b31c21/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/43/6e/e5/436ee58f-9a4e-6543-bc78-22fdcf3be7ec/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/cb/e8/b8cbe893-d6fb-f6a5-a334-b3eb91b31c21/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Truth or Dare (com.mobilith.TruthOrDare) AppScan description of the content of the iOS application Truth or Dare (com.mobilith.TruthOrDare). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Truth or Dare (com.mobilith.TruthOrDare). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Truth or Dare (com.mobilith.TruthOrDare)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/cb/e8/b8cbe893-d6fb-f6a5-a334-b3eb91b31c21/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Truth or Dare (com.mobilith.TruthOrDare
 
 **BundleId:** com.mobilith.TruthOrDare
-**App Version:** 1.9
+**App Version:** 1.12
 **App Name:** Truth or Dare
 
 
+## AppScore : 4.16 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 31
-**Public keys:** 4
-**Custom keys:** 7
+**Public keys:** 5
+**Custom keys:** 8
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 2
 Native App
 supported devices iPhone & iPad
-build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 17
-- Crash: 1 lib(s)
-- UI: 1 lib(s)
-- Tools: 7 lib(s)
+**Number of Third Party Library detected:** 16
 - Tracking: 2 lib(s)
-
+- Tools: 7 lib(s)
+- UI: 1 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -57,13 +80,13 @@ build using Xcode 13
 - libswiftCoreMedia
 - libswiftDarwin
 - libswiftDispatch
-- libswiftFoundation
 - libswiftMetal
 - libswiftObjectiveC
 - libswiftQuartzCore
 - libswiftUIKit
 - libswiftos
 - libswiftsimd
+- libswiftFoundation
 
 
 **Apple System Library Frameworks:**
@@ -98,5 +121,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

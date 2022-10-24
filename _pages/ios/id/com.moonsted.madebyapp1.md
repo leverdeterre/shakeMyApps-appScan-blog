@@ -3,57 +3,63 @@ title: "Marketplace (com.moonsted.madebyapp1)"
 permalink: /apps/ios/com.moonsted.madebyapp1.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/33/5e/3d335e83-7c0b-bc5e-a895-65b2827535c4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/33/5e/3d335e83-7c0b-bc5e-a895-65b2827535c4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Marketplace (com.moonsted.madebyapp1) AppScan description of the content of the iOS application Marketplace (com.moonsted.madebyapp1). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Marketplace (com.moonsted.madebyapp1). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Marketplace (com.moonsted.madebyapp1)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/33/5e/3d335e83-7c0b-bc5e-a895-65b2827535c4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Marketplace (com.moonsted.madebyapp1
 
 **BundleId:** com.moonsted.madebyapp1
 **App Version:** 3.0.6
 **App Name:** Marketplace
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 33
 **Public keys:** 6
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Twitter Login detected
-Facebook Login detected
-Google Login detected
+AppleSignIn detected
+FacebookLogin detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 39
-- Tools: 15 lib(s)
-- UI: 5 lib(s)
 - Tracking: 3 lib(s)
 - Network: 3 lib(s)
-
+- UI: 5 lib(s)
+- Tools: 15 lib(s)
 
 **Apple dylibs:**
 
@@ -107,5 +113,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

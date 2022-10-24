@@ -3,38 +3,43 @@ title: "JV (com.jeuxvideo.app)"
 permalink: /apps/ios/com.jeuxvideo.app.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/44/4f/8b444feb-ea42-afbf-8f8d-b6ad22abd1d8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/44/4f/8b444feb-ea42-afbf-8f8d-b6ad22abd1d8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-JV (com.jeuxvideo.app) AppScan description of the content of the iOS application JV (com.jeuxvideo.app). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application JV (com.jeuxvideo.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# JV (com.jeuxvideo.app)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/44/4f/8b444feb-ea42-afbf-8f8d-b6ad22abd1d8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# JV (com.jeuxvideo.app
 
 **BundleId:** com.jeuxvideo.app
 **App Version:** 4.2.37
 **App Name:** JV
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSUserTrackingUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 31
 **Public keys:** 8
 **Custom keys:** 14
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -44,13 +49,12 @@ build using Xcode 13
 contains 2 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
 - Tools: 1 lib(s)
 - Tracking: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -106,5 +110,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

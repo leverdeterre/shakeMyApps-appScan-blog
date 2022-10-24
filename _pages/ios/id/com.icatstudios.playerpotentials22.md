@@ -3,33 +3,43 @@ title: "Player Potentials 23 (com.icatstudios.playerpotentials22)"
 permalink: /apps/ios/com.icatstudios.playerpotentials22.html
 layout: single
 author_profile: false
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/d7/75/6bd775ed-7ffc-60d5-1627-0e22c9046807/AppIcons-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ad/84/19/ad841917-6ff6-9936-f589-7eeeb1385b3c/AppIcons-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6b/d7/75/6bd775ed-7ffc-60d5-1627-0e22c9046807/AppIcons-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ad/84/19/ad841917-6ff6-9936-f589-7eeeb1385b3c/AppIcons-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Player Potentials 23 (com.icatstudios.playerpotentials22) AppScan description of the content of the iOS application Player Potentials 23 (com.icatstudios.playerpotentials22). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Player Potentials 23 (com.icatstudios.playerpotentials22). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Player Potentials 23 (com.icatstudios.playerpotentials22)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ad/84/19/ad841917-6ff6-9936-f589-7eeeb1385b3c/AppIcons-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Player Potentials 23 (com.icatstudios.playerpotentials22
 
 **BundleId:** com.icatstudios.playerpotentials22
 **App Version:** 1.1.174
 **App Name:** Player Potentials 23
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 2
 **Private keys:** 29
 **Public keys:** 4
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -39,13 +49,12 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- Storage: 1 lib(s)
 - Tools: 7 lib(s)
-
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -95,5 +104,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

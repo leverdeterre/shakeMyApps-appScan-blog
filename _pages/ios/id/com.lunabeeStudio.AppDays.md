@@ -3,31 +3,35 @@ title: "AppDays (com.lunabeeStudio.AppDays)"
 permalink: /apps/ios/com.lunabeeStudio.AppDays.html
 layout: single
 author_profile: false
----
-AppDays (com.lunabeeStudio.AppDays) AppScan description of the content of the iOS application AppDays (com.lunabeeStudio.AppDays). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# AppDays (com.lunabeeStudio.AppDays)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application AppDays (com.lunabeeStudio.AppDays). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# AppDays (com.lunabeeStudio.AppDays
 
 **BundleId:** com.lunabeeStudio.AppDays
 **App Version:** 1.1.4
 **App Name:** AppDays
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCalendarsUsageDescription
-- NSContactsUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 32
 **Public keys:** 5
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -35,16 +39,15 @@ Number of entitlements detected: 3
 Native App
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
-- UI: 3 lib(s)
 - Tools: 5 lib(s)
 - Network: 2 lib(s)
+- UI: 3 lib(s)
 - Tracking: 1 lib(s)
 - Storage: 1 lib(s)
-
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -88,5 +91,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

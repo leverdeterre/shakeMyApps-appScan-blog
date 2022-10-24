@@ -3,41 +3,62 @@ title: "Chispa (com.affinityapps.chispa)"
 permalink: /apps/ios/com.affinityapps.chispa.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/ce/bd/b1cebd64-a28d-a530-ce50-a6b37d233252/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/ce/bd/b1cebd64-a28d-a530-ce50-a6b37d233252/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-Chispa (com.affinityapps.chispa) AppScan description of the content of the iOS application Chispa (com.affinityapps.chispa). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Chispa (com.affinityapps.chispa). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Chispa (com.affinityapps.chispa)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/ce/bd/b1cebd64-a28d-a530-ce50-a6b37d233252/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Chispa (com.affinityapps.chispa
 
 **BundleId:** com.affinityapps.chispa
 **App Version:** 3.19.0
 **App Name:** Chispa
 
 
+## AppScore : 4.46 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 5
 **Private keys:** 28
 **Public keys:** 7
 **Custom keys:** 17
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Facebook Login detected
+FacebookLogin detected
 Native App
 build using Xcode 13
 contains 2 App extensions
@@ -45,18 +66,17 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 72
-- UI: 7 lib(s)
 - Crash: 1 lib(s)
-- Logs: 1 lib(s)
-- Network: 5 lib(s)
 - Storage: 1 lib(s)
 - Tracking: 4 lib(s)
+- UI: 7 lib(s)
 - Tools: 23 lib(s)
-
+- Network: 5 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -95,5 +115,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

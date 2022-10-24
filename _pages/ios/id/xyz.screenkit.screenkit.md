@@ -3,44 +3,48 @@ title: "ScreenKit (xyz.screenkit.screenkit)"
 permalink: /apps/ios/xyz.screenkit.screenkit.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/97/90/f1/9790f129-8758-0a5c-2867-0cf39fcc72c6/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/12/cb/c512cb02-783c-855d-9aff-8350a34802ae/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/97/90/f1/9790f129-8758-0a5c-2867-0cf39fcc72c6/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/12/cb/c512cb02-783c-855d-9aff-8350a34802ae/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-ScreenKit (xyz.screenkit.screenkit) AppScan description of the content of the iOS application ScreenKit (xyz.screenkit.screenkit). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application ScreenKit (xyz.screenkit.screenkit). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# ScreenKit (xyz.screenkit.screenkit)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/12/cb/c512cb02-783c-855d-9aff-8350a34802ae/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# ScreenKit (xyz.screenkit.screenkit
 
 **BundleId:** xyz.screenkit.screenkit
 **App Version:** 3.0.3
 **App Name:** ScreenKit
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSContactsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSUserTrackingUsageDescription
-- NSAppleMusicUsageDescription
-- NSFileProviderDomainUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCalendarsUsageDescription
-- NSRemindersUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 33
 **Public keys:** 8
 **Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 11
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 contains 8 App extensions
@@ -49,17 +53,16 @@ at least 3 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
-- Tracking: 4 lib(s)
 - Crash: 1 lib(s)
-- Tools: 11 lib(s)
 - UI: 1 lib(s)
-- Network: 3 lib(s)
 - Storage: 1 lib(s)
-
+- Tracking: 4 lib(s)
+- Tools: 11 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -110,5 +113,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

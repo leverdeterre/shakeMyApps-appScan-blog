@@ -3,41 +3,43 @@ title: "Centr (com.weareloup.hco)"
 permalink: /apps/ios/com.weareloup.hco.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/ae/3f/e4ae3f0e-3d42-eaaa-f782-9feb5cc5dddf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/ae/3f/e4ae3f0e-3d42-eaaa-f782-9feb5cc5dddf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Centr (com.weareloup.hco) AppScan description of the content of the iOS application Centr (com.weareloup.hco). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Centr (com.weareloup.hco). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Centr (com.weareloup.hco)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/ae/3f/e4ae3f0e-3d42-eaaa-f782-9feb5cc5dddf/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Centr (com.weareloup.hco
 
 **BundleId:** com.weareloup.hco
 **App Version:** 4.18.0
 **App Name:** Centr
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryAddUsageDescription
-- NSLocalNetworkUsageDescription
-- NSMicrophoneUsageDescription
-- NSHealthShareUsageDescription
-- NSUserTrackingUsageDescription
-- NSCameraUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSHealthUpdateUsageDescription
-- NSAppleMusicUsageDescription
-  
-  
+**Number of permissions:** 10
 **Private keys:** 28
 **Public keys:** 7
 **Custom keys:** 30
 **Low securit keys:** 9
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -48,16 +50,15 @@ contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 30
-- Network: 2 lib(s)
-- Crash: 1 lib(s)
 - UI: 1 lib(s)
-- Tracking: 2 lib(s)
+- Crash: 1 lib(s)
 - Tools: 21 lib(s)
-
+- Network: 2 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -99,5 +100,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

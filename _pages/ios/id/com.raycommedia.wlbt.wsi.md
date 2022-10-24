@@ -3,42 +3,43 @@ title: "FirstAlert (com.raycommedia.wlbt.wsi)"
 permalink: /apps/ios/com.raycommedia.wlbt.wsi.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/92/dd/40/92dd40c6-ecf2-8233-fc3a-f70b6f8cf685/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/92/dd/40/92dd40c6-ecf2-8233-fc3a-f70b6f8cf685/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 ---
-FirstAlert (com.raycommedia.wlbt.wsi) AppScan description of the content of the iOS application FirstAlert (com.raycommedia.wlbt.wsi). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application FirstAlert (com.raycommedia.wlbt.wsi). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# FirstAlert (com.raycommedia.wlbt.wsi)
+  
+  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/92/dd/40/92dd40c6-ecf2-8233-fc3a-f70b6f8cf685/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+  
+# FirstAlert (com.raycommedia.wlbt.wsi
 
 **BundleId:** com.raycommedia.wlbt.wsi
 **App Version:** 5.6.510
 **App Name:** FirstAlert
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothAlwaysUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSMicrophoneUsageDescription
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 34
 **Public keys:** 5
 **Custom keys:** 20
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -47,15 +48,14 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Tracking: 2 lib(s)
-- UI: 2 lib(s)
 - Tools: 9 lib(s)
 - Crash: 1 lib(s)
-
+- Tracking: 2 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -98,5 +98,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

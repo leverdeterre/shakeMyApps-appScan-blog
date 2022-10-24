@@ -3,40 +3,43 @@ title: "Sniper Gang Apparel (ios.app.sniperedge1)"
 permalink: /apps/ios/ios.app.sniperedge1.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/49/6d/23/496d238e-178b-404b-4e89-2ce8d2ca7bfd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/49/6d/23/496d238e-178b-404b-4e89-2ce8d2ca7bfd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 ---
-Sniper Gang Apparel (ios.app.sniperedge1) AppScan description of the content of the iOS application Sniper Gang Apparel (ios.app.sniperedge1). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Sniper Gang Apparel (ios.app.sniperedge1). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Sniper Gang Apparel (ios.app.sniperedge1)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/49/6d/23/496d238e-178b-404b-4e89-2ce8d2ca7bfd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Sniper Gang Apparel (ios.app.sniperedge1
 
 **BundleId:** ios.app.sniperedge1
 **App Version:** 5.5
 **App Name:** Sniper Gang Apparel
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSLocationUsageDescription
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocationAlwaysUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 34
 **Public keys:** 6
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -47,17 +50,16 @@ build using Xcode 13
 contains 2 App extensions
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 47
-- Tools: 16 lib(s)
-- Crash: 1 lib(s)
-- Logs: 1 lib(s)
 - Tracking: 5 lib(s)
 - UI: 1 lib(s)
+- Tools: 16 lib(s)
 - Network: 1 lib(s)
-
+- Crash: 1 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -120,5 +122,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

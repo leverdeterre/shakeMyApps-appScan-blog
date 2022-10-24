@@ -3,55 +3,61 @@ title: "iWindsurf (com.weatherflow.iwindsurf)"
 permalink: /apps/ios/com.weatherflow.iwindsurf.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/38/7a/e2387ace-9275-1187-7acf-565c76204f20/AppIcon.iwindsurf-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/19/8b/ae198b31-27c7-201a-8f7b-b6c0df917d4c/AppIcon.iwindsurf-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/38/7a/e2387ace-9275-1187-7acf-565c76204f20/AppIcon.iwindsurf-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/19/8b/ae198b31-27c7-201a-8f7b-b6c0df917d4c/AppIcon.iwindsurf-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-iWindsurf (com.weatherflow.iwindsurf) AppScan description of the content of the iOS application iWindsurf (com.weatherflow.iwindsurf). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application iWindsurf (com.weatherflow.iwindsurf). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# iWindsurf (com.weatherflow.iwindsurf)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/19/8b/ae198b31-27c7-201a-8f7b-b6c0df917d4c/AppIcon.iwindsurf-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# iWindsurf (com.weatherflow.iwindsurf
 
 **BundleId:** com.weatherflow.iwindsurf
-**App Version:** 5.10
+**App Version:** 5.12
 **App Name:** iWindsurf
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 33
 **Public keys:** 6
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
-**Number of Third Party Library detected:** 15
-- Tracking: 3 lib(s)
-- Crash: 1 lib(s)
+**Number of Third Party Library detected:** 10
+- Tools: 6 lib(s)
+- Tracking: 1 lib(s)
 - Network: 1 lib(s)
-- Tools: 7 lib(s)
-
 
 **Apple dylibs:**
 - libswiftCore
@@ -60,12 +66,12 @@ support multiple languages
 - libswiftCoreImage
 - libswiftDarwin
 - libswiftDispatch
-- libswiftFoundation
 - libswiftMetal
 - libswiftObjectiveC
 - libswiftQuartzCore
 - libswiftUIKit
 - libswiftos
+- libswiftFoundation
 
 
 **Apple System Library Frameworks:**
@@ -76,28 +82,25 @@ support multiple languages
 - StoreKit
 - SystemConfiguration
 - UIKit
-- Accelerate
-- Accounts
-- AdSupport
-- AudioToolbox
-- CoreGraphics
-- QuartzCore
-- Social
 - WebKit
 - CoreData
 - CoreAudio
+- AudioToolbox
 - CoreFoundation
 - MediaPlayer
 - MessageUI
 - CoreMedia
 - AVFoundation
 - CoreText
+- QuartzCore
+- CoreGraphics
 - CoreLocation
 - CFNetwork
 - MobileCoreServices
 - MapKit
+- UserNotifications
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

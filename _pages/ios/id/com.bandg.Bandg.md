@@ -3,64 +3,60 @@ title: "B&G (com.bandg.Bandg)"
 permalink: /apps/ios/com.bandg.Bandg.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/87/b4/50/87b450eb-d9f9-f444-c6bf-83606e91ba36/Bandg-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/87/b4/50/87b450eb-d9f9-f444-c6bf-83606e91ba36/Bandg-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-B&G (com.bandg.Bandg) AppScan description of the content of the iOS application B&G (com.bandg.Bandg). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application B&G (com.bandg.Bandg). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# B&G (com.bandg.Bandg)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/87/b4/50/87b450eb-d9f9-f444-c6bf-83606e91ba36/Bandg-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# B&G (com.bandg.Bandg
 
 **BundleId:** com.bandg.Bandg
 **App Version:** 2.0.34
 **App Name:** B&G
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationAlwaysUsageDescription
-- NSAppleMusicUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSContactsUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSMicrophoneUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSMotionUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCalendarsUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSLocalNetworkUsageDescription
-  
-  
+**Number of permissions:** 15
 **Private keys:** 31
 **Public keys:** 8
 **Custom keys:** 22
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 6
-Facebook Login detected
+FacebookLogin detected
 supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- Tracking: 3 lib(s)
 - Tools: 3 lib(s)
 - UI: 1 lib(s)
-
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -134,5 +130,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

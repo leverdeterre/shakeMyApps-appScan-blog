@@ -3,42 +3,43 @@ title: "FordPass (com.ford.fordpass)"
 permalink: /apps/ios/com.ford.fordpass.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/02/a6/ef/02a6ef14-2d1c-0a88-211e-1b49748feef2/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/02/a6/ef/02a6ef14-2d1c-0a88-211e-1b49748feef2/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg
 ---
-FordPass (com.ford.fordpass) AppScan description of the content of the iOS application FordPass (com.ford.fordpass). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application FordPass (com.ford.fordpass). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# FordPass (com.ford.fordpass)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/02/a6/ef/02a6ef14-2d1c-0a88-211e-1b49748feef2/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# FordPass (com.ford.fordpass
 
 **BundleId:** com.ford.fordpass
 **App Version:** 4.22.0
 **App Name:** FordPass
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSContactsUsageDescription
-- NSFaceIDUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCalendarsUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 11
 **Private keys:** 29
 **Public keys:** 7
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -50,13 +51,12 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 23
 - UI: 1 lib(s)
 - Tools: 6 lib(s)
-
 
 **Apple dylibs:**
 
@@ -96,5 +96,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

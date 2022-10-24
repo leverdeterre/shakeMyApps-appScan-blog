@@ -3,60 +3,63 @@ title: "717 Parking (us.parkmobile.717Parking)"
 permalink: /apps/ios/us.parkmobile.717Parking.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/95/c0/32/95c032e1-e3da-ea0e-2891-36cabfe44ef6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/95/c0/32/95c032e1-e3da-ea0e-2891-36cabfe44ef6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-717 Parking (us.parkmobile.717Parking) AppScan description of the content of the iOS application 717 Parking (us.parkmobile.717Parking). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application 717 Parking (us.parkmobile.717Parking). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# 717 Parking (us.parkmobile.717Parking)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/95/c0/32/95c032e1-e3da-ea0e-2891-36cabfe44ef6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# 717 Parking (us.parkmobile.717Parking
 
 **BundleId:** us.parkmobile.717Parking
 **App Version:** 9.17.3
 **App Name:** 717 Parking
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSCalendarsUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSCameraUsageDescription
-- NSFaceIDUsageDescription
-  
-  
+**Number of permissions:** 8
 **Private keys:** 33
 **Public keys:** 7
 **Custom keys:** 16
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Google Login detected
+GoogleLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
-- Logs: 1 lib(s)
-- Tools: 11 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 4 lib(s)
 - Network: 2 lib(s)
-
+- Tools: 11 lib(s)
+- Crash: 1 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -102,5 +105,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

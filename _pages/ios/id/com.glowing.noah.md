@@ -3,56 +3,48 @@ title: "Glow Baby (com.glowing.noah)"
 permalink: /apps/ios/com.glowing.noah.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/6d/bf/066dbf27-e665-55d3-5a7a-74ac0d2aaa5b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/6d/bf/066dbf27-e665-55d3-5a7a-74ac0d2aaa5b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Glow Baby (com.glowing.noah) AppScan description of the content of the iOS application Glow Baby (com.glowing.noah). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Glow Baby (com.glowing.noah). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Glow Baby (com.glowing.noah)
+  
+  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/6d/bf/066dbf27-e665-55d3-5a7a-74ac0d2aaa5b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Glow Baby (com.glowing.noah
 
 **BundleId:** com.glowing.noah
 **App Version:** 3.0.2
 **App Name:** Glow Baby
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationUsageDescription
-- NSContactsUsageDescription
-- NSUserTrackingUsageDescription
-- NSSiriUsageDescription
-- NSFaceIDUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSSpeechRecognitionUsageDescription
-- NSHealthUpdateUsageDescription
-- NSCalendarsUsageDescription
-- NSMotionUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSMicrophoneUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSAppleMusicUsageDescription
-- NSHealthShareUsageDescription
-- NSPhotoLibraryAddUsageDescription
-  
-  
+**Number of permissions:** 20
 **Private keys:** 32
 **Public keys:** 9
 **Custom keys:** 31
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 8
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -61,17 +53,16 @@ at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 40
-- Tracking: 1 lib(s)
-- Tools: 12 lib(s)
 - UI: 5 lib(s)
+- Tools: 12 lib(s)
+- Logs: 1 lib(s)
 - Storage: 2 lib(s)
 - Network: 5 lib(s)
-- Logs: 1 lib(s)
-
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -130,5 +121,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

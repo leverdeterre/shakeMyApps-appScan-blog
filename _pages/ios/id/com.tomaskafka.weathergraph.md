@@ -3,35 +3,43 @@ title: "Weathergraph (com.tomaskafka.weathergraph)"
 permalink: /apps/ios/com.tomaskafka.weathergraph.html
 layout: single
 author_profile: false
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c0/da/cc/c0daccec-a463-9fdb-80da-05e36ec019f4/AppIcon-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/3d/f3/f13df341-4c4f-905c-967b-1a715dfa9d67/AppIcon-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c0/da/cc/c0daccec-a463-9fdb-80da-05e36ec019f4/AppIcon-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/3d/f3/f13df341-4c4f-905c-967b-1a715dfa9d67/AppIcon-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg
 ---
-Weathergraph (com.tomaskafka.weathergraph) AppScan description of the content of the iOS application Weathergraph (com.tomaskafka.weathergraph). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Weathergraph (com.tomaskafka.weathergraph). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Weathergraph (com.tomaskafka.weathergraph)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f1/3d/f3/f13df341-4c4f-905c-967b-1a715dfa9d67/AppIcon-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Weathergraph (com.tomaskafka.weathergraph
 
 **BundleId:** com.tomaskafka.weathergraph
-**App Version:** 1.0.123
+**App Version:** 1.0.124
 **App Name:** Weathergraph
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 4
 **Private keys:** 27
 **Public keys:** 6
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -43,11 +51,10 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -77,5 +84,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

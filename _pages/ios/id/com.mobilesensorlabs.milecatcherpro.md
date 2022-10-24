@@ -3,47 +3,53 @@ title: "MileCatcher (com.mobilesensorlabs.milecatcherpro)"
 permalink: /apps/ios/com.mobilesensorlabs.milecatcherpro.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/32/d0/4e32d0c5-d3e6-5c7b-8e95-42c119401d0a/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/32/d0/4e32d0c5-d3e6-5c7b-8e95-42c119401d0a/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-MileCatcher (com.mobilesensorlabs.milecatcherpro) AppScan description of the content of the iOS application MileCatcher (com.mobilesensorlabs.milecatcherpro). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application MileCatcher (com.mobilesensorlabs.milecatcherpro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# MileCatcher (com.mobilesensorlabs.milecatcherpro)
+  
+  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/32/d0/4e32d0c5-d3e6-5c7b-8e95-42c119401d0a/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# MileCatcher (com.mobilesensorlabs.milecatcherpro
 
 **BundleId:** com.mobilesensorlabs.milecatcherpro
 **App Version:** 2.85
 **App Name:** MileCatcher
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSLocationWhenInUseUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSMotionUsageDescription
-- NSCameraUsageDescription
-- NSLocationAlwaysUsageDescription
-- NSLocationAlwaysAndWhenInUseUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 30
 **Public keys:** 6
 **Custom keys:** 14
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 5
-Facebook Login detected
+FacebookLogin detected
 Native App
 build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
@@ -52,7 +58,6 @@ at least 2 entitlemented features (strong iOS integration)
 - Storage: 1 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 2 lib(s)
-
 
 **Apple dylibs:**
 - libswiftCoreFoundation
@@ -93,5 +98,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

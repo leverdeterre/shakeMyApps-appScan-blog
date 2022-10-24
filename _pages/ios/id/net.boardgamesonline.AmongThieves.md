@@ -3,40 +3,47 @@ title: "Among Thieves (net.boardgamesonline.AmongThieves)"
 permalink: /apps/ios/net.boardgamesonline.AmongThieves.html
 layout: single
 author_profile: false
----
-Among Thieves (net.boardgamesonline.AmongThieves) AppScan description of the content of the iOS application Among Thieves (net.boardgamesonline.AmongThieves). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+categories: 
+  - ios app 
+  - Product 
 
-# Among Thieves (net.boardgamesonline.AmongThieves)
+tags: 
+  - ios app 
+  - Product 
+
+---
+AppScan generated a spoiler description of the content of the iOS application Among Thieves (net.boardgamesonline.AmongThieves). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+# Among Thieves (net.boardgamesonline.AmongThieves
 
 **BundleId:** net.boardgamesonline.AmongThieves
 **App Version:** 1.0.0
 **App Name:** Among Thieves
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 30
 **Public keys:** 7
 **Custom keys:** 18
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 1
-Facebook Login detected
+FacebookLogin detected
 Native App
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
-
 
 **Apple dylibs:**
 
@@ -62,5 +69,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,34 +3,43 @@ title: "Ally Auto (com.ally.Auto)"
 permalink: /apps/ios/com.ally.Auto.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/d1/2b/b8d12b91-cfdf-6467-19a9-1aa8cb92d205/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/d1/2b/b8d12b91-cfdf-6467-19a9-1aa8cb92d205/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-Ally Auto (com.ally.Auto) AppScan description of the content of the iOS application Ally Auto (com.ally.Auto). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Ally Auto (com.ally.Auto). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Ally Auto (com.ally.Auto)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/b8/d1/2b/b8d12b91-cfdf-6467-19a9-1aa8cb92d205/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Ally Auto (com.ally.Auto
 
 **BundleId:** com.ally.Auto
 **App Version:** 5.1.5
 **App Name:** Ally Auto
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSFaceIDUsageDescription
-- NSCameraUsageDescription
-- NSMicrophoneUsageDescription
-  
-  
+**Number of permissions:** 3
 **Private keys:** 31
 **Public keys:** 5
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -40,14 +49,13 @@ supported devices iPhone & iPad
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- Logs: 1 lib(s)
 - Tools: 1 lib(s)
+- Logs: 1 lib(s)
 - UI: 1 lib(s)
-
 
 **Apple dylibs:**
 
@@ -74,5 +82,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

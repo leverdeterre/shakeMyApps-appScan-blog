@@ -3,61 +3,65 @@ title: "Poster Maker (com.pinsotech.phototext)"
 permalink: /apps/ios/com.pinsotech.phototext.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/fe/4f/f3/fe4ff3e3-cf84-2477-0ccc-fc0d154bbfbc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/fe/4f/f3/fe4ff3e3-cf84-2477-0ccc-fc0d154bbfbc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Poster Maker (com.pinsotech.phototext) AppScan description of the content of the iOS application Poster Maker (com.pinsotech.phototext). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Poster Maker (com.pinsotech.phototext). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Poster Maker (com.pinsotech.phototext)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/fe/4f/f3/fe4ff3e3-cf84-2477-0ccc-fc0d154bbfbc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Poster Maker (com.pinsotech.phototext
 
 **BundleId:** com.pinsotech.phototext
 **App Version:** 2.8.12
 **App Name:** Poster Maker
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCalendarsUsageDescription
-- NSMicrophoneUsageDescription
-- NSMotionUsageDescription
-- NSBluetoothPeripheralUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 31
 **Public keys:** 6
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 4
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 49
-- Tracking: 4 lib(s)
-- Storage: 2 lib(s)
 - Logs: 1 lib(s)
-- Network: 3 lib(s)
-- Crash: 1 lib(s)
-- Tools: 19 lib(s)
 - UI: 4 lib(s)
-
+- Storage: 2 lib(s)
+- Tracking: 4 lib(s)
+- Network: 3 lib(s)
+- Tools: 19 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -125,5 +129,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

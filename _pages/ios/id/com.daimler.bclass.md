@@ -3,32 +3,43 @@ title: "Guides (com.daimler.bclass)"
 permalink: /apps/ios/com.daimler.bclass.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/9c/1b/2f9c1baf-0b54-a290-478a-3ef878bfbb48/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/9c/1b/2f9c1baf-0b54-a290-478a-3ef878bfbb48/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-Guides (com.daimler.bclass) AppScan description of the content of the iOS application Guides (com.daimler.bclass). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Guides (com.daimler.bclass). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Guides (com.daimler.bclass)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2f/9c/1b/2f9c1baf-0b54-a290-478a-3ef878bfbb48/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Guides (com.daimler.bclass
 
 **BundleId:** com.daimler.bclass
 **App Version:** 3.7.0
 **App Name:** Guides
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 33
 **Public keys:** 7
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -37,14 +48,13 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
-- Storage: 2 lib(s)
 - Tools: 1 lib(s)
+- Storage: 2 lib(s)
 - Network: 2 lib(s)
-
 
 **Apple dylibs:**
 
@@ -53,5 +63,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

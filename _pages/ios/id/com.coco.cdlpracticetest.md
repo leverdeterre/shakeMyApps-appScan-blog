@@ -3,47 +3,56 @@ title: "CDL (com.coco.cdlpracticetest)"
 permalink: /apps/ios/com.coco.cdlpracticetest.html
 layout: single
 author_profile: false
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/94/3c/c6/943cc602-0ef6-2be0-db48-1e6a67821d1d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/10/3a/09/103a0940-1397-b816-a1d6-14f22702a95b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/94/3c/c6/943cc602-0ef6-2be0-db48-1e6a67821d1d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/10/3a/09/103a0940-1397-b816-a1d6-14f22702a95b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-CDL (com.coco.cdlpracticetest) AppScan description of the content of the iOS application CDL (com.coco.cdlpracticetest). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application CDL (com.coco.cdlpracticetest). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# CDL (com.coco.cdlpracticetest)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/10/3a/09/103a0940-1397-b816-a1d6-14f22702a95b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# CDL (com.coco.cdlpracticetest
 
 **BundleId:** com.coco.cdlpracticetest
-**App Version:** 3.4
+**App Version:** 3.5
 **App Name:** CDL
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSUserTrackingUsageDescription
-  
-  
+**Number of permissions:** 1
 **Private keys:** 29
 **Public keys:** 4
-**Custom keys:** 3
+**Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 2
 Native App
 supported devices iPhone & iPad
-build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
 - Tools: 3 lib(s)
-
 
 **Apple dylibs:**
 
@@ -77,9 +86,8 @@ SwiftUI
 - MetricKit
 - SwiftUI
 - UserNotifications
-- CoreData
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

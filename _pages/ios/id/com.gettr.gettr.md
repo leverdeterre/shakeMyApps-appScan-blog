@@ -3,64 +3,66 @@ title: "Gettr (com.gettr.gettr)"
 permalink: /apps/ios/com.gettr.gettr.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/06/bf/d4/06bfd4cc-4272-4ce2-d9ce-aa77be3cac05/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/06/bf/d4/06bfd4cc-4272-4ce2-d9ce-aa77be3cac05/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-Gettr (com.gettr.gettr) AppScan description of the content of the iOS application Gettr (com.gettr.gettr). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Gettr (com.gettr.gettr). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Gettr (com.gettr.gettr)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/06/bf/d4/06bfd4cc-4272-4ce2-d9ce-aa77be3cac05/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Gettr (com.gettr.gettr
 
 **BundleId:** com.gettr.gettr
 **App Version:** 1.6.24
 **App Name:** Gettr
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSPhotoLibraryUsageDescription
-- NSBluetoothPeripheralUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSMicrophoneUsageDescription
-- NSBluetoothAlwaysUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSCameraUsageDescription
-- NSAppleMusicUsageDescription
-- NSFaceIDUsageDescription
-  
-  
+**Number of permissions:** 9
 **Private keys:** 33
 **Public keys:** 9
 **Custom keys:** 15
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 142
-- Logs: 1 lib(s)
-- Tracking: 3 lib(s)
 - Storage: 4 lib(s)
-- Tools: 31 lib(s)
 - UI: 6 lib(s)
+- Tools: 31 lib(s)
 - Network: 3 lib(s)
+- Logs: 1 lib(s)
 - Crash: 1 lib(s)
-
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -129,5 +131,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

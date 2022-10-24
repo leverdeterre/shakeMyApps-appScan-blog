@@ -3,31 +3,57 @@ title: "MMCalendarU (com.naing.mmcalendar)"
 permalink: /apps/ios/com.naing.mmcalendar.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/88/b8/62/88b8625e-1dce-ac91-5aa1-13d6058bb4cd/AppIcon-1x_U007emarketing-85-220-0-6.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/88/b8/62/88b8625e-1dce-ac91-5aa1-13d6058bb4cd/AppIcon-1x_U007emarketing-85-220-0-6.png/512x512bb.jpg
 ---
-MMCalendarU (com.naing.mmcalendar) AppScan description of the content of the iOS application MMCalendarU (com.naing.mmcalendar). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application MMCalendarU (com.naing.mmcalendar). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# MMCalendarU (com.naing.mmcalendar)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/88/b8/62/88b8625e-1dce-ac91-5aa1-13d6058bb4cd/AppIcon-1x_U007emarketing-85-220-0-6.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# MMCalendarU (com.naing.mmcalendar
 
 **BundleId:** com.naing.mmcalendar
 **App Version:** 1.1.3
 **App Name:** MMCalendarU
 
 
+## AppScore : 4.10 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-  
-  
+**Number of permissions:** 0
 **Private keys:** 31
 **Public keys:** 6
 **Custom keys:** 0
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
@@ -36,14 +62,13 @@ supported devices iPhone & iPad
 contains 1 App extensions
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
-- Tools: 3 lib(s)
-- UI: 1 lib(s)
 - Network: 1 lib(s)
-
+- UI: 1 lib(s)
+- Tools: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -52,5 +77,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

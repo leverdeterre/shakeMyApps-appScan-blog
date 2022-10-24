@@ -3,56 +3,61 @@ title: "TinyTap (com.27dv.tinytap)"
 permalink: /apps/ios/com.27dv.tinytap.html
 layout: single
 author_profile: false
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/50/11/62/50116288-e8d4-7a89-03e9-954358a21b63/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/50/11/62/50116288-e8d4-7a89-03e9-954358a21b63/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-TinyTap (com.27dv.tinytap) AppScan description of the content of the iOS application TinyTap (com.27dv.tinytap). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application TinyTap (com.27dv.tinytap). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# TinyTap (com.27dv.tinytap)
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/50/11/62/50116288-e8d4-7a89-03e9-954358a21b63/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+  
+# TinyTap (com.27dv.tinytap
 
 **BundleId:** com.27dv.tinytap
 **App Version:** 4.2.10
 **App Name:** TinyTap
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSMicrophoneUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSPhotoLibraryAddUsageDescription
-- NSCameraUsageDescription
-- NSCalendarsUsageDescription
-- NSSpeechRecognitionUsageDescription
-  
-  
+**Number of permissions:** 6
 **Private keys:** 34
 **Public keys:** 12
 **Custom keys:** 29
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 14
-Facebook Login detected
-Google Login detected
+FacebookLogin detected
+GoogleLogin detected
 supported devices iPhone & iPad
 contains 1 App extensions
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-- Tools: 2 lib(s)
 - UI: 1 lib(s)
-
+- Tools: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -112,5 +117,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 

@@ -3,43 +3,48 @@ title: "Hily (com.hily.ios)"
 permalink: /apps/ios/com.hily.ios.html
 layout: single
 author_profile: false
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/93/02/73/93027323-c76f-9817-ca25-e6451fb8505f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg
+categories: 
+  - ios app 
+  - Product 
+
+tags: 
+  - ios app 
+  - Product 
+
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d9/86/42/d98642c6-1cd7-b824-984c-bdf08891f1a9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/93/02/73/93027323-c76f-9817-ca25-e6451fb8505f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d9/86/42/d98642c6-1cd7-b824-984c-bdf08891f1a9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg
 ---
-Hily (com.hily.ios) AppScan description of the content of the iOS application Hily (com.hily.ios). This analysis is based on the Mobile App Tools : AppScore, static analysis, Audit and the Mobile Audit App Tool.
+AppScan generated a spoiler description of the content of the iOS application Hily (com.hily.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Hily (com.hily.ios)
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d9/86/42/d98642c6-1cd7-b824-984c-bdf08891f1a9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+  
+# Hily (com.hily.ios
 
 **BundleId:** com.hily.ios
-**App Version:** 5.61.0
+**App Version:** 5.61.1
 **App Name:** Hily
 
 
+[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+  
 ## AppScan informations 
 
-**List of permissions:** 
-- NSBluetoothPeripheralUsageDescription
-- NSUserTrackingUsageDescription
-- NSPhotoLibraryUsageDescription
-- NSCameraUsageDescription
-- NSLocationWhenInUseUsageDescription
-- NSMicrophoneUsageDescription
-- NSBluetoothAlwaysUsageDescription
-  
-  
+**Number of permissions:** 7
 **Private keys:** 30
 **Public keys:** 8
 **Custom keys:** 23
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Cool Facts
 
 Number of entitlements detected: 7
-Facebook Login detected
+FacebookLogin detected
 Native App
 supported devices iPhone & iPad
 build using Xcode 13
@@ -49,16 +54,15 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info }
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
 ## Librairies 
 **Number of Third Party Library detected:** 52
-- Tools: 9 lib(s)
-- Crash: 1 lib(s)
 - Network: 4 lib(s)
 - Tracking: 5 lib(s)
 - UI: 1 lib(s)
-
+- Crash: 1 lib(s)
+- Tools: 9 lib(s)
 
 **Apple dylibs:**
 
@@ -108,5 +112,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+[Get more details](/pricing.html){: .btn .btn--info .align-center}
 
