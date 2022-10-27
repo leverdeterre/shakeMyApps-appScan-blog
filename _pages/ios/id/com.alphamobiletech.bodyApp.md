@@ -3,14 +3,6 @@ title: "BodyApp (com.alphamobiletech.bodyApp)"
 permalink: /apps/ios/com.alphamobiletech.bodyApp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/29/d3/7e/29d37e33-2aa9-e891-87f4-bcca8c833033/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Bo
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/29/d3/7e/29d37e33-2aa9-e891-87f4-bcca8c833033/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/29/d3/7e/29d37e33-2aa9-e891-87f4-bcca8c833033/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="BodyApp com.alphamobiletech.bodyApp app icon"></div></br>
   
-# BodyApp (com.alphamobiletech.bodyApp
+# BodyApp (com.alphamobiletech.bodyApp)
 
 **BundleId:** com.alphamobiletech.bodyApp
 **App Version:** 2.1.3
 **App Name:** BodyApp
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.43 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Bo
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -49,7 +55,7 @@ Native App
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -124,5 +130,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

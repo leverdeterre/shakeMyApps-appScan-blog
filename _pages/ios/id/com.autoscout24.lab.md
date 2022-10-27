@@ -3,33 +3,39 @@ title: "AutoScout24 (com.autoscout24.lab)"
 permalink: /apps/ios/com.autoscout24.lab.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/81/03/0d81034f-83ff-1ed3-1fbd-8da354e96da8/AppIcon-Live-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/83/34/8d/83348dd3-8aee-a163-b959-03eda2d04449/AppIcon-Live-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/81/03/0d81034f-83ff-1ed3-1fbd-8da354e96da8/AppIcon-Live-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/83/34/8d/83348dd3-8aee-a163-b959-03eda2d04449/AppIcon-Live-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application AutoScout24 (com.autoscout24.lab). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/81/03/0d81034f-83ff-1ed3-1fbd-8da354e96da8/AppIcon-Live-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/83/34/8d/83348dd3-8aee-a163-b959-03eda2d04449/AppIcon-Live-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="AutoScout24 com.autoscout24.lab app icon"></div></br>
   
-# AutoScout24 (com.autoscout24.lab
+# AutoScout24 (com.autoscout24.lab)
 
 **BundleId:** com.autoscout24.lab
 **App Version:** 14.3.1
 **App Name:** AutoScout24
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.49 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Au
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -52,7 +58,7 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
@@ -107,5 +113,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

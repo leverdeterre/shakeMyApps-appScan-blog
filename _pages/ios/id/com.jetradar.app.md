@@ -3,14 +3,6 @@ title: "WayAway (com.jetradar.app)"
 permalink: /apps/ios/com.jetradar.app.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/83/f1/4c83f1a8-bf08-2429-e3ab-b4cc01f1014a/AppIconWA-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/83/f1/4c83f1a8-bf08-2429-e3ab-b4cc01f1014a/AppIconWA-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/4c/83/f1/4c83f1a8-bf08-2429-e3ab-b4cc01f1014a/AppIconWA-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="WayAway com.jetradar.app app icon"></div></br>
   
-# WayAway (com.jetradar.app
+# WayAway (com.jetradar.app)
 
 **BundleId:** com.jetradar.app
 **App Version:** 7.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 **Custom keys:** 22
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -69,12 +61,12 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
-- Tools: 1 lib(s)
 - UI: 1 lib(s)
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -135,5 +127,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

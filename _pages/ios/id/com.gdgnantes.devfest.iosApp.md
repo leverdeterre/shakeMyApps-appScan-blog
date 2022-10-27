@@ -3,14 +3,6 @@ title: "DevFest Nantes (com.gdgnantes.devfest.iosApp)"
 permalink: /apps/ios/com.gdgnantes.devfest.iosApp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/64/93/48/649348b0-f9c4-3612-ff47-42738d427669/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application De
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/64/93/48/649348b0-f9c4-3612-ff47-42738d427669/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/64/93/48/649348b0-f9c4-3612-ff47-42738d427669/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="DevFest Nantes com.gdgnantes.devfest.iosApp app icon"></div></br>
   
-# DevFest Nantes (com.gdgnantes.devfest.iosApp
+# DevFest Nantes (com.gdgnantes.devfest.iosApp)
 
 **BundleId:** com.gdgnantes.devfest.iosApp
 **App Version:** 1.0.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application De
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application De
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,14 +54,14 @@ Native App
 supported devices iPhone & iPad
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- Tracking: 2 lib(s)
 - Tools: 7 lib(s)
-- Crash: 1 lib(s)
+- Tracking: 2 lib(s)
 - Logs: 1 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -89,5 +81,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

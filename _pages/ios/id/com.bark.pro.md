@@ -3,14 +3,6 @@ title: "Bark (com.bark.pro)"
 permalink: /apps/ios/com.bark.pro.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b6/51/c9/b651c972-1a7e-a1d5-0e33-6da9a583621e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b6/51/c9/b651c972-1a7e-a1d5-0e33-6da9a583621e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b6/51/c9/b651c972-1a7e-a1d5-0e33-6da9a583621e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Bark com.bark.pro app icon"></div></br>
   
-# Bark (com.bark.pro
+# Bark (com.bark.pro)
 
 **BundleId:** com.bark.pro
 **App Version:** 8.0.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 **Custom keys:** 9
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,7 +55,7 @@ build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -113,5 +105,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

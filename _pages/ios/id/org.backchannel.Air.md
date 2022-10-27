@@ -3,14 +3,6 @@ title: "Air Quality (org.backchannel.Air)"
 permalink: /apps/ios/org.backchannel.Air.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/83/a6/ac/83a6ac98-342f-830b-cabd-cc866f356f71/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ai
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/83/a6/ac/83a6ac98-342f-830b-cabd-cc866f356f71/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/83/a6/ac/83a6ac98-342f-830b-cabd-cc866f356f71/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Air Quality org.backchannel.Air app icon"></div></br>
   
-# Air Quality (org.backchannel.Air
+# Air Quality (org.backchannel.Air)
 
 **BundleId:** org.backchannel.Air
 **App Version:** 1.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ai
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ai
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ contains 1 App extensions
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -88,5 +80,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

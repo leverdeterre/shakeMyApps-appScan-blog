@@ -3,14 +3,6 @@ title: "717 Parking (us.parkmobile.717Parking)"
 permalink: /apps/ios/us.parkmobile.717Parking.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/95/c0/32/95c032e1-e3da-ea0e-2891-36cabfe44ef6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application 71
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/95/c0/32/95c032e1-e3da-ea0e-2891-36cabfe44ef6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/95/c0/32/95c032e1-e3da-ea0e-2891-36cabfe44ef6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="717 Parking us.parkmobile.717Parking app icon"></div></br>
   
-# 717 Parking (us.parkmobile.717Parking
+# 717 Parking (us.parkmobile.717Parking)
 
 **BundleId:** us.parkmobile.717Parking
 **App Version:** 9.17.3
 **App Name:** 717 Parking
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.28 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application 71
 **Custom keys:** 16
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -51,15 +57,15 @@ build using Xcode 13
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
 - Tracking: 4 lib(s)
-- Network: 2 lib(s)
 - Tools: 11 lib(s)
-- Crash: 1 lib(s)
+- Network: 2 lib(s)
 - Logs: 1 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -105,5 +111,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

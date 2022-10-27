@@ -3,14 +3,6 @@ title: "English (com.mobisystems.WordNet)"
 permalink: /apps/ios/com.mobisystems.WordNet.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/ec/e4/24/ece4240b-6030-8f19-4e6d-273d1e414171/AppIcon-1x_U007emarketing-85-220-0-6.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application En
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/ec/e4/24/ece4240b-6030-8f19-4e6d-273d1e414171/AppIcon-1x_U007emarketing-85-220-0-6.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/ec/e4/24/ece4240b-6030-8f19-4e6d-273d1e414171/AppIcon-1x_U007emarketing-85-220-0-6.png/512x512bb.jpg" width="100" height="100" alt="English com.mobisystems.WordNet app icon"></div></br>
   
-# English (com.mobisystems.WordNet
+# English (com.mobisystems.WordNet)
 
 **BundleId:** com.mobisystems.WordNet
 **App Version:** 10.0.13
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application En
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application En
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ supported devices iPhone & iPad
 support multiple languages
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -74,5 +66,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "WRAL Weather (com.cbcnm.iapp.now.wralwx)"
 permalink: /apps/ios/com.cbcnm.iapp.now.wralwx.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/11/59/3b/11593b37-2b97-126a-bbb6-fde6ad3da472/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application WR
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/11/59/3b/11593b37-2b97-126a-bbb6-fde6ad3da472/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/11/59/3b/11593b37-2b97-126a-bbb6-fde6ad3da472/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="WRAL Weather com.cbcnm.iapp.now.wralwx app icon"></div></br>
   
-# WRAL Weather (com.cbcnm.iapp.now.wralwx
+# WRAL Weather (com.cbcnm.iapp.now.wralwx)
 
 **BundleId:** com.cbcnm.iapp.now.wralwx
 **App Version:** 5.9.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application WR
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application WR
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
@@ -73,5 +65,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

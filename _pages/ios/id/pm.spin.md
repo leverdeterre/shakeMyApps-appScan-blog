@@ -3,14 +3,6 @@ title: "Spin (pm.spin)"
 permalink: /apps/ios/pm.spin.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/15/d4/ac/15d4ac5e-1a29-29c5-1c64-fdf61ebc8f0c/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/15/d4/ac/15d4ac5e-1a29-29c5-1c64-fdf61ebc8f0c/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/15/d4/ac/15d4ac5e-1a29-29c5-1c64-fdf61ebc8f0c/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Spin pm.spin app icon"></div></br>
   
-# Spin (pm.spin
+# Spin (pm.spin)
 
 **BundleId:** pm.spin
 **App Version:** 2.68.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 **Custom keys:** 18
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
@@ -123,5 +115,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

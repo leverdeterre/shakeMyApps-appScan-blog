@@ -3,14 +3,6 @@ title: "Race Monitor (com.karttuner.RaceMonitor)"
 permalink: /apps/ios/com.karttuner.RaceMonitor.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/75/90/1d/75901d3b-e9ae-6894-987a-70d4b776a821/AppIcon-0-0-1x_U007emarketing-0-0-0-4-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/75/90/1d/75901d3b-e9ae-6894-987a-70d4b776a821/AppIcon-0-0-1x_U007emarketing-0-0-0-4-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/75/90/1d/75901d3b-e9ae-6894-987a-70d4b776a821/AppIcon-0-0-1x_U007emarketing-0-0-0-4-85-220.png/512x512bb.jpg" width="100" height="100" alt="Race Monitor com.karttuner.RaceMonitor app icon"></div></br>
   
-# Race Monitor (com.karttuner.RaceMonitor
+# Race Monitor (com.karttuner.RaceMonitor)
 
 **BundleId:** com.karttuner.RaceMonitor
 **App Version:** 2.5.12
 **App Name:** Race Monitor
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.14 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -47,7 +53,7 @@ Native App
 supported devices iPhone & iPad
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -59,5 +65,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

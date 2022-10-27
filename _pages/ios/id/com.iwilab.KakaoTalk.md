@@ -3,14 +3,6 @@ title: "KakaoTalk (com.iwilab.KakaoTalk)"
 permalink: /apps/ios/com.iwilab.KakaoTalk.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/a2/1c/3ca21c76-e1d7-9207-a689-e7720f1c2850/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Ka
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/a2/1c/3ca21c76-e1d7-9207-a689-e7720f1c2850/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/a2/1c/3ca21c76-e1d7-9207-a689-e7720f1c2850/AppIcon-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="KakaoTalk com.iwilab.KakaoTalk app icon"></div></br>
   
-# KakaoTalk (com.iwilab.KakaoTalk
+# KakaoTalk (com.iwilab.KakaoTalk)
 
 **BundleId:** com.iwilab.KakaoTalk
 **App Version:** 9.9.7
 **App Name:** KakaoTalk
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.61 (⭐️⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ka
 **Custom keys:** 39
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,7 +59,7 @@ at least 3 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 39
@@ -134,5 +140,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

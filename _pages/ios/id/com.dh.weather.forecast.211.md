@@ -3,14 +3,6 @@ title: "Weather forecast realtime (com.dh.weather.forecast.211)"
 permalink: /apps/ios/com.dh.weather.forecast.211.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/9f/15/69/9f156968-5056-a83f-d3be-3a67188ad774/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application We
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/9f/15/69/9f156968-5056-a83f-d3be-3a67188ad774/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/9f/15/69/9f156968-5056-a83f-d3be-3a67188ad774/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="Weather forecast realtime com.dh.weather.forecast.211 app icon"></div></br>
   
-# Weather forecast realtime (com.dh.weather.forecast.211
+# Weather forecast realtime (com.dh.weather.forecast.211)
 
 **BundleId:** com.dh.weather.forecast.211
 **App Version:** 1.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application We
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application We
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,13 +54,13 @@ supported devices iPhone & iPad
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
 - Tools: 2 lib(s)
-- UI: 1 lib(s)
 - Network: 3 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -77,5 +69,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

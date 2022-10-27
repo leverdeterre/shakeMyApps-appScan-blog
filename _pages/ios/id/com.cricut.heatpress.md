@@ -3,14 +3,6 @@ title: "Cricut Heat (com.cricut.heatpress)"
 permalink: /apps/ios/com.cricut.heatpress.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/89/79/c4/8979c40b-acaa-8049-ca68-fdfcb87ec961/AppIcon-0-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Cr
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/89/79/c4/8979c40b-acaa-8049-ca68-fdfcb87ec961/AppIcon-0-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/89/79/c4/8979c40b-acaa-8049-ca68-fdfcb87ec961/AppIcon-0-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Cricut Heat com.cricut.heatpress app icon"></div></br>
   
-# Cricut Heat (com.cricut.heatpress
+# Cricut Heat (com.cricut.heatpress)
 
 **BundleId:** com.cricut.heatpress
 **App Version:** 1.1.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Cr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Cr
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -100,5 +92,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

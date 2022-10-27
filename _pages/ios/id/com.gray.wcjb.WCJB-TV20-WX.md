@@ -3,14 +3,6 @@ title: "WCJB TV20 WX (com.gray.wcjb.WCJB-TV20-WX)"
 permalink: /apps/ios/com.gray.wcjb.WCJB-TV20-WX.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/01/9a/bc019af1-a803-032e-9815-2a815cdbb7cd/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application WC
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/01/9a/bc019af1-a803-032e-9815-2a815cdbb7cd/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/01/9a/bc019af1-a803-032e-9815-2a815cdbb7cd/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="WCJB TV20 WX com.gray.wcjb.WCJB-TV20-WX app icon"></div></br>
   
-# WCJB TV20 WX (com.gray.wcjb.WCJB-TV20-WX
+# WCJB TV20 WX (com.gray.wcjb.WCJB-TV20-WX)
 
 **BundleId:** com.gray.wcjb.WCJB-TV20-WX
 **App Version:** 5.6.510
 **App Name:** WCJB TV20 WX
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.34 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application WC
 **Custom keys:** 20
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -48,14 +54,14 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Tracking: 2 lib(s)
-- Crash: 1 lib(s)
-- UI: 2 lib(s)
 - Tools: 9 lib(s)
+- UI: 2 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -98,5 +104,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

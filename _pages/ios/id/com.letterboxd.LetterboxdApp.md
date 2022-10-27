@@ -3,14 +3,6 @@ title: "Letterboxd (com.letterboxd.LetterboxdApp)"
 permalink: /apps/ios/com.letterboxd.LetterboxdApp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/82/e6/6f82e67e-e78b-1152-9ffa-0c4befe0f02d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Le
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/82/e6/6f82e67e-e78b-1152-9ffa-0c4befe0f02d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/6f/82/e6/6f82e67e-e78b-1152-9ffa-0c4befe0f02d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Letterboxd com.letterboxd.LetterboxdApp app icon"></div></br>
   
-# Letterboxd (com.letterboxd.LetterboxdApp
+# Letterboxd (com.letterboxd.LetterboxdApp)
 
 **BundleId:** com.letterboxd.LetterboxdApp
 **App Version:** 3.8.1
 **App Name:** Letterboxd
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.16 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -51,14 +57,14 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
-- Logs: 1 lib(s)
 - Tools: 6 lib(s)
-- UI: 2 lib(s)
 - Network: 2 lib(s)
+- Logs: 1 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -108,5 +114,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

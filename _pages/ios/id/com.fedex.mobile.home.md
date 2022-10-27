@@ -3,14 +3,6 @@ title: "FedEx (com.fedex.mobile.home)"
 permalink: /apps/ios/com.fedex.mobile.home.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/39/8e/a5/398ea5d2-b054-bc48-6e18-2e0ee3624cbd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fe
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/39/8e/a5/398ea5d2-b054-bc48-6e18-2e0ee3624cbd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/39/8e/a5/398ea5d2-b054-bc48-6e18-2e0ee3624cbd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="FedEx com.fedex.mobile.home app icon"></div></br>
   
-# FedEx (com.fedex.mobile.home
+# FedEx (com.fedex.mobile.home)
 
 **BundleId:** com.fedex.mobile.home
 **App Version:** 7.0.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fe
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fe
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,14 +58,14 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 34
-- UI: 1 lib(s)
-- Crash: 1 lib(s)
 - Tools: 13 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 4 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -124,5 +116,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

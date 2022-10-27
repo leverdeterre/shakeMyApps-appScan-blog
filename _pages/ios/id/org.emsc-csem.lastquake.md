@@ -3,14 +3,6 @@ title: "LastQuake (org.emsc-csem.lastquake)"
 permalink: /apps/ios/org.emsc-csem.lastquake.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/41/2d/f0/412df0e7-b471-188a-60ec-96750cfbc085/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application La
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/41/2d/f0/412df0e7-b471-188a-60ec-96750cfbc085/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/41/2d/f0/412df0e7-b471-188a-60ec-96750cfbc085/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="LastQuake org.emsc-csem.lastquake app icon"></div></br>
   
-# LastQuake (org.emsc-csem.lastquake
+# LastQuake (org.emsc-csem.lastquake)
 
 **BundleId:** org.emsc-csem.lastquake
 **App Version:** 2.5.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application La
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application La
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -98,5 +90,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

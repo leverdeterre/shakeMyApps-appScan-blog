@@ -3,14 +3,6 @@ title: "MusicSync (com.mobchang.PlayDirve)"
 permalink: /apps/ios/com.mobchang.PlayDirve.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/86/19/43/86194309-4918-7ec4-038f-f64e5f419386/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Mu
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/86/19/43/86194309-4918-7ec4-038f-f64e5f419386/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/86/19/43/86194309-4918-7ec4-038f-f64e5f419386/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="MusicSync com.mobchang.PlayDirve app icon"></div></br>
   
-# MusicSync (com.mobchang.PlayDirve
+# MusicSync (com.mobchang.PlayDirve)
 
 **BundleId:** com.mobchang.PlayDirve
 **App Version:** 1.0.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Mu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Mu
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,14 +55,14 @@ GoogleLogin detected
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
-- Tracking: 3 lib(s)
-- Tools: 14 lib(s)
-- UI: 3 lib(s)
 - Network: 2 lib(s)
+- Tracking: 3 lib(s)
+- UI: 3 lib(s)
+- Tools: 14 lib(s)
 - Storage: 1 lib(s)
 
 **Apple dylibs:**
@@ -113,5 +105,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

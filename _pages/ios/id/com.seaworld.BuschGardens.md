@@ -3,14 +3,6 @@ title: "Busch Gardens (com.seaworld.BuschGardens)"
 permalink: /apps/ios/com.seaworld.BuschGardens.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/bd/94/f6bd94f8-45c5-619f-cfa9-1bda6c77a10b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Bu
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/bd/94/f6bd94f8-45c5-619f-cfa9-1bda6c77a10b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f6/bd/94/f6bd94f8-45c5-619f-cfa9-1bda6c77a10b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Busch Gardens com.seaworld.BuschGardens app icon"></div></br>
   
-# Busch Gardens (com.seaworld.BuschGardens
+# Busch Gardens (com.seaworld.BuschGardens)
 
 **BundleId:** com.seaworld.BuschGardens
 **App Version:** 7.0.18
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Bu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Bu
 **Custom keys:** 28
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
@@ -103,5 +95,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

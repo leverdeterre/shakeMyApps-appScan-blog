@@ -3,14 +3,6 @@ title: "SnapCalc (com.apalonapps.cameracalculator)"
 permalink: /apps/ios/com.apalonapps.cameracalculator.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/ee/e5/7aeee540-9c07-df8e-8c7c-c38a379ba189/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Sn
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/ee/e5/7aeee540-9c07-df8e-8c7c-c38a379ba189/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/ee/e5/7aeee540-9c07-df8e-8c7c-c38a379ba189/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="SnapCalc com.apalonapps.cameracalculator app icon"></div></br>
   
-# SnapCalc (com.apalonapps.cameracalculator
+# SnapCalc (com.apalonapps.cameracalculator)
 
 **BundleId:** com.apalonapps.cameracalculator
 **App Version:** 1.44.1
 **App Name:** SnapCalc
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.33 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sn
 **Custom keys:** 17
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -50,7 +56,7 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
@@ -112,5 +118,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

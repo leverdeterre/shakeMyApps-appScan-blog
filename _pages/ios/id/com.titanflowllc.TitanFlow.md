@@ -3,14 +3,6 @@ title: "TitanFlow (com.titanflowllc.TitanFlow)"
 permalink: /apps/ios/com.titanflowllc.TitanFlow.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/47/08/58/470858d4-cbd0-f7e1-f386-14cbaeb39c0d/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/47/08/58/470858d4-cbd0-f7e1-f386-14cbaeb39c0d/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/47/08/58/470858d4-cbd0-f7e1-f386-14cbaeb39c0d/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="TitanFlow com.titanflowllc.TitanFlow app icon"></div></br>
   
-# TitanFlow (com.titanflowllc.TitanFlow
+# TitanFlow (com.titanflowllc.TitanFlow)
 
 **BundleId:** com.titanflowllc.TitanFlow
 **App Version:** 2.2.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 **Custom keys:** 11
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,7 +57,7 @@ contains 2 App extensions
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -101,5 +93,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

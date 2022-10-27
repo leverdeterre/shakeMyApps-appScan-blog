@@ -3,18 +3,10 @@ title: "Scout Team (com.scoutible.ScoutibleGame2)"
 permalink: /apps/ios/com.scoutible.ScoutibleGame2.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Scout Team (com.scoutible.ScoutibleGame2). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Scout Team (com.scoutible.ScoutibleGame2
+# Scout Team (com.scoutible.ScoutibleGame2)
 
 **BundleId:** com.scoutible.ScoutibleGame2
 **App Version:** 0.2.0
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Sc
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Sc
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,7 +45,7 @@ Number of entitlements detected: 3
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -88,5 +80,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

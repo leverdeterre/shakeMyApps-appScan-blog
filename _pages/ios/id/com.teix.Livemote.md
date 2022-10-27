@@ -3,14 +3,6 @@ title: "TélécOrange (com.teix.Livemote)"
 permalink: /apps/ios/com.teix.Livemote.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/99/b3/f699b374-d028-3dee-6ca7-7083c7b9d271/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application T�
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/99/b3/f699b374-d028-3dee-6ca7-7083c7b9d271/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/99/b3/f699b374-d028-3dee-6ca7-7083c7b9d271/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="TélécOrange com.teix.Livemote app icon"></div></br>
   
-# TélécOrange (com.teix.Livemote
+# TélécOrange (com.teix.Livemote)
 
 **BundleId:** com.teix.Livemote
 **App Version:** 5.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application T�
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application T�
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ FacebookLogin detected
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -73,5 +65,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

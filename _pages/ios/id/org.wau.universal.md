@@ -3,14 +3,6 @@ title: "WAU Mass (org.wau.universal)"
 permalink: /apps/ios/org.wau.universal.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/b3/23/ecb3231c-c24c-718d-2282-1c0c89bc8f7d/AppIconRedesign-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application WA
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/b3/23/ecb3231c-c24c-718d-2282-1c0c89bc8f7d/AppIconRedesign-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/b3/23/ecb3231c-c24c-718d-2282-1c0c89bc8f7d/AppIconRedesign-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="WAU Mass org.wau.universal app icon"></div></br>
   
-# WAU Mass (org.wau.universal
+# WAU Mass (org.wau.universal)
 
 **BundleId:** org.wau.universal
 **App Version:** 2.0.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application WA
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application WA
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,13 +56,13 @@ build using Xcode 13
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
 - Crash: 1 lib(s)
-- Tracking: 2 lib(s)
 - Tools: 9 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -107,5 +99,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

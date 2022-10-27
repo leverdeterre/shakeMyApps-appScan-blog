@@ -3,14 +3,6 @@ title: "MAIF (fr.maif.maif)"
 permalink: /apps/ios/fr.maif.maif.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/2e/4a/d42e4ac8-1409-ecd1-60b6-4bad7e10288a/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application MA
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/2e/4a/d42e4ac8-1409-ecd1-60b6-4bad7e10288a/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d4/2e/4a/d42e4ac8-1409-ecd1-60b6-4bad7e10288a/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="MAIF fr.maif.maif app icon"></div></br>
   
-# MAIF (fr.maif.maif
+# MAIF (fr.maif.maif)
 
 **BundleId:** fr.maif.maif
 **App Version:** 10.1.3
 **App Name:** MAIF
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.60 (⭐️⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application MA
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -52,7 +58,7 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -102,5 +108,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

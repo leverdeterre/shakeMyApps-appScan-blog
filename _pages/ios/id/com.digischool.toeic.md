@@ -3,14 +3,6 @@ title: "TOEIC® Test (com.digischool.toeic)"
 permalink: /apps/ios/com.digischool.toeic.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/eb/f7/45/ebf74548-5ddc-4d51-60b3-ce19cb960474/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application TO
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/eb/f7/45/ebf74548-5ddc-4d51-60b3-ce19cb960474/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/eb/f7/45/ebf74548-5ddc-4d51-60b3-ce19cb960474/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="TOEIC® Test com.digischool.toeic app icon"></div></br>
   
-# TOEIC® Test (com.digischool.toeic
+# TOEIC® Test (com.digischool.toeic)
 
 **BundleId:** com.digischool.toeic
 **App Version:** 1.17.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application TO
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application TO
 **Custom keys:** 7
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,7 +57,7 @@ supported devices iPhone & iPad
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
@@ -100,5 +92,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

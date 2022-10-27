@@ -3,33 +3,39 @@ title: "Adaptivity (com.hacknicity.adaptivity.c)"
 permalink: /apps/ios/com.hacknicity.adaptivity.c.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/00/d2/d900d269-7708-ec6f-053c-4a0437c89257/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/86/fb/1c/86fb1cf7-e0e2-db6a-ec5d-66698be7f777/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/00/d2/d900d269-7708-ec6f-053c-4a0437c89257/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/86/fb/1c/86fb1cf7-e0e2-db6a-ec5d-66698be7f777/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Adaptivity (com.hacknicity.adaptivity.c). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/00/d2/d900d269-7708-ec6f-053c-4a0437c89257/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/86/fb/1c/86fb1cf7-e0e2-db6a-ec5d-66698be7f777/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Adaptivity com.hacknicity.adaptivity.c app icon"></div></br>
   
-# Adaptivity (com.hacknicity.adaptivity.c
+# Adaptivity (com.hacknicity.adaptivity.c)
 
 **BundleId:** com.hacknicity.adaptivity.c
 **App Version:** 9.0
 **App Name:** Adaptivity
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.37 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application Ad
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -68,5 +74,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

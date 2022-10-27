@@ -3,14 +3,6 @@ title: "Strike (com.jackmallers.Strike)"
 permalink: /apps/ios/com.jackmallers.Strike.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/4e/91/2c/4e912c76-6efb-bd30-c155-70ae4037169a/AppIcon-Live-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application St
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/4e/91/2c/4e912c76-6efb-bd30-c155-70ae4037169a/AppIcon-Live-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/4e/91/2c/4e912c76-6efb-bd30-c155-70ae4037169a/AppIcon-Live-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Strike com.jackmallers.Strike app icon"></div></br>
   
-# Strike (com.jackmallers.Strike
+# Strike (com.jackmallers.Strike)
 
 **BundleId:** com.jackmallers.Strike
 **App Version:** 90.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application St
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application St
 **Custom keys:** 30
 **Low securit keys:** 7
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,14 +58,14 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
-- Crash: 1 lib(s)
-- UI: 1 lib(s)
-- Tools: 11 lib(s)
 - Tracking: 2 lib(s)
+- Crash: 1 lib(s)
+- Tools: 11 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -104,5 +96,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

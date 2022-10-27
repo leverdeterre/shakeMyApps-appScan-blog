@@ -3,14 +3,6 @@ title: "Pronext (com.pronext.pronext)"
 permalink: /apps/ios/com.pronext.pronext.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/39/8d/32/398d322f-22b1-791b-cf34-fe8e44f4cbac/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/39/8d/32/398d322f-22b1-791b-cf34-fe8e44f4cbac/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/39/8d/32/398d322f-22b1-791b-cf34-fe8e44f4cbac/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Pronext com.pronext.pronext app icon"></div></br>
   
-# Pronext (com.pronext.pronext
+# Pronext (com.pronext.pronext)
 
 **BundleId:** com.pronext.pronext
 **App Version:** 1.0.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Number of entitlements detected: 3
 GoogleLogin detected
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
@@ -101,5 +93,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

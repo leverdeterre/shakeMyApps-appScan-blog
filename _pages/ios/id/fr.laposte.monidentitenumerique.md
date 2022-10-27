@@ -3,14 +3,6 @@ title: "L'Identité Numérique (fr.laposte.monidentitenumerique)"
 permalink: /apps/ios/fr.laposte.monidentitenumerique.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/49/0c/a7/490ca7a5-9197-76f7-c0c3-6a7e14fa9db4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application L'
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/49/0c/a7/490ca7a5-9197-76f7-c0c3-6a7e14fa9db4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/49/0c/a7/490ca7a5-9197-76f7-c0c3-6a7e14fa9db4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="L'Identité Numérique fr.laposte.monidentitenumerique app icon"></div></br>
   
-# L'Identité Numérique (fr.laposte.monidentitenumerique
+# L'Identité Numérique (fr.laposte.monidentitenumerique)
 
 **BundleId:** fr.laposte.monidentitenumerique
 **App Version:** 2.6.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application L'
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application L'
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,16 +54,16 @@ Native App
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
 - Logs: 1 lib(s)
-- Tools: 11 lib(s)
-- UI: 2 lib(s)
 - Crash: 1 lib(s)
-- Network: 1 lib(s)
+- Tools: 11 lib(s)
 - Tracking: 3 lib(s)
+- UI: 2 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -108,5 +100,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

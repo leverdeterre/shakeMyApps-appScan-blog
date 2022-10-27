@@ -3,14 +3,6 @@ title: "Server Sidekick (app.serversidekick)"
 permalink: /apps/ios/app.serversidekick.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/a9/8e/c6/a98ec6c2-abd3-0825-68c8-664fc79233e2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Se
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/a9/8e/c6/a98ec6c2-abd3-0825-68c8-664fc79233e2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/a9/8e/c6/a98ec6c2-abd3-0825-68c8-664fc79233e2/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Server Sidekick app.serversidekick app icon"></div></br>
   
-# Server Sidekick (app.serversidekick
+# Server Sidekick (app.serversidekick)
 
 **BundleId:** app.serversidekick
 **App Version:** 1.4.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Se
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Se
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ GoogleLogin detected
 supported devices iPhone & iPad
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
@@ -114,5 +106,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

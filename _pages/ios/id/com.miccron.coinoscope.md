@@ -3,14 +3,6 @@ title: "Coinoscope (com.miccron.coinoscope)"
 permalink: /apps/ios/com.miccron.coinoscope.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/6b/78/d86b782f-7656-7ab7-31ae-a6c44dbf451b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Co
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/6b/78/d86b782f-7656-7ab7-31ae-a6c44dbf451b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/6b/78/d86b782f-7656-7ab7-31ae-a6c44dbf451b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Coinoscope com.miccron.coinoscope app icon"></div></br>
   
-# Coinoscope (com.miccron.coinoscope
+# Coinoscope (com.miccron.coinoscope)
 
 **BundleId:** com.miccron.coinoscope
 **App Version:** 1.5.3
 **App Name:** Coinoscope
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.21 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -49,14 +55,14 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
-- Network: 2 lib(s)
-- Tracking: 2 lib(s)
 - UI: 1 lib(s)
 - Tools: 6 lib(s)
+- Network: 2 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -114,5 +120,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

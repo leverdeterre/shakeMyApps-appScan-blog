@@ -3,14 +3,6 @@ title: "DAZN (com.dazn.theApp)"
 permalink: /apps/ios/com.dazn.theApp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/93/e7/1b/93e71b4e-82bf-55c8-7935-6b35ace97e15/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application DA
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/93/e7/1b/93e71b4e-82bf-55c8-7935-6b35ace97e15/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/93/e7/1b/93e71b4e-82bf-55c8-7935-6b35ace97e15/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="DAZN com.dazn.theApp app icon"></div></br>
   
-# DAZN (com.dazn.theApp
+# DAZN (com.dazn.theApp)
 
 **BundleId:** com.dazn.theApp
 **App Version:** 2.7.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application DA
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application DA
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,13 +57,13 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
 - Tools: 8 lib(s)
-- UI: 2 lib(s)
 - Tracking: 4 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -111,5 +103,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

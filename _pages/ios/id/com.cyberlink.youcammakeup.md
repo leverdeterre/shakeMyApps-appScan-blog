@@ -3,14 +3,6 @@ title: "YouCamMakeup (com.cyberlink.youcammakeup)"
 permalink: /apps/ios/com.cyberlink.youcammakeup.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/36/fc/2d36fcb5-29bf-7955-3ca5-eba5478dac44/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Yo
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/36/fc/2d36fcb5-29bf-7955-3ca5-eba5478dac44/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/36/fc/2d36fcb5-29bf-7955-3ca5-eba5478dac44/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="YouCamMakeup com.cyberlink.youcammakeup app icon"></div></br>
   
-# YouCamMakeup (com.cyberlink.youcammakeup
+# YouCamMakeup (com.cyberlink.youcammakeup)
 
 **BundleId:** com.cyberlink.youcammakeup
 **App Version:** 6.1.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Yo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Yo
 **Custom keys:** 52
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,15 +60,15 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
+- Network: 1 lib(s)
+- Tools: 6 lib(s)
 - Tracking: 1 lib(s)
 - Logs: 1 lib(s)
-- Network: 1 lib(s)
 - Storage: 3 lib(s)
-- Tools: 6 lib(s)
 - UI: 1 lib(s)
 
 **Apple dylibs:**
@@ -141,5 +133,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

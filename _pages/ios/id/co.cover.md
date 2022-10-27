@@ -3,14 +3,6 @@ title: "Clay (co.cover)"
 permalink: /apps/ios/co.cover.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/db/8f/85/db8f8510-7e7b-86bb-417f-775cf72f29af/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Cl
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/db/8f/85/db8f8510-7e7b-86bb-417f-775cf72f29af/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/db/8f/85/db8f8510-7e7b-86bb-417f-775cf72f29af/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Clay co.cover app icon"></div></br>
   
-# Clay (co.cover
+# Clay (co.cover)
 
 **BundleId:** co.cover
 **App Version:** 10.10.2
 **App Name:** Clay
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.08 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Cl
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -49,17 +55,17 @@ GoogleLogin detected
 supported devices iPhone & iPad
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 94
-- Tools: 23 lib(s)
-- UI: 1 lib(s)
+- Logs: 1 lib(s)
 - Tracking: 6 lib(s)
 - Storage: 5 lib(s)
-- Crash: 1 lib(s)
+- UI: 1 lib(s)
 - Network: 5 lib(s)
-- Logs: 1 lib(s)
+- Tools: 23 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -96,5 +102,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

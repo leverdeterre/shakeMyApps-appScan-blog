@@ -3,33 +3,39 @@ title: "GH Drivers (com.grubhub.delivery)"
 permalink: /apps/ios/com.grubhub.delivery.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/4f/2f/fa4f2fd8-07e2-d18a-561c-32a5dff46a56/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/24/07/67/240767f5-2014-3b85-8dc7-2954eb0caae0/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/4f/2f/fa4f2fd8-07e2-d18a-561c-32a5dff46a56/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/24/07/67/240767f5-2014-3b85-8dc7-2954eb0caae0/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application GH Drivers (com.grubhub.delivery). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/fa/4f/2f/fa4f2fd8-07e2-d18a-561c-32a5dff46a56/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/24/07/67/240767f5-2014-3b85-8dc7-2954eb0caae0/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="GH Drivers com.grubhub.delivery app icon"></div></br>
   
-# GH Drivers (com.grubhub.delivery
+# GH Drivers (com.grubhub.delivery)
 
 **BundleId:** com.grubhub.delivery
 **App Version:** 4.47
 **App Name:** GH Drivers
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 3.96 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application GH
 **Custom keys:** 40
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -48,14 +54,14 @@ Native App
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 64
+- Tracking: 7 lib(s)
 - Tools: 10 lib(s)
 - UI: 3 lib(s)
 - Network: 1 lib(s)
-- Tracking: 7 lib(s)
 
 **Apple dylibs:**
 
@@ -99,5 +105,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "FITE (com.flipps.fitetv)"
 permalink: /apps/ios/com.flipps.fitetv.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/ee/f4/2eeef485-a064-9e7f-552c-1ae1b5b026a1/AppIcon_FITE-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application FI
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/ee/f4/2eeef485-a064-9e7f-552c-1ae1b5b026a1/AppIcon_FITE-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/ee/f4/2eeef485-a064-9e7f-552c-1ae1b5b026a1/AppIcon_FITE-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="FITE com.flipps.fitetv app icon"></div></br>
   
-# FITE (com.flipps.fitetv
+# FITE (com.flipps.fitetv)
 
 **BundleId:** com.flipps.fitetv
 **App Version:** 6.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application FI
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application FI
 **Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,16 +60,16 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 63
-- Tools: 23 lib(s)
-- UI: 2 lib(s)
-- Logs: 1 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 5 lib(s)
+- Logs: 1 lib(s)
+- UI: 2 lib(s)
 - Network: 1 lib(s)
+- Tools: 23 lib(s)
 
 **Apple dylibs:**
 
@@ -129,5 +121,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

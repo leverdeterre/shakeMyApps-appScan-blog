@@ -3,14 +3,6 @@ title: "PharmaConsulting (com.goodbarber.pharmaconsulting)"
 permalink: /apps/ios/com.goodbarber.pharmaconsulting.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/93/2a/97/932a97a2-dd33-2d3a-6b6a-e42a5056bcd0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ph
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/93/2a/97/932a97a2-dd33-2d3a-6b6a-e42a5056bcd0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/93/2a/97/932a97a2-dd33-2d3a-6b6a-e42a5056bcd0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="PharmaConsulting com.goodbarber.pharmaconsulting app icon"></div></br>
   
-# PharmaConsulting (com.goodbarber.pharmaconsulting
+# PharmaConsulting (com.goodbarber.pharmaconsulting)
 
 **BundleId:** com.goodbarber.pharmaconsulting
 **App Version:** 1.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ph
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ph
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ build using Xcode 13
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
@@ -118,5 +110,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

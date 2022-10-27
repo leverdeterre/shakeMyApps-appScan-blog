@@ -3,33 +3,39 @@ title: "Figma (com.figma.FigmaMirror)"
 permalink: /apps/ios/com.figma.FigmaMirror.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/48/0f/c7480f32-2c30-57df-67f5-faeba66a63de/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/aa/13/1aaa13e8-8961-310d-4781-8c928f114ff2/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/48/0f/c7480f32-2c30-57df-67f5-faeba66a63de/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/aa/13/1aaa13e8-8961-310d-4781-8c928f114ff2/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Figma (com.figma.FigmaMirror). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/48/0f/c7480f32-2c30-57df-67f5-faeba66a63de/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/aa/13/1aaa13e8-8961-310d-4781-8c928f114ff2/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Figma com.figma.FigmaMirror app icon"></div></br>
   
-# Figma (com.figma.FigmaMirror
+# Figma (com.figma.FigmaMirror)
 
 **BundleId:** com.figma.FigmaMirror
 **App Version:** 22.2.0
 **App Name:** Figma
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.21 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fi
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -49,7 +55,7 @@ supported devices iPhone & iPad
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -83,5 +89,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

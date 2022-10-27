@@ -3,18 +3,10 @@ title: "rezto (net.rezto.ionic)"
 permalink: /apps/ios/net.rezto.ionic.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application rezto (net.rezto.ionic). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# rezto (net.rezto.ionic
+# rezto (net.rezto.ionic)
 
 **BundleId:** net.rezto.ionic
 **App Version:** 4.3.4
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application re
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,14 +37,14 @@ AppScan generated a spoiler description of the content of the iOS application re
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 2
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -79,5 +71,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

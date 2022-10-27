@@ -3,14 +3,6 @@ title: "NFT GO (com.angelo.nftapp)"
 permalink: /apps/ios/com.angelo.nftapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/26/92/32/2692326a-2e5b-155b-caae-ea2788b192b0/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application NF
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/26/92/32/2692326a-2e5b-155b-caae-ea2788b192b0/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/26/92/32/2692326a-2e5b-155b-caae-ea2788b192b0/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="NFT GO com.angelo.nftapp app icon"></div></br>
   
-# NFT GO (com.angelo.nftapp
+# NFT GO (com.angelo.nftapp)
 
 **BundleId:** com.angelo.nftapp
 **App Version:** 3.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application NF
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application NF
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,14 +54,14 @@ Native App
 build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
 - UI: 5 lib(s)
 - Tracking: 1 lib(s)
-- Tools: 13 lib(s)
 - Network: 3 lib(s)
+- Tools: 13 lib(s)
 
 **Apple dylibs:**
 
@@ -106,5 +98,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

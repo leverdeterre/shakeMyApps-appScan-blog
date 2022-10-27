@@ -3,14 +3,6 @@ title: "Alex Levand (com.alexlevand.training)"
 permalink: /apps/ios/com.alexlevand.training.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/76/6e/5e766eef-b26c-6a73-f1ba-e2184608b31b/AppIcon-prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Al
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/76/6e/5e766eef-b26c-6a73-f1ba-e2184608b31b/AppIcon-prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/76/6e/5e766eef-b26c-6a73-f1ba-e2184608b31b/AppIcon-prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Alex Levand com.alexlevand.training app icon"></div></br>
   
-# Alex Levand (com.alexlevand.training
+# Alex Levand (com.alexlevand.training)
 
 **BundleId:** com.alexlevand.training
 **App Version:** 1.2.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Al
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Al
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,12 +53,12 @@ FacebookLogin detected
 GoogleLogin detected
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 42
-- Crash: 1 lib(s)
 - Tracking: 3 lib(s)
+- Crash: 1 lib(s)
 - Storage: 2 lib(s)
 - Tools: 19 lib(s)
 
@@ -77,5 +69,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

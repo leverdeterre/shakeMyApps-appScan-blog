@@ -3,14 +3,6 @@ title: "El Mundo (com.elmundo)"
 permalink: /apps/ios/com.elmundo.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/52/d2/9d/52d29d45-f508-d3ac-4841-2c1e1beab2ee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application El
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/52/d2/9d/52d29d45-f508-d3ac-4841-2c1e1beab2ee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/52/d2/9d/52d29d45-f508-d3ac-4841-2c1e1beab2ee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="El Mundo com.elmundo app icon"></div></br>
   
-# El Mundo (com.elmundo
+# El Mundo (com.elmundo)
 
 **BundleId:** com.elmundo
 **App Version:** 5.4.64
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application El
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application El
 **Custom keys:** 16
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,16 +56,16 @@ supported devices iPhone & iPad
 build using Xcode 13
 at least 3 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 65
-- Tracking: 7 lib(s)
-- UI: 3 lib(s)
-- Tools: 20 lib(s)
-- Storage: 2 lib(s)
-- Network: 4 lib(s)
 - Crash: 1 lib(s)
+- Tools: 20 lib(s)
+- Network: 4 lib(s)
+- UI: 3 lib(s)
+- Storage: 2 lib(s)
+- Tracking: 7 lib(s)
 
 **Apple dylibs:**
 - libswiftARKit
@@ -144,5 +136,5 @@ at least 3 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

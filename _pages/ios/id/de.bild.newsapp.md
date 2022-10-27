@@ -3,26 +3,18 @@ title: "BILD (de.bild.newsapp)"
 permalink: /apps/ios/de.bild.newsapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/0f/f4/3d0ff479-4aba-b1a7-b84b-b2ed79835d0e/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/68/99/7e/68997edf-f797-afa0-0b02-c1171f6637a5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/0f/f4/3d0ff479-4aba-b1a7-b84b-b2ed79835d0e/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/68/99/7e/68997edf-f797-afa0-0b02-c1171f6637a5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application BILD (de.bild.newsapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/0f/f4/3d0ff479-4aba-b1a7-b84b-b2ed79835d0e/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/68/99/7e/68997edf-f797-afa0-0b02-c1171f6637a5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="BILD de.bild.newsapp app icon"></div></br>
   
-# BILD (de.bild.newsapp
+# BILD (de.bild.newsapp)
 
 **BundleId:** de.bild.newsapp
 **App Version:** 5.82
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application BI
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application BI
 **Custom keys:** 7
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,7 +59,7 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
@@ -139,5 +131,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

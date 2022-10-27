@@ -3,14 +3,6 @@ title: "Cospender (com.spicycamp.cospender)"
 permalink: /apps/ios/com.spicycamp.cospender.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/0f/b6/85/0fb6854f-ec4a-2ed5-a9f1-5424bb42af56/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Co
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/0f/b6/85/0fb6854f-ec4a-2ed5-a9f1-5424bb42af56/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/0f/b6/85/0fb6854f-ec4a-2ed5-a9f1-5424bb42af56/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100" alt="Cospender com.spicycamp.cospender app icon"></div></br>
   
-# Cospender (com.spicycamp.cospender
+# Cospender (com.spicycamp.cospender)
 
 **BundleId:** com.spicycamp.cospender
 **App Version:** 4.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ supported devices iPhone & iPad
 contains 2 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -74,5 +66,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

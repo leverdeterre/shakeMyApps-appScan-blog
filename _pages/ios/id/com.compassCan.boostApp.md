@@ -3,26 +3,18 @@ title: "Boost (com.compassCan.boostApp)"
 permalink: /apps/ios/com.compassCan.boostApp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f8/6d/19/f86d19d7-3ef9-cad1-675c-83c8106404a2/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8c/d5/d6/8cd5d60e-dfad-d438-0154-804d39ed97b3/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f8/6d/19/f86d19d7-3ef9-cad1-675c-83c8106404a2/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8c/d5/d6/8cd5d60e-dfad-d438-0154-804d39ed97b3/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Boost (com.compassCan.boostApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f8/6d/19/f86d19d7-3ef9-cad1-675c-83c8106404a2/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8c/d5/d6/8cd5d60e-dfad-d438-0154-804d39ed97b3/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Boost com.compassCan.boostApp app icon"></div></br>
   
-# Boost (com.compassCan.boostApp
+# Boost (com.compassCan.boostApp)
 
 **BundleId:** com.compassCan.boostApp
 **App Version:** 6.0.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Bo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Bo
 **Custom keys:** 14
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,15 +56,15 @@ contains 3 App extensions
 at least 2 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
 - Tools: 16 lib(s)
-- Crash: 1 lib(s)
-- UI: 2 lib(s)
-- Network: 2 lib(s)
 - Tracking: 3 lib(s)
+- UI: 2 lib(s)
+- Crash: 1 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -107,5 +99,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

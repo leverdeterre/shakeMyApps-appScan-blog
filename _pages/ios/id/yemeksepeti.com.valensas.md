@@ -3,14 +3,6 @@ title: "Yemeksepeti (yemeksepeti.com.valensas)"
 permalink: /apps/ios/yemeksepeti.com.valensas.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/a2/5f/cfa25fdf-ec2c-01e3-b6e5-376200fc9b94/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ye
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/a2/5f/cfa25fdf-ec2c-01e3-b6e5-376200fc9b94/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/a2/5f/cfa25fdf-ec2c-01e3-b6e5-376200fc9b94/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Yemeksepeti yemeksepeti.com.valensas app icon"></div></br>
   
-# Yemeksepeti (yemeksepeti.com.valensas
+# Yemeksepeti (yemeksepeti.com.valensas)
 
 **BundleId:** yemeksepeti.com.valensas
 **App Version:** 22.17.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ye
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ye
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,14 +59,14 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 81
-- Network: 3 lib(s)
 - UI: 8 lib(s)
 - Tools: 12 lib(s)
 - Tracking: 5 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -142,5 +134,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

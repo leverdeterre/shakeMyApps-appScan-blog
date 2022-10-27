@@ -3,26 +3,18 @@ title: "Learn Anatomy (com.learnanat)"
 permalink: /apps/ios/com.learnanat.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/1a/aa/ca1aaa69-c05d-f75a-e8e2-0eea550314a1/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/80/34/56/803456a3-ecf2-4d25-de08-d9912475a78b/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/1a/aa/ca1aaa69-c05d-f75a-e8e2-0eea550314a1/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/80/34/56/803456a3-ecf2-4d25-de08-d9912475a78b/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Learn Anatomy (com.learnanat). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/1a/aa/ca1aaa69-c05d-f75a-e8e2-0eea550314a1/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/80/34/56/803456a3-ecf2-4d25-de08-d9912475a78b/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Learn Anatomy com.learnanat app icon"></div></br>
   
-# Learn Anatomy (com.learnanat
+# Learn Anatomy (com.learnanat)
 
 **BundleId:** com.learnanat
 **App Version:** 1.1.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,16 +57,16 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 40
 - Crash: 1 lib(s)
-- Storage: 2 lib(s)
-- UI: 1 lib(s)
-- Network: 3 lib(s)
 - Tracking: 4 lib(s)
+- Network: 3 lib(s)
+- UI: 1 lib(s)
 - Tools: 8 lib(s)
+- Storage: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -106,5 +98,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "CX-10WiFi (com.netopsun.hxufo)"
 permalink: /apps/ios/com.netopsun.hxufo.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c9/a7/c9/c9a7c9b9-4802-6240-e2b6-ec98a17c7f35/mzl.pcudehks.jpg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application CX
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c9/a7/c9/c9a7c9b9-4802-6240-e2b6-ec98a17c7f35/mzl.pcudehks.jpg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c9/a7/c9/c9a7c9b9-4802-6240-e2b6-ec98a17c7f35/mzl.pcudehks.jpg/512x512bb.jpg" width="100" height="100" alt="CX-10WiFi com.netopsun.hxufo app icon"></div></br>
   
-# CX-10WiFi (com.netopsun.hxufo
+# CX-10WiFi (com.netopsun.hxufo)
 
 **BundleId:** com.netopsun.hxufo
 **App Version:** 1.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application CX
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application CX
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -94,5 +86,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

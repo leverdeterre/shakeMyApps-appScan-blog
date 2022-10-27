@@ -3,33 +3,39 @@ title: "NotePlan 3 (co.noteplan.NotePlan3)"
 permalink: /apps/ios/co.noteplan.NotePlan3.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/a1/f7/2aa1f7ac-0032-d025-9587-6143b7607abd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/33/12/f9/3312f9a3-05b1-0fb3-bda5-0e1b3219b586/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/a1/f7/2aa1f7ac-0032-d025-9587-6143b7607abd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/33/12/f9/3312f9a3-05b1-0fb3-bda5-0e1b3219b586/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application NotePlan 3 (co.noteplan.NotePlan3). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/a1/f7/2aa1f7ac-0032-d025-9587-6143b7607abd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/33/12/f9/3312f9a3-05b1-0fb3-bda5-0e1b3219b586/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="NotePlan 3 co.noteplan.NotePlan3 app icon"></div></br>
   
-# NotePlan 3 (co.noteplan.NotePlan3
+# NotePlan 3 (co.noteplan.NotePlan3)
 
 **BundleId:** co.noteplan.NotePlan3
 **App Version:** 3.6.3
 **App Name:** NotePlan 3
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.70 (⭐️⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application No
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -51,12 +57,12 @@ contains 2 App extensions
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- UI: 2 lib(s)
 - Network: 1 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftCloudKit
@@ -109,5 +115,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

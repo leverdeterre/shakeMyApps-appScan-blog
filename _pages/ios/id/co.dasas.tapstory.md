@@ -3,14 +3,6 @@ title: "Chat Stories (co.dasas.tapstory)"
 permalink: /apps/ios/co.dasas.tapstory.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/49/e4/bd49e4de-ef4d-9aba-4fe4-98a9add32a27/AppIconN-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ch
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/49/e4/bd49e4de-ef4d-9aba-4fe4-98a9add32a27/AppIconN-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/49/e4/bd49e4de-ef4d-9aba-4fe4-98a9add32a27/AppIconN-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Chat Stories co.dasas.tapstory app icon"></div></br>
   
-# Chat Stories (co.dasas.tapstory
+# Chat Stories (co.dasas.tapstory)
 
 **BundleId:** co.dasas.tapstory
 **App Version:** 1.2.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ch
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ch
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,13 +53,13 @@ Number of entitlements detected: 3
 FacebookLogin detected
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 34
-- Storage: 2 lib(s)
 - Tools: 12 lib(s)
 - Crash: 1 lib(s)
+- Storage: 2 lib(s)
 - Tracking: 5 lib(s)
 
 **Apple dylibs:**
@@ -118,5 +110,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

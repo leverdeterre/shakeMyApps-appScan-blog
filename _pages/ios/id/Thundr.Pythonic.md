@@ -3,25 +3,31 @@ title: "Py (Thundr.Pythonic)"
 permalink: /apps/ios/Thundr.Pythonic.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Py (Thundr.Pythonic). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Py (Thundr.Pythonic
+# Py (Thundr.Pythonic)
 
 **BundleId:** Thundr.Pythonic
 **App Version:** 6.3.6
 **App Name:** Py
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 3.71 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -31,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Py
 **Custom keys:** 9
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -42,15 +48,15 @@ GoogleLogin detected
 supported devices iPhone & iPad
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- UI: 2 lib(s)
 - Tools: 10 lib(s)
+- Network: 5 lib(s)
+- UI: 2 lib(s)
 - Tracking: 5 lib(s)
 - Storage: 2 lib(s)
-- Network: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -108,5 +114,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

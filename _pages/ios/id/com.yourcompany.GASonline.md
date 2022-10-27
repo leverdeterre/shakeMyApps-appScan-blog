@@ -3,37 +3,29 @@ title: "GASonline (com.yourcompany.GASonline)"
 permalink: /apps/ios/com.yourcompany.GASonline.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/36/a4/fc/36a4fc74-9fb1-70a2-1669-88b7579968bf/AppIcon-0-1x_U007emarketing-6-0-sRGB-85-220.png/512x512bb.jpg
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/ec/ac/ceecaca3-5bdf-9e70-6dab-b0b05f068193/AppIcon-0-1x_U007emarketing-6-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/36/a4/fc/36a4fc74-9fb1-70a2-1669-88b7579968bf/AppIcon-0-1x_U007emarketing-6-0-sRGB-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/ec/ac/ceecaca3-5bdf-9e70-6dab-b0b05f068193/AppIcon-0-1x_U007emarketing-6-0-sRGB-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application GASonline (com.yourcompany.GASonline). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/36/a4/fc/36a4fc74-9fb1-70a2-1669-88b7579968bf/AppIcon-0-1x_U007emarketing-6-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/ec/ac/ceecaca3-5bdf-9e70-6dab-b0b05f068193/AppIcon-0-1x_U007emarketing-6-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="GASonline com.yourcompany.GASonline app icon"></div></br>
   
-# GASonline (com.yourcompany.GASonline
+# GASonline (com.yourcompany.GASonline)
 
 **BundleId:** com.yourcompany.GASonline
 **App Version:** 3.7
 **App Name:** GASonline
 
 
-## AppScore : 4.41 (⭐️⭐️⭐️⭐️) 
+## AppScore : 4.51 (⭐️⭐️⭐️⭐️) 
 
 <table>
 <tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
-<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 <tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 <tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 <tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application GA
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application GA
 **Custom keys:** 5
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,7 +58,7 @@ support multiple languages
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -94,5 +86,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

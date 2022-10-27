@@ -3,14 +3,6 @@ title: "Excel (com.microsoft.Office.Excel)"
 permalink: /apps/ios/com.microsoft.Office.Excel.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/81/dc/82/81dc82a8-0d8b-92f7-69d3-16e9ee0f188d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ex
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/81/dc/82/81dc82a8-0d8b-92f7-69d3-16e9ee0f188d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/81/dc/82/81dc82a8-0d8b-92f7-69d3-16e9ee0f188d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Excel com.microsoft.Office.Excel app icon"></div></br>
   
-# Excel (com.microsoft.Office.Excel
+# Excel (com.microsoft.Office.Excel)
 
 **BundleId:** com.microsoft.Office.Excel
 **App Version:** 2.66
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ex
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ex
 **Custom keys:** 23
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,7 +59,7 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
@@ -135,5 +127,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "DesignLab (com.apperto.piclabhd)"
 permalink: /apps/ios/com.apperto.piclabhd.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/8f/fc/d78ffc46-137f-c6d9-e561-bfabfc2aa15d/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application De
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/8f/fc/d78ffc46-137f-c6d9-e561-bfabfc2aa15d/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d7/8f/fc/d78ffc46-137f-c6d9-e561-bfabfc2aa15d/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="DesignLab com.apperto.piclabhd app icon"></div></br>
   
-# DesignLab (com.apperto.piclabhd
+# DesignLab (com.apperto.piclabhd)
 
 **BundleId:** com.apperto.piclabhd
 **App Version:** 5.54.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application De
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application De
 **Custom keys:** 28
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,17 +60,17 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 84
-- Network: 3 lib(s)
 - Storage: 1 lib(s)
-- Crash: 1 lib(s)
-- UI: 2 lib(s)
-- Tools: 23 lib(s)
+- Network: 3 lib(s)
 - Logs: 1 lib(s)
 - Tracking: 5 lib(s)
+- Tools: 23 lib(s)
+- UI: 2 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -125,5 +117,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "YaduSurf (com.yadusurf.yadusurf)"
 permalink: /apps/ios/com.yadusurf.yadusurf.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/93/b4/f2/93b4f2e4-96e7-80af-a1bd-bd3918bcdf9d/AppIcon-1x_U007emarketing-3-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ya
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/93/b4/f2/93b4f2e4-96e7-80af-a1bd-bd3918bcdf9d/AppIcon-1x_U007emarketing-3-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/93/b4/f2/93b4f2e4-96e7-80af-a1bd-bd3918bcdf9d/AppIcon-1x_U007emarketing-3-85-220.png/512x512bb.jpg" width="100" height="100" alt="YaduSurf com.yadusurf.yadusurf app icon"></div></br>
   
-# YaduSurf (com.yadusurf.yadusurf
+# YaduSurf (com.yadusurf.yadusurf)
 
 **BundleId:** com.yadusurf.yadusurf
 **App Version:** 2.6.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ya
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,19 +45,19 @@ AppScan generated a spoiler description of the content of the iOS application Ya
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 2
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
-- Storage: 1 lib(s)
 - Tools: 8 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -106,5 +98,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

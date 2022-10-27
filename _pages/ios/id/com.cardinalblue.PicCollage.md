@@ -3,14 +3,6 @@ title: "PicCollage (com.cardinalblue.PicCollage)"
 permalink: /apps/ios/com.cardinalblue.PicCollage.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/23/e7/21/23e721a3-7bd9-a697-f935-7aa36229cc64/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pi
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/23/e7/21/23e721a3-7bd9-a697-f935-7aa36229cc64/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/23/e7/21/23e721a3-7bd9-a697-f935-7aa36229cc64/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="PicCollage com.cardinalblue.PicCollage app icon"></div></br>
   
-# PicCollage (com.cardinalblue.PicCollage
+# PicCollage (com.cardinalblue.PicCollage)
 
 **BundleId:** com.cardinalblue.PicCollage
 **App Version:** 8.17.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pi
 **Custom keys:** 25
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,7 +60,7 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
@@ -130,5 +122,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,18 +3,10 @@ title: "Delta Dental - Retired (com.deltadental.HealthApp)"
 permalink: /apps/ios/com.deltadental.HealthApp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Delta Dental - Retired (com.deltadental.HealthApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Delta Dental - Retired (com.deltadental.HealthApp
+# Delta Dental - Retired (com.deltadental.HealthApp)
 
 **BundleId:** com.deltadental.HealthApp
 **App Version:** 5.3.4
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application De
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application De
 **Custom keys:** 16
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,7 +45,7 @@ Number of entitlements detected: 4
 Native App
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 68
@@ -69,5 +61,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

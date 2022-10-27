@@ -3,14 +3,6 @@ title: "marginsddk (ch.privately.margin.demo)"
 permalink: /apps/ios/ch.privately.margin.demo.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/e1/f7/f9e1f7ce-fc98-26f7-dd35-60f0b097b73b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application ma
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/e1/f7/f9e1f7ce-fc98-26f7-dd35-60f0b097b73b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/e1/f7/f9e1f7ce-fc98-26f7-dd35-60f0b097b73b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="marginsddk ch.privately.margin.demo app icon"></div></br>
   
-# marginsddk (ch.privately.margin.demo
+# marginsddk (ch.privately.margin.demo)
 
 **BundleId:** ch.privately.margin.demo
 **App Version:** 1.2.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application ma
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application ma
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ Native App
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -77,5 +69,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

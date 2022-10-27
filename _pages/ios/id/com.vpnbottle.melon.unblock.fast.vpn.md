@@ -3,14 +3,6 @@ title: "Melon VPN (com.vpnbottle.melon.unblock.fast.vpn)"
 permalink: /apps/ios/com.vpnbottle.melon.unblock.fast.vpn.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/03/3a/89/033a89dd-c0a7-150b-63f9-7e96b6820fe9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Me
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/03/3a/89/033a89dd-c0a7-150b-63f9-7e96b6820fe9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/03/3a/89/033a89dd-c0a7-150b-63f9-7e96b6820fe9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Melon VPN com.vpnbottle.melon.unblock.fast.vpn app icon"></div></br>
   
-# Melon VPN (com.vpnbottle.melon.unblock.fast.vpn
+# Melon VPN (com.vpnbottle.melon.unblock.fast.vpn)
 
 **BundleId:** com.vpnbottle.melon.unblock.fast.vpn
 **App Version:** 2.9.20
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Me
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Me
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,15 +56,15 @@ supported devices iPhone & iPad
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 34
-- Tools: 10 lib(s)
 - Crash: 1 lib(s)
-- Tracking: 4 lib(s)
-- UI: 3 lib(s)
+- Tools: 10 lib(s)
 - Network: 4 lib(s)
+- UI: 3 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -135,5 +127,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

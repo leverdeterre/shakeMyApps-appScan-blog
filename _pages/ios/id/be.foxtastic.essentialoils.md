@@ -3,14 +3,6 @@ title: "Huiles essentielles (be.foxtastic.essentialoils)"
 permalink: /apps/ios/be.foxtastic.essentialoils.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/c1/da/03c1dadb-9b81-c2b0-a0b4-65ad7bf96b37/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Hu
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/c1/da/03c1dadb-9b81-c2b0-a0b4-65ad7bf96b37/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/c1/da/03c1dadb-9b81-c2b0-a0b4-65ad7bf96b37/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Huiles essentielles be.foxtastic.essentialoils app icon"></div></br>
   
-# Huiles essentielles (be.foxtastic.essentialoils
+# Huiles essentielles (be.foxtastic.essentialoils)
 
 **BundleId:** be.foxtastic.essentialoils
 **App Version:** 1.0.43
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Hu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,20 +45,20 @@ AppScan generated a spoiler description of the content of the iOS application Hu
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 23
 - Tracking: 2 lib(s)
-- Crash: 1 lib(s)
 - Tools: 12 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -99,5 +91,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

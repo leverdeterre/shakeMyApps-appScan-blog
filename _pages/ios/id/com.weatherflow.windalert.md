@@ -3,14 +3,6 @@ title: "WindAlert (com.weatherflow.windalert)"
 permalink: /apps/ios/com.weatherflow.windalert.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b7/7c/e5/b77ce56b-b460-d2d6-b96f-9192b48c31fb/AppIcon.windalert-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Wi
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b7/7c/e5/b77ce56b-b460-d2d6-b96f-9192b48c31fb/AppIcon.windalert-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b7/7c/e5/b77ce56b-b460-d2d6-b96f-9192b48c31fb/AppIcon.windalert-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="WindAlert com.weatherflow.windalert app icon"></div></br>
   
-# WindAlert (com.weatherflow.windalert
+# WindAlert (com.weatherflow.windalert)
 
 **BundleId:** com.weatherflow.windalert
 **App Version:** 5.12
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Wi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Wi
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,13 +57,13 @@ build using Xcode 13
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
 - Network: 1 lib(s)
-- Tracking: 1 lib(s)
 - Tools: 6 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -116,5 +108,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

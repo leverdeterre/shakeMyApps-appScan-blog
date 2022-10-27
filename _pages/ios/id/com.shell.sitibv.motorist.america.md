@@ -3,14 +3,6 @@ title: "Shell (com.shell.sitibv.motorist.america)"
 permalink: /apps/ios/com.shell.sitibv.motorist.america.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/fe/b9/bcfeb9f5-5a1e-0694-7912-648569a1ba06/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Sh
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/fe/b9/bcfeb9f5-5a1e-0694-7912-648569a1ba06/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/fe/b9/bcfeb9f5-5a1e-0694-7912-648569a1ba06/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Shell com.shell.sitibv.motorist.america app icon"></div></br>
   
-# Shell (com.shell.sitibv.motorist.america
+# Shell (com.shell.sitibv.motorist.america)
 
 **BundleId:** com.shell.sitibv.motorist.america
 **App Version:** 5.2.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sh
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sh
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,7 +57,7 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
@@ -112,5 +104,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

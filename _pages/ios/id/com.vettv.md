@@ -3,14 +3,6 @@ title: "VET Tv (com.vettv)"
 permalink: /apps/ios/com.vettv.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/90/11/8d9011b8-2a29-f5f9-d6c5-558a0873fa04/AppIcon-Branded-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application VE
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/90/11/8d9011b8-2a29-f5f9-d6c5-558a0873fa04/AppIcon-Branded-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/90/11/8d9011b8-2a29-f5f9-d6c5-558a0873fa04/AppIcon-Branded-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="VET Tv com.vettv app icon"></div></br>
   
-# VET Tv (com.vettv
+# VET Tv (com.vettv)
 
 **BundleId:** com.vettv
 **App Version:** 7.620.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application VE
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application VE
 **Custom keys:** 19
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,16 +57,16 @@ build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
-- Storage: 1 lib(s)
-- UI: 5 lib(s)
-- Tracking: 5 lib(s)
-- Network: 2 lib(s)
-- Tools: 19 lib(s)
 - Crash: 1 lib(s)
+- Network: 2 lib(s)
+- Tracking: 5 lib(s)
+- Storage: 1 lib(s)
+- Tools: 19 lib(s)
+- UI: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -137,5 +129,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

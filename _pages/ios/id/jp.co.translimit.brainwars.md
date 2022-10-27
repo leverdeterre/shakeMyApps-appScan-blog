@@ -3,33 +3,39 @@ title: "Brain Wars (jp.co.translimit.brainwars)"
 permalink: /apps/ios/jp.co.translimit.brainwars.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/27/3a/60/273a60e3-d79b-4aa9-7f88-9a2e8f07e9ed/source/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/91/33/07/9133072d-121e-ead9-605a-79cdcdfa5938/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/27/3a/60/273a60e3-d79b-4aa9-7f88-9a2e8f07e9ed/source/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/91/33/07/9133072d-121e-ead9-605a-79cdcdfa5938/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Brain Wars (jp.co.translimit.brainwars). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/27/3a/60/273a60e3-d79b-4aa9-7f88-9a2e8f07e9ed/source/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/91/33/07/9133072d-121e-ead9-605a-79cdcdfa5938/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Brain Wars jp.co.translimit.brainwars app icon"></div></br>
   
-# Brain Wars (jp.co.translimit.brainwars
+# Brain Wars (jp.co.translimit.brainwars)
 
 **BundleId:** jp.co.translimit.brainwars
 **App Version:** 1.0.59
 **App Name:** Brain Wars
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.37 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Br
 **Custom keys:** 11
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -49,10 +55,11 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
-**Number of Third Party Library detected:** 0
+**Number of Third Party Library detected:** 11
+- Tools: 6 lib(s)
 
 **Apple dylibs:**
 
@@ -111,5 +118,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Premiere Rush (com.adobe.rush)"
 permalink: /apps/ios/com.adobe.rush.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/24/6d/08/246d08d4-a62e-a21d-069a-62327139d364/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/24/6d/08/246d08d4-a62e-a21d-069a-62327139d364/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/24/6d/08/246d08d4-a62e-a21d-069a-62327139d364/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Premiere Rush com.adobe.rush app icon"></div></br>
   
-# Premiere Rush (com.adobe.rush
+# Premiere Rush (com.adobe.rush)
 
 **BundleId:** com.adobe.rush
 **App Version:** 2.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 **Custom keys:** 23
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,12 +59,12 @@ build using Xcode 13
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 163
-- Tracking: 3 lib(s)
 - Tools: 6 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -110,5 +102,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

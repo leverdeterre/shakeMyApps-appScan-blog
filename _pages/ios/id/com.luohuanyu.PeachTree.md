@@ -3,14 +3,6 @@ title: "Good Station (com.luohuanyu.PeachTree)"
 permalink: /apps/ios/com.luohuanyu.PeachTree.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c6/07/df/c607df9e-d795-aca9-a905-dca58c4c0a08/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Go
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c6/07/df/c607df9e-d795-aca9-a905-dca58c4c0a08/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c6/07/df/c607df9e-d795-aca9-a905-dca58c4c0a08/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Good Station com.luohuanyu.PeachTree app icon"></div></br>
   
-# Good Station (com.luohuanyu.PeachTree
+# Good Station (com.luohuanyu.PeachTree)
 
 **BundleId:** com.luohuanyu.PeachTree
 **App Version:** 1.7.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Go
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Go
 **Custom keys:** 12
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,13 +55,13 @@ supported devices iPhone & iPad
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- Network: 2 lib(s)
 - Storage: 1 lib(s)
 - Tools: 2 lib(s)
+- Network: 2 lib(s)
 - UI: 4 lib(s)
 
 **Apple dylibs:**
@@ -101,5 +93,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "My Tides (xyz.codifilo.mytides)"
 permalink: /apps/ios/xyz.codifilo.mytides.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9f/f5/d8/9ff5d8d4-4973-a121-9161-7ac8abdcb35d/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application My
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9f/f5/d8/9ff5d8d4-4973-a121-9161-7ac8abdcb35d/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9f/f5/d8/9ff5d8d4-4973-a121-9161-7ac8abdcb35d/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="My Tides xyz.codifilo.mytides app icon"></div></br>
   
-# My Tides (xyz.codifilo.mytides
+# My Tides (xyz.codifilo.mytides)
 
 **BundleId:** xyz.codifilo.mytides
 **App Version:** 1.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application My
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application My
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,7 +57,7 @@ support multiple languages
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -89,5 +81,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

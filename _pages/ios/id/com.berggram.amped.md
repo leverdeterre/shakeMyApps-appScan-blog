@@ -3,14 +3,6 @@ title: "Gibson (com.berggram.amped)"
 permalink: /apps/ios/com.berggram.amped.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/4a/b5/9c4ab5e5-de59-8c44-8553-767fb5d4f4e2/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Gi
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/4a/b5/9c4ab5e5-de59-8c44-8553-767fb5d4f4e2/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/9c/4a/b5/9c4ab5e5-de59-8c44-8553-767fb5d4f4e2/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Gibson com.berggram.amped app icon"></div></br>
   
-# Gibson (com.berggram.amped
+# Gibson (com.berggram.amped)
 
 **BundleId:** com.berggram.amped
 **App Version:** 3.12
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Gi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Gi
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,16 +57,16 @@ supported devices iPhone & iPad
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
 - Network: 3 lib(s)
-- Storage: 3 lib(s)
-- Crash: 1 lib(s)
 - UI: 3 lib(s)
-- Tracking: 4 lib(s)
 - Tools: 24 lib(s)
+- Tracking: 4 lib(s)
+- Crash: 1 lib(s)
+- Storage: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -113,5 +105,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

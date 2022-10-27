@@ -3,14 +3,6 @@ title: "Pulse (com.d2l.brightspace.pulse)"
 permalink: /apps/ios/com.d2l.brightspace.pulse.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/f6/ef/8ef6efd3-6222-290e-209b-3b87ca107815/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pu
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/f6/ef/8ef6efd3-6222-290e-209b-3b87ca107815/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/f6/ef/8ef6efd3-6222-290e-209b-3b87ca107815/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Pulse com.d2l.brightspace.pulse app icon"></div></br>
   
-# Pulse (com.d2l.brightspace.pulse
+# Pulse (com.d2l.brightspace.pulse)
 
 **BundleId:** com.d2l.brightspace.pulse
 **App Version:** 1.2208.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pu
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,16 +57,16 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 37
+- Crash: 1 lib(s)
+- Logs: 2 lib(s)
+- UI: 2 lib(s)
 - Network: 3 lib(s)
 - Tools: 19 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 2 lib(s)
-- UI: 2 lib(s)
-- Logs: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -133,5 +125,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

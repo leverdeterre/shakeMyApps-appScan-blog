@@ -3,33 +3,39 @@ title: "Bike Citizens (org.bikecityguide)"
 permalink: /apps/ios/org.bikecityguide.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/15/f6/2f/15f62f68-dba0-b909-7c65-f4c3fc13155f/BCXBeta-AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/96/d4/9a96d478-1ff1-9e6f-930e-831c0a884c7a/BCXBeta-AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/15/f6/2f/15f62f68-dba0-b909-7c65-f4c3fc13155f/BCXBeta-AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/96/d4/9a96d478-1ff1-9e6f-930e-831c0a884c7a/BCXBeta-AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Bike Citizens (org.bikecityguide). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/15/f6/2f/15f62f68-dba0-b909-7c65-f4c3fc13155f/BCXBeta-AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/96/d4/9a96d478-1ff1-9e6f-930e-831c0a884c7a/BCXBeta-AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Bike Citizens org.bikecityguide app icon"></div></br>
   
-# Bike Citizens (org.bikecityguide
+# Bike Citizens (org.bikecityguide)
 
 **BundleId:** org.bikecityguide
 **App Version:** 8.4.0
 **App Name:** Bike Citizens
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.31 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Bi
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -50,7 +56,7 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
@@ -90,5 +96,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

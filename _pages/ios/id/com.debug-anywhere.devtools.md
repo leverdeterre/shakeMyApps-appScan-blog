@@ -3,14 +3,6 @@ title: "DevTools Ext (com.debug-anywhere.devtools)"
 permalink: /apps/ios/com.debug-anywhere.devtools.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/67/7c/32677c95-7485-7e3f-a60f-298b9a861cba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application De
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/67/7c/32677c95-7485-7e3f-a60f-298b9a861cba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/67/7c/32677c95-7485-7e3f-a60f-298b9a861cba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="DevTools Ext com.debug-anywhere.devtools app icon"></div></br>
   
-# DevTools Ext (com.debug-anywhere.devtools
+# DevTools Ext (com.debug-anywhere.devtools)
 
 **BundleId:** com.debug-anywhere.devtools
 **App Version:** 1.0.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application De
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application De
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,7 +55,7 @@ supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -80,5 +72,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

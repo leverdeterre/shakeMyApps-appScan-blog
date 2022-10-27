@@ -3,33 +3,39 @@ title: "Cookidoo (com.vorwerk.thermomixuniversal)"
 permalink: /apps/ios/com.vorwerk.thermomixuniversal.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/5c/55/3a/5c553a34-1239-03fe-a66e-fdf82708c016/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fa/80/8d/fa808d37-759b-a6da-f34b-6c7410bc114f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/5c/55/3a/5c553a34-1239-03fe-a66e-fdf82708c016/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fa/80/8d/fa808d37-759b-a6da-f34b-6c7410bc114f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Cookidoo (com.vorwerk.thermomixuniversal). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/5c/55/3a/5c553a34-1239-03fe-a66e-fdf82708c016/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fa/80/8d/fa808d37-759b-a6da-f34b-6c7410bc114f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Cookidoo com.vorwerk.thermomixuniversal app icon"></div></br>
   
-# Cookidoo (com.vorwerk.thermomixuniversal
+# Cookidoo (com.vorwerk.thermomixuniversal)
 
 **BundleId:** com.vorwerk.thermomixuniversal
 **App Version:** 5.5.4
 **App Name:** Cookidoo
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.44 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -52,13 +58,13 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
-- Tracking: 2 lib(s)
-- Tools: 9 lib(s)
 - UI: 2 lib(s)
+- Tools: 9 lib(s)
+- Tracking: 2 lib(s)
 - Network: 1 lib(s)
 - Crash: 1 lib(s)
 
@@ -93,5 +99,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

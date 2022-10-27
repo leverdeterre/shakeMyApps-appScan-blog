@@ -3,33 +3,39 @@ title: "Expenses (com.pixyzehn.Expenses)"
 permalink: /apps/ios/com.pixyzehn.Expenses.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/bf/e1/c1bfe1cb-d7e9-6728-16c1-ca98e7c8ad03/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/64/a2/fe/64a2fecf-f666-3a20-b3ce-62d4e5887ee8/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/bf/e1/c1bfe1cb-d7e9-6728-16c1-ca98e7c8ad03/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/64/a2/fe/64a2fecf-f666-3a20-b3ce-62d4e5887ee8/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Expenses (com.pixyzehn.Expenses). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/bf/e1/c1bfe1cb-d7e9-6728-16c1-ca98e7c8ad03/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/64/a2/fe/64a2fecf-f666-3a20-b3ce-62d4e5887ee8/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Expenses com.pixyzehn.Expenses app icon"></div></br>
   
-# Expenses (com.pixyzehn.Expenses
+# Expenses (com.pixyzehn.Expenses)
 
 **BundleId:** com.pixyzehn.Expenses
 **App Version:** 2.7.9
 **App Name:** Expenses
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.63 (⭐️⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ex
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -52,7 +58,7 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -87,5 +93,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

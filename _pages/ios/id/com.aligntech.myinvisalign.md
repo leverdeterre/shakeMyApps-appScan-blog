@@ -3,14 +3,6 @@ title: "My Invisalign (com.aligntech.myinvisalign)"
 permalink: /apps/ios/com.aligntech.myinvisalign.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/07/e0/63/07e0639e-a605-7e26-9fa3-78b6ff800531/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application My
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/07/e0/63/07e0639e-a605-7e26-9fa3-78b6ff800531/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/07/e0/63/07e0639e-a605-7e26-9fa3-78b6ff800531/AppIcon-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="My Invisalign com.aligntech.myinvisalign app icon"></div></br>
   
-# My Invisalign (com.aligntech.myinvisalign
+# My Invisalign (com.aligntech.myinvisalign)
 
 **BundleId:** com.aligntech.myinvisalign
 **App Version:** 3004.6.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application My
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application My
 **Custom keys:** 28
 **Low securit keys:** 4
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,15 +58,15 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 43
-- Tracking: 7 lib(s)
-- UI: 2 lib(s)
 - Tools: 16 lib(s)
+- Tracking: 7 lib(s)
 - Crash: 1 lib(s)
 - Network: 3 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -122,5 +114,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

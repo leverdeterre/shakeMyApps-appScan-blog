@@ -3,18 +3,10 @@ title: "PhotoLab Editor X (com.andrew.photolabeditorx)"
 permalink: /apps/ios/com.andrew.photolabeditorx.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application PhotoLab Editor X (com.andrew.photolabeditorx). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# PhotoLab Editor X (com.andrew.photolabeditorx
+# PhotoLab Editor X (com.andrew.photolabeditorx)
 
 **BundleId:** com.andrew.photolabeditorx
 **App Version:** 1.0.0
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Ph
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Ph
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -54,14 +46,14 @@ Native App
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
 - Tracking: 2 lib(s)
+- Tools: 6 lib(s)
 - Network: 1 lib(s)
 - Crash: 1 lib(s)
-- Tools: 6 lib(s)
 
 **Apple dylibs:**
 
@@ -98,5 +90,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

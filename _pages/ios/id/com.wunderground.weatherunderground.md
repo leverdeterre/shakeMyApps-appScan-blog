@@ -3,14 +3,6 @@ title: "Wunderground (com.wunderground.weatherunderground)"
 permalink: /apps/ios/com.wunderground.weatherunderground.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/45/1f/73451fb4-9ba2-cb63-f678-fd666a21b1cb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,26 +12,40 @@ AppScan generated a spoiler description of the content of the iOS application Wu
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/45/1f/73451fb4-9ba2-cb63-f678-fd666a21b1cb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/73/45/1f/73451fb4-9ba2-cb63-f678-fd666a21b1cb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Wunderground com.wunderground.weatherunderground app icon"></div></br>
   
-# Wunderground (com.wunderground.weatherunderground
+# Wunderground (com.wunderground.weatherunderground)
 
 **BundleId:** com.wunderground.weatherunderground
 **App Version:** 6.13
 **App Name:** Wunderground
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.34 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
 **Number of permissions:** 7
-**Private keys:** 31
+**Private keys:** 33
 **Public keys:** 7
 **Custom keys:** 11
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -50,16 +56,16 @@ build using Xcode 13
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
-**Number of Third Party Library detected:** 31
-- UI: 1 lib(s)
+**Number of Third Party Library detected:** 34
+- Tools: 12 lib(s)
 - Crash: 1 lib(s)
+- UI: 1 lib(s)
+- Storage: 2 lib(s)
 - Tracking: 3 lib(s)
 - Network: 2 lib(s)
-- Storage: 2 lib(s)
-- Tools: 12 lib(s)
 
 **Apple dylibs:**
 
@@ -101,8 +107,9 @@ support multiple languages
 - CoreServices
 - MapKit
 - UserNotifications
+- Foundation
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

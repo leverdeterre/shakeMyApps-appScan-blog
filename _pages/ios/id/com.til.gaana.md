@@ -3,14 +3,6 @@ title: "Gaana (com.til.gaana)"
 permalink: /apps/ios/com.til.gaana.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/96/9a/1f/969a1fec-daf4-1197-5f37-cd6a36ef77e2/AppIconProd-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Ga
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/96/9a/1f/969a1fec-daf4-1197-5f37-cd6a36ef77e2/AppIconProd-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/96/9a/1f/969a1fec-daf4-1197-5f37-cd6a36ef77e2/AppIconProd-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Gaana com.til.gaana app icon"></div></br>
   
-# Gaana (com.til.gaana
+# Gaana (com.til.gaana)
 
 **BundleId:** com.til.gaana
 **App Version:** 9.0.7
 **App Name:** Gaana
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.42 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ga
 **Custom keys:** 47
 **Low securit keys:** 5
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -54,16 +60,16 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 67
 - Crash: 1 lib(s)
-- Tools: 23 lib(s)
-- Storage: 3 lib(s)
-- UI: 4 lib(s)
 - Network: 5 lib(s)
+- Storage: 3 lib(s)
 - Tracking: 4 lib(s)
+- UI: 4 lib(s)
+- Tools: 23 lib(s)
 
 **Apple dylibs:**
 
@@ -131,5 +137,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

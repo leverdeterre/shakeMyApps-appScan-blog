@@ -3,14 +3,6 @@ title: "Lineup11 (com.footplr.MyB11)"
 permalink: /apps/ios/com.footplr.MyB11.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/78/d2/a5/78d2a581-5862-bd12-39aa-3f8d98217161/AppIcon-0-1x_U007emarketing-0-0-85-220-6.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Li
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/78/d2/a5/78d2a581-5862-bd12-39aa-3f8d98217161/AppIcon-0-1x_U007emarketing-0-0-85-220-6.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/78/d2/a5/78d2a581-5862-bd12-39aa-3f8d98217161/AppIcon-0-1x_U007emarketing-0-0-85-220-6.png/512x512bb.jpg" width="100" height="100" alt="Lineup11 com.footplr.MyB11 app icon"></div></br>
   
-# Lineup11 (com.footplr.MyB11
+# Lineup11 (com.footplr.MyB11)
 
 **BundleId:** com.footplr.MyB11
 **App Version:** 1.2.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Li
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,13 +45,13 @@ AppScan generated a spoiler description of the content of the iOS application Li
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -71,5 +63,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

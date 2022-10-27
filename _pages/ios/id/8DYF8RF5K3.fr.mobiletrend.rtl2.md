@@ -3,14 +3,6 @@ title: "RTL2 (8DYF8RF5K3.fr.mobiletrend.rtl2)"
 permalink: /apps/ios/8DYF8RF5K3.fr.mobiletrend.rtl2.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/be/7e/d8be7e19-ae94-d43d-22b6-1cda10653bdb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application RT
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/be/7e/d8be7e19-ae94-d43d-22b6-1cda10653bdb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/be/7e/d8be7e19-ae94-d43d-22b6-1cda10653bdb/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="RTL2 8DYF8RF5K3.fr.mobiletrend.rtl2 app icon"></div></br>
   
-# RTL2 (8DYF8RF5K3.fr.mobiletrend.rtl2
+# RTL2 (8DYF8RF5K3.fr.mobiletrend.rtl2)
 
 **BundleId:** 8DYF8RF5K3.fr.mobiletrend.rtl2
 **App Version:** 5.7.1
 **App Name:** RTL2
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.52 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application RT
 **Custom keys:** 22
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -51,16 +57,16 @@ supported devices iPhone & iPad
 contains 2 App extensions
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 50
-- Tracking: 4 lib(s)
-- Crash: 1 lib(s)
-- Tools: 21 lib(s)
-- UI: 5 lib(s)
 - Logs: 1 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 4 lib(s)
 - Network: 4 lib(s)
+- UI: 5 lib(s)
+- Tools: 21 lib(s)
 
 **Apple dylibs:**
 
@@ -109,5 +115,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "SpareRoom (com.spareroom.spareroomuk)"
 permalink: /apps/ios/com.spareroom.spareroomuk.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/58/19/21/5819212b-ca2c-b812-2cc8-d7fc9043c17a/UKAppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/58/19/21/5819212b-ca2c-b812-2cc8-d7fc9043c17a/UKAppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/58/19/21/5819212b-ca2c-b812-2cc8-d7fc9043c17a/UKAppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="SpareRoom com.spareroom.spareroomuk app icon"></div></br>
   
-# SpareRoom (com.spareroom.spareroomuk
+# SpareRoom (com.spareroom.spareroomuk)
 
 **BundleId:** com.spareroom.spareroomuk
 **App Version:** 5.46.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,15 +59,15 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
+- Network: 3 lib(s)
+- Storage: 1 lib(s)
+- Tracking: 4 lib(s)
 - Tools: 10 lib(s)
 - Crash: 1 lib(s)
-- Storage: 1 lib(s)
-- Network: 3 lib(s)
-- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -124,5 +116,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

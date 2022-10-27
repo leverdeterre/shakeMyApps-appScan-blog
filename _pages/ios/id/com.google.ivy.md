@@ -3,18 +3,10 @@ title: "Ivy (com.google.ivy)"
 permalink: /apps/ios/com.google.ivy.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Ivy (com.google.ivy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Ivy (com.google.ivy
+# Ivy (com.google.ivy)
 
 **BundleId:** com.google.ivy
 **App Version:** 1.1
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Iv
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Iv
 **Custom keys:** 0
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,7 +45,7 @@ Number of entitlements detected: 2
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -68,5 +60,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

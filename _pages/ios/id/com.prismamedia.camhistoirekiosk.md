@@ -3,14 +3,6 @@ title: "CAM Histoire (com.prismamedia.camhistoirekiosk)"
 permalink: /apps/ios/com.prismamedia.camhistoirekiosk.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/eb/2e/a9/eb2ea9e1-4f61-9ca8-12af-16d2d4904724/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application CA
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/eb/2e/a9/eb2ea9e1-4f61-9ca8-12af-16d2d4904724/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/eb/2e/a9/eb2ea9e1-4f61-9ca8-12af-16d2d4904724/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="CAM Histoire com.prismamedia.camhistoirekiosk app icon"></div></br>
   
-# CAM Histoire (com.prismamedia.camhistoirekiosk
+# CAM Histoire (com.prismamedia.camhistoirekiosk)
 
 **BundleId:** com.prismamedia.camhistoirekiosk
 **App Version:** 6.2.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application CA
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application CA
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
@@ -76,5 +68,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

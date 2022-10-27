@@ -3,26 +3,18 @@ title: "OfferUp (com.offerup.iphone.consumer)"
 permalink: /apps/ios/com.offerup.iphone.consumer.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/05/5c/0d/055c0ddb-75dc-79db-c134-2e0e9e84ae7e/contsched.rfsnxajp.png/512x512bb.jpg
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/32/b1/a2/32b1a21e-78d0-00f0-99ae-1603f13f4bae/contsched.gqrbznbw.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/05/5c/0d/055c0ddb-75dc-79db-c134-2e0e9e84ae7e/contsched.rfsnxajp.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/32/b1/a2/32b1a21e-78d0-00f0-99ae-1603f13f4bae/contsched.gqrbznbw.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application OfferUp (com.offerup.iphone.consumer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/05/5c/0d/055c0ddb-75dc-79db-c134-2e0e9e84ae7e/contsched.rfsnxajp.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/32/b1/a2/32b1a21e-78d0-00f0-99ae-1603f13f4bae/contsched.gqrbznbw.png/512x512bb.jpg" width="100" height="100" alt="OfferUp com.offerup.iphone.consumer app icon"></div></br>
   
-# OfferUp (com.offerup.iphone.consumer
+# OfferUp (com.offerup.iphone.consumer)
 
 **BundleId:** com.offerup.iphone.consumer
 **App Version:** 4.51.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Of
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Of
 **Custom keys:** 24
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,12 +57,12 @@ contains 1 App extensions
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
-- Logs: 1 lib(s)
 - Tools: 1 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -156,5 +148,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

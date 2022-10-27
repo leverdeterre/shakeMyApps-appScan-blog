@@ -3,14 +3,6 @@ title: "Cocktails (com.alternativeindustries.Cocktails)"
 permalink: /apps/ios/com.alternativeindustries.Cocktails.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/aa/07/e7/aa07e77f-2604-b2d4-b381-2a27b9e8b040/AppIcon-1x_U007emarketing-0-10-0-P3-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Co
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/aa/07/e7/aa07e77f-2604-b2d4-b381-2a27b9e8b040/AppIcon-1x_U007emarketing-0-10-0-P3-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/aa/07/e7/aa07e77f-2604-b2d4-b381-2a27b9e8b040/AppIcon-1x_U007emarketing-0-10-0-P3-85-220.png/512x512bb.jpg" width="100" height="100" alt="Cocktails com.alternativeindustries.Cocktails app icon"></div></br>
   
-# Cocktails (com.alternativeindustries.Cocktails
+# Cocktails (com.alternativeindustries.Cocktails)
 
 **BundleId:** com.alternativeindustries.Cocktails
 **App Version:** 4.1.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 **Custom keys:** 6
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,7 +58,7 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
@@ -108,5 +100,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "iziwork (com.iziwork)"
 permalink: /apps/ios/com.iziwork.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/37/05/063705e1-9a6c-67a7-da73-94315e99ea27/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application iz
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/37/05/063705e1-9a6c-67a7-da73-94315e99ea27/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/37/05/063705e1-9a6c-67a7-da73-94315e99ea27/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="iziwork com.iziwork app icon"></div></br>
   
-# iziwork (com.iziwork
+# iziwork (com.iziwork)
 
 **BundleId:** com.iziwork
 **App Version:** 10.0.0
 **App Name:** iziwork
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.34 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application iz
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -49,15 +55,15 @@ GoogleLogin detected
 Native App
 at least 4 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 46
-- Network: 3 lib(s)
-- Tools: 23 lib(s)
-- Tracking: 5 lib(s)
 - Logs: 1 lib(s)
+- Network: 3 lib(s)
+- Tracking: 5 lib(s)
 - UI: 4 lib(s)
+- Tools: 23 lib(s)
 
 **Apple dylibs:**
 
@@ -99,5 +105,5 @@ at least 4 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

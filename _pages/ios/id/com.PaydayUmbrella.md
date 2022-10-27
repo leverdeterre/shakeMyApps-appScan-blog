@@ -3,18 +3,10 @@ title: "Payday Umbrella (com.PaydayUmbrella)"
 permalink: /apps/ios/com.PaydayUmbrella.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Payday Umbrella (com.PaydayUmbrella). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Payday Umbrella (com.PaydayUmbrella
+# Payday Umbrella (com.PaydayUmbrella)
 
 **BundleId:** com.PaydayUmbrella
 **App Version:** 1.0.2
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -54,7 +46,7 @@ FacebookLogin detected
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
@@ -96,5 +88,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

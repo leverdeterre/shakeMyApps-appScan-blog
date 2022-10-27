@@ -3,14 +3,6 @@ title: "ASW (net.asmallworld.ios)"
 permalink: /apps/ios/net.asmallworld.ios.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/45/08/95/4508954b-c3c2-91c9-894d-6ac1619652ae/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application AS
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/45/08/95/4508954b-c3c2-91c9-894d-6ac1619652ae/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/45/08/95/4508954b-c3c2-91c9-894d-6ac1619652ae/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="ASW net.asmallworld.ios app icon"></div></br>
   
-# ASW (net.asmallworld.ios
+# ASW (net.asmallworld.ios)
 
 **BundleId:** net.asmallworld.ios
 **App Version:** 3.5.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application AS
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application AS
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -103,5 +95,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

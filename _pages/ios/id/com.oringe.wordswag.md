@@ -3,14 +3,6 @@ title: "WordSwag (com.oringe.wordswag)"
 permalink: /apps/ios/com.oringe.wordswag.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/57/83/fd578305-0c99-49a4-ff3e-c819af7389d0/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Wo
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/57/83/fd578305-0c99-49a4-ff3e-c819af7389d0/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/57/83/fd578305-0c99-49a4-ff3e-c819af7389d0/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="WordSwag com.oringe.wordswag app icon"></div></br>
   
-# WordSwag (com.oringe.wordswag
+# WordSwag (com.oringe.wordswag)
 
 **BundleId:** com.oringe.wordswag
 **App Version:** 4.44
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Wo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Wo
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -74,5 +66,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

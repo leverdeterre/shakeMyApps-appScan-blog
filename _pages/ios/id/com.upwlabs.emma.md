@@ -3,33 +3,39 @@ title: "Glow (com.upwlabs.emma)"
 permalink: /apps/ios/com.upwlabs.emma.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/31/c7/d631c7a7-5cce-738d-1587-b0f8a5de3cd6/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/36/04/1f/36041f19-0927-22f7-4bd8-ba05504159db/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/31/c7/d631c7a7-5cce-738d-1587-b0f8a5de3cd6/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/36/04/1f/36041f19-0927-22f7-4bd8-ba05504159db/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Glow (com.upwlabs.emma). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d6/31/c7/d631c7a7-5cce-738d-1587-b0f8a5de3cd6/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/36/04/1f/36041f19-0927-22f7-4bd8-ba05504159db/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Glow com.upwlabs.emma app icon"></div></br>
   
-# Glow (com.upwlabs.emma
+# Glow (com.upwlabs.emma)
 
 **BundleId:** com.upwlabs.emma
 **App Version:** 9.1.1
 **App Name:** Glow
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.60 (⭐️⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Gl
 **Custom keys:** 30
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -50,7 +56,7 @@ supported devices iPhone & iPad
 contains 3 App extensions
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
@@ -116,5 +122,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

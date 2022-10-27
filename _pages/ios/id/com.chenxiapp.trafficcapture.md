@@ -3,14 +3,6 @@ title: "TrafficCapture (com.chenxiapp.trafficcapture)"
 permalink: /apps/ios/com.chenxiapp.trafficcapture.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/97/6b/b3/976bb319-3bcd-80eb-1d7a-7869b8c7a182/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/97/6b/b3/976bb319-3bcd-80eb-1d7a-7869b8c7a182/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/97/6b/b3/976bb319-3bcd-80eb-1d7a-7869b8c7a182/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="TrafficCapture com.chenxiapp.trafficcapture app icon"></div></br>
   
-# TrafficCapture (com.chenxiapp.trafficcapture
+# TrafficCapture (com.chenxiapp.trafficcapture)
 
 **BundleId:** com.chenxiapp.trafficcapture
 **App Version:** 1.0.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,14 +55,14 @@ build using Xcode 13
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- Tools: 6 lib(s)
-- UI: 1 lib(s)
 - Tracking: 1 lib(s)
 - Network: 4 lib(s)
+- UI: 1 lib(s)
+- Tools: 6 lib(s)
 - Storage: 1 lib(s)
 
 **Apple dylibs:**
@@ -111,5 +103,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

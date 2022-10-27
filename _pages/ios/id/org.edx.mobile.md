@@ -3,33 +3,39 @@ title: "edX (org.edx.mobile)"
 permalink: /apps/ios/org.edx.mobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/8a/88/0d8a8841-a23b-887f-0bd7-73215e7164aa/source/512x512bb.jpg
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/1f/ba/c31fba6e-347a-cff9-2837-47c641a4e850/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/8a/88/0d8a8841-a23b-887f-0bd7-73215e7164aa/source/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/1f/ba/c31fba6e-347a-cff9-2837-47c641a4e850/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application edX (org.edx.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/8a/88/0d8a8841-a23b-887f-0bd7-73215e7164aa/source/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/1f/ba/c31fba6e-347a-cff9-2837-47c641a4e850/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="edX org.edx.mobile app icon"></div></br>
   
-# edX (org.edx.mobile
+# edX (org.edx.mobile)
 
 **BundleId:** org.edx.mobile
 **App Version:** 3.1.0
 **App Name:** edX
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.23 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application ed
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -51,12 +57,16 @@ supported devices iPhone & iPad
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
-**Number of Third Party Library detected:** 5
-- Tools: 3 lib(s)
+**Number of Third Party Library detected:** 33
+- Tracking: 4 lib(s)
+- Network: 1 lib(s)
+- UI: 2 lib(s)
 - Storage: 1 lib(s)
+- Tools: 18 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -122,5 +132,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Monarch (com.monarchmoney.mobile)"
 permalink: /apps/ios/com.monarchmoney.mobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/21/1f/9c/211f9cfa-4e15-5233-da5e-c5da946993b4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/21/1f/9c/211f9cfa-4e15-5233-da5e-c5da946993b4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/21/1f/9c/211f9cfa-4e15-5233-da5e-c5da946993b4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Monarch com.monarchmoney.mobile app icon"></div></br>
   
-# Monarch (com.monarchmoney.mobile
+# Monarch (com.monarchmoney.mobile)
 
 **BundleId:** com.monarchmoney.mobile
 **App Version:** 1.0.89
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 **Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,12 +58,12 @@ contains 2 App extensions
 at least 2 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
-- UI: 2 lib(s)
 - Tools: 7 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -137,5 +129,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

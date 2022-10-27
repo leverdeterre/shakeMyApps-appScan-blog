@@ -3,14 +3,6 @@ title: "Wisuki (coolz.Wisuki)"
 permalink: /apps/ios/coolz.Wisuki.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9b/df/b4/9bdfb48e-56e6-530c-bead-b59dbdb11ccb/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Wi
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9b/df/b4/9bdfb48e-56e6-530c-bead-b59dbdb11ccb/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9b/df/b4/9bdfb48e-56e6-530c-bead-b59dbdb11ccb/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Wisuki coolz.Wisuki app icon"></div></br>
   
-# Wisuki (coolz.Wisuki
+# Wisuki (coolz.Wisuki)
 
 **BundleId:** coolz.Wisuki
 **App Version:** 6.3.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Wi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Wi
 **Custom keys:** 15
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,13 +60,13 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 37
+- UI: 9 lib(s)
 - Network: 1 lib(s)
 - Tools: 10 lib(s)
-- UI: 9 lib(s)
 
 **Apple dylibs:**
 
@@ -127,5 +119,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

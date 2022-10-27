@@ -3,14 +3,6 @@ title: "GIF Maker (com.racersoftapple.Vid2GIF-Free)"
 permalink: /apps/ios/com.racersoftapple.Vid2GIF-Free.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/6d/7b/60/6d7b60d7-600b-aabd-f047-3b26a8cc9160/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application GI
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/6d/7b/60/6d7b60d7-600b-aabd-f047-3b26a8cc9160/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/6d/7b/60/6d7b60d7-600b-aabd-f047-3b26a8cc9160/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="GIF Maker com.racersoftapple.Vid2GIF-Free app icon"></div></br>
   
-# GIF Maker (com.racersoftapple.Vid2GIF-Free
+# GIF Maker (com.racersoftapple.Vid2GIF-Free)
 
 **BundleId:** com.racersoftapple.Vid2GIF-Free
 **App Version:** 2.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application GI
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application GI
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,13 +54,13 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 12
-- UI: 3 lib(s)
-- Tracking: 1 lib(s)
 - Tools: 6 lib(s)
+- Tracking: 1 lib(s)
+- UI: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -105,5 +97,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

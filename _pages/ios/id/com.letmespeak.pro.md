@@ -3,26 +3,18 @@ title: "Let Me Speak (com.letmespeak.pro)"
 permalink: /apps/ios/com.letmespeak.pro.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/05/4a/04/054a043c-e34b-ed70-3946-e91da159e99a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/c7/eb/c5c7eb4f-20db-f6ca-95db-58810f4643eb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/05/4a/04/054a043c-e34b-ed70-3946-e91da159e99a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/c7/eb/c5c7eb4f-20db-f6ca-95db-58810f4643eb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Let Me Speak (com.letmespeak.pro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/05/4a/04/054a043c-e34b-ed70-3946-e91da159e99a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/c7/eb/c5c7eb4f-20db-f6ca-95db-58810f4643eb/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Let Me Speak com.letmespeak.pro app icon"></div></br>
   
-# Let Me Speak (com.letmespeak.pro
+# Let Me Speak (com.letmespeak.pro)
 
 **BundleId:** com.letmespeak.pro
 **App Version:** 1.9.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -103,5 +95,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

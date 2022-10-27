@@ -3,14 +3,6 @@ title: "Dictate⁺ (com.jotomi.dictate.ios)"
 permalink: /apps/ios/com.jotomi.dictate.ios.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/8e/4b/f68e4b8f-0c79-e656-cf63-1c90624f69c7/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Di
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/8e/4b/f68e4b8f-0c79-e656-cf63-1c90624f69c7/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f6/8e/4b/f68e4b8f-0c79-e656-cf63-1c90624f69c7/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg" width="100" height="100" alt="Dictate⁺ com.jotomi.dictate.ios app icon"></div></br>
   
-# Dictate⁺ (com.jotomi.dictate.ios
+# Dictate⁺ (com.jotomi.dictate.ios)
 
 **BundleId:** com.jotomi.dictate.ios
 **App Version:** 2.0.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Di
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Di
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,7 +57,7 @@ build using Xcode 13
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -100,5 +92,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

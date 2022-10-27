@@ -3,14 +3,6 @@ title: "UX Reference (KieransComponents.UX-Masterclass)"
 permalink: /apps/ios/KieransComponents.UX-Masterclass.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/c4/52/76/c45276a7-8915-819a-3d05-46dc94ef7c55/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application UX
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/c4/52/76/c45276a7-8915-819a-3d05-46dc94ef7c55/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/c4/52/76/c45276a7-8915-819a-3d05-46dc94ef7c55/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="UX Reference KieransComponents.UX-Masterclass app icon"></div></br>
   
-# UX Reference (KieransComponents.UX-Masterclass
+# UX Reference (KieransComponents.UX-Masterclass)
 
 **BundleId:** KieransComponents.UX-Masterclass
 **App Version:** 1.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application UX
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application UX
 **Custom keys:** 0
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ Native App
 supported devices iPhone & iPad
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -83,5 +75,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

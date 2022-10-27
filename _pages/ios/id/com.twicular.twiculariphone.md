@@ -3,14 +3,6 @@ title: "Grocery Pal (com.twicular.twiculariphone)"
 permalink: /apps/ios/com.twicular.twiculariphone.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/80/73/9a8073a7-b419-fc12-9e5e-ad0453cb8806/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Gr
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/80/73/9a8073a7-b419-fc12-9e5e-ad0453cb8806/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/80/73/9a8073a7-b419-fc12-9e5e-ad0453cb8806/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Grocery Pal com.twicular.twiculariphone app icon"></div></br>
   
-# Grocery Pal (com.twicular.twiculariphone
+# Grocery Pal (com.twicular.twiculariphone)
 
 **BundleId:** com.twicular.twiculariphone
 **App Version:** 4.0.15
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Gr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Gr
 **Custom keys:** 7
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ Native App
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -98,5 +90,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

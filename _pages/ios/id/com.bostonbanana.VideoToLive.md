@@ -3,33 +3,39 @@ title: "VideoToLive (com.bostonbanana.VideoToLive)"
 permalink: /apps/ios/com.bostonbanana.VideoToLive.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/2e/c3/b7/2ec3b7b5-43c0-a6ea-8a61-085a216778b1/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/93/43/20/934320e7-fdea-4ee9-4513-54803c822277/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/2e/c3/b7/2ec3b7b5-43c0-a6ea-8a61-085a216778b1/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/93/43/20/934320e7-fdea-4ee9-4513-54803c822277/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application VideoToLive (com.bostonbanana.VideoToLive). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/2e/c3/b7/2ec3b7b5-43c0-a6ea-8a61-085a216778b1/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/93/43/20/934320e7-fdea-4ee9-4513-54803c822277/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="VideoToLive com.bostonbanana.VideoToLive app icon"></div></br>
   
-# VideoToLive (com.bostonbanana.VideoToLive
+# VideoToLive (com.bostonbanana.VideoToLive)
 
 **BundleId:** com.bostonbanana.VideoToLive
 **App Version:** 1.16.8
 **App Name:** VideoToLive
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.58 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Vi
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -51,12 +57,12 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 12
-- Tools: 4 lib(s)
 - UI: 3 lib(s)
+- Tools: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -97,5 +103,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

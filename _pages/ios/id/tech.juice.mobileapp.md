@@ -3,14 +3,6 @@ title: "Juice (tech.juice.mobileapp)"
 permalink: /apps/ios/tech.juice.mobileapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/93/a3/77/93a37731-a4eb-cf5b-e5ac-564ebe5379d9/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ju
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/93/a3/77/93a37731-a4eb-cf5b-e5ac-564ebe5379d9/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/93/a3/77/93a37731-a4eb-cf5b-e5ac-564ebe5379d9/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Juice tech.juice.mobileapp app icon"></div></br>
   
-# Juice (tech.juice.mobileapp
+# Juice (tech.juice.mobileapp)
 
 **BundleId:** tech.juice.mobileapp
 **App Version:** 1.2.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ju
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ju
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,12 +55,12 @@ GoogleLogin detected
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 7
-- Tracking: 2 lib(s)
 - Tools: 3 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -114,5 +106,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

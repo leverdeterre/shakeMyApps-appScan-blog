@@ -3,14 +3,6 @@ title: "UPS Teamsters (com.mosaiclearning.teamstersapp)"
 permalink: /apps/ios/com.mosaiclearning.teamstersapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4a/d7/32/4ad7322e-4532-b444-5004-8213e24cba77/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application UP
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4a/d7/32/4ad7322e-4532-b444-5004-8213e24cba77/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/4a/d7/32/4ad7322e-4532-b444-5004-8213e24cba77/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="UPS Teamsters com.mosaiclearning.teamstersapp app icon"></div></br>
   
-# UPS Teamsters (com.mosaiclearning.teamstersapp
+# UPS Teamsters (com.mosaiclearning.teamstersapp)
 
 **BundleId:** com.mosaiclearning.teamstersapp
 **App Version:** 6.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application UP
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application UP
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,12 +54,12 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 26
-- Tools: 2 lib(s)
 - Network: 1 lib(s)
+- Tools: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -88,5 +80,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

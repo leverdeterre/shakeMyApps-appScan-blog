@@ -3,14 +3,6 @@ title: "Acorns (com.acorns.investor)"
 permalink: /apps/ios/com.acorns.investor.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/9e/39/f59e3938-940e-a0b9-6761-133d8e268a9f/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ac
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/9e/39/f59e3938-940e-a0b9-6761-133d8e268a9f/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/9e/39/f59e3938-940e-a0b9-6761-133d8e268a9f/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Acorns com.acorns.investor app icon"></div></br>
   
-# Acorns (com.acorns.investor
+# Acorns (com.acorns.investor)
 
 **BundleId:** com.acorns.investor
 **App Version:** 4.16.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ac
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ac
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,13 +57,13 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
-- Tools: 6 lib(s)
-- UI: 2 lib(s)
 - Tracking: 6 lib(s)
+- UI: 2 lib(s)
+- Tools: 6 lib(s)
 
 **Apple dylibs:**
 
@@ -112,5 +104,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

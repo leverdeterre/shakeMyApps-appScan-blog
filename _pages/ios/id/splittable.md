@@ -3,33 +3,39 @@ title: "Splittable (splittable)"
 permalink: /apps/ios/splittable.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/c9/9c/c3/c99cc3d4-e77d-319e-0fed-1f59115cc8fb/source/512x512bb.jpg
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/f2/64/28/f264288e-8439-9909-4011-230b230c16da/AppIcon1-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/c9/9c/c3/c99cc3d4-e77d-319e-0fed-1f59115cc8fb/source/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/f2/64/28/f264288e-8439-9909-4011-230b230c16da/AppIcon1-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Splittable (splittable). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/c9/9c/c3/c99cc3d4-e77d-319e-0fed-1f59115cc8fb/source/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/f2/64/28/f264288e-8439-9909-4011-230b230c16da/AppIcon1-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Splittable splittable app icon"></div></br>
   
-# Splittable (splittable
+# Splittable (splittable)
 
 **BundleId:** splittable
 **App Version:** 4.0
 **App Name:** Splittable
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 3.94 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -48,14 +54,14 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
-**Number of Third Party Library detected:** 25
+**Number of Third Party Library detected:** 26
 - Tools: 14 lib(s)
-- Logs: 1 lib(s)
-- Tracking: 1 lib(s)
 - UI: 2 lib(s)
+- Tracking: 1 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -91,5 +97,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

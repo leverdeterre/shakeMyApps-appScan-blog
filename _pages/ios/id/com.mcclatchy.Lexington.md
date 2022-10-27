@@ -3,14 +3,6 @@ title: "Lexington Herald Leader  (com.mcclatchy.Lexington)"
 permalink: /apps/ios/com.mcclatchy.Lexington.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/87/26/a6/8726a65e-42a2-bd55-39b0-5fa99a0f0465/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Le
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/87/26/a6/8726a65e-42a2-bd55-39b0-5fa99a0f0465/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/87/26/a6/8726a65e-42a2-bd55-39b0-5fa99a0f0465/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Lexington Herald Leader  com.mcclatchy.Lexington app icon"></div></br>
   
-# Lexington Herald Leader  (com.mcclatchy.Lexington
+# Lexington Herald Leader  (com.mcclatchy.Lexington)
 
 **BundleId:** com.mcclatchy.Lexington
 **App Version:** 9.1.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 **Custom keys:** 17
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,15 +54,15 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 58
-- Tracking: 7 lib(s)
 - Crash: 1 lib(s)
-- Tools: 24 lib(s)
+- Tracking: 7 lib(s)
 - Network: 2 lib(s)
 - Storage: 3 lib(s)
+- Tools: 24 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -135,5 +127,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "LaRedoute (com.Redoute.RedouteIphone)"
 permalink: /apps/ios/com.Redoute.RedouteIphone.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/d0/3e/f4d03ec0-a9d1-4e7a-9e8e-b7ea268fbc26/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application La
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/d0/3e/f4d03ec0-a9d1-4e7a-9e8e-b7ea268fbc26/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/d0/3e/f4d03ec0-a9d1-4e7a-9e8e-b7ea268fbc26/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="LaRedoute com.Redoute.RedouteIphone app icon"></div></br>
   
-# LaRedoute (com.Redoute.RedouteIphone
+# LaRedoute (com.Redoute.RedouteIphone)
 
 **BundleId:** com.Redoute.RedouteIphone
 **App Version:** 10.0.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application La
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application La
 **Custom keys:** 10
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -69,14 +61,14 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
-- Network: 1 lib(s)
 - UI: 1 lib(s)
-- Tracking: 6 lib(s)
+- Network: 1 lib(s)
 - Tools: 5 lib(s)
+- Tracking: 6 lib(s)
 
 **Apple dylibs:**
 
@@ -125,5 +117,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

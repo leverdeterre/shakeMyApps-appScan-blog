@@ -3,33 +3,39 @@ title: "PandaVPN (com.pandapro.proxy)"
 permalink: /apps/ios/com.pandapro.proxy.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1e/e7/bd/1ee7bd63-3656-0ed4-7f09-5ec5e26696ed/PandaIcon-pro-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/91/f4/44/91f44467-8a6a-58d9-9b44-5607691ac770/PandaIcon-pro-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1e/e7/bd/1ee7bd63-3656-0ed4-7f09-5ec5e26696ed/PandaIcon-pro-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/91/f4/44/91f44467-8a6a-58d9-9b44-5607691ac770/PandaIcon-pro-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application PandaVPN (com.pandapro.proxy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1e/e7/bd/1ee7bd63-3656-0ed4-7f09-5ec5e26696ed/PandaIcon-pro-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/91/f4/44/91f44467-8a6a-58d9-9b44-5607691ac770/PandaIcon-pro-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="PandaVPN com.pandapro.proxy app icon"></div></br>
   
-# PandaVPN (com.pandapro.proxy
+# PandaVPN (com.pandapro.proxy)
 
 **BundleId:** com.pandapro.proxy
 **App Version:** 6.4.4
 **App Name:** PandaVPN
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.57 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 **Custom keys:** 21
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -50,17 +56,17 @@ supported devices iPhone & iPad
 contains 2 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 48
-- Logs: 1 lib(s)
-- UI: 2 lib(s)
-- Tracking: 5 lib(s)
 - Network: 6 lib(s)
 - Tools: 13 lib(s)
-- Storage: 2 lib(s)
 - Crash: 1 lib(s)
+- Logs: 1 lib(s)
+- Storage: 2 lib(s)
+- Tracking: 5 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -132,5 +138,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

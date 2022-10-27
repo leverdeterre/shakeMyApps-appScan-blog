@@ -3,14 +3,6 @@ title: "Will it Rain? (com.katans.Storm)"
 permalink: /apps/ios/com.katans.Storm.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/a4/14/56/a414564f-0ec6-c25d-56b2-7e9bde7aa51e/mzl.nmapjcxj.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Wi
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/a4/14/56/a414564f-0ec6-c25d-56b2-7e9bde7aa51e/mzl.nmapjcxj.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/a4/14/56/a414564f-0ec6-c25d-56b2-7e9bde7aa51e/mzl.nmapjcxj.png/512x512bb.jpg" width="100" height="100" alt="Will it Rain? com.katans.Storm app icon"></div></br>
   
-# Will it Rain? (com.katans.Storm
+# Will it Rain? (com.katans.Storm)
 
 **BundleId:** com.katans.Storm
 **App Version:** 1.2.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Wi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Wi
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -73,5 +65,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

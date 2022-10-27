@@ -3,14 +3,6 @@ title: "Charlie Hebdo (fr.charliehebdo.journal)"
 permalink: /apps/ios/fr.charliehebdo.journal.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/35/43/ab/3543aba3-9ef6-4078-4235-e1488a942f9c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ch
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/35/43/ab/3543aba3-9ef6-4078-4235-e1488a942f9c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/35/43/ab/3543aba3-9ef6-4078-4235-e1488a942f9c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg" width="100" height="100" alt="Charlie Hebdo fr.charliehebdo.journal app icon"></div></br>
   
-# Charlie Hebdo (fr.charliehebdo.journal
+# Charlie Hebdo (fr.charliehebdo.journal)
 
 **BundleId:** fr.charliehebdo.journal
 **App Version:** 2.1.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ch
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ch
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,12 +55,12 @@ supported devices iPhone & iPad
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
-- Tools: 1 lib(s)
 - Storage: 1 lib(s)
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -118,5 +110,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

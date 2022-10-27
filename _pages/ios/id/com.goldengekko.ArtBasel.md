@@ -3,14 +3,6 @@ title: "Art Basel (com.goldengekko.ArtBasel)"
 permalink: /apps/ios/com.goldengekko.ArtBasel.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2c/b7/19/2cb719fb-a8d5-e742-b5e0-999a9026f192/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ar
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2c/b7/19/2cb719fb-a8d5-e742-b5e0-999a9026f192/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2c/b7/19/2cb719fb-a8d5-e742-b5e0-999a9026f192/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Art Basel com.goldengekko.ArtBasel app icon"></div></br>
   
-# Art Basel (com.goldengekko.ArtBasel
+# Art Basel (com.goldengekko.ArtBasel)
 
 **BundleId:** com.goldengekko.ArtBasel
 **App Version:** 4.4.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ar
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ar
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,15 +54,15 @@ Native App
 build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 39
-- Tracking: 1 lib(s)
-- Network: 2 lib(s)
-- Crash: 1 lib(s)
 - UI: 5 lib(s)
 - Tools: 8 lib(s)
+- Network: 2 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -108,5 +100,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

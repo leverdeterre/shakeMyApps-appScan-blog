@@ -3,14 +3,6 @@ title: "Pulse (pedometr.health.com)"
 permalink: /apps/ios/pedometr.health.com.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/3d/99/91/3d99917f-8f1c-3a53-ff6a-7a2a7f3c214d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pu
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/3d/99/91/3d99917f-8f1c-3a53-ff6a-7a2a7f3c214d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/3d/99/91/3d99917f-8f1c-3a53-ff6a-7a2a7f3c214d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Pulse pedometr.health.com app icon"></div></br>
   
-# Pulse (pedometr.health.com
+# Pulse (pedometr.health.com)
 
 **BundleId:** pedometr.health.com
 **App Version:** 4.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pu
 **Custom keys:** 12
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,16 +56,16 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 28
-- Tracking: 4 lib(s)
-- Crash: 1 lib(s)
 - Tools: 13 lib(s)
 - Network: 2 lib(s)
-- UI: 3 lib(s)
 - Storage: 2 lib(s)
+- UI: 3 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -119,5 +111,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

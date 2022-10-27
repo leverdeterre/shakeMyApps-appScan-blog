@@ -3,14 +3,6 @@ title: "Wave (com.appverse.wave)"
 permalink: /apps/ios/com.appverse.wave.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/dd/01/9add01e6-4800-cef6-68b1-a9bf1b093629/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/dd/01/9add01e6-4800-cef6-68b1-a9bf1b093629/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/dd/01/9add01e6-4800-cef6-68b1-a9bf1b093629/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Wave com.appverse.wave app icon"></div></br>
   
-# Wave (com.appverse.wave
+# Wave (com.appverse.wave)
 
 **BundleId:** com.appverse.wave
 **App Version:** 3.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,16 +54,16 @@ Native App
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 48
 - Crash: 1 lib(s)
-- Tracking: 1 lib(s)
+- UI: 5 lib(s)
+- Tools: 17 lib(s)
 - Network: 5 lib(s)
 - Storage: 2 lib(s)
-- Tools: 17 lib(s)
-- UI: 5 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -114,5 +106,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

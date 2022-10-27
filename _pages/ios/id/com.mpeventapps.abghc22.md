@@ -3,14 +3,6 @@ title: "GHC 22 In-Person (com.mpeventapps.abghc22)"
 permalink: /apps/ios/com.mpeventapps.abghc22.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/7b/68/d47b68e0-4b5b-c70b-0d27-f3c8fbd697e1/standaloneAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application GH
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/7b/68/d47b68e0-4b5b-c70b-0d27-f3c8fbd697e1/standaloneAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/7b/68/d47b68e0-4b5b-c70b-0d27-f3c8fbd697e1/standaloneAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="GHC 22 In-Person com.mpeventapps.abghc22 app icon"></div></br>
   
-# GHC 22 In-Person (com.mpeventapps.abghc22
+# GHC 22 In-Person (com.mpeventapps.abghc22)
 
 **BundleId:** com.mpeventapps.abghc22
 **App Version:** 4.0.0
 **App Name:** GHC 22 In-Person
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.40 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application GH
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -48,14 +54,14 @@ supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 123
-- Storage: 4 lib(s)
 - Tools: 11 lib(s)
-- Tracking: 1 lib(s)
+- Storage: 4 lib(s)
 - Network: 1 lib(s)
+- Tracking: 1 lib(s)
 - Crash: 1 lib(s)
 
 **Apple dylibs:**
@@ -80,5 +86,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

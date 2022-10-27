@@ -3,25 +3,31 @@ title: "Stack Exchange (com.stackexchange.stackexchange)"
 permalink: /apps/ios/com.stackexchange.stackexchange.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Stack Exchange (com.stackexchange.stackexchange). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Stack Exchange (com.stackexchange.stackexchange
+# Stack Exchange (com.stackexchange.stackexchange)
 
 **BundleId:** com.stackexchange.stackexchange
 **App Version:** 1.6.6
 **App Name:** Stack Exchange
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 3.94 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -31,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application St
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -43,15 +49,15 @@ supported devices iPhone & iPad
 contains 1 App extensions
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- Tracking: 1 lib(s)
+- Tools: 5 lib(s)
 - UI: 3 lib(s)
 - Storage: 2 lib(s)
 - Logs: 1 lib(s)
-- Tools: 5 lib(s)
+- Tracking: 1 lib(s)
 - Network: 1 lib(s)
 
 **Apple dylibs:**
@@ -76,5 +82,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

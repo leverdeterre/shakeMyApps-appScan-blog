@@ -3,26 +3,18 @@ title: "Zillow Rentals (com.zillow.rentals)"
 permalink: /apps/ios/com.zillow.rentals.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/fe/4b/bd/fe4bbdca-7476-5726-e9b9-5851e5b2e049/RentalsAppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/90/4a/26/904a2625-180a-8d77-8af7-9e712f082f85/RentalsAppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/fe/4b/bd/fe4bbdca-7476-5726-e9b9-5851e5b2e049/RentalsAppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/90/4a/26/904a2625-180a-8d77-8af7-9e712f082f85/RentalsAppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Zillow Rentals (com.zillow.rentals). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/fe/4b/bd/fe4bbdca-7476-5726-e9b9-5851e5b2e049/RentalsAppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/90/4a/26/904a2625-180a-8d77-8af7-9e712f082f85/RentalsAppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Zillow Rentals com.zillow.rentals app icon"></div></br>
   
-# Zillow Rentals (com.zillow.rentals
+# Zillow Rentals (com.zillow.rentals)
 
 **BundleId:** com.zillow.rentals
 **App Version:** 16.3.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Zi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Zi
 **Custom keys:** 36
 **Low securit keys:** 4
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,15 +59,15 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 86
+- UI: 1 lib(s)
 - Logs: 1 lib(s)
+- Network: 2 lib(s)
 - Tracking: 9 lib(s)
 - Tools: 8 lib(s)
-- UI: 1 lib(s)
-- Network: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -133,5 +125,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

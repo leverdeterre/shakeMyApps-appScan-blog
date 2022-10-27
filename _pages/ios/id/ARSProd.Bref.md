@@ -3,18 +3,10 @@ title: "Bref (ARSProd.Bref)"
 permalink: /apps/ios/ARSProd.Bref.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Bref (ARSProd.Bref). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Bref (ARSProd.Bref
+# Bref (ARSProd.Bref)
 
 **BundleId:** ARSProd.Bref
 **App Version:** 2.0.1
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Br
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,14 +37,14 @@ AppScan generated a spoiler description of the content of the iOS application Br
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 12
@@ -77,5 +69,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

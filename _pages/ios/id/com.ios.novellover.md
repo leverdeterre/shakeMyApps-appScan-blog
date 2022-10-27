@@ -3,14 +3,6 @@ title: "Libri (com.ios.novellover)"
 permalink: /apps/ios/com.ios.novellover.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b2/3d/9d/b23d9dda-97eb-99ad-47a7-294e664072ee/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Li
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b2/3d/9d/b23d9dda-97eb-99ad-47a7-294e664072ee/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b2/3d/9d/b23d9dda-97eb-99ad-47a7-294e664072ee/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Libri com.ios.novellover app icon"></div></br>
   
-# Libri (com.ios.novellover
+# Libri (com.ios.novellover)
 
 **BundleId:** com.ios.novellover
 **App Version:** 1.1.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Li
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Li
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,17 +57,17 @@ build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 62
-- Storage: 1 lib(s)
-- Logs: 1 lib(s)
-- Network: 4 lib(s)
 - UI: 7 lib(s)
-- Crash: 1 lib(s)
-- Tracking: 3 lib(s)
+- Network: 4 lib(s)
 - Tools: 15 lib(s)
+- Logs: 1 lib(s)
+- Crash: 1 lib(s)
+- Storage: 1 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -109,5 +101,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

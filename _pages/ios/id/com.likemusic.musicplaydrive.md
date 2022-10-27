@@ -3,14 +3,6 @@ title: "CloudWave (com.likemusic.musicplaydrive)"
 permalink: /apps/ios/com.likemusic.musicplaydrive.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/b4/39/79b4399d-efa6-c9f4-2f73-b711387c12e1/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Cl
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/b4/39/79b4399d-efa6-c9f4-2f73-b711387c12e1/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/b4/39/79b4399d-efa6-c9f4-2f73-b711387c12e1/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="CloudWave com.likemusic.musicplaydrive app icon"></div></br>
   
-# CloudWave (com.likemusic.musicplaydrive
+# CloudWave (com.likemusic.musicplaydrive)
 
 **BundleId:** com.likemusic.musicplaydrive
 **App Version:** 1.3.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Cl
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Cl
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,14 +55,14 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
 - Network: 1 lib(s)
+- UI: 1 lib(s)
 - Tracking: 1 lib(s)
 - Tools: 10 lib(s)
-- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -106,5 +98,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

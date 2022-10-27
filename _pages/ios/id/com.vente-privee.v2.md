@@ -3,14 +3,6 @@ title: "Veepee (com.vente-privee.v2)"
 permalink: /apps/ios/com.vente-privee.v2.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/bf/42/75/bf4275a8-082e-e0e2-7531-4dfbe02c3682/VeepeeAppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ve
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/bf/42/75/bf4275a8-082e-e0e2-7531-4dfbe02c3682/VeepeeAppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/bf/42/75/bf4275a8-082e-e0e2-7531-4dfbe02c3682/VeepeeAppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Veepee com.vente-privee.v2 app icon"></div></br>
   
-# Veepee (com.vente-privee.v2
+# Veepee (com.vente-privee.v2)
 
 **BundleId:** com.vente-privee.v2
 **App Version:** 6.42.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ve
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ve
 **Custom keys:** 21
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -69,14 +61,14 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 72
-- Tools: 6 lib(s)
-- UI: 1 lib(s)
 - Tracking: 2 lib(s)
+- UI: 1 lib(s)
 - Network: 2 lib(s)
+- Tools: 6 lib(s)
 
 **Apple dylibs:**
 
@@ -112,5 +104,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,26 +3,18 @@ title: "TeamPulse (com.digitaplumecompany.BoostYourTeam)"
 permalink: /apps/ios/com.digitaplumecompany.BoostYourTeam.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/97/f4/eb/97f4ebdc-1551-2d84-6801-60d74ef6bb28/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/18/67/13/1867135a-4cd7-e819-811b-30682823b87c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/97/f4/eb/97f4ebdc-1551-2d84-6801-60d74ef6bb28/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/18/67/13/1867135a-4cd7-e819-811b-30682823b87c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application TeamPulse (com.digitaplumecompany.BoostYourTeam). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/97/f4/eb/97f4ebdc-1551-2d84-6801-60d74ef6bb28/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/18/67/13/1867135a-4cd7-e819-811b-30682823b87c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="TeamPulse com.digitaplumecompany.BoostYourTeam app icon"></div></br>
   
-# TeamPulse (com.digitaplumecompany.BoostYourTeam
+# TeamPulse (com.digitaplumecompany.BoostYourTeam)
 
 **BundleId:** com.digitaplumecompany.BoostYourTeam
 **App Version:** 5.3.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Te
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Te
 **Custom keys:** 16
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,12 +57,12 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-- Tools: 2 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -143,5 +135,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

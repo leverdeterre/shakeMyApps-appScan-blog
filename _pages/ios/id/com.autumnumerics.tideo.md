@@ -3,14 +3,6 @@ title: "Tideo (com.autumnumerics.tideo)"
 permalink: /apps/ios/com.autumnumerics.tideo.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d9/3e/ea/d93eea69-47e2-5266-a3b5-f7af86925d26/AppIcon-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d9/3e/ea/d93eea69-47e2-5266-a3b5-f7af86925d26/AppIcon-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d9/3e/ea/d93eea69-47e2-5266-a3b5-f7af86925d26/AppIcon-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg" width="100" height="100" alt="Tideo com.autumnumerics.tideo app icon"></div></br>
   
-# Tideo (com.autumnumerics.tideo
+# Tideo (com.autumnumerics.tideo)
 
 **BundleId:** com.autumnumerics.tideo
 **App Version:** 1.1.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 **Custom keys:** 0
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,7 +55,7 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -85,5 +77,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

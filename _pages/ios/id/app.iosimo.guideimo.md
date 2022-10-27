@@ -3,14 +3,6 @@ title: "Guide for imo Video Chat Call (app.iosimo.guideimo)"
 permalink: /apps/ios/app.iosimo.guideimo.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/14/3a/ab/143aab5d-27d4-5612-014f-c4a1bdaa363e/pr_source.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Gu
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/14/3a/ab/143aab5d-27d4-5612-014f-c4a1bdaa363e/pr_source.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/14/3a/ab/143aab5d-27d4-5612-014f-c4a1bdaa363e/pr_source.png/512x512bb.jpg" width="100" height="100" alt="Guide for imo Video Chat Call app.iosimo.guideimo app icon"></div></br>
   
-# Guide for imo Video Chat Call (app.iosimo.guideimo
+# Guide for imo Video Chat Call (app.iosimo.guideimo)
 
 **BundleId:** app.iosimo.guideimo
 **App Version:** 2.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Gu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,13 +45,13 @@ AppScan generated a spoiler description of the content of the iOS application Gu
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -71,5 +63,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

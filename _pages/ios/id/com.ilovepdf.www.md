@@ -3,14 +3,6 @@ title: "iLovePDF (com.ilovepdf.www)"
 permalink: /apps/ios/com.ilovepdf.www.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/67/ac/aa/67acaa37-44cc-2c18-71d6-542c0470d4e3/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application iL
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/67/ac/aa/67acaa37-44cc-2c18-71d6-542c0470d4e3/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/67/ac/aa/67acaa37-44cc-2c18-71d6-542c0470d4e3/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="iLovePDF com.ilovepdf.www app icon"></div></br>
   
-# iLovePDF (com.ilovepdf.www
+# iLovePDF (com.ilovepdf.www)
 
 **BundleId:** com.ilovepdf.www
 **App Version:** 3.1.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application iL
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application iL
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,7 +59,7 @@ contains 2 App extensions
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -111,5 +103,5 @@ at least 3 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

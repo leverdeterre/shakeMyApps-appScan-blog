@@ -3,14 +3,6 @@ title: "Titan (com.titank12.family.mobile)"
 permalink: /apps/ios/com.titank12.family.mobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b4/21/0e/b4210e39-8373-57e7-8491-719f4b82372d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b4/21/0e/b4210e39-8373-57e7-8491-719f4b82372d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b4/21/0e/b4210e39-8373-57e7-8491-719f4b82372d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Titan com.titank12.family.mobile app icon"></div></br>
   
-# Titan (com.titank12.family.mobile
+# Titan (com.titank12.family.mobile)
 
 **BundleId:** com.titank12.family.mobile
 **App Version:** 2.0.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Number of entitlements detected: 4
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
@@ -92,5 +84,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

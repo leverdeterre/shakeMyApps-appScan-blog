@@ -3,33 +3,39 @@ title: "Dropbox (com.getdropbox.Dropbox)"
 permalink: /apps/ios/com.getdropbox.Dropbox.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/42/f1/95/42f195ff-1cba-c40f-12d5-4dd95e7137fa/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/b7/7b/a9b77b2c-b5a8-9785-f395-0ec7be6ae32b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/42/f1/95/42f195ff-1cba-c40f-12d5-4dd95e7137fa/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/b7/7b/a9b77b2c-b5a8-9785-f395-0ec7be6ae32b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Dropbox (com.getdropbox.Dropbox). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/42/f1/95/42f195ff-1cba-c40f-12d5-4dd95e7137fa/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/b7/7b/a9b77b2c-b5a8-9785-f395-0ec7be6ae32b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Dropbox com.getdropbox.Dropbox app icon"></div></br>
   
-# Dropbox (com.getdropbox.Dropbox
+# Dropbox (com.getdropbox.Dropbox)
 
 **BundleId:** com.getdropbox.Dropbox
 **App Version:** 300.2
 **App Name:** Dropbox
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.79 (⭐️⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Dr
 **Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,7 +59,7 @@ support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
@@ -123,5 +129,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

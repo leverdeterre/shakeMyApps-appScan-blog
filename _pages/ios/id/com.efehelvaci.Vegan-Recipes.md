@@ -3,14 +3,6 @@ title: "Vegan Recipes (com.efehelvaci.Vegan-Recipes)"
 permalink: /apps/ios/com.efehelvaci.Vegan-Recipes.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/82/f4/4182f4f9-2cda-1c48-01fd-8e2da6b85a02/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Ve
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/82/f4/4182f4f9-2cda-1c48-01fd-8e2da6b85a02/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/82/f4/4182f4f9-2cda-1c48-01fd-8e2da6b85a02/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Vegan Recipes com.efehelvaci.Vegan-Recipes app icon"></div></br>
   
-# Vegan Recipes (com.efehelvaci.Vegan-Recipes
+# Vegan Recipes (com.efehelvaci.Vegan-Recipes)
 
 **BundleId:** com.efehelvaci.Vegan-Recipes
 **App Version:** 2.2
 **App Name:** Vegan Recipes
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.01 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ve
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -50,15 +56,15 @@ contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 33
-- Crash: 1 lib(s)
-- Network: 4 lib(s)
 - Storage: 3 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 4 lib(s)
 - Tools: 11 lib(s)
+- Network: 4 lib(s)
 - UI: 3 lib(s)
 
 **Apple dylibs:**
@@ -91,5 +97,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

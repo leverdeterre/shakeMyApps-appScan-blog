@@ -3,14 +3,6 @@ title: "Current Music (com.nativ.current)"
 permalink: /apps/ios/com.nativ.current.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/db/71/fa/db71faeb-198f-be3d-f479-5d446ef586e9/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Cu
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/db/71/fa/db71faeb-198f-be3d-f479-5d446ef586e9/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/db/71/fa/db71faeb-198f-be3d-f479-5d446ef586e9/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Current Music com.nativ.current app icon"></div></br>
   
-# Current Music (com.nativ.current
+# Current Music (com.nativ.current)
 
 **BundleId:** com.nativ.current
 **App Version:** 3.0.24
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Cu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Cu
 **Custom keys:** 18
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,15 +56,15 @@ Native App
 contains 1 App extensions
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 49
-- UI: 1 lib(s)
-- Logs: 1 lib(s)
-- Crash: 1 lib(s)
 - Tools: 11 lib(s)
+- Crash: 1 lib(s)
+- Logs: 1 lib(s)
 - Tracking: 6 lib(s)
+- UI: 1 lib(s)
 - Network: 3 lib(s)
 
 **Apple dylibs:**
@@ -143,5 +135,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

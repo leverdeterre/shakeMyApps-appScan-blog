@@ -3,18 +3,10 @@ title: "Blowly (com.utilitydevelopment.probel)"
 permalink: /apps/ios/com.utilitydevelopment.probel.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Blowly (com.utilitydevelopment.probel). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Blowly (com.utilitydevelopment.probel
+# Blowly (com.utilitydevelopment.probel)
 
 **BundleId:** com.utilitydevelopment.probel
 **App Version:** 1.12
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Bl
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Bl
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -55,7 +47,7 @@ supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
@@ -95,5 +87,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

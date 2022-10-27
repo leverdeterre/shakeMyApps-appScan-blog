@@ -3,25 +3,31 @@ title: "Stootie (com.stootiesas.stootie)"
 permalink: /apps/ios/com.stootiesas.stootie.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Stootie (com.stootiesas.stootie). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Stootie (com.stootiesas.stootie
+# Stootie (com.stootiesas.stootie)
 
 **BundleId:** com.stootiesas.stootie
 **App Version:** 8.0.0
 **App Name:** Stootie
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.03 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -31,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application St
 **Custom keys:** 24
 **Low securit keys:** 5
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -45,15 +51,15 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
-- Tools: 9 lib(s)
-- Network: 1 lib(s)
-- UI: 2 lib(s)
-- Tracking: 2 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 2 lib(s)
+- Network: 1 lib(s)
+- Tools: 9 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -128,5 +134,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

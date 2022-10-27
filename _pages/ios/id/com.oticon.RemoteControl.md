@@ -3,14 +3,6 @@ title: "Oticon ON (com.oticon.RemoteControl)"
 permalink: /apps/ios/com.oticon.RemoteControl.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/26/e6/56/26e6561c-2f30-5de0-5c21-f5fa85b41ac2/AppIconOticon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ot
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/26/e6/56/26e6561c-2f30-5de0-5c21-f5fa85b41ac2/AppIconOticon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/26/e6/56/26e6561c-2f30-5de0-5c21-f5fa85b41ac2/AppIconOticon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Oticon ON com.oticon.RemoteControl app icon"></div></br>
   
-# Oticon ON (com.oticon.RemoteControl
+# Oticon ON (com.oticon.RemoteControl)
 
 **BundleId:** com.oticon.RemoteControl
 **App Version:** 2.5.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ot
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ot
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,15 +56,15 @@ contains 1 App extensions
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- Crash: 1 lib(s)
+- Storage: 1 lib(s)
+- Tracking: 1 lib(s)
 - Network: 1 lib(s)
 - Tools: 10 lib(s)
-- Tracking: 1 lib(s)
-- Storage: 1 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -101,5 +93,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

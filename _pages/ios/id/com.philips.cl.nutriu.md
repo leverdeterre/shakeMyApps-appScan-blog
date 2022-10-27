@@ -3,14 +3,6 @@ title: "NutriU (com.philips.cl.nutriu)"
 permalink: /apps/ios/com.philips.cl.nutriu.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/07/0c/23/070c231e-8431-2d04-8167-5731849d93a0/AppIcon-AppStore-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Nu
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/07/0c/23/070c231e-8431-2d04-8167-5731849d93a0/AppIcon-AppStore-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/07/0c/23/070c231e-8431-2d04-8167-5731849d93a0/AppIcon-AppStore-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="NutriU com.philips.cl.nutriu app icon"></div></br>
   
-# NutriU (com.philips.cl.nutriu
+# NutriU (com.philips.cl.nutriu)
 
 **BundleId:** com.philips.cl.nutriu
 **App Version:** 7.17.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Nu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Nu
 **Custom keys:** 23
 **Low securit keys:** 5
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,17 +58,17 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 65
-- Logs: 1 lib(s)
-- Storage: 1 lib(s)
 - Crash: 1 lib(s)
+- Storage: 1 lib(s)
 - UI: 3 lib(s)
-- Tools: 17 lib(s)
 - Network: 7 lib(s)
+- Tools: 17 lib(s)
 - Tracking: 4 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -111,5 +103,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

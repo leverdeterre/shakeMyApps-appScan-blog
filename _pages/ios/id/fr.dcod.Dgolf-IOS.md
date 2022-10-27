@@ -3,33 +3,39 @@ title: "DGolf (fr.dcod.Dgolf-IOS)"
 permalink: /apps/ios/fr.dcod.Dgolf-IOS.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/67/14/f0/6714f078-12c4-ef18-6313-2389e2fa3e03/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/02/a3/1a/02a31ab2-f0d3-63c6-3d29-a81f331e5fd8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/67/14/f0/6714f078-12c4-ef18-6313-2389e2fa3e03/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/02/a3/1a/02a31ab2-f0d3-63c6-3d29-a81f331e5fd8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application DGolf (fr.dcod.Dgolf-IOS). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/67/14/f0/6714f078-12c4-ef18-6313-2389e2fa3e03/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/02/a3/1a/02a31ab2-f0d3-63c6-3d29-a81f331e5fd8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="DGolf fr.dcod.Dgolf-IOS app icon"></div></br>
   
-# DGolf (fr.dcod.Dgolf-IOS
+# DGolf (fr.dcod.Dgolf-IOS)
 
 **BundleId:** fr.dcod.Dgolf-IOS
 **App Version:** 1.39.1
 **App Name:** DGolf
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.53 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application DG
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -49,7 +55,7 @@ build using Xcode 13
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -71,5 +77,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

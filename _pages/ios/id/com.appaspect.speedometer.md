@@ -3,14 +3,6 @@ title: "Speedometer (com.appaspect.speedometer)"
 permalink: /apps/ios/com.appaspect.speedometer.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/3d/be/b93dbe54-8bf8-8d00-cb95-7bbc02aa417c/AppIconLite-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/3d/be/b93dbe54-8bf8-8d00-cb95-7bbc02aa417c/AppIconLite-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/3d/be/b93dbe54-8bf8-8d00-cb95-7bbc02aa417c/AppIconLite-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Speedometer com.appaspect.speedometer app icon"></div></br>
   
-# Speedometer (com.appaspect.speedometer
+# Speedometer (com.appaspect.speedometer)
 
 **BundleId:** com.appaspect.speedometer
 **App Version:** 12.17
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 **Custom keys:** 18
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -69,16 +61,16 @@ at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 42
-- Storage: 4 lib(s)
-- Network: 4 lib(s)
-- Crash: 1 lib(s)
-- Tools: 14 lib(s)
 - UI: 2 lib(s)
+- Storage: 4 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 2 lib(s)
+- Network: 4 lib(s)
+- Tools: 14 lib(s)
 
 **Apple dylibs:**
 
@@ -125,5 +117,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

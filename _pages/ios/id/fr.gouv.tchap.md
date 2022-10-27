@@ -3,14 +3,6 @@ title: "Tchap (fr.gouv.tchap)"
 permalink: /apps/ios/fr.gouv.tchap.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/57/0d/b0570d4f-b0d5-c54e-4496-f9bf8da19395/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Tc
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/57/0d/b0570d4f-b0d5-c54e-4496-f9bf8da19395/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/57/0d/b0570d4f-b0d5-c54e-4496-f9bf8da19395/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Tchap fr.gouv.tchap app icon"></div></br>
   
-# Tchap (fr.gouv.tchap
+# Tchap (fr.gouv.tchap)
 
 **BundleId:** fr.gouv.tchap
 **App Version:** 2.0.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Tc
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Tc
 **Custom keys:** 12
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,15 +58,15 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 49
+- Tools: 5 lib(s)
+- UI: 2 lib(s)
 - Storage: 1 lib(s)
 - Network: 2 lib(s)
 - Logs: 2 lib(s)
-- UI: 2 lib(s)
-- Tools: 5 lib(s)
 
 **Apple dylibs:**
 
@@ -118,5 +110,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

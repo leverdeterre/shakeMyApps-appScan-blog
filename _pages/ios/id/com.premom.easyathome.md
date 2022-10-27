@@ -3,26 +3,18 @@ title: "Premom (com.premom.easyathome)"
 permalink: /apps/ios/com.premom.easyathome.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d5/f0/87/d5f08723-ab46-9404-d538-5d10016bfc07/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/23/33/c8/2333c8f1-65e2-a3f1-1382-f8ac15ed6eab/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d5/f0/87/d5f08723-ab46-9404-d538-5d10016bfc07/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/23/33/c8/2333c8f1-65e2-a3f1-1382-f8ac15ed6eab/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Premom (com.premom.easyathome). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d5/f0/87/d5f08723-ab46-9404-d538-5d10016bfc07/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/23/33/c8/2333c8f1-65e2-a3f1-1382-f8ac15ed6eab/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Premom com.premom.easyathome app icon"></div></br>
   
-# Premom (com.premom.easyathome
+# Premom (com.premom.easyathome)
 
 **BundleId:** com.premom.easyathome
 **App Version:** 1.16.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 **Custom keys:** 24
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,16 +59,16 @@ support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 119
-- Tracking: 3 lib(s)
-- Tools: 29 lib(s)
-- Crash: 1 lib(s)
-- Storage: 3 lib(s)
 - UI: 6 lib(s)
+- Crash: 1 lib(s)
 - Logs: 1 lib(s)
+- Tools: 29 lib(s)
+- Tracking: 3 lib(s)
+- Storage: 3 lib(s)
 - Network: 8 lib(s)
 
 **Apple dylibs:**
@@ -160,5 +152,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

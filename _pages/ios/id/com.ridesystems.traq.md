@@ -3,14 +3,6 @@ title: "Ride Systems (com.ridesystems.traq)"
 permalink: /apps/ios/com.ridesystems.traq.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/28/af/30/28af3037-3fc8-af5e-989d-136940da5744/mainicons-0-1x_U007emarketing-0-0-85-220-10.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ri
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/28/af/30/28af3037-3fc8-af5e-989d-136940da5744/mainicons-0-1x_U007emarketing-0-0-85-220-10.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/28/af/30/28af3037-3fc8-af5e-989d-136940da5744/mainicons-0-1x_U007emarketing-0-0-85-220-10.png/512x512bb.jpg" width="100" height="100" alt="Ride Systems com.ridesystems.traq app icon"></div></br>
   
-# Ride Systems (com.ridesystems.traq
+# Ride Systems (com.ridesystems.traq)
 
 **BundleId:** com.ridesystems.traq
 **App Version:** 4.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ri
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,19 +45,19 @@ AppScan generated a spoiler description of the content of the iOS application Ri
 **Custom keys:** 9
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
-- Network: 1 lib(s)
 - Tools: 2 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -74,5 +66,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

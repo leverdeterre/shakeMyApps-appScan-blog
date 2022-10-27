@@ -3,14 +3,6 @@ title: "Météo Pyrénées (ninja.wpapp.appmeteopyreneesfr)"
 permalink: /apps/ios/ninja.wpapp.appmeteopyreneesfr.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/78/7b/93/787b93f2-066e-900e-53de-0cf34605fd48/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application M�
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/78/7b/93/787b93f2-066e-900e-53de-0cf34605fd48/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/78/7b/93/787b93f2-066e-900e-53de-0cf34605fd48/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Météo Pyrénées ninja.wpapp.appmeteopyreneesfr app icon"></div></br>
   
-# Météo Pyrénées (ninja.wpapp.appmeteopyreneesfr
+# Météo Pyrénées (ninja.wpapp.appmeteopyreneesfr)
 
 **BundleId:** ninja.wpapp.appmeteopyreneesfr
 **App Version:** 1.11
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application M�
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application M�
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -72,5 +64,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

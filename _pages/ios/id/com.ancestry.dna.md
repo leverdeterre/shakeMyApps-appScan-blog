@@ -3,14 +3,6 @@ title: "AncestryDNA (com.ancestry.dna)"
 permalink: /apps/ios/com.ancestry.dna.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/06/b7/59/06b75983-a241-dd8c-ff54-83868b4a053e/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application An
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/06/b7/59/06b75983-a241-dd8c-ff54-83868b4a053e/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/06/b7/59/06b75983-a241-dd8c-ff54-83868b4a053e/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="AncestryDNA com.ancestry.dna app icon"></div></br>
   
-# AncestryDNA (com.ancestry.dna
+# AncestryDNA (com.ancestry.dna)
 
 **BundleId:** com.ancestry.dna
 **App Version:** 7.16
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application An
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application An
 **Custom keys:** 7
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,12 +57,12 @@ build using Xcode 13
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 66
-- UI: 3 lib(s)
 - Tools: 3 lib(s)
+- UI: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -95,5 +87,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

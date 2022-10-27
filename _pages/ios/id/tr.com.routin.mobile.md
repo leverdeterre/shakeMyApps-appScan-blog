@@ -3,14 +3,6 @@ title: "Routin (tr.com.routin.mobile)"
 permalink: /apps/ios/tr.com.routin.mobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/8a/43/a28a43a0-8d26-b87f-9e95-8e78cb78f616/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ro
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/8a/43/a28a43a0-8d26-b87f-9e95-8e78cb78f616/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/8a/43/a28a43a0-8d26-b87f-9e95-8e78cb78f616/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Routin tr.com.routin.mobile app icon"></div></br>
   
-# Routin (tr.com.routin.mobile
+# Routin (tr.com.routin.mobile)
 
 **BundleId:** tr.com.routin.mobile
 **App Version:** 1.0.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ro
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ro
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,16 +55,16 @@ build using Xcode 13
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 54
-- Tracking: 1 lib(s)
 - Storage: 2 lib(s)
-- Network: 2 lib(s)
 - Crash: 1 lib(s)
 - Tools: 13 lib(s)
 - UI: 1 lib(s)
+- Network: 2 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -131,5 +123,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

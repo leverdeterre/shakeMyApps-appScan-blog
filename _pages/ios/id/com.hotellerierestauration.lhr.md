@@ -3,14 +3,6 @@ title: "L'Hôtellerie Restauration (com.hotellerierestauration.lhr)"
 permalink: /apps/ios/com.hotellerierestauration.lhr.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/f6/d5/c5f6d59a-68a3-0fc6-eeb8-143dbf773989/AppIcon-1-1x_U007emarketing-85-220-6.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application L'
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/f6/d5/c5f6d59a-68a3-0fc6-eeb8-143dbf773989/AppIcon-1-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/f6/d5/c5f6d59a-68a3-0fc6-eeb8-143dbf773989/AppIcon-1-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100" alt="L'Hôtellerie Restauration com.hotellerierestauration.lhr app icon"></div></br>
   
-# L'Hôtellerie Restauration (com.hotellerierestauration.lhr
+# L'Hôtellerie Restauration (com.hotellerierestauration.lhr)
 
 **BundleId:** com.hotellerierestauration.lhr
 **App Version:** 2.2
 **App Name:** L'Hôtellerie Restauration
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.01 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,18 +45,18 @@ AppScan generated a spoiler description of the content of the iOS application L'
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 6
-- Tools: 3 lib(s)
 - Tracking: 1 lib(s)
+- Tools: 3 lib(s)
 - Network: 1 lib(s)
 
 **Apple dylibs:**
@@ -60,5 +66,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

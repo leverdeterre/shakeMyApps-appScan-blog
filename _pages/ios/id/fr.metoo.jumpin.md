@@ -3,25 +3,31 @@ title: "JumpIn (fr.metoo.jumpin)"
 permalink: /apps/ios/fr.metoo.jumpin.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application JumpIn (fr.metoo.jumpin). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# JumpIn (fr.metoo.jumpin
+# JumpIn (fr.metoo.jumpin)
 
 **BundleId:** fr.metoo.jumpin
 **App Version:** 1.16.2
 **App Name:** JumpIn
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 3.80 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -31,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Ju
 **Custom keys:** 15
 **Low securit keys:** 6
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -39,14 +45,14 @@ Number of entitlements detected: 5
 FacebookLogin detected
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
-- UI: 3 lib(s)
-- Tools: 4 lib(s)
 - Tracking: 1 lib(s)
 - Network: 2 lib(s)
+- Tools: 4 lib(s)
+- UI: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftContacts
@@ -94,5 +100,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

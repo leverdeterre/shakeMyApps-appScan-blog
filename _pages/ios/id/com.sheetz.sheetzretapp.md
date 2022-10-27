@@ -3,14 +3,6 @@ title: "Sheetz (com.sheetz.sheetzretapp)"
 permalink: /apps/ios/com.sheetz.sheetzretapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/98/cf/1a98cf60-9ebd-23f4-4bac-19bec90408f8/AppIconRedesign-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Sh
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/98/cf/1a98cf60-9ebd-23f4-4bac-19bec90408f8/AppIconRedesign-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/98/cf/1a98cf60-9ebd-23f4-4bac-19bec90408f8/AppIconRedesign-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sheetz com.sheetz.sheetzretapp app icon"></div></br>
   
-# Sheetz (com.sheetz.sheetzretapp
+# Sheetz (com.sheetz.sheetzretapp)
 
 **BundleId:** com.sheetz.sheetzretapp
 **App Version:** 7.11.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sh
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sh
 **Custom keys:** 31
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,17 +55,17 @@ build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
-- Tools: 10 lib(s)
 - Tracking: 1 lib(s)
-- Network: 2 lib(s)
-- Logs: 1 lib(s)
-- UI: 1 lib(s)
-- Crash: 1 lib(s)
+- Tools: 10 lib(s)
 - Storage: 1 lib(s)
+- UI: 1 lib(s)
+- Network: 2 lib(s)
+- Crash: 1 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -108,5 +100,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

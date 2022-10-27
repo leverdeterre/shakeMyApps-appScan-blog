@@ -3,14 +3,6 @@ title: "QuickMark (tw.com.simpleact.quickmark4)"
 permalink: /apps/ios/tw.com.simpleact.quickmark4.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple69/v4/06/53/8e/06538eaa-af1f-2d9b-55ac-9fe253f9e710/mzl.iihstupf.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Qu
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple69/v4/06/53/8e/06538eaa-af1f-2d9b-55ac-9fe253f9e710/mzl.iihstupf.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple69/v4/06/53/8e/06538eaa-af1f-2d9b-55ac-9fe253f9e710/mzl.iihstupf.png/512x512bb.jpg" width="100" height="100" alt="QuickMark tw.com.simpleact.quickmark4 app icon"></div></br>
   
-# QuickMark (tw.com.simpleact.quickmark4
+# QuickMark (tw.com.simpleact.quickmark4)
 
 **BundleId:** tw.com.simpleact.quickmark4
 **App Version:** 4.8.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Qu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Qu
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -103,5 +95,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

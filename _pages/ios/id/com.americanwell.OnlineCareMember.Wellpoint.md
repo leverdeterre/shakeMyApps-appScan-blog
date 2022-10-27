@@ -3,14 +3,6 @@ title: "Wellpoint (com.americanwell.OnlineCareMember.Wellpoint)"
 permalink: /apps/ios/com.americanwell.OnlineCareMember.Wellpoint.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/68/00/be/6800be71-99bd-ffb5-33a9-4ae1c54cd026/AppIcon-1x_U007emarketing-0-9-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application We
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/68/00/be/6800be71-99bd-ffb5-33a9-4ae1c54cd026/AppIcon-1x_U007emarketing-0-9-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/68/00/be/6800be71-99bd-ffb5-33a9-4ae1c54cd026/AppIcon-1x_U007emarketing-0-9-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Wellpoint com.americanwell.OnlineCareMember.Wellpoint app icon"></div></br>
   
-# Wellpoint (com.americanwell.OnlineCareMember.Wellpoint
+# Wellpoint (com.americanwell.OnlineCareMember.Wellpoint)
 
 **BundleId:** com.americanwell.OnlineCareMember.Wellpoint
 **App Version:** 12.14.103
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application We
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application We
 **Custom keys:** 16
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,14 +53,14 @@ Number of entitlements detected: 5
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
-- Network: 3 lib(s)
 - UI: 1 lib(s)
-- Tracking: 2 lib(s)
 - Tools: 1 lib(s)
+- Tracking: 2 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -79,5 +71,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

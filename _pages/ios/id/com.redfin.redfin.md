@@ -3,14 +3,6 @@ title: "Redfin (com.redfin.redfin)"
 permalink: /apps/ios/com.redfin.redfin.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/28/be/0a/28be0a37-ebea-d379-a9bd-fdadbe0377b0/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Re
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/28/be/0a/28be0a37-ebea-d379-a9bd-fdadbe0377b0/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/28/be/0a/28be0a37-ebea-d379-a9bd-fdadbe0377b0/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Redfin com.redfin.redfin app icon"></div></br>
   
-# Redfin (com.redfin.redfin
+# Redfin (com.redfin.redfin)
 
 **BundleId:** com.redfin.redfin
 **App Version:** 440.0.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Re
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Re
 **Custom keys:** 17
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,15 +60,15 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 40
 - Network: 1 lib(s)
-- Tracking: 4 lib(s)
 - Tools: 17 lib(s)
-- UI: 4 lib(s)
+- Tracking: 4 lib(s)
 - Crash: 1 lib(s)
+- UI: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -133,5 +125,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "SBC Solver (com.NadimChoudhury.SBCSolver)"
 permalink: /apps/ios/com.NadimChoudhury.SBCSolver.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/43/0f/74/430f74a6-a9a5-50ac-6919-84e0bcfe7e47/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application SB
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/43/0f/74/430f74a6-a9a5-50ac-6919-84e0bcfe7e47/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/43/0f/74/430f74a6-a9a5-50ac-6919-84e0bcfe7e47/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="SBC Solver com.NadimChoudhury.SBCSolver app icon"></div></br>
   
-# SBC Solver (com.NadimChoudhury.SBCSolver
+# SBC Solver (com.NadimChoudhury.SBCSolver)
 
 **BundleId:** com.NadimChoudhury.SBCSolver
 **App Version:** 2.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application SB
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application SB
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ Native App
 supported devices iPhone & iPad
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
@@ -107,5 +99,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

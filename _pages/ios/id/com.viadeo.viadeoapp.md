@@ -3,18 +3,10 @@ title: "Viadeo (com.viadeo.viadeoapp)"
 permalink: /apps/ios/com.viadeo.viadeoapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Viadeo (com.viadeo.viadeoapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Viadeo (com.viadeo.viadeoapp
+# Viadeo (com.viadeo.viadeoapp)
 
 **BundleId:** com.viadeo.viadeoapp
 **App Version:** 4.5.1
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Vi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Vi
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -54,13 +46,13 @@ Native App
 contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 34
-- UI: 10 lib(s)
-- Tools: 7 lib(s)
 - Network: 4 lib(s)
+- Tools: 7 lib(s)
+- UI: 10 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -120,5 +112,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

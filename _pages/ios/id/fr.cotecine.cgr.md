@@ -3,14 +3,6 @@ title: "CGR (fr.cotecine.cgr)"
 permalink: /apps/ios/fr.cotecine.cgr.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/d3/ee/f5d3eea7-c259-41c7-54fe-c5ee523018d9/app_icon-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application CG
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/d3/ee/f5d3eea7-c259-41c7-54fe-c5ee523018d9/app_icon-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/d3/ee/f5d3eea7-c259-41c7-54fe-c5ee523018d9/app_icon-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="CGR fr.cotecine.cgr app icon"></div></br>
   
-# CGR (fr.cotecine.cgr
+# CGR (fr.cotecine.cgr)
 
 **BundleId:** fr.cotecine.cgr
 **App Version:** 5.3.27
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application CG
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application CG
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,14 +58,14 @@ support multiple languages
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
-- Tools: 18 lib(s)
 - Tracking: 3 lib(s)
-- Crash: 1 lib(s)
+- Tools: 18 lib(s)
 - Network: 2 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -121,5 +113,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

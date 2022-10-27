@@ -3,33 +3,39 @@ title: "CONFIRMED (com.adidas.confirmed.app)"
 permalink: /apps/ios/com.adidas.confirmed.app.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a2/aa/a5/a2aaa5d6-6fcf-64c2-54b1-83e638054ec6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/78/a4/7a/78a47ac3-0f8b-e117-c82a-2349a61ed87b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a2/aa/a5/a2aaa5d6-6fcf-64c2-54b1-83e638054ec6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/78/a4/7a/78a47ac3-0f8b-e117-c82a-2349a61ed87b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application CONFIRMED (com.adidas.confirmed.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a2/aa/a5/a2aaa5d6-6fcf-64c2-54b1-83e638054ec6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/78/a4/7a/78a47ac3-0f8b-e117-c82a-2349a61ed87b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="CONFIRMED com.adidas.confirmed.app app icon"></div></br>
   
-# CONFIRMED (com.adidas.confirmed.app
+# CONFIRMED (com.adidas.confirmed.app)
 
 **BundleId:** com.adidas.confirmed.app
 **App Version:** 4.6.0
 **App Name:** CONFIRMED
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.57 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application CO
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -50,16 +56,16 @@ support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 115
-- UI: 4 lib(s)
 - Tools: 17 lib(s)
-- Tracking: 5 lib(s)
-- Crash: 1 lib(s)
 - Network: 3 lib(s)
 - Storage: 3 lib(s)
+- Crash: 1 lib(s)
+- UI: 4 lib(s)
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 
@@ -103,5 +109,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

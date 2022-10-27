@@ -3,14 +3,6 @@ title: "BePoint (com.imageinit.bepointmob)"
 permalink: /apps/ios/com.imageinit.bepointmob.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/d8/0d/74/d80d7412-011b-9a48-eb8e-a961171f43bb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Be
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/d8/0d/74/d80d7412-011b-9a48-eb8e-a961171f43bb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/d8/0d/74/d80d7412-011b-9a48-eb8e-a961171f43bb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="BePoint com.imageinit.bepointmob app icon"></div></br>
   
-# BePoint (com.imageinit.bepointmob
+# BePoint (com.imageinit.bepointmob)
 
 **BundleId:** com.imageinit.bepointmob
 **App Version:** 3.1.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Be
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Be
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,14 +55,14 @@ Native App
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
-- UI: 1 lib(s)
+- Storage: 1 lib(s)
 - Tracking: 1 lib(s)
 - Tools: 6 lib(s)
-- Storage: 1 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -92,5 +84,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

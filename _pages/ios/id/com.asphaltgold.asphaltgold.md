@@ -3,33 +3,39 @@ title: "Asphaltgold (com.asphaltgold.asphaltgold)"
 permalink: /apps/ios/com.asphaltgold.asphaltgold.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f8/9e/db/f89edba1-d113-ad02-c120-8083a5d1585f/AsphaltgoldIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/fc/30/effc30d2-9725-e944-ae30-1303b71fd82a/AsphaltgoldIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f8/9e/db/f89edba1-d113-ad02-c120-8083a5d1585f/AsphaltgoldIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/fc/30/effc30d2-9725-e944-ae30-1303b71fd82a/AsphaltgoldIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Asphaltgold (com.asphaltgold.asphaltgold). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f8/9e/db/f89edba1-d113-ad02-c120-8083a5d1585f/AsphaltgoldIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/fc/30/effc30d2-9725-e944-ae30-1303b71fd82a/AsphaltgoldIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Asphaltgold com.asphaltgold.asphaltgold app icon"></div></br>
   
-# Asphaltgold (com.asphaltgold.asphaltgold
+# Asphaltgold (com.asphaltgold.asphaltgold)
 
 **BundleId:** com.asphaltgold.asphaltgold
 **App Version:** 2.0.13
 **App Name:** Asphaltgold
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.08 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application As
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -49,15 +55,15 @@ build using Xcode 13
 contains 1 App extensions
 at least 3 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 45
-- Storage: 2 lib(s)
-- Tracking: 3 lib(s)
-- Network: 1 lib(s)
-- Crash: 1 lib(s)
 - Tools: 14 lib(s)
+- Crash: 1 lib(s)
+- Storage: 2 lib(s)
+- Network: 1 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -95,5 +101,5 @@ at least 3 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

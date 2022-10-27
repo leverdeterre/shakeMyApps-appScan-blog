@@ -3,14 +3,6 @@ title: "LeReader (com.lmmobi.lereader)"
 permalink: /apps/ios/com.lmmobi.lereader.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/96/91/a4969111-99b8-1510-cc33-cc936e2a213c/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Le
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/96/91/a4969111-99b8-1510-cc33-cc936e2a213c/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/96/91/a4969111-99b8-1510-cc33-cc936e2a213c/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="LeReader com.lmmobi.lereader app icon"></div></br>
   
-# LeReader (com.lmmobi.lereader
+# LeReader (com.lmmobi.lereader)
 
 **BundleId:** com.lmmobi.lereader
 **App Version:** 1.2.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 **Custom keys:** 8
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,12 +54,12 @@ Native App
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
-- Tools: 3 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -76,5 +68,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

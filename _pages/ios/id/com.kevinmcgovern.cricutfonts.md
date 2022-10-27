@@ -3,14 +3,6 @@ title: "Fonts for Cricut (com.kevinmcgovern.cricutfonts)"
 permalink: /apps/ios/com.kevinmcgovern.cricutfonts.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b4/c3/1a/b4c31a9a-c05a-4894-0b65-a69e712aab2d/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fo
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b4/c3/1a/b4c31a9a-c05a-4894-0b65-a69e712aab2d/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b4/c3/1a/b4c31a9a-c05a-4894-0b65-a69e712aab2d/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Fonts for Cricut com.kevinmcgovern.cricutfonts app icon"></div></br>
   
-# Fonts for Cricut (com.kevinmcgovern.cricutfonts
+# Fonts for Cricut (com.kevinmcgovern.cricutfonts)
 
 **BundleId:** com.kevinmcgovern.cricutfonts
 **App Version:** 1.2.10
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fo
 **Custom keys:** 12
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ supported devices iPhone & iPad
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -100,5 +92,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

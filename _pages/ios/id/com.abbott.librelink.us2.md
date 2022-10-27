@@ -3,14 +3,6 @@ title: "Libre 2 (com.abbott.librelink.us2)"
 permalink: /apps/ios/com.abbott.librelink.us2.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/1d/bb/ed/1dbbeda3-02c6-2582-fa0b-4faea09d447c/AppIconFSL2-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Li
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/1d/bb/ed/1dbbeda3-02c6-2582-fa0b-4faea09d447c/AppIconFSL2-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/1d/bb/ed/1dbbeda3-02c6-2582-fa0b-4faea09d447c/AppIconFSL2-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Libre 2 com.abbott.librelink.us2 app icon"></div></br>
   
-# Libre 2 (com.abbott.librelink.us2
+# Libre 2 (com.abbott.librelink.us2)
 
 **BundleId:** com.abbott.librelink.us2
 **App Version:** 2.7.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Li
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Li
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,12 +54,12 @@ Native App
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
-- Tools: 1 lib(s)
 - Storage: 1 lib(s)
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -94,5 +86,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

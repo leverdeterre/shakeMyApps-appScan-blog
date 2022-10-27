@@ -3,14 +3,6 @@ title: "Photomath (com.microblink.PhotoMath)"
 permalink: /apps/ios/com.microblink.PhotoMath.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1a/b6/e9/1ab6e95f-364c-6423-dfae-c24db2f76b93/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ph
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1a/b6/e9/1ab6e95f-364c-6423-dfae-c24db2f76b93/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1a/b6/e9/1ab6e95f-364c-6423-dfae-c24db2f76b93/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Photomath com.microblink.PhotoMath app icon"></div></br>
   
-# Photomath (com.microblink.PhotoMath
+# Photomath (com.microblink.PhotoMath)
 
 **BundleId:** com.microblink.PhotoMath
 **App Version:** 8.12.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ph
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ph
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,7 +59,7 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
@@ -120,5 +112,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

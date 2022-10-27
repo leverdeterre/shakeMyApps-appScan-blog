@@ -3,14 +3,6 @@ title: "beIN Sports TR (com.digiturk.ligtv)"
 permalink: /apps/ios/com.digiturk.ligtv.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/82/b2/f1/82b2f182-d402-05e4-d63f-4362da7d9408/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application be
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/82/b2/f1/82b2f182-d402-05e4-d63f-4362da7d9408/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/82/b2/f1/82b2f182-d402-05e4-d63f-4362da7d9408/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="beIN Sports TR com.digiturk.ligtv app icon"></div></br>
   
-# beIN Sports TR (com.digiturk.ligtv
+# beIN Sports TR (com.digiturk.ligtv)
 
 **BundleId:** com.digiturk.ligtv
 **App Version:** 2.1.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application be
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application be
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,16 +58,16 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 22
-- Network: 2 lib(s)
 - Tools: 8 lib(s)
-- Storage: 1 lib(s)
 - Tracking: 2 lib(s)
-- Crash: 1 lib(s)
+- Storage: 1 lib(s)
+- Network: 2 lib(s)
 - UI: 2 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -145,5 +137,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

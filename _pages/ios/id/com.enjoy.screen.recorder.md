@@ -3,14 +3,6 @@ title: "V Recorder (com.enjoy.screen.recorder)"
 permalink: /apps/ios/com.enjoy.screen.recorder.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/b5/c3/a4b5c322-07d7-5d0d-7835-65bda2d977b8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application V 
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/b5/c3/a4b5c322-07d7-5d0d-7835-65bda2d977b8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/b5/c3/a4b5c322-07d7-5d0d-7835-65bda2d977b8/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="V Recorder com.enjoy.screen.recorder app icon"></div></br>
   
-# V Recorder (com.enjoy.screen.recorder
+# V Recorder (com.enjoy.screen.recorder)
 
 **BundleId:** com.enjoy.screen.recorder
 **App Version:** 1.6.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application V 
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application V 
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,14 +57,14 @@ contains 2 App extensions
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
-- Logs: 1 lib(s)
-- Tracking: 4 lib(s)
 - Crash: 1 lib(s)
 - Tools: 9 lib(s)
+- Logs: 1 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -141,5 +133,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

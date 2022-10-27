@@ -3,14 +3,6 @@ title: "TimeCalendar (fr.samuelprak.timecalendar)"
 permalink: /apps/ios/fr.samuelprak.timecalendar.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/7f/10/a6/7f10a637-634f-45d9-52ea-3a6f916a63f6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/7f/10/a6/7f10a637-634f-45d9-52ea-3a6f916a63f6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/7f/10/a6/7f10a637-634f-45d9-52ea-3a6f916a63f6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="TimeCalendar fr.samuelprak.timecalendar app icon"></div></br>
   
-# TimeCalendar (fr.samuelprak.timecalendar
+# TimeCalendar (fr.samuelprak.timecalendar)
 
 **BundleId:** fr.samuelprak.timecalendar
 **App Version:** 2.1.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ FacebookLogin detected
 GoogleLogin detected
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -74,5 +66,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

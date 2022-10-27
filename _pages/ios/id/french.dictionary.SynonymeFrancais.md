@@ -3,14 +3,6 @@ title: "Synonyme (french.dictionary.SynonymeFrancais)"
 permalink: /apps/ios/french.dictionary.SynonymeFrancais.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/90/d5/fa/90d5fadb-99e7-1c09-1290-7e39174c4c5a/AppIcon-1x_U007emarketing-85-220-5.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Sy
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/90/d5/fa/90d5fadb-99e7-1c09-1290-7e39174c4c5a/AppIcon-1x_U007emarketing-85-220-5.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/90/d5/fa/90d5fadb-99e7-1c09-1290-7e39174c4c5a/AppIcon-1x_U007emarketing-85-220-5.png/512x512bb.jpg" width="100" height="100" alt="Synonyme french.dictionary.SynonymeFrancais app icon"></div></br>
   
-# Synonyme (french.dictionary.SynonymeFrancais
+# Synonyme (french.dictionary.SynonymeFrancais)
 
 **BundleId:** french.dictionary.SynonymeFrancais
 **App Version:** 2.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sy
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sy
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -73,5 +65,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

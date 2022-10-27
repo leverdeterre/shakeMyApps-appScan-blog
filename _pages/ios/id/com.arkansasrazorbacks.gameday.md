@@ -3,14 +3,6 @@ title: "Razorbacks (com.arkansasrazorbacks.gameday)"
 permalink: /apps/ios/com.arkansasrazorbacks.gameday.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ee/3c/19/ee3c194b-e644-95dd-5a99-f664054cbe60/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ee/3c/19/ee3c194b-e644-95dd-5a99-f664054cbe60/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ee/3c/19/ee3c194b-e644-95dd-5a99-f664054cbe60/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Razorbacks com.arkansasrazorbacks.gameday app icon"></div></br>
   
-# Razorbacks (com.arkansasrazorbacks.gameday
+# Razorbacks (com.arkansasrazorbacks.gameday)
 
 **BundleId:** com.arkansasrazorbacks.gameday
 **App Version:** 173.3.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,14 +57,14 @@ contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 68
+- Tools: 15 lib(s)
+- Tracking: 4 lib(s)
 - Logs: 1 lib(s)
 - UI: 6 lib(s)
-- Tracking: 4 lib(s)
-- Tools: 15 lib(s)
 - Network: 2 lib(s)
 - Storage: 3 lib(s)
 
@@ -118,5 +110,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

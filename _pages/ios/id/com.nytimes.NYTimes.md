@@ -3,14 +3,6 @@ title: "NYTimes (com.nytimes.NYTimes)"
 permalink: /apps/ios/com.nytimes.NYTimes.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/da/5b/b3da5bab-a131-48d0-a68e-d56205d51544/release-app-icons-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application NY
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/da/5b/b3da5bab-a131-48d0-a68e-d56205d51544/release-app-icons-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/da/5b/b3da5bab-a131-48d0-a68e-d56205d51544/release-app-icons-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="NYTimes com.nytimes.NYTimes app icon"></div></br>
   
-# NYTimes (com.nytimes.NYTimes
+# NYTimes (com.nytimes.NYTimes)
 
 **BundleId:** com.nytimes.NYTimes
 **App Version:** 9.86.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application NY
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application NY
 **Custom keys:** 17
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -69,7 +61,7 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 7
@@ -130,5 +122,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

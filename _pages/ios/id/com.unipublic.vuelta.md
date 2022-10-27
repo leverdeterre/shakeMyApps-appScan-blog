@@ -3,14 +3,6 @@ title: "La Vuelta (com.unipublic.vuelta)"
 permalink: /apps/ios/com.unipublic.vuelta.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/51/02/e8/5102e8e1-83dc-09b2-0334-7fb246b73d94/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application La
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/51/02/e8/5102e8e1-83dc-09b2-0334-7fb246b73d94/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/51/02/e8/5102e8e1-83dc-09b2-0334-7fb246b73d94/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="La Vuelta com.unipublic.vuelta app icon"></div></br>
   
-# La Vuelta (com.unipublic.vuelta
+# La Vuelta (com.unipublic.vuelta)
 
 **BundleId:** com.unipublic.vuelta
 **App Version:** 2.0.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application La
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application La
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,15 +56,15 @@ build using Xcode 13
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
+- Network: 1 lib(s)
 - Tracking: 1 lib(s)
+- Tools: 5 lib(s)
 - UI: 2 lib(s)
 - Logs: 1 lib(s)
-- Tools: 5 lib(s)
-- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -102,5 +94,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

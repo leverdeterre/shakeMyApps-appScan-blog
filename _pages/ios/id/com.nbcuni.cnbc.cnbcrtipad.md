@@ -3,14 +3,6 @@ title: "CNBC (com.nbcuni.cnbc.cnbcrtipad)"
 permalink: /apps/ios/com.nbcuni.cnbc.cnbcrtipad.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/16/5c/0d165c1c-4366-d11b-db07-edc18cf1a9e1/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application CN
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/16/5c/0d165c1c-4366-d11b-db07-edc18cf1a9e1/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/16/5c/0d165c1c-4366-d11b-db07-edc18cf1a9e1/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="CNBC com.nbcuni.cnbc.cnbcrtipad app icon"></div></br>
   
-# CNBC (com.nbcuni.cnbc.cnbcrtipad
+# CNBC (com.nbcuni.cnbc.cnbcrtipad)
 
 **BundleId:** com.nbcuni.cnbc.cnbcrtipad
 **App Version:** 5.35.0
 **App Name:** CNBC
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.13 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application CN
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,13 +59,13 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 39
 - Tools: 10 lib(s)
-- Tracking: 4 lib(s)
 - UI: 1 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -114,5 +120,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

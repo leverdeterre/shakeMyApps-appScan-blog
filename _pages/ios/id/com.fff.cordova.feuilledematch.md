@@ -3,14 +3,6 @@ title: "FeuilleDeMatch (com.fff.cordova.feuilledematch)"
 permalink: /apps/ios/com.fff.cordova.feuilledematch.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/ba/17/4aba1714-2503-7c9b-2e63-5afc71664c9e/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fe
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/ba/17/4aba1714-2503-7c9b-2e63-5afc71664c9e/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/ba/17/4aba1714-2503-7c9b-2e63-5afc71664c9e/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="FeuilleDeMatch com.fff.cordova.feuilledematch app icon"></div></br>
   
-# FeuilleDeMatch (com.fff.cordova.feuilledematch
+# FeuilleDeMatch (com.fff.cordova.feuilledematch)
 
 **BundleId:** com.fff.cordova.feuilledematch
 **App Version:** 3.9.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fe
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,13 +45,13 @@ AppScan generated a spoiler description of the content of the iOS application Fe
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -71,5 +63,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

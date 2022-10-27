@@ -3,18 +3,10 @@ title: "Tikpo (com.tikpo.analytics)"
 permalink: /apps/ios/com.tikpo.analytics.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Tikpo (com.tikpo.analytics). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Tikpo (com.tikpo.analytics
+# Tikpo (com.tikpo.analytics)
 
 **BundleId:** com.tikpo.analytics
 **App Version:** 1.2
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Ti
 **Custom keys:** 7
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -56,16 +48,16 @@ contains 1 App extensions
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 47
+- Crash: 1 lib(s)
+- Network: 6 lib(s)
+- UI: 5 lib(s)
+- Tracking: 2 lib(s)
 - Tools: 13 lib(s)
 - Storage: 2 lib(s)
-- Network: 6 lib(s)
-- Tracking: 2 lib(s)
-- UI: 5 lib(s)
-- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -132,5 +124,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

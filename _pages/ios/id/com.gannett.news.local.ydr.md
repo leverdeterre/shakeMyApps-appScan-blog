@@ -3,14 +3,6 @@ title: "YDR (com.gannett.news.local.ydr)"
 permalink: /apps/ios/com.gannett.news.local.ydr.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/d0/94/a6d094c5-c004-a7e5-896b-9522b5248123/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application YD
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/d0/94/a6d094c5-c004-a7e5-896b-9522b5248123/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/d0/94/a6d094c5-c004-a7e5-896b-9522b5248123/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="YDR com.gannett.news.local.ydr app icon"></div></br>
   
-# YDR (com.gannett.news.local.ydr
+# YDR (com.gannett.news.local.ydr)
 
 **BundleId:** com.gannett.news.local.ydr
 **App Version:** 6.12.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application YD
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application YD
 **Custom keys:** 36
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,7 +58,7 @@ contains 4 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 12
@@ -131,5 +123,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

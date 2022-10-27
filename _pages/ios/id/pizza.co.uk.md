@@ -3,26 +3,18 @@ title: "Takeaway (pizza.co.uk)"
 permalink: /apps/ios/pizza.co.uk.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/11/ee/53/11ee534a-d4f1-0792-298c-f8076c2356db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/8e/9e/f48e9e88-80db-89cf-8016-ad2d166aa230/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/11/ee/53/11ee534a-d4f1-0792-298c-f8076c2356db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/8e/9e/f48e9e88-80db-89cf-8016-ad2d166aa230/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Takeaway (pizza.co.uk). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/11/ee/53/11ee534a-d4f1-0792-298c-f8076c2356db/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/8e/9e/f48e9e88-80db-89cf-8016-ad2d166aa230/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Takeaway pizza.co.uk app icon"></div></br>
   
-# Takeaway (pizza.co.uk
+# Takeaway (pizza.co.uk)
 
 **BundleId:** pizza.co.uk
 **App Version:** 34.37.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ta
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ta
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,17 +60,17 @@ support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 77
 - Tracking: 8 lib(s)
-- Logs: 2 lib(s)
+- UI: 6 lib(s)
+- Tools: 21 lib(s)
 - Crash: 1 lib(s)
 - Storage: 1 lib(s)
-- UI: 6 lib(s)
+- Logs: 2 lib(s)
 - Network: 4 lib(s)
-- Tools: 21 lib(s)
 
 **Apple dylibs:**
 
@@ -111,5 +103,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

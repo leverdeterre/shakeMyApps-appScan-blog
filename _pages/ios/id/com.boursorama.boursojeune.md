@@ -3,14 +3,6 @@ title: "Freedom (com.boursorama.boursojeune)"
 permalink: /apps/ios/com.boursorama.boursojeune.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/24/20/b9/2420b9cb-3918-ab38-9bcd-341a1bc94ef5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fr
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/24/20/b9/2420b9cb-3918-ab38-9bcd-341a1bc94ef5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/24/20/b9/2420b9cb-3918-ab38-9bcd-341a1bc94ef5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Freedom com.boursorama.boursojeune app icon"></div></br>
   
-# Freedom (com.boursorama.boursojeune
+# Freedom (com.boursorama.boursojeune)
 
 **BundleId:** com.boursorama.boursojeune
 **App Version:** 2.3.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fr
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,15 +54,15 @@ supported devices iPhone & iPad
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 113
-- Tools: 15 lib(s)
-- Crash: 1 lib(s)
 - Storage: 2 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 2 lib(s)
 - Network: 2 lib(s)
+- Tools: 15 lib(s)
 
 **Apple dylibs:**
 - libswiftContacts
@@ -107,5 +99,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

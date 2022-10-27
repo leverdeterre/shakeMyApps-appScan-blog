@@ -3,14 +3,6 @@ title: "WalletApp (com.budgetbakers.BudgetBakers)"
 permalink: /apps/ios/com.budgetbakers.BudgetBakers.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/e1/61/f8e16167-ff78-5020-9c01-5812490a806d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/e1/61/f8e16167-ff78-5020-9c01-5812490a806d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/e1/61/f8e16167-ff78-5020-9c01-5812490a806d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="WalletApp com.budgetbakers.BudgetBakers app icon"></div></br>
   
-# WalletApp (com.budgetbakers.BudgetBakers
+# WalletApp (com.budgetbakers.BudgetBakers)
 
 **BundleId:** com.budgetbakers.BudgetBakers
 **App Version:** 3.7.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -69,7 +61,7 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
@@ -121,5 +113,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Mondly (com.atistudios.MondlyFrench)"
 permalink: /apps/ios/com.atistudios.MondlyFrench.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/11/d0/53/11d053ab-8912-b721-be28-1e2d0c1e69be/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/11/d0/53/11d053ab-8912-b721-be28-1e2d0c1e69be/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/11/d0/53/11d053ab-8912-b721-be28-1e2d0c1e69be/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Mondly com.atistudios.MondlyFrench app icon"></div></br>
   
-# Mondly (com.atistudios.MondlyFrench
+# Mondly (com.atistudios.MondlyFrench)
 
 **BundleId:** com.atistudios.MondlyFrench
 **App Version:** 7.5.11
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,7 +57,7 @@ supported devices iPhone & iPad
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -117,5 +109,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

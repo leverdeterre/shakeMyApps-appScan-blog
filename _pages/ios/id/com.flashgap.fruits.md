@@ -3,33 +3,39 @@ title: "Fruitz (com.flashgap.fruits)"
 permalink: /apps/ios/com.flashgap.fruits.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/86/84/7d/86847df9-1ade-e8b6-40c3-efd86c2004a5/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/01/83/aa/0183aaf5-f68e-e08b-6f98-df178308c844/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/86/84/7d/86847df9-1ade-e8b6-40c3-efd86c2004a5/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/01/83/aa/0183aaf5-f68e-e08b-6f98-df178308c844/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Fruitz (com.flashgap.fruits). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/86/84/7d/86847df9-1ade-e8b6-40c3-efd86c2004a5/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/01/83/aa/0183aaf5-f68e-e08b-6f98-df178308c844/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Fruitz com.flashgap.fruits app icon"></div></br>
   
-# Fruitz (com.flashgap.fruits
+# Fruitz (com.flashgap.fruits)
 
 **BundleId:** com.flashgap.fruits
 **App Version:** 3.5.1
 **App Name:** Fruitz
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.18 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fr
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -49,12 +55,12 @@ GoogleLogin detected
 build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 7
-- Tools: 3 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -100,5 +106,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

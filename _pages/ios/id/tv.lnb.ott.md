@@ -3,14 +3,6 @@ title: "LNB TV (tv.lnb.ott)"
 permalink: /apps/ios/tv.lnb.ott.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/55/62/01/55620135-1741-1cf1-ef6f-6b4baecfedba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application LN
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/55/62/01/55620135-1741-1cf1-ef6f-6b4baecfedba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/55/62/01/55620135-1741-1cf1-ef6f-6b4baecfedba/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="LNB TV tv.lnb.ott app icon"></div></br>
   
-# LNB TV (tv.lnb.ott
+# LNB TV (tv.lnb.ott)
 
 **BundleId:** tv.lnb.ott
 **App Version:** 1.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application LN
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application LN
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,16 +55,16 @@ supported devices iPhone & iPad
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 38
 - Storage: 1 lib(s)
-- UI: 3 lib(s)
-- Tools: 14 lib(s)
-- Network: 3 lib(s)
 - Tracking: 1 lib(s)
+- UI: 3 lib(s)
+- Network: 3 lib(s)
 - Crash: 1 lib(s)
+- Tools: 14 lib(s)
 
 **Apple dylibs:**
 
@@ -112,5 +104,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

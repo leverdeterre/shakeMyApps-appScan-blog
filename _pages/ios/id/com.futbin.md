@@ -3,14 +3,6 @@ title: "Futbin (com.futbin)"
 permalink: /apps/ios/com.futbin.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/d4/e8/6ed4e8ae-bdb8-30d0-5e34-286f9d96b337/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fu
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/d4/e8/6ed4e8ae-bdb8-30d0-5e34-286f9d96b337/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/d4/e8/6ed4e8ae-bdb8-30d0-5e34-286f9d96b337/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Futbin com.futbin app icon"></div></br>
   
-# Futbin (com.futbin
+# Futbin (com.futbin)
 
 **BundleId:** com.futbin
 **App Version:** 5.0.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fu
 **Custom keys:** 14
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,16 +56,16 @@ contains 1 App extensions
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 56
-- UI: 11 lib(s)
-- Network: 3 lib(s)
 - Crash: 1 lib(s)
+- Tools: 11 lib(s)
 - Storage: 2 lib(s)
 - Tracking: 2 lib(s)
-- Tools: 11 lib(s)
+- UI: 11 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -127,5 +119,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

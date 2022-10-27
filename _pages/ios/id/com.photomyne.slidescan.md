@@ -3,14 +3,6 @@ title: "SlideScan (com.photomyne.slidescan)"
 permalink: /apps/ios/com.photomyne.slidescan.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b2/23/46/b22346a0-7596-b23c-1297-adec1299a0e7/AppIconLite-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Sl
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b2/23/46/b22346a0-7596-b23c-1297-adec1299a0e7/AppIconLite-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b2/23/46/b22346a0-7596-b23c-1297-adec1299a0e7/AppIconLite-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="SlideScan com.photomyne.slidescan app icon"></div></br>
   
-# SlideScan (com.photomyne.slidescan
+# SlideScan (com.photomyne.slidescan)
 
 **BundleId:** com.photomyne.slidescan
 **App Version:** 3.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sl
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sl
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ contains 1 App extensions
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
@@ -110,5 +102,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

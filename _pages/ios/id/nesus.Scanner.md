@@ -3,14 +3,6 @@ title: "PDF Scanner (nesus.Scanner)"
 permalink: /apps/ios/nesus.Scanner.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/97/c1/29/97c1299c-6927-4507-38e8-88120ce8d3b4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application PD
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/97/c1/29/97c1299c-6927-4507-38e8-88120ce8d3b4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/97/c1/29/97c1299c-6927-4507-38e8-88120ce8d3b4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="PDF Scanner nesus.Scanner app icon"></div></br>
   
-# PDF Scanner (nesus.Scanner
+# PDF Scanner (nesus.Scanner)
 
 **BundleId:** nesus.Scanner
 **App Version:** 2.18
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application PD
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application PD
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,16 +56,16 @@ build using Xcode 13
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
-- UI: 2 lib(s)
-- Storage: 1 lib(s)
-- Tracking: 4 lib(s)
 - Tools: 10 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 4 lib(s)
+- Storage: 1 lib(s)
 - Network: 1 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -127,5 +119,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,26 +3,18 @@ title: "Opal (com.withopal.opal)"
 permalink: /apps/ios/com.withopal.opal.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/62/e1/8a/62e18ae1-42ba-a7b6-730c-f49ac8e16b14/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/62/f4/d4/62f4d4ea-2e52-b847-7186-b696afc4742f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/62/e1/8a/62e18ae1-42ba-a7b6-730c-f49ac8e16b14/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/62/f4/d4/62f4d4ea-2e52-b847-7186-b696afc4742f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Opal (com.withopal.opal). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/62/e1/8a/62e18ae1-42ba-a7b6-730c-f49ac8e16b14/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/62/f4/d4/62f4d4ea-2e52-b847-7186-b696afc4742f/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Opal com.withopal.opal app icon"></div></br>
   
-# Opal (com.withopal.opal
+# Opal (com.withopal.opal)
 
 **BundleId:** com.withopal.opal
 **App Version:** 3.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Op
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Op
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,7 +57,7 @@ at least 3 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
@@ -119,5 +111,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

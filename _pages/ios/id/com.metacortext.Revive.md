@@ -3,14 +3,6 @@ title: "Revive (com.metacortext.Revive)"
 permalink: /apps/ios/com.metacortext.Revive.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ff/66/eb/ff66eb0c-b751-80dd-d29f-63097db189d8/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Re
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ff/66/eb/ff66eb0c-b751-80dd-d29f-63097db189d8/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ff/66/eb/ff66eb0c-b751-80dd-d29f-63097db189d8/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Revive com.metacortext.Revive app icon"></div></br>
   
-# Revive (com.metacortext.Revive
+# Revive (com.metacortext.Revive)
 
 **BundleId:** com.metacortext.Revive
 **App Version:** 1.15.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Re
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Re
 **Custom keys:** 16
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,17 +55,17 @@ Native App
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 56
-- Tracking: 5 lib(s)
-- Network: 2 lib(s)
+- Storage: 1 lib(s)
 - Logs: 1 lib(s)
+- Tracking: 5 lib(s)
 - UI: 1 lib(s)
 - Tools: 14 lib(s)
+- Network: 2 lib(s)
 - Crash: 1 lib(s)
-- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -125,5 +117,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

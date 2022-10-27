@@ -3,14 +3,6 @@ title: "EastlandHerb (com.eastlandpress.Eastland-Herb)"
 permalink: /apps/ios/com.eastlandpress.Eastland-Herb.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/44/a7/26/44a72617-a1d9-69d7-2ff7-1ca1a69a5224/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ea
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/44/a7/26/44a72617-a1d9-69d7-2ff7-1ca1a69a5224/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/44/a7/26/44a72617-a1d9-69d7-2ff7-1ca1a69a5224/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="EastlandHerb com.eastlandpress.Eastland-Herb app icon"></div></br>
   
-# EastlandHerb (com.eastlandpress.Eastland-Herb
+# EastlandHerb (com.eastlandpress.Eastland-Herb)
 
 **BundleId:** com.eastlandpress.Eastland-Herb
 **App Version:** 300000000027
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ea
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application Ea
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 2
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -84,5 +76,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Chat with parents (com.chatwithparents.ios)"
 permalink: /apps/ios/com.chatwithparents.ios.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/04/76/e4/0476e448-e5b1-9123-773d-e7ba516c9807/AppIcon-Chat-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ch
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/04/76/e4/0476e448-e5b1-9123-773d-e7ba516c9807/AppIcon-Chat-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/04/76/e4/0476e448-e5b1-9123-773d-e7ba516c9807/AppIcon-Chat-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Chat with parents com.chatwithparents.ios app icon"></div></br>
   
-# Chat with parents (com.chatwithparents.ios
+# Chat with parents (com.chatwithparents.ios)
 
 **BundleId:** com.chatwithparents.ios
 **App Version:** 1.15.79
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ch
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ch
 **Custom keys:** 9
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,13 +54,13 @@ build using Xcode 13
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
+- Tools: 3 lib(s)
 - Storage: 1 lib(s)
 - Network: 2 lib(s)
-- Tools: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -77,5 +69,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

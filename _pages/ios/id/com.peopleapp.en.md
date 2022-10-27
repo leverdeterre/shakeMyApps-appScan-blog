@@ -3,14 +3,6 @@ title: "People's Daily (com.peopleapp.en)"
 permalink: /apps/ios/com.peopleapp.en.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/c0/1b/9e/c01b9ead-490c-123d-f83a-b21b16dc5b61/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pe
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/c0/1b/9e/c01b9ead-490c-123d-f83a-b21b16dc5b61/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/c0/1b/9e/c01b9ead-490c-123d-f83a-b21b16dc5b61/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="People's Daily com.peopleapp.en app icon"></div></br>
   
-# People's Daily (com.peopleapp.en
+# People's Daily (com.peopleapp.en)
 
 **BundleId:** com.peopleapp.en
 **App Version:** 3.2.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pe
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pe
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,15 +58,15 @@ contains 1 App extensions
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
-- Tools: 12 lib(s)
-- Crash: 1 lib(s)
-- Network: 3 lib(s)
 - Tracking: 3 lib(s)
+- Crash: 1 lib(s)
 - UI: 1 lib(s)
+- Tools: 12 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -140,5 +132,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

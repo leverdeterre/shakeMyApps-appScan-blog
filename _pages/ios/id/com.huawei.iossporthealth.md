@@ -3,14 +3,6 @@ title: "HUAWEI Health (com.huawei.iossporthealth)"
 permalink: /apps/ios/com.huawei.iossporthealth.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/94/02/f0/9402f05f-34f4-2e27-dfec-abf213901b2a/healthlogo_app_release-1x_U007emarketing-0-4-0-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application HU
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/94/02/f0/9402f05f-34f4-2e27-dfec-abf213901b2a/healthlogo_app_release-1x_U007emarketing-0-4-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/94/02/f0/9402f05f-34f4-2e27-dfec-abf213901b2a/healthlogo_app_release-1x_U007emarketing-0-4-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="HUAWEI Health com.huawei.iossporthealth app icon"></div></br>
   
-# HUAWEI Health (com.huawei.iossporthealth
+# HUAWEI Health (com.huawei.iossporthealth)
 
 **BundleId:** com.huawei.iossporthealth
 **App Version:** 12.1.91
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application HU
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application HU
 **Custom keys:** 22
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,14 +57,14 @@ build using Xcode 13
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 38
-- Network: 2 lib(s)
-- Tools: 4 lib(s)
 - Storage: 1 lib(s)
+- Tools: 4 lib(s)
 - UI: 2 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -151,5 +143,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

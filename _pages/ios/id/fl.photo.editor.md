@@ -3,14 +3,6 @@ title: "Refine (fl.photo.editor)"
 permalink: /apps/ios/fl.photo.editor.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/3c/22/96/3c22960f-bd25-429d-e5cc-0941813e1aab/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Re
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/3c/22/96/3c22960f-bd25-429d-e5cc-0941813e1aab/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/3c/22/96/3c22960f-bd25-429d-e5cc-0941813e1aab/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Refine fl.photo.editor app icon"></div></br>
   
-# Refine (fl.photo.editor
+# Refine (fl.photo.editor)
 
 **BundleId:** fl.photo.editor
 **App Version:** 2.0.31
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Re
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Re
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,15 +55,15 @@ supported devices iPhone & iPad
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
-- Logs: 1 lib(s)
-- UI: 3 lib(s)
 - Tools: 22 lib(s)
+- UI: 3 lib(s)
 - Tracking: 4 lib(s)
 - Crash: 1 lib(s)
+- Logs: 1 lib(s)
 - Network: 3 lib(s)
 - Storage: 4 lib(s)
 
@@ -126,5 +118,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

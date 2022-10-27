@@ -3,14 +3,6 @@ title: "HTTP Request Maker !! (com.Airlycee.HttpRequestMaker)"
 permalink: /apps/ios/com.Airlycee.HttpRequestMaker.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/ce/ef/e5/ceefe5e1-07c7-6b17-c70b-754a7372112f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application HT
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/ce/ef/e5/ceefe5e1-07c7-6b17-c70b-754a7372112f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/ce/ef/e5/ceefe5e1-07c7-6b17-c70b-754a7372112f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="HTTP Request Maker !! com.Airlycee.HttpRequestMaker app icon"></div></br>
   
-# HTTP Request Maker !! (com.Airlycee.HttpRequestMaker
+# HTTP Request Maker !! (com.Airlycee.HttpRequestMaker)
 
 **BundleId:** com.Airlycee.HttpRequestMaker
 **App Version:** 1.0.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application HT
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application HT
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Number of entitlements detected: 3
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -93,5 +85,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

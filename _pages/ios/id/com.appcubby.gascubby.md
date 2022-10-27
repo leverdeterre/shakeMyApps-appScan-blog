@@ -3,14 +3,6 @@ title: "Fuelly (com.appcubby.gascubby)"
 permalink: /apps/ios/com.appcubby.gascubby.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/b7/e8/bab7e8ad-4afa-7376-6834-1b378e79b2c2/AppIconBeta-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fu
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/b7/e8/bab7e8ad-4afa-7376-6834-1b378e79b2c2/AppIconBeta-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ba/b7/e8/bab7e8ad-4afa-7376-6834-1b378e79b2c2/AppIconBeta-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/512x512bb.jpg" width="100" height="100" alt="Fuelly com.appcubby.gascubby app icon"></div></br>
   
-# Fuelly (com.appcubby.gascubby
+# Fuelly (com.appcubby.gascubby)
 
 **BundleId:** com.appcubby.gascubby
 **App Version:** 3.3.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,13 +45,13 @@ AppScan generated a spoiler description of the content of the iOS application Fu
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -71,5 +63,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

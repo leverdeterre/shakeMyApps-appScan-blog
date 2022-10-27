@@ -3,14 +3,6 @@ title: "RV LIFE (com.rvlife.rvlife)"
 permalink: /apps/ios/com.rvlife.rvlife.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/36/4f/64/364f6444-d2cc-0e57-97e5-06eb2be62b0b/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application RV
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/36/4f/64/364f6444-d2cc-0e57-97e5-06eb2be62b0b/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/36/4f/64/364f6444-d2cc-0e57-97e5-06eb2be62b0b/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="RV LIFE com.rvlife.rvlife app icon"></div></br>
   
-# RV LIFE (com.rvlife.rvlife
+# RV LIFE (com.rvlife.rvlife)
 
 **BundleId:** com.rvlife.rvlife
 **App Version:** 3.4.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application RV
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application RV
 **Custom keys:** 22
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,12 +54,12 @@ supported devices iPhone & iPad
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
-- Tracking: 2 lib(s)
 - Tools: 1 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -122,5 +114,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

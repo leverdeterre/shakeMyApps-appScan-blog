@@ -3,14 +3,6 @@ title: "EasyVFR (com.pocketfms.pocketfmsfull)"
 permalink: /apps/ios/com.pocketfms.pocketfmsfull.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/54/d5/b2/54d5b24d-16fb-7a96-0d63-fb50ac03d445/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ea
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/54/d5/b2/54d5b24d-16fb-7a96-0d63-fb50ac03d445/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/54/d5/b2/54d5b24d-16fb-7a96-0d63-fb50ac03d445/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg" width="100" height="100" alt="EasyVFR com.pocketfms.pocketfmsfull app icon"></div></br>
   
-# EasyVFR (com.pocketfms.pocketfmsfull
+# EasyVFR (com.pocketfms.pocketfmsfull)
 
 **BundleId:** com.pocketfms.pocketfmsfull
 **App Version:** 3.97.43
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ea
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ea
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ FacebookLogin detected
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
@@ -101,5 +93,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

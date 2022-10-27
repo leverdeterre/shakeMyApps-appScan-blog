@@ -3,18 +3,10 @@ title: "NFC门禁卡 (com.MobileTO.NFC)"
 permalink: /apps/ios/com.MobileTO.NFC.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application NFC门禁卡 (com.MobileTO.NFC). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# NFC门禁卡 (com.MobileTO.NFC
+# NFC门禁卡 (com.MobileTO.NFC)
 
 **BundleId:** com.MobileTO.NFC
 **App Version:** 1.2
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application NF
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application NF
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -54,12 +46,12 @@ Native App
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 6
-- Tools: 1 lib(s)
 - Network: 2 lib(s)
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -78,5 +70,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

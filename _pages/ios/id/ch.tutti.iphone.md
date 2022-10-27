@@ -3,14 +3,6 @@ title: "tutti.ch (ch.tutti.iphone)"
 permalink: /apps/ios/ch.tutti.iphone.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/d7/d1/ed/d7d1edce-796c-d22d-8208-85229b373625/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application tu
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/d7/d1/ed/d7d1edce-796c-d22d-8208-85229b373625/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/d7/d1/ed/d7d1edce-796c-d22d-8208-85229b373625/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="tutti.ch ch.tutti.iphone app icon"></div></br>
   
-# tutti.ch (ch.tutti.iphone
+# tutti.ch (ch.tutti.iphone)
 
 **BundleId:** ch.tutti.iphone
 **App Version:** 7.0.11
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application tu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application tu
 **Custom keys:** 27
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,13 +59,13 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
-- Logs: 1 lib(s)
 - Network: 1 lib(s)
 - Tools: 3 lib(s)
+- Logs: 1 lib(s)
 - UI: 4 lib(s)
 
 **Apple dylibs:**
@@ -124,5 +116,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

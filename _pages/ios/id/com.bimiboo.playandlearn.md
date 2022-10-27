@@ -3,14 +3,6 @@ title: "Learning games (com.bimiboo.playandlearn)"
 permalink: /apps/ios/com.bimiboo.playandlearn.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/be/3c/88/be3c8816-1d05-5398-b225-6b11f2927259/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Le
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/be/3c/88/be3c8816-1d05-5398-b225-6b11f2927259/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/be/3c/88/be3c8816-1d05-5398-b225-6b11f2927259/AppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg" width="100" height="100" alt="Learning games com.bimiboo.playandlearn app icon"></div></br>
   
-# Learning games (com.bimiboo.playandlearn
+# Learning games (com.bimiboo.playandlearn)
 
 **BundleId:** com.bimiboo.playandlearn
 **App Version:** 1.120
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -74,5 +66,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

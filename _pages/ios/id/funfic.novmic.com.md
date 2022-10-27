@@ -3,14 +3,6 @@ title: "Funtel (funfic.novmic.com)"
 permalink: /apps/ios/funfic.novmic.com.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/90/61/1f906122-0105-21b3-3b34-c03df535872f/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fu
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/90/61/1f906122-0105-21b3-3b34-c03df535872f/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/90/61/1f906122-0105-21b3-3b34-c03df535872f/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Funtel funfic.novmic.com app icon"></div></br>
   
-# Funtel (funfic.novmic.com
+# Funtel (funfic.novmic.com)
 
 **BundleId:** funfic.novmic.com
 **App Version:** 2.1.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fu
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,17 +54,17 @@ GoogleLogin detected
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 55
+- Tracking: 4 lib(s)
 - Tools: 18 lib(s)
+- Logs: 1 lib(s)
 - Crash: 1 lib(s)
 - Network: 4 lib(s)
-- Tracking: 4 lib(s)
 - UI: 4 lib(s)
 - Storage: 3 lib(s)
-- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -81,5 +73,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

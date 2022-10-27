@@ -3,14 +3,6 @@ title: "Rakuten TV (tv.wuaki.Wuakitv-Player)"
 permalink: /apps/ios/tv.wuaki.Wuakitv-Player.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/55/a6/7a55a65a-a6ce-1eaf-9a0d-aa6294cc9e2a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/55/a6/7a55a65a-a6ce-1eaf-9a0d-aa6294cc9e2a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/55/a6/7a55a65a-a6ce-1eaf-9a0d-aa6294cc9e2a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Rakuten TV tv.wuaki.Wuakitv-Player app icon"></div></br>
   
-# Rakuten TV (tv.wuaki.Wuakitv-Player
+# Rakuten TV (tv.wuaki.Wuakitv-Player)
 
 **BundleId:** tv.wuaki.Wuakitv-Player
 **App Version:** 3.17.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,16 +57,16 @@ build using Xcode 13
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 58
-- Logs: 1 lib(s)
-- Storage: 1 lib(s)
-- UI: 5 lib(s)
-- Tracking: 2 lib(s)
 - Tools: 12 lib(s)
+- UI: 5 lib(s)
+- Logs: 1 lib(s)
+- Tracking: 2 lib(s)
 - Network: 5 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -114,5 +106,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

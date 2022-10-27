@@ -3,14 +3,6 @@ title: "Betting Tips | BeFuture IN. (com.befutureinteractive.BeFuture-Interactiv
 permalink: /apps/ios/com.befutureinteractive.BeFuture-Interactive.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/aa/f6/e6aaf68d-4a1a-8410-d53a-d5eec244c7f4/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Be
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/aa/f6/e6aaf68d-4a1a-8410-d53a-d5eec244c7f4/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/aa/f6/e6aaf68d-4a1a-8410-d53a-d5eec244c7f4/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Betting Tips | BeFuture IN. com.befutureinteractive.BeFuture-Interactive app icon"></div></br>
   
-# Betting Tips | BeFuture IN. (com.befutureinteractive.BeFuture-Interactive
+# Betting Tips | BeFuture IN. (com.befutureinteractive.BeFuture-Interactive)
 
 **BundleId:** com.befutureinteractive.BeFuture-Interactive
 **App Version:** 2.1.6
 **App Name:** Betting Tips | BeFuture IN.
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.16 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,18 +45,18 @@ AppScan generated a spoiler description of the content of the iOS application Be
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- Tools: 8 lib(s)
 - Storage: 1 lib(s)
+- Tools: 8 lib(s)
 
 **Apple dylibs:**
 
@@ -59,5 +65,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

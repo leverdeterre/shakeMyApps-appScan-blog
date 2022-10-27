@@ -3,14 +3,6 @@ title: "Liberty Rider (com.liberty-rider.liberty-rider)"
 permalink: /apps/ios/com.liberty-rider.liberty-rider.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/6f/c2/8b6fc21c-8fe6-2de2-3f4e-e7c98080d9cf/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Li
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/6f/c2/8b6fc21c-8fe6-2de2-3f4e-e7c98080d9cf/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/6f/c2/8b6fc21c-8fe6-2de2-3f4e-e7c98080d9cf/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Liberty Rider com.liberty-rider.liberty-rider app icon"></div></br>
   
-# Liberty Rider (com.liberty-rider.liberty-rider
+# Liberty Rider (com.liberty-rider.liberty-rider)
 
 **BundleId:** com.liberty-rider.liberty-rider
 **App Version:** 2.28.1
 **App Name:** Liberty Rider
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.27 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Li
 **Custom keys:** 36
 **Low securit keys:** 10
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -52,17 +58,17 @@ contains 1 App extensions
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 73
-- Storage: 2 lib(s)
-- Tracking: 5 lib(s)
 - Network: 2 lib(s)
-- Tools: 31 lib(s)
+- Logs: 1 lib(s)
 - Crash: 1 lib(s)
 - UI: 4 lib(s)
-- Logs: 1 lib(s)
+- Storage: 2 lib(s)
+- Tools: 31 lib(s)
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 
@@ -111,5 +117,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

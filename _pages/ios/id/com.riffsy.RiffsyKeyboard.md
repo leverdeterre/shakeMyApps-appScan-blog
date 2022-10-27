@@ -3,14 +3,6 @@ title: "GIF Keyboard (com.riffsy.RiffsyKeyboard)"
 permalink: /apps/ios/com.riffsy.RiffsyKeyboard.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/0c/03/b30c03c0-53e3-9554-0ff8-e2ceba37233f/AppIcon-GifKeyboard-1x_U007emarketing-5-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application GI
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/0c/03/b30c03c0-53e3-9554-0ff8-e2ceba37233f/AppIcon-GifKeyboard-1x_U007emarketing-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/b3/0c/03/b30c03c0-53e3-9554-0ff8-e2ceba37233f/AppIcon-GifKeyboard-1x_U007emarketing-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="GIF Keyboard com.riffsy.RiffsyKeyboard app icon"></div></br>
   
-# GIF Keyboard (com.riffsy.RiffsyKeyboard
+# GIF Keyboard (com.riffsy.RiffsyKeyboard)
 
 **BundleId:** com.riffsy.RiffsyKeyboard
 **App Version:** 4.18.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application GI
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application GI
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,7 +58,7 @@ contains 3 App extensions
 support multiple languages
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -78,5 +70,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

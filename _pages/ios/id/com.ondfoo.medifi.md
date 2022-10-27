@@ -3,14 +3,6 @@ title: "myDevo (com.ondfoo.medifi)"
 permalink: /apps/ios/com.ondfoo.medifi.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/49/d1/8f49d180-be4b-bfb9-0f79-49bf0fb76187/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application my
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/49/d1/8f49d180-be4b-bfb9-0f79-49bf0fb76187/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/49/d1/8f49d180-be4b-bfb9-0f79-49bf0fb76187/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="myDevo com.ondfoo.medifi app icon"></div></br>
   
-# myDevo (com.ondfoo.medifi
+# myDevo (com.ondfoo.medifi)
 
 **BundleId:** com.ondfoo.medifi
 **App Version:** 1.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application my
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application my
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,13 +54,13 @@ supported devices iPhone & iPad
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 50
+- Storage: 5 lib(s)
 - Tools: 14 lib(s)
 - Network: 4 lib(s)
-- Storage: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -114,5 +106,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

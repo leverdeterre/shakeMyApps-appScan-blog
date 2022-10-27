@@ -3,18 +3,10 @@ title: "Rain Gauge (com.agrible.PocketRainGauge)"
 permalink: /apps/ios/com.agrible.PocketRainGauge.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Rain Gauge (com.agrible.PocketRainGauge). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Rain Gauge (com.agrible.PocketRainGauge
+# Rain Gauge (com.agrible.PocketRainGauge)
 
 **BundleId:** com.agrible.PocketRainGauge
 **App Version:** 1.10
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,14 +45,14 @@ Native App
 supported devices iPhone & iPad
 contains 2 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
 - UI: 1 lib(s)
-- Tools: 4 lib(s)
 - Network: 1 lib(s)
 - Logs: 1 lib(s)
+- Tools: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -69,5 +61,5 @@ contains 2 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Keto Carb Manager Diet Counter (com.totalketodiet.ketodiet)"
 permalink: /apps/ios/com.totalketodiet.ketodiet.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/33/58/6f/33586f58-a5e9-1c6f-bf0d-ae5b8185410a/AppIcon-1x_U007emarketing-0-6-0-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ke
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/33/58/6f/33586f58-a5e9-1c6f-bf0d-ae5b8185410a/AppIcon-1x_U007emarketing-0-6-0-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/33/58/6f/33586f58-a5e9-1c6f-bf0d-ae5b8185410a/AppIcon-1x_U007emarketing-0-6-0-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Keto Carb Manager Diet Counter com.totalketodiet.ketodiet app icon"></div></br>
   
-# Keto Carb Manager Diet Counter (com.totalketodiet.ketodiet
+# Keto Carb Manager Diet Counter (com.totalketodiet.ketodiet)
 
 **BundleId:** com.totalketodiet.ketodiet
 **App Version:** 5.4.18
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ke
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,19 +45,19 @@ AppScan generated a spoiler description of the content of the iOS application Ke
 **Custom keys:** 13
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 FacebookLogin detected
 GoogleLogin detected
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 7
-- Tracking: 2 lib(s)
 - Tools: 3 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -74,5 +66,5 @@ GoogleLogin detected
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

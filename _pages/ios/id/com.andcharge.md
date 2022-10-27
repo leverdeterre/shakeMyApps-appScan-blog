@@ -3,33 +3,39 @@ title: "&Charge (com.andcharge)"
 permalink: /apps/ios/com.andcharge.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/31/f0/3c31f0da-a3a9-0d8c-2237-78e8e4a056bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/07/77/6b07772e-e250-27e6-3145-72402406df1d/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/31/f0/3c31f0da-a3a9-0d8c-2237-78e8e4a056bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/07/77/6b07772e-e250-27e6-3145-72402406df1d/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application &Charge (com.andcharge). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/31/f0/3c31f0da-a3a9-0d8c-2237-78e8e4a056bf/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/07/77/6b07772e-e250-27e6-3145-72402406df1d/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="&Charge com.andcharge app icon"></div></br>
   
-# &Charge (com.andcharge
+# &Charge (com.andcharge)
 
 **BundleId:** com.andcharge
 **App Version:** 9.8
 **App Name:** &Charge
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.31 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application &C
 **Custom keys:** 21
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,15 +59,15 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 48
-- Crash: 1 lib(s)
-- Tools: 16 lib(s)
 - UI: 11 lib(s)
-- Tracking: 2 lib(s)
+- Tools: 16 lib(s)
+- Crash: 1 lib(s)
 - Network: 3 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -108,5 +114,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

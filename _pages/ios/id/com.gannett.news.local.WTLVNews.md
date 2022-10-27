@@ -3,14 +3,6 @@ title: "FCN (com.gannett.news.local.WTLVNews)"
 permalink: /apps/ios/com.gannett.news.local.WTLVNews.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/95/1a/de/951ade67-3d00-ab79-bed3-d47f48e81ed3/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application FC
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/95/1a/de/951ade67-3d00-ab79-bed3-d47f48e81ed3/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/95/1a/de/951ade67-3d00-ab79-bed3-d47f48e81ed3/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg" width="100" height="100" alt="FCN com.gannett.news.local.WTLVNews app icon"></div></br>
   
-# FCN (com.gannett.news.local.WTLVNews
+# FCN (com.gannett.news.local.WTLVNews)
 
 **BundleId:** com.gannett.news.local.WTLVNews
 **App Version:** 44.2.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application FC
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application FC
 **Custom keys:** 25
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,13 +56,13 @@ build using Xcode 13
 contains 2 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- UI: 1 lib(s)
 - Tools: 3 lib(s)
 - Tracking: 3 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -126,5 +118,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

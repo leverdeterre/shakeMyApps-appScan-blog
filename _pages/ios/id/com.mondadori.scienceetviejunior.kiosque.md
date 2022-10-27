@@ -3,14 +3,6 @@ title: "Science&Vie Junior (com.mondadori.scienceetviejunior.kiosque)"
 permalink: /apps/ios/com.mondadori.scienceetviejunior.kiosque.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/23/e6/f9/23e6f9d6-06f7-5259-f369-6f6b932e7978/contsched.fnevktok.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Sc
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/23/e6/f9/23e6f9d6-06f7-5259-f369-6f6b932e7978/contsched.fnevktok.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/23/e6/f9/23e6f9d6-06f7-5259-f369-6f6b932e7978/contsched.fnevktok.png/512x512bb.jpg" width="100" height="100" alt="Science&Vie Junior com.mondadori.scienceetviejunior.kiosque app icon"></div></br>
   
-# Science&Vie Junior (com.mondadori.scienceetviejunior.kiosque
+# Science&Vie Junior (com.mondadori.scienceetviejunior.kiosque)
 
 **BundleId:** com.mondadori.scienceetviejunior.kiosque
 **App Version:** 3.1.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sc
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sc
 **Custom keys:** 16
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,14 +53,14 @@ Number of entitlements detected: 3
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
-- Tracking: 1 lib(s)
-- Storage: 1 lib(s)
 - Tools: 11 lib(s)
 - Network: 3 lib(s)
+- Storage: 1 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -115,5 +107,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

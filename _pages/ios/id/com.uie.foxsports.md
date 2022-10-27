@@ -3,14 +3,6 @@ title: "FOX Sports (com.uie.foxsports)"
 permalink: /apps/ios/com.uie.foxsports.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d7/2b/8a/d72b8ae3-1d33-1777-783e-940993079cd0/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application FO
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d7/2b/8a/d72b8ae3-1d33-1777-783e-940993079cd0/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d7/2b/8a/d72b8ae3-1d33-1777-783e-940993079cd0/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="FOX Sports com.uie.foxsports app icon"></div></br>
   
-# FOX Sports (com.uie.foxsports
+# FOX Sports (com.uie.foxsports)
 
 **BundleId:** com.uie.foxsports
 **App Version:** 5.56
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application FO
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application FO
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,16 +58,16 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- Logs: 2 lib(s)
-- Network: 1 lib(s)
 - Tools: 6 lib(s)
-- Tracking: 5 lib(s)
-- UI: 2 lib(s)
 - Storage: 1 lib(s)
+- Network: 1 lib(s)
+- UI: 2 lib(s)
+- Logs: 2 lib(s)
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 
@@ -113,5 +105,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

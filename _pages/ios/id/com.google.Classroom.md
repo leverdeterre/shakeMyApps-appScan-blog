@@ -3,26 +3,18 @@ title: "Classroom (com.google.Classroom)"
 permalink: /apps/ios/com.google.Classroom.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/83/25/6c/83256c10-5031-bf39-22f6-88998078a43e/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fd/a4/4b/fda44ba0-c5d1-5ca6-b2b5-ac09cf386258/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/83/25/6c/83256c10-5031-bf39-22f6-88998078a43e/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fd/a4/4b/fda44ba0-c5d1-5ca6-b2b5-ac09cf386258/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Classroom (com.google.Classroom). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/83/25/6c/83256c10-5031-bf39-22f6-88998078a43e/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/fd/a4/4b/fda44ba0-c5d1-5ca6-b2b5-ac09cf386258/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Classroom com.google.Classroom app icon"></div></br>
   
-# Classroom (com.google.Classroom
+# Classroom (com.google.Classroom)
 
 **BundleId:** com.google.Classroom
 **App Version:** 2.2022.34204
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Cl
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Cl
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,7 +58,7 @@ contains 2 App extensions
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -117,5 +109,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

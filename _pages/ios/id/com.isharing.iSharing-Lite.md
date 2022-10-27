@@ -3,26 +3,18 @@ title: "iSharing (com.isharing.iSharing-Lite)"
 permalink: /apps/ios/com.isharing.iSharing-Lite.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/83/d9/44/83d94471-c5b4-c8ff-7bb5-4b80c2dce765/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/22/44/b9224442-e537-71f0-7ab3-09e795a00f2e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/83/d9/44/83d94471-c5b4-c8ff-7bb5-4b80c2dce765/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/22/44/b9224442-e537-71f0-7ab3-09e795a00f2e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application iSharing (com.isharing.iSharing-Lite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/83/d9/44/83d94471-c5b4-c8ff-7bb5-4b80c2dce765/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/22/44/b9224442-e537-71f0-7ab3-09e795a00f2e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="iSharing com.isharing.iSharing-Lite app icon"></div></br>
   
-# iSharing (com.isharing.iSharing-Lite
+# iSharing (com.isharing.iSharing-Lite)
 
 **BundleId:** com.isharing.iSharing-Lite
 **App Version:** 11.3.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application iS
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application iS
 **Custom keys:** 27
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,17 +59,17 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 112
-- Network: 7 lib(s)
-- Tracking: 3 lib(s)
-- Tools: 26 lib(s)
-- UI: 5 lib(s)
-- Logs: 2 lib(s)
-- Crash: 1 lib(s)
 - Storage: 5 lib(s)
+- Tools: 26 lib(s)
+- Tracking: 3 lib(s)
+- UI: 5 lib(s)
+- Network: 7 lib(s)
+- Crash: 1 lib(s)
+- Logs: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -138,5 +130,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

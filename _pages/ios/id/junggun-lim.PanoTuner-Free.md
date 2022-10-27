@@ -3,14 +3,6 @@ title: "PanoTuner (junggun-lim.PanoTuner-Free)"
 permalink: /apps/ios/junggun-lim.PanoTuner-Free.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/06/a3/9b/06a39b1d-5aba-01fb-eae1-fccb566fd894/mzl.rmjqbmmy.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/06/a3/9b/06a39b1d-5aba-01fb-eae1-fccb566fd894/mzl.rmjqbmmy.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/06/a3/9b/06a39b1d-5aba-01fb-eae1-fccb566fd894/mzl.rmjqbmmy.png/512x512bb.jpg" width="100" height="100" alt="PanoTuner junggun-lim.PanoTuner-Free app icon"></div></br>
   
-# PanoTuner (junggun-lim.PanoTuner-Free
+# PanoTuner (junggun-lim.PanoTuner-Free)
 
 **BundleId:** junggun-lim.PanoTuner-Free
 **App Version:** 1.2.14
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -72,5 +64,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

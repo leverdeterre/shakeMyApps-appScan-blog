@@ -3,18 +3,10 @@ title: "Omegle (zhuregen.senMagaMassen)"
 permalink: /apps/ios/zhuregen.senMagaMassen.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Omegle (zhuregen.senMagaMassen). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Omegle (zhuregen.senMagaMassen
+# Omegle (zhuregen.senMagaMassen)
 
 **BundleId:** zhuregen.senMagaMassen
 **App Version:** 2.1
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Om
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Om
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -54,14 +46,14 @@ Native App
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
 - Tools: 2 lib(s)
+- Network: 2 lib(s)
 - Crash: 1 lib(s)
 - UI: 6 lib(s)
-- Network: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -91,5 +83,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Wehear (com.wehear.star.reading)"
 permalink: /apps/ios/com.wehear.star.reading.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/74/9a/da/749ada69-4d6d-b8bf-2e95-17ece8b85e75/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application We
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/74/9a/da/749ada69-4d6d-b8bf-2e95-17ece8b85e75/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/74/9a/da/749ada69-4d6d-b8bf-2e95-17ece8b85e75/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Wehear com.wehear.star.reading app icon"></div></br>
   
-# Wehear (com.wehear.star.reading
+# Wehear (com.wehear.star.reading)
 
 **BundleId:** com.wehear.star.reading
 **App Version:** 1.11.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application We
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application We
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,15 +57,15 @@ build using Xcode 13
 contains 1 App extensions
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 43
+- UI: 2 lib(s)
 - Storage: 1 lib(s)
 - Tracking: 2 lib(s)
-- UI: 2 lib(s)
-- Tools: 18 lib(s)
 - Network: 4 lib(s)
+- Tools: 18 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -139,5 +131,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

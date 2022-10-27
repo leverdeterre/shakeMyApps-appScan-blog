@@ -3,14 +3,6 @@ title: "Butler Sports (com.fnoex.fan.butler)"
 permalink: /apps/ios/com.fnoex.fan.butler.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/fa/19/3efa197f-5ad5-afea-94b2-f1b9c3d2c8c1/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Bu
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/fa/19/3efa197f-5ad5-afea-94b2-f1b9c3d2c8c1/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/fa/19/3efa197f-5ad5-afea-94b2-f1b9c3d2c8c1/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Butler Sports com.fnoex.fan.butler app icon"></div></br>
   
-# Butler Sports (com.fnoex.fan.butler
+# Butler Sports (com.fnoex.fan.butler)
 
 **BundleId:** com.fnoex.fan.butler
 **App Version:** 172.9.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Bu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Bu
 **Custom keys:** 24
 **Low securit keys:** 4
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,16 +56,16 @@ build using Xcode 13
 contains 1 App extensions
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 102
 - Network: 5 lib(s)
-- Tools: 20 lib(s)
-- Tracking: 2 lib(s)
 - Storage: 3 lib(s)
-- Crash: 2 lib(s)
 - UI: 3 lib(s)
+- Tracking: 2 lib(s)
+- Crash: 2 lib(s)
+- Tools: 20 lib(s)
 - Logs: 3 lib(s)
 
 **Apple dylibs:**
@@ -127,5 +119,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

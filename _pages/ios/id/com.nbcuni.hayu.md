@@ -3,14 +3,6 @@ title: "Hayu (com.nbcuni.hayu)"
 permalink: /apps/ios/com.nbcuni.hayu.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/62/6a/da/626ada25-b6d6-1f76-ce20-d5ab833b10de/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,30 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Ha
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/62/6a/da/626ada25-b6d6-1f76-ce20-d5ab833b10de/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/62/6a/da/626ada25-b6d6-1f76-ce20-d5ab833b10de/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Hayu com.nbcuni.hayu app icon"></div></br>
   
-# Hayu (com.nbcuni.hayu
+# Hayu (com.nbcuni.hayu)
 
 **BundleId:** com.nbcuni.hayu
 **App Version:** 2.31.2
 **App Name:** Hayu
 
 
-## AppScore : 4.39 (⭐️⭐️⭐️⭐️) 
+## AppScore : 4.52 (⭐️⭐️⭐️⭐️) 
 
 <table>
 <tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 <tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 <tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 <tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
-<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 <tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 <tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 <tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ha
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,7 +59,7 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
@@ -117,5 +109,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

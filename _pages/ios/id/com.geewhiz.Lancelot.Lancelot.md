@@ -3,14 +3,6 @@ title: "Eureka (com.geewhiz.Lancelot.Lancelot)"
 permalink: /apps/ios/com.geewhiz.Lancelot.Lancelot.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3b/0b/26/3b0b2622-02e0-3481-75cb-ee2838b096c4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Eu
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3b/0b/26/3b0b2622-02e0-3481-75cb-ee2838b096c4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3b/0b/26/3b0b2622-02e0-3481-75cb-ee2838b096c4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Eureka com.geewhiz.Lancelot.Lancelot app icon"></div></br>
   
-# Eureka (com.geewhiz.Lancelot.Lancelot
+# Eureka (com.geewhiz.Lancelot.Lancelot)
 
 **BundleId:** com.geewhiz.Lancelot.Lancelot
 **App Version:** 22.9.24
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Eu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Eu
 **Custom keys:** 18
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Number of entitlements detected: 5
 Native App
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -97,5 +89,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

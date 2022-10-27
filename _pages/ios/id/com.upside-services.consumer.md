@@ -3,14 +3,6 @@ title: "Upside (com.upside-services.consumer)"
 permalink: /apps/ios/com.upside-services.consumer.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/35/bd/76/35bd7659-9e2b-b3da-07dc-cdf231354901/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Up
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/35/bd/76/35bd7659-9e2b-b3da-07dc-cdf231354901/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/35/bd/76/35bd7659-9e2b-b3da-07dc-cdf231354901/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Upside com.upside-services.consumer app icon"></div></br>
   
-# Upside (com.upside-services.consumer
+# Upside (com.upside-services.consumer)
 
 **BundleId:** com.upside-services.consumer
 **App Version:** 5.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Up
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Up
 **Custom keys:** 21
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,16 +58,16 @@ contains 1 App extensions
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 64
 - Network: 2 lib(s)
 - Tracking: 7 lib(s)
-- Crash: 1 lib(s)
 - Tools: 24 lib(s)
-- Logs: 1 lib(s)
 - UI: 2 lib(s)
+- Logs: 1 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -125,5 +117,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

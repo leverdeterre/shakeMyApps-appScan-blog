@@ -3,14 +3,6 @@ title: "Ça m'intéresse (com.prismamedia.cam)"
 permalink: /apps/ios/com.prismamedia.cam.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/a7/1a/f0/a71af05b-c038-dfbc-8d2c-1b649f5bded4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ç
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/a7/1a/f0/a71af05b-c038-dfbc-8d2c-1b649f5bded4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/a7/1a/f0/a71af05b-c038-dfbc-8d2c-1b649f5bded4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Ça m'intéresse com.prismamedia.cam app icon"></div></br>
   
-# Ça m'intéresse (com.prismamedia.cam
+# Ça m'intéresse (com.prismamedia.cam)
 
 **BundleId:** com.prismamedia.cam
 **App Version:** 1.1.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ç
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ç
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,14 +54,14 @@ Native App
 contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 38
-- UI: 3 lib(s)
 - Tools: 13 lib(s)
-- Network: 2 lib(s)
 - Tracking: 3 lib(s)
+- Network: 2 lib(s)
+- UI: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -137,5 +129,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

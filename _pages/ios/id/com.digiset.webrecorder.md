@@ -3,14 +3,6 @@ title: "Record it! (com.digiset.webrecorder)"
 permalink: /apps/ios/com.digiset.webrecorder.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c7/14/fb/c714fbb9-4ced-b5ed-f72a-8fb9f1609daa/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Re
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c7/14/fb/c714fbb9-4ced-b5ed-f72a-8fb9f1609daa/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c7/14/fb/c714fbb9-4ced-b5ed-f72a-8fb9f1609daa/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Record it! com.digiset.webrecorder app icon"></div></br>
   
-# Record it! (com.digiset.webrecorder
+# Record it! (com.digiset.webrecorder)
 
 **BundleId:** com.digiset.webrecorder
 **App Version:** 4.5.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Re
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Re
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,14 +57,14 @@ build using Xcode 13
 contains 1 App extensions
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
 - Storage: 1 lib(s)
-- Network: 1 lib(s)
 - UI: 1 lib(s)
 - Tools: 8 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -137,5 +129,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

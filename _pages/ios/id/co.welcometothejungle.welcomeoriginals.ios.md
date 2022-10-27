@@ -3,33 +3,39 @@ title: "Welcome Originals (co.welcometothejungle.welcomeoriginals.ios)"
 permalink: /apps/ios/co.welcometothejungle.welcomeoriginals.ios.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/62/99/c062991e-683e-2310-cba3-36c16ff340b3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/cc/69/d8cc6992-59fc-15a4-87e0-b827ba7fba17/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/62/99/c062991e-683e-2310-cba3-36c16ff340b3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/cc/69/d8cc6992-59fc-15a4-87e0-b827ba7fba17/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Welcome Originals (co.welcometothejungle.welcomeoriginals.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/62/99/c062991e-683e-2310-cba3-36c16ff340b3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/cc/69/d8cc6992-59fc-15a4-87e0-b827ba7fba17/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Welcome Originals co.welcometothejungle.welcomeoriginals.ios app icon"></div></br>
   
-# Welcome Originals (co.welcometothejungle.welcomeoriginals.ios
+# Welcome Originals (co.welcometothejungle.welcomeoriginals.ios)
 
 **BundleId:** co.welcometothejungle.welcomeoriginals.ios
 **App Version:** 1.7.1
 **App Name:** Welcome Originals
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 3.78 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application We
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -51,16 +57,16 @@ contains 1 App extensions
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
-- Tracking: 2 lib(s)
-- Network: 2 lib(s)
 - Tools: 9 lib(s)
-- UI: 2 lib(s)
-- Storage: 2 lib(s)
 - Crash: 1 lib(s)
+- Network: 2 lib(s)
+- Storage: 2 lib(s)
+- Tracking: 2 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -99,5 +105,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

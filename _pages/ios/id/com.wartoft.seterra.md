@@ -3,14 +3,6 @@ title: "Seterra (com.wartoft.seterra)"
 permalink: /apps/ios/com.wartoft.seterra.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/4a/dd/22/4add22b0-466c-cb3c-2d40-7ea81719e3fa/AppIcon-1x_U007emarketing-0-4-0-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Se
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/4a/dd/22/4add22b0-466c-cb3c-2d40-7ea81719e3fa/AppIcon-1x_U007emarketing-0-4-0-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/4a/dd/22/4add22b0-466c-cb3c-2d40-7ea81719e3fa/AppIcon-1x_U007emarketing-0-4-0-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Seterra com.wartoft.seterra app icon"></div></br>
   
-# Seterra (com.wartoft.seterra
+# Seterra (com.wartoft.seterra)
 
 **BundleId:** com.wartoft.seterra
 **App Version:** 2.3.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Se
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,13 +45,13 @@ AppScan generated a spoiler description of the content of the iOS application Se
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 30
@@ -74,5 +66,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

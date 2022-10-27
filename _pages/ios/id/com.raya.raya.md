@@ -3,14 +3,6 @@ title: "Raya (com.raya.raya)"
 permalink: /apps/ios/com.raya.raya.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/f3/a0/8af3a001-604d-27b1-db73-9856127ea0db/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/f3/a0/8af3a001-604d-27b1-db73-9856127ea0db/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/f3/a0/8af3a001-604d-27b1-db73-9856127ea0db/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Raya com.raya.raya app icon"></div></br>
   
-# Raya (com.raya.raya
+# Raya (com.raya.raya)
 
 **BundleId:** com.raya.raya
 **App Version:** 4.41.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,7 +55,7 @@ build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
@@ -115,5 +107,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,26 +3,18 @@ title: "Home Depot (com.thehomedepot.homedepot)"
 permalink: /apps/ios/com.thehomedepot.homedepot.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e1/7e/2b/e17e2bba-581d-f8d0-c155-8231871c89a9/AppIcon-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/20/15/8a20153d-113f-5a86-256f-2aeafaa046ec/AppIcon-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e1/7e/2b/e17e2bba-581d-f8d0-c155-8231871c89a9/AppIcon-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/20/15/8a20153d-113f-5a86-256f-2aeafaa046ec/AppIcon-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Home Depot (com.thehomedepot.homedepot). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e1/7e/2b/e17e2bba-581d-f8d0-c155-8231871c89a9/AppIcon-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/20/15/8a20153d-113f-5a86-256f-2aeafaa046ec/AppIcon-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Home Depot com.thehomedepot.homedepot app icon"></div></br>
   
-# Home Depot (com.thehomedepot.homedepot
+# Home Depot (com.thehomedepot.homedepot)
 
 **BundleId:** com.thehomedepot.homedepot
 **App Version:** 7.11.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ho
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ho
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,13 +60,13 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
 - Crash: 1 lib(s)
-- Tracking: 3 lib(s)
 - Tools: 6 lib(s)
+- Tracking: 3 lib(s)
 - UI: 1 lib(s)
 
 **Apple dylibs:**
@@ -141,5 +133,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

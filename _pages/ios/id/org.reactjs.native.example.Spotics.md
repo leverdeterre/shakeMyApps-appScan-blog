@@ -3,14 +3,6 @@ title: "Receiptify (org.reactjs.native.example.Spotics)"
 permalink: /apps/ios/org.reactjs.native.example.Spotics.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/9b/6d/5e9b6dc1-ee9c-74d4-0435-c8f91a5a4956/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Re
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/9b/6d/5e9b6dc1-ee9c-74d4-0435-c8f91a5a4956/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/9b/6d/5e9b6dc1-ee9c-74d4-0435-c8f91a5a4956/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Receiptify org.reactjs.native.example.Spotics app icon"></div></br>
   
-# Receiptify (org.reactjs.native.example.Spotics
+# Receiptify (org.reactjs.native.example.Spotics)
 
 **BundleId:** org.reactjs.native.example.Spotics
 **App Version:** 1.34
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Re
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application Re
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 2
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -98,5 +90,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

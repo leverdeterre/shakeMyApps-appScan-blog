@@ -3,14 +3,6 @@ title: "Attijari Mobile (com.powercardmobile.awb.main)"
 permalink: /apps/ios/com.powercardmobile.awb.main.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/67/87/db/6787db6f-966f-d93a-e64c-8e7d04544963/AppIcon-blanc-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application At
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/67/87/db/6787db6f-966f-d93a-e64c-8e7d04544963/AppIcon-blanc-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/67/87/db/6787db6f-966f-d93a-e64c-8e7d04544963/AppIcon-blanc-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Attijari Mobile com.powercardmobile.awb.main app icon"></div></br>
   
-# Attijari Mobile (com.powercardmobile.awb.main
+# Attijari Mobile (com.powercardmobile.awb.main)
 
 **BundleId:** com.powercardmobile.awb.main
 **App Version:** 5.28.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application At
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application At
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,15 +57,15 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 56
+- Network: 2 lib(s)
+- Tools: 18 lib(s)
 - UI: 8 lib(s)
 - Crash: 1 lib(s)
-- Tools: 18 lib(s)
 - Tracking: 2 lib(s)
-- Network: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -139,5 +131,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

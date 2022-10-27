@@ -3,14 +3,6 @@ title: "Cync (com.ge.cbyge1)"
 permalink: /apps/ios/com.ge.cbyge1.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/07/9d/7a/079d7a6a-124e-0f5d-ef9e-11f70c44ddc8/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Cy
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/07/9d/7a/079d7a6a-124e-0f5d-ef9e-11f70c44ddc8/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/07/9d/7a/079d7a6a-124e-0f5d-ef9e-11f70c44ddc8/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Cync com.ge.cbyge1 app icon"></div></br>
   
-# Cync (com.ge.cbyge1
+# Cync (com.ge.cbyge1)
 
 **BundleId:** com.ge.cbyge1
 **App Version:** 6.9
 **App Name:** Cync
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.31 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Cy
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -52,15 +58,15 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 33
-- Crash: 1 lib(s)
-- Tools: 8 lib(s)
 - UI: 2 lib(s)
 - Network: 4 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 8 lib(s)
 
 **Apple dylibs:**
 
@@ -107,5 +113,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

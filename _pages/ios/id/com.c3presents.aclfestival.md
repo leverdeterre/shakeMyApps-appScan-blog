@@ -3,14 +3,6 @@ title: "ACL Fest (com.c3presents.aclfestival)"
 permalink: /apps/ios/com.c3presents.aclfestival.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/fd/21/d8fd2120-b82c-9200-2969-f104a6aedae8/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application AC
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/fd/21/d8fd2120-b82c-9200-2969-f104a6aedae8/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/d8/fd/21/d8fd2120-b82c-9200-2969-f104a6aedae8/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ACL Fest com.c3presents.aclfestival app icon"></div></br>
   
-# ACL Fest (com.c3presents.aclfestival
+# ACL Fest (com.c3presents.aclfestival)
 
 **BundleId:** com.c3presents.aclfestival
 **App Version:** 14.0.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application AC
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application AC
 **Custom keys:** 25
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,15 +54,15 @@ FacebookLogin detected
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 54
-- Storage: 2 lib(s)
-- UI: 3 lib(s)
-- Network: 3 lib(s)
-- Tools: 12 lib(s)
 - Tracking: 5 lib(s)
+- Tools: 12 lib(s)
+- UI: 3 lib(s)
+- Storage: 2 lib(s)
+- Network: 3 lib(s)
 - Crash: 1 lib(s)
 
 **Apple dylibs:**
@@ -125,5 +117,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

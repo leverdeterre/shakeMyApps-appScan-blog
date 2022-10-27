@@ -3,14 +3,6 @@ title: "myPhonak (com.sonova.phonak.dsapp)"
 permalink: /apps/ios/com.sonova.phonak.dsapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/13/c6/a013c6c8-e0f6-822a-4fed-32b6191f131a/AppIcon-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application my
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/13/c6/a013c6c8-e0f6-822a-4fed-32b6191f131a/AppIcon-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/13/c6/a013c6c8-e0f6-822a-4fed-32b6191f131a/AppIcon-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="myPhonak com.sonova.phonak.dsapp app icon"></div></br>
   
-# myPhonak (com.sonova.phonak.dsapp
+# myPhonak (com.sonova.phonak.dsapp)
 
 **BundleId:** com.sonova.phonak.dsapp
 **App Version:** 6.2.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application my
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application my
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,16 +55,16 @@ build using Xcode 13
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 47
-- Crash: 1 lib(s)
-- Network: 3 lib(s)
-- Tools: 13 lib(s)
-- Logs: 1 lib(s)
 - Tracking: 2 lib(s)
+- Network: 3 lib(s)
+- Crash: 1 lib(s)
+- Tools: 13 lib(s)
 - UI: 2 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -109,5 +101,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

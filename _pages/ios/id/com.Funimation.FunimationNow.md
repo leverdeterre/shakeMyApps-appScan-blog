@@ -3,14 +3,6 @@ title: "Funimation (com.Funimation.FunimationNow)"
 permalink: /apps/ios/com.Funimation.FunimationNow.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/31/e8/1831e894-b9ce-5dc5-6a2b-45890b2939db/AppIcon-0-1x_U007emarketing-0-10-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fu
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/31/e8/1831e894-b9ce-5dc5-6a2b-45890b2939db/AppIcon-0-1x_U007emarketing-0-10-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/31/e8/1831e894-b9ce-5dc5-6a2b-45890b2939db/AppIcon-0-1x_U007emarketing-0-10-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Funimation com.Funimation.FunimationNow app icon"></div></br>
   
-# Funimation (com.Funimation.FunimationNow
+# Funimation (com.Funimation.FunimationNow)
 
 **BundleId:** com.Funimation.FunimationNow
 **App Version:** 2.6.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fu
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,16 +58,16 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 45
-- Storage: 1 lib(s)
 - Network: 3 lib(s)
+- Storage: 1 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 4 lib(s)
 - Tools: 18 lib(s)
 - Logs: 1 lib(s)
-- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -122,5 +114,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

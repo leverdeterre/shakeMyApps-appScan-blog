@@ -3,14 +3,6 @@ title: "vpnify (com.free.vpn.hotspot.secure.vpnify)"
 permalink: /apps/ios/com.free.vpn.hotspot.secure.vpnify.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/9d/27/b39d277a-442e-b5ea-d102-b93e1b327a23/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application vp
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/9d/27/b39d277a-442e-b5ea-d102-b93e1b327a23/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/9d/27/b39d277a-442e-b5ea-d102-b93e1b327a23/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="vpnify com.free.vpn.hotspot.secure.vpnify app icon"></div></br>
   
-# vpnify (com.free.vpn.hotspot.secure.vpnify
+# vpnify (com.free.vpn.hotspot.secure.vpnify)
 
 **BundleId:** com.free.vpn.hotspot.secure.vpnify
 **App Version:** 2.2.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application vp
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application vp
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,15 +55,15 @@ supported devices iPhone & iPad
 contains 2 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 22
-- UI: 1 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 2 lib(s)
+- Crash: 1 lib(s)
 - Tools: 8 lib(s)
 - Network: 2 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -126,5 +118,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

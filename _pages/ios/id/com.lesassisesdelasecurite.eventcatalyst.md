@@ -3,14 +3,6 @@ title: "Les Assises (com.lesassisesdelasecurite.eventcatalyst)"
 permalink: /apps/ios/com.lesassisesdelasecurite.eventcatalyst.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/4d/fc/7e4dfc79-0835-683b-661d-d01c2cecaf46/AppIcon-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Le
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/4d/fc/7e4dfc79-0835-683b-661d-d01c2cecaf46/AppIcon-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/4d/fc/7e4dfc79-0835-683b-661d-d01c2cecaf46/AppIcon-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg" width="100" height="100" alt="Les Assises com.lesassisesdelasecurite.eventcatalyst app icon"></div></br>
   
-# Les Assises (com.lesassisesdelasecurite.eventcatalyst
+# Les Assises (com.lesassisesdelasecurite.eventcatalyst)
 
 **BundleId:** com.lesassisesdelasecurite.eventcatalyst
 **App Version:** 7.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application Le
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -72,5 +64,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

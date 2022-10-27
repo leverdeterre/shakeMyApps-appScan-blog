@@ -3,14 +3,6 @@ title: "Seattle Sports 710 AM (com.bonneville.kiroam)"
 permalink: /apps/ios/com.bonneville.kiroam.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/3d/33/ec3d331f-a4f8-6edc-8e79-fecd5db2ae25/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Se
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/3d/33/ec3d331f-a4f8-6edc-8e79-fecd5db2ae25/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/3d/33/ec3d331f-a4f8-6edc-8e79-fecd5db2ae25/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Seattle Sports 710 AM com.bonneville.kiroam app icon"></div></br>
   
-# Seattle Sports 710 AM (com.bonneville.kiroam
+# Seattle Sports 710 AM (com.bonneville.kiroam)
 
 **BundleId:** com.bonneville.kiroam
 **App Version:** 8.2.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Se
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Se
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ build using Xcode 13
 contains 1 App extensions
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
@@ -108,5 +100,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

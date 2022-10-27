@@ -3,14 +3,6 @@ title: "uScan (com.lopofist.scanner)"
 permalink: /apps/ios/com.lopofist.scanner.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/a2/8e/4ba28e0e-fdf9-d9f5-164d-6be653ca529d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application uS
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/a2/8e/4ba28e0e-fdf9-d9f5-164d-6be653ca529d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/a2/8e/4ba28e0e-fdf9-d9f5-164d-6be653ca529d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="uScan com.lopofist.scanner app icon"></div></br>
   
-# uScan (com.lopofist.scanner
+# uScan (com.lopofist.scanner)
 
 **BundleId:** com.lopofist.scanner
 **App Version:** 1.3.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application uS
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application uS
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,16 +56,16 @@ build using Xcode 13
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
+- UI: 4 lib(s)
+- Tools: 16 lib(s)
 - Network: 2 lib(s)
 - Storage: 1 lib(s)
-- Tracking: 5 lib(s)
 - Crash: 1 lib(s)
-- Tools: 16 lib(s)
-- UI: 4 lib(s)
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 
@@ -123,5 +115,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

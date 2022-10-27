@@ -3,14 +3,6 @@ title: "NBC10 Boston (com.nbcuni.lim.boston)"
 permalink: /apps/ios/com.nbcuni.lim.boston.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/fc/06/1ffc0614-88e3-c295-2c12-ae6326deede8/AppIcon-bos-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application NB
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/fc/06/1ffc0614-88e3-c295-2c12-ae6326deede8/AppIcon-bos-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/fc/06/1ffc0614-88e3-c295-2c12-ae6326deede8/AppIcon-bos-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="NBC10 Boston com.nbcuni.lim.boston app icon"></div></br>
   
-# NBC10 Boston (com.nbcuni.lim.boston
+# NBC10 Boston (com.nbcuni.lim.boston)
 
 **BundleId:** com.nbcuni.lim.boston
 **App Version:** 7.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application NB
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application NB
 **Custom keys:** 26
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,15 +58,15 @@ contains 2 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 37
-- Logs: 1 lib(s)
 - UI: 3 lib(s)
+- Tools: 10 lib(s)
 - Network: 2 lib(s)
 - Tracking: 5 lib(s)
-- Tools: 10 lib(s)
+- Logs: 1 lib(s)
 - Crash: 1 lib(s)
 
 **Apple dylibs:**
@@ -136,5 +128,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

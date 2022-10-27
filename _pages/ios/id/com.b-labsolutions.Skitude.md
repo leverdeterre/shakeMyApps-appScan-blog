@@ -3,14 +3,6 @@ title: "Skitude (com.b-labsolutions.Skitude)"
 permalink: /apps/ios/com.b-labsolutions.Skitude.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/e2/73/f7e27324-3e26-d7f9-77e5-2f220ce99e21/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Sk
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/e2/73/f7e27324-3e26-d7f9-77e5-2f220ce99e21/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f7/e2/73/f7e27324-3e26-d7f9-77e5-2f220ce99e21/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Skitude com.b-labsolutions.Skitude app icon"></div></br>
   
-# Skitude (com.b-labsolutions.Skitude
+# Skitude (com.b-labsolutions.Skitude)
 
 **BundleId:** com.b-labsolutions.Skitude
 **App Version:** 101.0.1388
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sk
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sk
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,15 +59,15 @@ contains 1 App extensions
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 30
 - Network: 3 lib(s)
-- UI: 3 lib(s)
 - Storage: 2 lib(s)
-- Tracking: 2 lib(s)
+- UI: 3 lib(s)
 - Tools: 6 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -117,5 +109,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

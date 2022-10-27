@@ -3,14 +3,6 @@ title: "Transdev-IDF (com.transdevidf.ios)"
 permalink: /apps/ios/com.transdevidf.ios.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ce/61/e9/ce61e9ed-6b38-3735-8336-8794207b5535/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ce/61/e9/ce61e9ed-6b38-3735-8336-8794207b5535/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/ce/61/e9/ce61e9ed-6b38-3735-8336-8794207b5535/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Transdev-IDF com.transdevidf.ios app icon"></div></br>
   
-# Transdev-IDF (com.transdevidf.ios
+# Transdev-IDF (com.transdevidf.ios)
 
 **BundleId:** com.transdevidf.ios
 **App Version:** 2.1.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,15 +54,15 @@ FacebookLogin detected
 Native App
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 33
+- Network: 2 lib(s)
 - UI: 2 lib(s)
 - Logs: 1 lib(s)
 - Tools: 10 lib(s)
 - Storage: 2 lib(s)
-- Network: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -107,5 +99,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

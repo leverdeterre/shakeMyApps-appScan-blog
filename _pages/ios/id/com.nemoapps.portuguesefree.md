@@ -3,14 +3,6 @@ title: "Português (com.nemoapps.portuguesefree)"
 permalink: /apps/ios/com.nemoapps.portuguesefree.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d6/41/93/d6419330-5281-58eb-92e3-895582a7742f/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Po
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d6/41/93/d6419330-5281-58eb-92e3-895582a7742f/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d6/41/93/d6419330-5281-58eb-92e3-895582a7742f/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="Português com.nemoapps.portuguesefree app icon"></div></br>
   
-# Português (com.nemoapps.portuguesefree
+# Português (com.nemoapps.portuguesefree)
 
 **BundleId:** com.nemoapps.portuguesefree
 **App Version:** 5.8.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Po
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Po
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ supported devices iPhone & iPad
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -74,5 +66,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

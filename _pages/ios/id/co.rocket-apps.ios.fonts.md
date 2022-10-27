@@ -3,14 +3,6 @@ title: "Fonts (co.rocket-apps.ios.fonts)"
 permalink: /apps/ios/co.rocket-apps.ios.fonts.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/89/c7/ac/89c7aca8-82b5-57c3-899b-36a5aa74ccf7/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fo
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/89/c7/ac/89c7aca8-82b5-57c3-899b-36a5aa74ccf7/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/89/c7/ac/89c7aca8-82b5-57c3-899b-36a5aa74ccf7/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Fonts co.rocket-apps.ios.fonts app icon"></div></br>
   
-# Fonts (co.rocket-apps.ios.fonts
+# Fonts (co.rocket-apps.ios.fonts)
 
 **BundleId:** co.rocket-apps.ios.fonts
 **App Version:** 1.5.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fo
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,12 +57,12 @@ contains 1 App extensions
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Crash: 1 lib(s)
 - Tools: 12 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 2 lib(s)
 
 **Apple dylibs:**
@@ -115,5 +107,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,18 +3,10 @@ title: "MosaLingua (com.mosalingua.mosa-en-toefl)"
 permalink: /apps/ios/com.mosalingua.mosa-en-toefl.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application MosaLingua (com.mosalingua.mosa-en-toefl). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# MosaLingua (com.mosalingua.mosa-en-toefl
+# MosaLingua (com.mosalingua.mosa-en-toefl)
 
 **BundleId:** com.mosalingua.mosa-en-toefl
 **App Version:** 10.13
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -54,7 +46,7 @@ FacebookLogin detected
 supported devices iPhone & iPad
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -87,5 +79,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

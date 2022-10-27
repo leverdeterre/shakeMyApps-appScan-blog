@@ -3,14 +3,6 @@ title: "Tricount (com.tribab.tricount.test)"
 permalink: /apps/ios/com.tribab.tricount.test.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/93/31/ca93316d-ad10-0c06-f289-868252035016/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/93/31/ca93316d-ad10-0c06-f289-868252035016/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/93/31/ca93316d-ad10-0c06-f289-868252035016/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Tricount com.tribab.tricount.test app icon"></div></br>
   
-# Tricount (com.tribab.tricount.test
+# Tricount (com.tribab.tricount.test)
 
 **BundleId:** com.tribab.tricount.test
 **App Version:** 6.3.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 **Custom keys:** 36
 **Low securit keys:** 4
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,16 +57,16 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 65
-- Storage: 5 lib(s)
 - Tracking: 4 lib(s)
-- Tools: 24 lib(s)
-- Network: 4 lib(s)
-- UI: 5 lib(s)
 - Crash: 1 lib(s)
+- Storage: 5 lib(s)
+- Tools: 24 lib(s)
+- UI: 5 lib(s)
+- Network: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -142,5 +134,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

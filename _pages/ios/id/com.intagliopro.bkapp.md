@@ -3,14 +3,6 @@ title: "باسم الكربلائي التطبيق الرسمي (com.intagliopro
 permalink: /apps/ios/com.intagliopro.bkapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e8/a9/51/e8a95162-488d-05d9-50c8-db7e1a83c872/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application ب
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e8/a9/51/e8a95162-488d-05d9-50c8-db7e1a83c872/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e8/a9/51/e8a95162-488d-05d9-50c8-db7e1a83c872/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="باسم الكربلائي التطبيق الرسمي com.intagliopro.bkapp app icon"></div></br>
   
-# باسم الكربلائي التطبيق الرسمي (com.intagliopro.bkapp
+# باسم الكربلائي التطبيق الرسمي (com.intagliopro.bkapp)
 
 **BundleId:** com.intagliopro.bkapp
 **App Version:** 2.0.09
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application ب
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application ب
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,14 +58,14 @@ build using Xcode 13
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
-- Tracking: 1 lib(s)
-- Tools: 11 lib(s)
-- UI: 2 lib(s)
 - Network: 1 lib(s)
+- UI: 2 lib(s)
+- Tools: 11 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -101,5 +93,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

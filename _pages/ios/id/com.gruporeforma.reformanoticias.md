@@ -3,14 +3,6 @@ title: "REFORMA (com.gruporeforma.reformanoticias)"
 permalink: /apps/ios/com.gruporeforma.reformanoticias.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/58/1a/2d581a7a-e6ca-ac2d-01a8-fa58ba385703/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application RE
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/58/1a/2d581a7a-e6ca-ac2d-01a8-fa58ba385703/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/58/1a/2d581a7a-e6ca-ac2d-01a8-fa58ba385703/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="REFORMA com.gruporeforma.reformanoticias app icon"></div></br>
   
-# REFORMA (com.gruporeforma.reformanoticias
+# REFORMA (com.gruporeforma.reformanoticias)
 
 **BundleId:** com.gruporeforma.reformanoticias
 **App Version:** 5.6.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application RE
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application RE
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,12 +59,12 @@ contains 6 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- Tracking: 2 lib(s)
 - Tools: 3 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -108,5 +100,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

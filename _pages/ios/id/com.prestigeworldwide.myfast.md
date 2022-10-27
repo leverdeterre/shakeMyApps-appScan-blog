@@ -3,14 +3,6 @@ title: "myfast (com.prestigeworldwide.myfast)"
 permalink: /apps/ios/com.prestigeworldwide.myfast.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/8c/2f/9b/8c2f9b31-01dd-fd7b-8626-c0386fec24c4/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application my
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/8c/2f/9b/8c2f9b31-01dd-fd7b-8626-c0386fec24c4/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/8c/2f/9b/8c2f9b31-01dd-fd7b-8626-c0386fec24c4/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="myfast com.prestigeworldwide.myfast app icon"></div></br>
   
-# myfast (com.prestigeworldwide.myfast
+# myfast (com.prestigeworldwide.myfast)
 
 **BundleId:** com.prestigeworldwide.myfast
 **App Version:** 2.3.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application my
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application my
 **Custom keys:** 6
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Native App
 supported devices iPhone & iPad
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -73,5 +65,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

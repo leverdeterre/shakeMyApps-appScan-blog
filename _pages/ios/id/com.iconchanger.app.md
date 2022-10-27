@@ -3,14 +3,6 @@ title: "Icon Changer (com.iconchanger.app)"
 permalink: /apps/ios/com.iconchanger.app.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/e3/ed/f8e3ed48-d86f-c7db-0640-65c06c628617/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ic
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/e3/ed/f8e3ed48-d86f-c7db-0640-65c06c628617/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/e3/ed/f8e3ed48-d86f-c7db-0640-65c06c628617/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Icon Changer com.iconchanger.app app icon"></div></br>
   
-# Icon Changer (com.iconchanger.app
+# Icon Changer (com.iconchanger.app)
 
 **BundleId:** com.iconchanger.app
 **App Version:** 1.9.77
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ic
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ic
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,14 +56,14 @@ contains 2 App extensions
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
 - Tools: 4 lib(s)
-- Storage: 1 lib(s)
-- Network: 3 lib(s)
 - UI: 5 lib(s)
+- Network: 3 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -133,5 +125,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

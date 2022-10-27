@@ -3,14 +3,6 @@ title: "MAAF et Moi (com.maaf.maafetmoi)"
 permalink: /apps/ios/com.maaf.maafetmoi.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/0e/fb/8f0efb20-c7fc-d172-4f6f-5960e841c410/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application MA
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/0e/fb/8f0efb20-c7fc-d172-4f6f-5960e841c410/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/0e/fb/8f0efb20-c7fc-d172-4f6f-5960e841c410/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="MAAF et Moi com.maaf.maafetmoi app icon"></div></br>
   
-# MAAF et Moi (com.maaf.maafetmoi
+# MAAF et Moi (com.maaf.maafetmoi)
 
 **BundleId:** com.maaf.maafetmoi
 **App Version:** 2.22.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application MA
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application MA
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,15 +59,15 @@ at least 2 entitlemented features (strong iOS integration)
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
-- Crash: 1 lib(s)
 - UI: 3 lib(s)
-- Tools: 9 lib(s)
-- Logs: 1 lib(s)
 - Tracking: 5 lib(s)
+- Logs: 1 lib(s)
+- Tools: 9 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -117,5 +109,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

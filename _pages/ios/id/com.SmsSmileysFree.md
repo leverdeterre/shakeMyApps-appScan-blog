@@ -3,14 +3,6 @@ title: "SMS Smileys (com.SmsSmileysFree)"
 permalink: /apps/ios/com.SmsSmileysFree.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/85/ae/e3/85aee3d8-252c-6eec-4bca-c72f20330fd2/AppIcon_FREE-1x_U007emarketing-85-220-6.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application SM
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/85/ae/e3/85aee3d8-252c-6eec-4bca-c72f20330fd2/AppIcon_FREE-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/85/ae/e3/85aee3d8-252c-6eec-4bca-c72f20330fd2/AppIcon_FREE-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100" alt="SMS Smileys com.SmsSmileysFree app icon"></div></br>
   
-# SMS Smileys (com.SmsSmileysFree
+# SMS Smileys (com.SmsSmileysFree)
 
 **BundleId:** com.SmsSmileysFree
 **App Version:** 2.9.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application SM
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application SM
 **Custom keys:** 0
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -73,5 +65,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

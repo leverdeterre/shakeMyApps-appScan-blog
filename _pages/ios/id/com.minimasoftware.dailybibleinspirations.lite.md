@@ -3,14 +3,6 @@ title: "DailyBible (com.minimasoftware.dailybibleinspirations.lite)"
 permalink: /apps/ios/com.minimasoftware.dailybibleinspirations.lite.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/65/0d/8a/650d8a14-6cb6-d4d0-e822-3f06a050eccc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Da
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/65/0d/8a/650d8a14-6cb6-d4d0-e822-3f06a050eccc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/65/0d/8a/650d8a14-6cb6-d4d0-e822-3f06a050eccc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="DailyBible com.minimasoftware.dailybibleinspirations.lite app icon"></div></br>
   
-# DailyBible (com.minimasoftware.dailybibleinspirations.lite
+# DailyBible (com.minimasoftware.dailybibleinspirations.lite)
 
 **BundleId:** com.minimasoftware.dailybibleinspirations.lite
 **App Version:** 4.8.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Da
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Da
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,14 +56,14 @@ contains 1 App extensions
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- Tracking: 2 lib(s)
 - Tools: 7 lib(s)
-- UI: 2 lib(s)
+- Tracking: 2 lib(s)
 - Crash: 1 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -119,5 +111,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

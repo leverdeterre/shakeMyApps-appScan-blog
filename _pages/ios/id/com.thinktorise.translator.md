@@ -3,14 +3,6 @@ title: "Translator (com.thinktorise.translator)"
 permalink: /apps/ios/com.thinktorise.translator.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/6a/36/ed6a36ae-3836-22c1-6d01-17cce224a9b7/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/6a/36/ed6a36ae-3836-22c1-6d01-17cce224a9b7/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/6a/36/ed6a36ae-3836-22c1-6d01-17cce224a9b7/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Translator com.thinktorise.translator app icon"></div></br>
   
-# Translator (com.thinktorise.translator
+# Translator (com.thinktorise.translator)
 
 **BundleId:** com.thinktorise.translator
 **App Version:** 2.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,15 +58,15 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 23
-- Tracking: 2 lib(s)
-- Storage: 2 lib(s)
-- Network: 1 lib(s)
 - Tools: 10 lib(s)
 - UI: 1 lib(s)
+- Storage: 2 lib(s)
+- Tracking: 2 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -116,5 +108,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

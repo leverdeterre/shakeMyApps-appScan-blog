@@ -3,14 +3,6 @@ title: "曼听生活 (com.yunboke.live)"
 permalink: /apps/ios/com.yunboke.live.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/57/1a/2d/571a2d7a-1d42-6b47-b555-214ddcf40447/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application �
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/57/1a/2d/571a2d7a-1d42-6b47-b555-214ddcf40447/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/57/1a/2d/571a2d7a-1d42-6b47-b555-214ddcf40447/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="曼听生活 com.yunboke.live app icon"></div></br>
   
-# 曼听生活 (com.yunboke.live
+# 曼听生活 (com.yunboke.live)
 
 **BundleId:** com.yunboke.live
 **App Version:** 3.6.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application �
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,19 +45,19 @@ AppScan generated a spoiler description of the content of the iOS application �
 **Custom keys:** 10
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 33
 - Tools: 8 lib(s)
-- Network: 3 lib(s)
 - UI: 5 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -74,5 +66,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

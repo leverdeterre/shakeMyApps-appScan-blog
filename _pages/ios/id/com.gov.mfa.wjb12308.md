@@ -3,14 +3,6 @@ title: "中国领事 (com.gov.mfa.wjb12308)"
 permalink: /apps/ios/com.gov.mfa.wjb12308.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/19/c0/53/19c053a2-7610-862d-27b0-cc6282a926bc/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application �
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/19/c0/53/19c053a2-7610-862d-27b0-cc6282a926bc/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/19/c0/53/19c053a2-7610-862d-27b0-cc6282a926bc/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="中国领事 com.gov.mfa.wjb12308 app icon"></div></br>
   
-# 中国领事 (com.gov.mfa.wjb12308
+# 中国领事 (com.gov.mfa.wjb12308)
 
 **BundleId:** com.gov.mfa.wjb12308
 **App Version:** 2.1.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application �
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application �
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -72,5 +64,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

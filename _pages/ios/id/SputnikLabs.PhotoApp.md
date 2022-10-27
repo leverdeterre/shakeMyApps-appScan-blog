@@ -3,14 +3,6 @@ title: "R4VE (SputnikLabs.PhotoApp)"
 permalink: /apps/ios/SputnikLabs.PhotoApp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/54/95/b95495c1-3b2a-a95e-23aa-af276ccb0838/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application R4
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/54/95/b95495c1-3b2a-a95e-23aa-af276ccb0838/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b9/54/95/b95495c1-3b2a-a95e-23aa-af276ccb0838/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="R4VE SputnikLabs.PhotoApp app icon"></div></br>
   
-# R4VE (SputnikLabs.PhotoApp
+# R4VE (SputnikLabs.PhotoApp)
 
 **BundleId:** SputnikLabs.PhotoApp
 **App Version:** 4.11
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application R4
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application R4
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,7 +55,7 @@ GoogleLogin detected
 Native App
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -115,5 +107,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

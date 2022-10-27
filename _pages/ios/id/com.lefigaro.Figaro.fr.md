@@ -3,14 +3,6 @@ title: "Le Figaro (com.lefigaro.Figaro.fr)"
 permalink: /apps/ios/com.lefigaro.Figaro.fr.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/94/40/5e9440ed-ca88-7f26-41c8-9b36480aba3f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Le
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/94/40/5e9440ed-ca88-7f26-41c8-9b36480aba3f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/94/40/5e9440ed-ca88-7f26-41c8-9b36480aba3f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Le Figaro com.lefigaro.Figaro.fr app icon"></div></br>
   
-# Le Figaro (com.lefigaro.Figaro.fr
+# Le Figaro (com.lefigaro.Figaro.fr)
 
 **BundleId:** com.lefigaro.Figaro.fr
 **App Version:** 6.5.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 **Custom keys:** 21
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,16 +59,16 @@ at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 44
-- Logs: 1 lib(s)
 - Network: 2 lib(s)
-- Crash: 1 lib(s)
-- Tracking: 7 lib(s)
 - UI: 2 lib(s)
+- Logs: 1 lib(s)
 - Tools: 18 lib(s)
+- Tracking: 7 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftARKit
@@ -156,5 +148,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,18 +3,10 @@ title: "HongKong (com.ondemandworld.HongKongMap)"
 permalink: /apps/ios/com.ondemandworld.HongKongMap.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application HongKong (com.ondemandworld.HongKongMap). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# HongKong (com.ondemandworld.HongKongMap
+# HongKong (com.ondemandworld.HongKongMap)
 
 **BundleId:** com.ondemandworld.HongKongMap
 **App Version:** 5.3
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Ho
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Ho
 **Custom keys:** 18
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,7 +45,7 @@ Number of entitlements detected: 3
 Native App
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
@@ -105,5 +97,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

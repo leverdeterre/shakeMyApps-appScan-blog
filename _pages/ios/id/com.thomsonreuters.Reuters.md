@@ -3,14 +3,6 @@ title: "Reuters (com.thomsonreuters.Reuters)"
 permalink: /apps/ios/com.thomsonreuters.Reuters.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/cc/58/8dcc58c6-1521-45fa-b9e9-4fe8700e20d6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Re
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/cc/58/8dcc58c6-1521-45fa-b9e9-4fe8700e20d6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/cc/58/8dcc58c6-1521-45fa-b9e9-4fe8700e20d6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Reuters com.thomsonreuters.Reuters app icon"></div></br>
   
-# Reuters (com.thomsonreuters.Reuters
+# Reuters (com.thomsonreuters.Reuters)
 
 **BundleId:** com.thomsonreuters.Reuters
 **App Version:** 5.3.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Re
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Re
 **Custom keys:** 13
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,17 +57,17 @@ contains 2 App extensions
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 42
-- Crash: 1 lib(s)
 - Logs: 1 lib(s)
-- Tools: 13 lib(s)
-- Storage: 1 lib(s)
-- Tracking: 3 lib(s)
 - Network: 2 lib(s)
 - UI: 2 lib(s)
+- Tools: 13 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 3 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -128,5 +120,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

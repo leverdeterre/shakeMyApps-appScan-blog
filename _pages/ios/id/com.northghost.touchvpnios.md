@@ -3,14 +3,6 @@ title: "Touch VPN (com.northghost.touchvpnios)"
 permalink: /apps/ios/com.northghost.touchvpnios.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/f1/2c/46f12cef-b821-06a0-0fba-43ee82f6881a/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application To
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/f1/2c/46f12cef-b821-06a0-0fba-43ee82f6881a/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/f1/2c/46f12cef-b821-06a0-0fba-43ee82f6881a/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Touch VPN com.northghost.touchvpnios app icon"></div></br>
   
-# Touch VPN (com.northghost.touchvpnios
+# Touch VPN (com.northghost.touchvpnios)
 
 **BundleId:** com.northghost.touchvpnios
 **App Version:** 4.4.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application To
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application To
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -70,17 +62,17 @@ at least 3 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 49
-- Network: 3 lib(s)
 - Tools: 18 lib(s)
+- UI: 3 lib(s)
 - Logs: 1 lib(s)
+- Crash: 1 lib(s)
 - Storage: 4 lib(s)
 - Tracking: 4 lib(s)
-- Crash: 1 lib(s)
-- UI: 3 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -127,5 +119,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

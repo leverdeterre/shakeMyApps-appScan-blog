@@ -3,14 +3,6 @@ title: "Wallpapers (com.europosit.livewallpapers)"
 permalink: /apps/ios/com.europosit.livewallpapers.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/37/f5/b137f523-ea66-01ed-2217-085635cc501a/AppIcon-1x_U007emarketing-5-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/37/f5/b137f523-ea66-01ed-2217-085635cc501a/AppIcon-1x_U007emarketing-5-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/b1/37/f5/b137f523-ea66-01ed-2217-085635cc501a/AppIcon-1x_U007emarketing-5-85-220.png/512x512bb.jpg" width="100" height="100" alt="Wallpapers com.europosit.livewallpapers app icon"></div></br>
   
-# Wallpapers (com.europosit.livewallpapers
+# Wallpapers (com.europosit.livewallpapers)
 
 **BundleId:** com.europosit.livewallpapers
 **App Version:** 3.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 **Custom keys:** 13
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ supported devices iPhone & iPad
 support multiple languages
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -126,5 +118,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

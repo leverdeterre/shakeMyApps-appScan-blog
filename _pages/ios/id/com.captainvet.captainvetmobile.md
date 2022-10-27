@@ -3,14 +3,6 @@ title: "CaptainVet (com.captainvet.captainvetmobile)"
 permalink: /apps/ios/com.captainvet.captainvetmobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/34/d2/c0/34d2c0a8-4ae7-37a6-ec11-e54038bd57db/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ca
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/34/d2/c0/34d2c0a8-4ae7-37a6-ec11-e54038bd57db/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/34/d2/c0/34d2c0a8-4ae7-37a6-ec11-e54038bd57db/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="CaptainVet com.captainvet.captainvetmobile app icon"></div></br>
   
-# CaptainVet (com.captainvet.captainvetmobile
+# CaptainVet (com.captainvet.captainvetmobile)
 
 **BundleId:** com.captainvet.captainvetmobile
 **App Version:** 2022.3.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ca
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ca
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,14 +53,14 @@ Number of entitlements detected: 4
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- Tracking: 1 lib(s)
-- Tools: 11 lib(s)
 - Network: 2 lib(s)
 - Storage: 2 lib(s)
+- Tracking: 1 lib(s)
+- Tools: 11 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -109,5 +101,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

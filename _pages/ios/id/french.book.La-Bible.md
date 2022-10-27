@@ -3,14 +3,6 @@ title: "La Bible (french.book.La-Bible)"
 permalink: /apps/ios/french.book.La-Bible.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/31/9a/12319a33-8466-0fe3-929d-c74f4a5d86a2/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application La
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/31/9a/12319a33-8466-0fe3-929d-c74f4a5d86a2/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/31/9a/12319a33-8466-0fe3-929d-c74f4a5d86a2/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100" alt="La Bible french.book.La-Bible app icon"></div></br>
   
-# La Bible (french.book.La-Bible
+# La Bible (french.book.La-Bible)
 
 **BundleId:** french.book.La-Bible
 **App Version:** 5.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application La
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application La
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -73,5 +65,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

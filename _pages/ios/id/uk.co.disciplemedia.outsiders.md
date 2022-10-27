@@ -3,14 +3,6 @@ title: "Outsiders, Together (uk.co.disciplemedia.outsiders)"
 permalink: /apps/ios/uk.co.disciplemedia.outsiders.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a8/22/b0/a822b027-2d9f-67b7-fc1c-212b56872637/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ou
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a8/22/b0/a822b027-2d9f-67b7-fc1c-212b56872637/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a8/22/b0/a822b027-2d9f-67b7-fc1c-212b56872637/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Outsiders, Together uk.co.disciplemedia.outsiders app icon"></div></br>
   
-# Outsiders, Together (uk.co.disciplemedia.outsiders
+# Outsiders, Together (uk.co.disciplemedia.outsiders)
 
 **BundleId:** uk.co.disciplemedia.outsiders
 **App Version:** 3.62.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ou
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ou
 **Custom keys:** 10
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,14 +54,14 @@ Native App
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 33
 - Tools: 7 lib(s)
-- UI: 4 lib(s)
-- Logs: 1 lib(s)
 - Network: 4 lib(s)
+- Logs: 1 lib(s)
+- UI: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -111,5 +103,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

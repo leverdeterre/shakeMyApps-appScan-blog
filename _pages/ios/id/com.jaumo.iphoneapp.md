@@ -3,14 +3,6 @@ title: "Jaumo (com.jaumo.iphoneapp)"
 permalink: /apps/ios/com.jaumo.iphoneapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/89/0e/c7/890ec703-307b-5b65-c1da-6ff965895ebc/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ja
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/89/0e/c7/890ec703-307b-5b65-c1da-6ff965895ebc/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/89/0e/c7/890ec703-307b-5b65-c1da-6ff965895ebc/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Jaumo com.jaumo.iphoneapp app icon"></div></br>
   
-# Jaumo (com.jaumo.iphoneapp
+# Jaumo (com.jaumo.iphoneapp)
 
 **BundleId:** com.jaumo.iphoneapp
 **App Version:** 202210.1.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ja
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ja
 **Custom keys:** 16
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,16 +60,16 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 61
-- Crash: 1 lib(s)
-- Tracking: 3 lib(s)
-- Tools: 27 lib(s)
 - Network: 4 lib(s)
-- UI: 4 lib(s)
 - Logs: 2 lib(s)
+- Tracking: 3 lib(s)
+- UI: 4 lib(s)
+- Crash: 1 lib(s)
+- Tools: 27 lib(s)
 
 **Apple dylibs:**
 
@@ -136,5 +128,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

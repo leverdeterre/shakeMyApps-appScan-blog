@@ -3,33 +3,39 @@ title: "Nice-Matin (com.nicematin.afpmobile.iphone)"
 permalink: /apps/ios/com.nicematin.afpmobile.iphone.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/af/42/d9af42af-576a-8a02-962f-fcc1990da716/NM-AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/c7/2d/0dc72df5-8a5a-9712-baad-bd245ac9a3e4/NM-AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/af/42/d9af42af-576a-8a02-962f-fcc1990da716/NM-AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/c7/2d/0dc72df5-8a5a-9712-baad-bd245ac9a3e4/NM-AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Nice-Matin (com.nicematin.afpmobile.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/d9/af/42/d9af42af-576a-8a02-962f-fcc1990da716/NM-AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/c7/2d/0dc72df5-8a5a-9712-baad-bd245ac9a3e4/NM-AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Nice-Matin com.nicematin.afpmobile.iphone app icon"></div></br>
   
-# Nice-Matin (com.nicematin.afpmobile.iphone
+# Nice-Matin (com.nicematin.afpmobile.iphone)
 
 **BundleId:** com.nicematin.afpmobile.iphone
 **App Version:** 3.5.17
 **App Name:** Nice-Matin
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.09 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ni
 **Custom keys:** 17
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -52,15 +58,15 @@ contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 49
+- Storage: 2 lib(s)
 - UI: 6 lib(s)
+- Tracking: 4 lib(s)
 - Network: 2 lib(s)
 - Tools: 10 lib(s)
-- Storage: 2 lib(s)
-- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -105,5 +111,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

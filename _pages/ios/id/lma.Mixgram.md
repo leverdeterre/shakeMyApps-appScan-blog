@@ -3,14 +3,6 @@ title: "Mixgram (lma.Mixgram)"
 permalink: /apps/ios/lma.Mixgram.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/06/96/f0/0696f05a-b80b-1f7e-a567-972fef8a8dff/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Mi
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/06/96/f0/0696f05a-b80b-1f7e-a567-972fef8a8dff/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/06/96/f0/0696f05a-b80b-1f7e-a567-972fef8a8dff/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Mixgram lma.Mixgram app icon"></div></br>
   
-# Mixgram (lma.Mixgram
+# Mixgram (lma.Mixgram)
 
 **BundleId:** lma.Mixgram
 **App Version:** 15.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Mi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Mi
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,15 +58,15 @@ at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
 - Tools: 10 lib(s)
-- Storage: 3 lib(s)
-- Crash: 1 lib(s)
-- Tracking: 1 lib(s)
 - Network: 5 lib(s)
+- Crash: 1 lib(s)
+- Storage: 3 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -112,5 +104,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

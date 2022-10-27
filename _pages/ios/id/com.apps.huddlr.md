@@ -3,14 +3,6 @@ title: "Huddlr (com.apps.huddlr)"
 permalink: /apps/ios/com.apps.huddlr.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/f8/f7/a8/f8f7a832-8f41-da9e-d77d-f4ff24e756f1/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,31 +12,15 @@ AppScan generated a spoiler description of the content of the iOS application Hu
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/f8/f7/a8/f8f7a832-8f41-da9e-d77d-f4ff24e756f1/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/f8/f7/a8/f8f7a832-8f41-da9e-d77d-f4ff24e756f1/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="Huddlr com.apps.huddlr app icon"></div></br>
   
-# Huddlr (com.apps.huddlr
+# Huddlr (com.apps.huddlr)
 
 **BundleId:** com.apps.huddlr
 **App Version:** 1.0
 **App Name:** Huddlr
 
 
-## AppScore : 3.98 (⭐️⭐️⭐️⭐️) 
-
-<table>
-<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
-<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
-<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
-<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
-<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
-<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
-<tr><td> App Languages </td><td> ⭐️⭐️ </td></tr>
-<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
-<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
-</table>
-
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
-  
 ## AppScan informations 
 
 **Number of permissions:** 7
@@ -53,7 +29,7 @@ AppScan generated a spoiler description of the content of the iOS application Hu
 **Custom keys:** 42
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,14 +39,14 @@ Native App
 contains 1 App extensions
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- UI: 2 lib(s)
 - Tools: 6 lib(s)
-- Network: 3 lib(s)
 - Tracking: 2 lib(s)
+- Network: 3 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -136,5 +112,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

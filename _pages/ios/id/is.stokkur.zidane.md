@@ -3,14 +3,6 @@ title: "Veður (is.stokkur.zidane)"
 permalink: /apps/ios/is.stokkur.zidane.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/de/70/71/de70715e-9dff-3ca2-3372-9068e31e02bc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ve
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/de/70/71/de70715e-9dff-3ca2-3372-9068e31e02bc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/de/70/71/de70715e-9dff-3ca2-3372-9068e31e02bc/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Veður is.stokkur.zidane app icon"></div></br>
   
-# Veður (is.stokkur.zidane
+# Veður (is.stokkur.zidane)
 
 **BundleId:** is.stokkur.zidane
 **App Version:** 2.1.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ve
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,20 +45,20 @@ AppScan generated a spoiler description of the content of the iOS application Ve
 **Custom keys:** 4
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
-- UI: 1 lib(s)
-- Network: 2 lib(s)
 - Tools: 3 lib(s)
+- Network: 2 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -75,5 +67,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

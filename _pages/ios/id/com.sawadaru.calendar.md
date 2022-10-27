@@ -3,14 +3,6 @@ title: "S Calendar (com.sawadaru.calendar)"
 permalink: /apps/ios/com.sawadaru.calendar.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/54/36/41/54364108-1a86-bd6c-d6b5-f8699637daf1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application S 
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/54/36/41/54364108-1a86-bd6c-d6b5-f8699637daf1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/54/36/41/54364108-1a86-bd6c-d6b5-f8699637daf1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="S Calendar com.sawadaru.calendar app icon"></div></br>
   
-# S Calendar (com.sawadaru.calendar
+# S Calendar (com.sawadaru.calendar)
 
 **BundleId:** com.sawadaru.calendar
 **App Version:** 3.8.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application S 
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application S 
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,14 +57,14 @@ contains 1 App extensions
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
-- Tools: 17 lib(s)
 - Crash: 1 lib(s)
-- Network: 2 lib(s)
 - Storage: 1 lib(s)
+- Tools: 17 lib(s)
+- Network: 2 lib(s)
 - Tracking: 2 lib(s)
 
 **Apple dylibs:**
@@ -119,5 +111,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

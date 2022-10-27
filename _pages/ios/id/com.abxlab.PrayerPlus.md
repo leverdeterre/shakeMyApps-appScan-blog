@@ -3,14 +3,6 @@ title: "DailyDevotion (com.abxlab.PrayerPlus)"
 permalink: /apps/ios/com.abxlab.PrayerPlus.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/ec/97/3aec97f3-1c7c-c5ae-7538-7d8c79467e5c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Da
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/ec/97/3aec97f3-1c7c-c5ae-7538-7d8c79467e5c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/ec/97/3aec97f3-1c7c-c5ae-7538-7d8c79467e5c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="DailyDevotion com.abxlab.PrayerPlus app icon"></div></br>
   
-# DailyDevotion (com.abxlab.PrayerPlus
+# DailyDevotion (com.abxlab.PrayerPlus)
 
 **BundleId:** com.abxlab.PrayerPlus
 **App Version:** 6.5.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Da
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Da
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,14 +55,14 @@ supported devices iPhone & iPad
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
-- Network: 1 lib(s)
-- Tools: 9 lib(s)
-- UI: 5 lib(s)
 - Crash: 1 lib(s)
+- Network: 1 lib(s)
+- UI: 5 lib(s)
+- Tools: 9 lib(s)
 - Tracking: 1 lib(s)
 
 **Apple dylibs:**
@@ -132,5 +124,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

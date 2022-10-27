@@ -3,14 +3,6 @@ title: "Ayah (com.talahapps.Ayah)"
 permalink: /apps/ios/com.talahapps.Ayah.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/16/28/a8/1628a8ba-7e51-8551-3b4e-cb51275a266c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-GLES2_U002c0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ay
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/16/28/a8/1628a8ba-7e51-8551-3b4e-cb51275a266c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-GLES2_U002c0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/16/28/a8/1628a8ba-7e51-8551-3b4e-cb51275a266c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-GLES2_U002c0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ayah com.talahapps.Ayah app icon"></div></br>
   
-# Ayah (com.talahapps.Ayah
+# Ayah (com.talahapps.Ayah)
 
 **BundleId:** com.talahapps.Ayah
 **App Version:** 17.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ay
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ay
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,7 +58,7 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -100,5 +92,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

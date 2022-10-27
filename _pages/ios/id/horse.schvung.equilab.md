@@ -3,26 +3,18 @@ title: "Equilab (horse.schvung.equilab)"
 permalink: /apps/ios/horse.schvung.equilab.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/52/31/b9/5231b940-2fc9-8ae9-a1fa-4dd5e8816662/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/50/9b/e6/509be6c3-9ae5-a517-1b84-30174068e299/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/52/31/b9/5231b940-2fc9-8ae9-a1fa-4dd5e8816662/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/50/9b/e6/509be6c3-9ae5-a517-1b84-30174068e299/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Equilab (horse.schvung.equilab). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/52/31/b9/5231b940-2fc9-8ae9-a1fa-4dd5e8816662/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/50/9b/e6/509be6c3-9ae5-a517-1b84-30174068e299/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Equilab horse.schvung.equilab app icon"></div></br>
   
-# Equilab (horse.schvung.equilab
+# Equilab (horse.schvung.equilab)
 
 **BundleId:** horse.schvung.equilab
 **App Version:** 5.220913.4150
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Eq
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Eq
 **Custom keys:** 18
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,16 +60,16 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 96
-- Network: 6 lib(s)
-- Logs: 1 lib(s)
 - Storage: 3 lib(s)
+- Logs: 1 lib(s)
 - Tracking: 7 lib(s)
 - Tools: 24 lib(s)
 - UI: 4 lib(s)
+- Network: 6 lib(s)
 - Crash: 1 lib(s)
 
 **Apple dylibs:**
@@ -134,5 +126,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

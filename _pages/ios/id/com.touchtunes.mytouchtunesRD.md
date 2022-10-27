@@ -3,14 +3,6 @@ title: "TouchTunes (com.touchtunes.mytouchtunesRD)"
 permalink: /apps/ios/com.touchtunes.mytouchtunesRD.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7f/a3/43/7fa3436b-6a79-7071-5c49-4534bc74a7bf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application To
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7f/a3/43/7fa3436b-6a79-7071-5c49-4534bc74a7bf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7f/a3/43/7fa3436b-6a79-7071-5c49-4534bc74a7bf/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="TouchTunes com.touchtunes.mytouchtunesRD app icon"></div></br>
   
-# TouchTunes (com.touchtunes.mytouchtunesRD
+# TouchTunes (com.touchtunes.mytouchtunesRD)
 
 **BundleId:** com.touchtunes.mytouchtunesRD
 **App Version:** 3.34.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application To
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application To
 **Custom keys:** 20
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,15 +55,15 @@ build using Xcode 13
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 33
-- Network: 2 lib(s)
 - UI: 1 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 6 lib(s)
 - Tools: 11 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -80,5 +72,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

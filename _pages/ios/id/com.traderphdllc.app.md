@@ -3,14 +3,6 @@ title: "Trader PhD (com.traderphdllc.app)"
 permalink: /apps/ios/com.traderphdllc.app.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/69/9f/ff/699fff5b-32b0-62c5-f7fa-61c5f064c2f8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/69/9f/ff/699fff5b-32b0-62c5-f7fa-61c5f064c2f8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/69/9f/ff/699fff5b-32b0-62c5-f7fa-61c5f064c2f8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Trader PhD com.traderphdllc.app app icon"></div></br>
   
-# Trader PhD (com.traderphdllc.app
+# Trader PhD (com.traderphdllc.app)
 
 **BundleId:** com.traderphdllc.app
 **App Version:** 2.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,15 +58,15 @@ build using Xcode 13
 contains 2 App extensions
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
-- Tracking: 2 lib(s)
-- Network: 2 lib(s)
-- UI: 1 lib(s)
 - Tools: 16 lib(s)
 - Storage: 1 lib(s)
+- UI: 1 lib(s)
+- Tracking: 2 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -130,5 +122,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

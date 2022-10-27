@@ -3,14 +3,6 @@ title: "Collart (com.SpringTech.NewSC)"
 permalink: /apps/ios/com.SpringTech.NewSC.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/89/fe/f889fed4-827b-b18c-e9e2-3f4424322419/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Co
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/89/fe/f889fed4-827b-b18c-e9e2-3f4424322419/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/f8/89/fe/f889fed4-827b-b18c-e9e2-3f4424322419/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Collart com.SpringTech.NewSC app icon"></div></br>
   
-# Collart (com.SpringTech.NewSC
+# Collart (com.SpringTech.NewSC)
 
 **BundleId:** com.SpringTech.NewSC
 **App Version:** 2.10.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,17 +56,17 @@ build using Xcode 13
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 57
 - Storage: 5 lib(s)
-- Logs: 1 lib(s)
-- Crash: 1 lib(s)
-- Tracking: 4 lib(s)
-- Network: 6 lib(s)
 - Tools: 15 lib(s)
+- Tracking: 4 lib(s)
+- Crash: 1 lib(s)
+- Network: 6 lib(s)
 - UI: 1 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -121,5 +113,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

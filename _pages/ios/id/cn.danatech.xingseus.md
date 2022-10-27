@@ -3,14 +3,6 @@ title: "PictureThis (cn.danatech.xingseus)"
 permalink: /apps/ios/cn.danatech.xingseus.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/ec/ee/aaeceec5-9a12-5166-cfd9-386af66916db/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pi
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/ec/ee/aaeceec5-9a12-5166-cfd9-386af66916db/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/ec/ee/aaeceec5-9a12-5166-cfd9-386af66916db/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="PictureThis cn.danatech.xingseus app icon"></div></br>
   
-# PictureThis (cn.danatech.xingseus
+# PictureThis (cn.danatech.xingseus)
 
 **BundleId:** cn.danatech.xingseus
 **App Version:** 3.33.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pi
 **Custom keys:** 11
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,14 +59,14 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 228
-- Network: 2 lib(s)
+- Tracking: 2 lib(s)
 - Tools: 7 lib(s)
 - UI: 1 lib(s)
-- Tracking: 2 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -119,5 +111,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

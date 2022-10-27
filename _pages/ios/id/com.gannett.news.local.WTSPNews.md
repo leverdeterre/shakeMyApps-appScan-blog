@@ -3,14 +3,6 @@ title: "10 Tampa Bay (com.gannett.news.local.WTSPNews)"
 permalink: /apps/ios/com.gannett.news.local.WTSPNews.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/63/ee/93/63ee93dd-4a1c-1605-4c87-06a8f0bc102e/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application 10
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/63/ee/93/63ee93dd-4a1c-1605-4c87-06a8f0bc102e/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/63/ee/93/63ee93dd-4a1c-1605-4c87-06a8f0bc102e/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg" width="100" height="100" alt="10 Tampa Bay com.gannett.news.local.WTSPNews app icon"></div></br>
   
-# 10 Tampa Bay (com.gannett.news.local.WTSPNews
+# 10 Tampa Bay (com.gannett.news.local.WTSPNews)
 
 **BundleId:** com.gannett.news.local.WTSPNews
 **App Version:** 44.2.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application 10
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application 10
 **Custom keys:** 25
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ build using Xcode 13
 contains 2 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
@@ -126,5 +118,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

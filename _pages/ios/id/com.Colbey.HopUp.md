@@ -3,14 +3,6 @@ title: "HopUp (com.Colbey.HopUp)"
 permalink: /apps/ios/com.Colbey.HopUp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/9b/83/0c9b8343-fb8a-19a2-412c-7ed6d7f8962e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ho
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/9b/83/0c9b8343-fb8a-19a2-412c-7ed6d7f8962e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/9b/83/0c9b8343-fb8a-19a2-412c-7ed6d7f8962e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="HopUp com.Colbey.HopUp app icon"></div></br>
   
-# HopUp (com.Colbey.HopUp
+# HopUp (com.Colbey.HopUp)
 
 **BundleId:** com.Colbey.HopUp
 **App Version:** 2.6.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ho
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ho
 **Custom keys:** 18
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,15 +58,15 @@ contains 1 App extensions
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 43
-- Storage: 1 lib(s)
-- UI: 6 lib(s)
-- Tracking: 4 lib(s)
-- Network: 2 lib(s)
 - Tools: 16 lib(s)
+- Tracking: 4 lib(s)
+- Storage: 1 lib(s)
+- Network: 2 lib(s)
+- UI: 6 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -134,5 +126,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

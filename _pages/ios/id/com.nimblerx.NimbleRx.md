@@ -3,14 +3,6 @@ title: "Nimble (com.nimblerx.NimbleRx)"
 permalink: /apps/ios/com.nimblerx.NimbleRx.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/bf/73/81/bf738111-53c2-609e-b1a6-85363f4e9865/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ni
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/bf/73/81/bf738111-53c2-609e-b1a6-85363f4e9865/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/bf/73/81/bf738111-53c2-609e-b1a6-85363f4e9865/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Nimble com.nimblerx.NimbleRx app icon"></div></br>
   
-# Nimble (com.nimblerx.NimbleRx
+# Nimble (com.nimblerx.NimbleRx)
 
 **BundleId:** com.nimblerx.NimbleRx
 **App Version:** 10.9.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ni
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ni
 **Custom keys:** 13
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,13 +54,13 @@ supported devices iPhone & iPad
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 44
-- Crash: 1 lib(s)
 - Storage: 2 lib(s)
 - Tracking: 3 lib(s)
+- Crash: 1 lib(s)
 - Tools: 12 lib(s)
 
 **Apple dylibs:**
@@ -118,5 +110,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

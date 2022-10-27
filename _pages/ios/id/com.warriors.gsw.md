@@ -3,14 +3,6 @@ title: "Warriors + CC (com.warriors.gsw)"
 permalink: /apps/ios/com.warriors.gsw.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/31/1a/fc/311afcaf-28c2-b550-6a52-c91cb9093779/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/31/1a/fc/311afcaf-28c2-b550-6a52-c91cb9093779/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/31/1a/fc/311afcaf-28c2-b550-6a52-c91cb9093779/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Warriors + CC com.warriors.gsw app icon"></div></br>
   
-# Warriors + CC (com.warriors.gsw
+# Warriors + CC (com.warriors.gsw)
 
 **BundleId:** com.warriors.gsw
 **App Version:** 5.5.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 **Custom keys:** 18
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,16 +56,16 @@ supported devices iPhone & iPad
 build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 48
-- Tools: 15 lib(s)
-- Crash: 1 lib(s)
-- Tracking: 2 lib(s)
-- UI: 3 lib(s)
 - Network: 1 lib(s)
+- Crash: 1 lib(s)
+- UI: 3 lib(s)
+- Tools: 15 lib(s)
 - Storage: 1 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -116,5 +108,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

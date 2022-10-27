@@ -3,26 +3,18 @@ title: "Duolingo (com.duolingo.DuolingoMobile)"
 permalink: /apps/ios/com.duolingo.DuolingoMobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/10/c1/3d/10c13d8f-21ea-7531-def5-3002675f52c5/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/60/0f/0c/600f0cf7-e179-3e91-0d96-1a4ac878e3ea/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/10/c1/3d/10c13d8f-21ea-7531-def5-3002675f52c5/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/60/0f/0c/600f0cf7-e179-3e91-0d96-1a4ac878e3ea/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Duolingo (com.duolingo.DuolingoMobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/10/c1/3d/10c13d8f-21ea-7531-def5-3002675f52c5/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/60/0f/0c/600f0cf7-e179-3e91-0d96-1a4ac878e3ea/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Duolingo com.duolingo.DuolingoMobile app icon"></div></br>
   
-# Duolingo (com.duolingo.DuolingoMobile
+# Duolingo (com.duolingo.DuolingoMobile)
 
 **BundleId:** com.duolingo.DuolingoMobile
 **App Version:** 6.185.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Du
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Du
 **Custom keys:** 23
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,16 +59,16 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 81
-- Crash: 1 lib(s)
+- Tools: 16 lib(s)
 - Logs: 3 lib(s)
+- Crash: 1 lib(s)
+- Network: 1 lib(s)
 - Tracking: 4 lib(s)
 - UI: 2 lib(s)
-- Tools: 16 lib(s)
-- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -133,5 +125,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

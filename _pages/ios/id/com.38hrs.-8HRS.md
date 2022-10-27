@@ -3,14 +3,6 @@ title: "Lost In (com.38hrs.-8HRS)"
 permalink: /apps/ios/com.38hrs.-8HRS.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/28/3e/df/283edf5a-6ed0-a747-6b06-9bbc8b23369f/mzl.eqlrsnzg.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Lo
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/28/3e/df/283edf5a-6ed0-a747-6b06-9bbc8b23369f/mzl.eqlrsnzg.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/28/3e/df/283edf5a-6ed0-a747-6b06-9bbc8b23369f/mzl.eqlrsnzg.png/512x512bb.jpg" width="100" height="100" alt="Lost In com.38hrs.-8HRS app icon"></div></br>
   
-# Lost In (com.38hrs.-8HRS
+# Lost In (com.38hrs.-8HRS)
 
 **BundleId:** com.38hrs.-8HRS
 **App Version:** 3.1.11
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Lo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,22 +45,22 @@ AppScan generated a spoiler description of the content of the iOS application Lo
 **Custom keys:** 8
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 FacebookLogin detected
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Storage: 1 lib(s)
-- Tracking: 5 lib(s)
-- Tools: 5 lib(s)
-- UI: 2 lib(s)
 - Network: 2 lib(s)
+- Tracking: 5 lib(s)
+- UI: 2 lib(s)
+- Tools: 5 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -77,5 +69,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

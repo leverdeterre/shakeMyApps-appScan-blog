@@ -3,14 +3,6 @@ title: "Runner'sWorld (com.rodale.runnersworld)"
 permalink: /apps/ios/com.rodale.runnersworld.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/29/11/5f/29115f98-8685-8976-db20-e167c61f1dfe/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ru
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/29/11/5f/29115f98-8685-8976-db20-e167c61f1dfe/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/29/11/5f/29115f98-8685-8976-db20-e167c61f1dfe/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Runner'sWorld com.rodale.runnersworld app icon"></div></br>
   
-# Runner'sWorld (com.rodale.runnersworld
+# Runner'sWorld (com.rodale.runnersworld)
 
 **BundleId:** com.rodale.runnersworld
 **App Version:** 6763
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ru
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ru
 **Custom keys:** 17
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,14 +59,14 @@ contains 2 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 48
-- Tools: 17 lib(s)
-- Tracking: 4 lib(s)
 - Logs: 1 lib(s)
+- Tools: 17 lib(s)
 - Network: 3 lib(s)
+- Tracking: 4 lib(s)
 - UI: 4 lib(s)
 
 **Apple dylibs:**
@@ -144,5 +136,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

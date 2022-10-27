@@ -3,14 +3,6 @@ title: "Mon Espace (com.poleemploi.poleemploietmoi)"
 permalink: /apps/ios/com.poleemploi.poleemploietmoi.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/09/5d/d2/095dd212-1af5-0415-784b-735b2bcb1034/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/09/5d/d2/095dd212-1af5-0415-784b-735b2bcb1034/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/09/5d/d2/095dd212-1af5-0415-784b-735b2bcb1034/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-P3-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Mon Espace com.poleemploi.poleemploietmoi app icon"></div></br>
   
-# Mon Espace (com.poleemploi.poleemploietmoi
+# Mon Espace (com.poleemploi.poleemploietmoi)
 
 **BundleId:** com.poleemploi.poleemploietmoi
 **App Version:** 6.4.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,14 +53,14 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 26
-- Tools: 12 lib(s)
 - Tracking: 3 lib(s)
-- UI: 1 lib(s)
+- Tools: 12 lib(s)
 - Storage: 1 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -77,5 +69,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

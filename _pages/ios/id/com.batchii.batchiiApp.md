@@ -3,14 +3,6 @@ title: "Batchii (com.batchii.batchiiApp)"
 permalink: /apps/ios/com.batchii.batchiiApp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/bb/13/3f/bb133f66-5754-1f29-a19c-539c345190ce/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/bb/13/3f/bb133f66-5754-1f29-a19c-539c345190ce/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/bb/13/3f/bb133f66-5754-1f29-a19c-539c345190ce/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Batchii com.batchii.batchiiApp app icon"></div></br>
   
-# Batchii (com.batchii.batchiiApp
+# Batchii (com.batchii.batchiiApp)
 
 **BundleId:** com.batchii.batchiiApp
 **App Version:** 1.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,15 +57,15 @@ build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
-- Tools: 11 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 2 lib(s)
-- Storage: 1 lib(s)
 - Network: 1 lib(s)
+- Tools: 11 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -100,5 +92,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

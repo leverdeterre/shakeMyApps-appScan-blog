@@ -3,14 +3,6 @@ title: "Equidia (fr.equidia.equidia)"
 permalink: /apps/ios/fr.equidia.equidia.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/02/fc/69/02fc6928-8a66-c03b-fb8f-e84317305926/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Eq
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/02/fc/69/02fc6928-8a66-c03b-fb8f-e84317305926/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/02/fc/69/02fc6928-8a66-c03b-fb8f-e84317305926/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Equidia fr.equidia.equidia app icon"></div></br>
   
-# Equidia (fr.equidia.equidia
+# Equidia (fr.equidia.equidia)
 
 **BundleId:** fr.equidia.equidia
 **App Version:** 6.11.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Eq
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Eq
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,7 +57,7 @@ build using Xcode 13
 contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
@@ -106,5 +98,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

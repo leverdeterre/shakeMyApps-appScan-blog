@@ -3,14 +3,6 @@ title: "Domicile365 (com.ManFinGroup.Domicile365)"
 permalink: /apps/ios/com.ManFinGroup.Domicile365.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/a9/03/cba9033d-bb35-97ee-56f7-7ad29c038296/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Do
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/a9/03/cba9033d-bb35-97ee-56f7-7ad29c038296/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/a9/03/cba9033d-bb35-97ee-56f7-7ad29c038296/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Domicile365 com.ManFinGroup.Domicile365 app icon"></div></br>
   
-# Domicile365 (com.ManFinGroup.Domicile365
+# Domicile365 (com.ManFinGroup.Domicile365)
 
 **BundleId:** com.ManFinGroup.Domicile365
 **App Version:** 12.68
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Do
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Do
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,12 +54,12 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- Storage: 1 lib(s)
 - Tools: 12 lib(s)
+- Storage: 1 lib(s)
 - Tracking: 1 lib(s)
 
 **Apple dylibs:**
@@ -109,5 +101,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Office (com.microsoft.officemobile)"
 permalink: /apps/ios/com.microsoft.officemobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/41/ec/f0/41ecf0b7-9f59-199e-cb3d-92f8a1750809/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Of
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/41/ec/f0/41ecf0b7-9f59-199e-cb3d-92f8a1750809/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/41/ec/f0/41ecf0b7-9f59-199e-cb3d-92f8a1750809/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Office com.microsoft.officemobile app icon"></div></br>
   
-# Office (com.microsoft.officemobile
+# Office (com.microsoft.officemobile)
 
 **BundleId:** com.microsoft.officemobile
 **App Version:** 2.66
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Of
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Of
 **Custom keys:** 28
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,7 +58,7 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
@@ -139,5 +131,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

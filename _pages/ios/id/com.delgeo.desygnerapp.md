@@ -3,14 +3,6 @@ title: "Desygner (com.delgeo.desygnerapp)"
 permalink: /apps/ios/com.delgeo.desygnerapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/55/5f/90/555f907e-0ab6-0471-ae49-f17bd8c3458b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application De
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/55/5f/90/555f907e-0ab6-0471-ae49-f17bd8c3458b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/55/5f/90/555f907e-0ab6-0471-ae49-f17bd8c3458b/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Desygner com.delgeo.desygnerapp app icon"></div></br>
   
-# Desygner (com.delgeo.desygnerapp
+# Desygner (com.delgeo.desygnerapp)
 
 **BundleId:** com.delgeo.desygnerapp
 **App Version:** 3.6.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application De
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application De
 **Custom keys:** 22
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,16 +60,16 @@ contains 1 App extensions
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 46
-- Crash: 1 lib(s)
-- Logs: 2 lib(s)
-- UI: 4 lib(s)
 - Tools: 15 lib(s)
-- Tracking: 2 lib(s)
+- Logs: 2 lib(s)
+- Crash: 1 lib(s)
 - Network: 2 lib(s)
+- UI: 4 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -124,5 +116,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

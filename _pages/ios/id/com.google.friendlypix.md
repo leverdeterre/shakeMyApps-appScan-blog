@@ -3,18 +3,10 @@ title: "FriendlyPix (com.google.friendlypix)"
 permalink: /apps/ios/com.google.friendlypix.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application FriendlyPix (com.google.friendlypix). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# FriendlyPix (com.google.friendlypix
+# FriendlyPix (com.google.friendlypix)
 
 **BundleId:** com.google.friendlypix
 **App Version:** 0.2.3
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Fr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Fr
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -55,14 +47,14 @@ Native App
 supported devices iPhone & iPad
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 18
-- Storage: 3 lib(s)
-- Tools: 10 lib(s)
 - UI: 1 lib(s)
 - Network: 1 lib(s)
+- Tools: 10 lib(s)
+- Storage: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -112,5 +104,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

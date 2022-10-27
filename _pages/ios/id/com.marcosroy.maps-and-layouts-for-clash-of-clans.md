@@ -3,14 +3,6 @@ title: "Maps Layout for Clash Of Clans (com.marcosroy.maps-and-layouts-for-clash
 permalink: /apps/ios/com.marcosroy.maps-and-layouts-for-clash-of-clans.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/85/84/a6/8584a6b3-6690-bf7c-1f7b-83e2f9265cb8/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Ma
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/85/84/a6/8584a6b3-6690-bf7c-1f7b-83e2f9265cb8/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/85/84/a6/8584a6b3-6690-bf7c-1f7b-83e2f9265cb8/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Maps Layout for Clash Of Clans com.marcosroy.maps-and-layouts-for-clash-of-clans app icon"></div></br>
   
-# Maps Layout for Clash Of Clans (com.marcosroy.maps-and-layouts-for-clash-of-clans
+# Maps Layout for Clash Of Clans (com.marcosroy.maps-and-layouts-for-clash-of-clans)
 
 **BundleId:** com.marcosroy.maps-and-layouts-for-clash-of-clans
 **App Version:** 3.1
 **App Name:** Maps Layout for Clash Of Clans
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.08 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ma
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -48,13 +54,13 @@ Native App
 supported devices iPhone & iPad
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
 - Network: 2 lib(s)
-- Tools: 9 lib(s)
 - UI: 1 lib(s)
+- Tools: 9 lib(s)
 - Tracking: 1 lib(s)
 
 **Apple dylibs:**
@@ -92,5 +98,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

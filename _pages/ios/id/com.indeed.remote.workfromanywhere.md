@@ -3,14 +3,6 @@ title: "Work from Anywhere - Powered by Indeed (com.indeed.remote.workfromanywhe
 permalink: /apps/ios/com.indeed.remote.workfromanywhere.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/ac/ee/6d/acee6d22-eb73-a0a9-98ed-ad86d3c5a195/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Wo
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/ac/ee/6d/acee6d22-eb73-a0a9-98ed-ad86d3c5a195/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/ac/ee/6d/acee6d22-eb73-a0a9-98ed-ad86d3c5a195/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Work from Anywhere - Powered by Indeed com.indeed.remote.workfromanywhere app icon"></div></br>
   
-# Work from Anywhere - Powered by Indeed (com.indeed.remote.workfromanywhere
+# Work from Anywhere - Powered by Indeed (com.indeed.remote.workfromanywhere)
 
 **BundleId:** com.indeed.remote.workfromanywhere
 **App Version:** 2.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Wo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Wo
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ GoogleLogin detected
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 7
@@ -89,5 +81,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

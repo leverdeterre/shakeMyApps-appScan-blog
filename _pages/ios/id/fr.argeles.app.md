@@ -3,33 +3,39 @@ title: "Argelès/Mer (fr.argeles.app)"
 permalink: /apps/ios/fr.argeles.app.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9d/ff/aa/9dffaa15-76e0-6b2e-0cdc-8b403702d00b/app.icon.argeles-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/d4/bd/f7d4bdb1-a098-6219-96b0-e3b01a5e9e78/app.icon.argeles-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9d/ff/aa/9dffaa15-76e0-6b2e-0cdc-8b403702d00b/app.icon.argeles-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/d4/bd/f7d4bdb1-a098-6219-96b0-e3b01a5e9e78/app.icon.argeles-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Argelès/Mer (fr.argeles.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9d/ff/aa/9dffaa15-76e0-6b2e-0cdc-8b403702d00b/app.icon.argeles-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/f7/d4/bd/f7d4bdb1-a098-6219-96b0-e3b01a5e9e78/app.icon.argeles-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Argelès/Mer fr.argeles.app app icon"></div></br>
   
-# Argelès/Mer (fr.argeles.app
+# Argelès/Mer (fr.argeles.app)
 
 **BundleId:** fr.argeles.app
 **App Version:** 1.1.3
 **App Name:** Argelès/Mer
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.13 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ar
 **Custom keys:** 11
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -49,16 +55,16 @@ build using Xcode 13
 contains 1 App extensions
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
-- UI: 3 lib(s)
+- Crash: 1 lib(s)
 - Tools: 7 lib(s)
 - Network: 3 lib(s)
-- Crash: 1 lib(s)
-- Storage: 1 lib(s)
 - Tracking: 1 lib(s)
+- UI: 3 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -90,5 +96,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

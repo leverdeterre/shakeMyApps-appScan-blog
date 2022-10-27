@@ -3,14 +3,6 @@ title: "Atlas One (app.atlasone)"
 permalink: /apps/ios/app.atlasone.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/53/0b/eb530b9c-bdad-c10e-c08f-1854cb5cbd7f/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application At
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/53/0b/eb530b9c-bdad-c10e-c08f-1854cb5cbd7f/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/53/0b/eb530b9c-bdad-c10e-c08f-1854cb5cbd7f/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Atlas One app.atlasone app icon"></div></br>
   
-# Atlas One (app.atlasone
+# Atlas One (app.atlasone)
 
 **BundleId:** app.atlasone
 **App Version:** 2.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application At
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application At
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,15 +55,15 @@ build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 28
+- Network: 3 lib(s)
+- UI: 6 lib(s)
 - Tools: 3 lib(s)
 - Storage: 1 lib(s)
-- Network: 3 lib(s)
 - Logs: 1 lib(s)
-- UI: 6 lib(s)
 
 **Apple dylibs:**
 
@@ -108,5 +100,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

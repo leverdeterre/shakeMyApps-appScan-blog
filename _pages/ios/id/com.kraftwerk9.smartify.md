@@ -3,14 +3,6 @@ title: "Smartify (com.kraftwerk9.smartify)"
 permalink: /apps/ios/com.kraftwerk9.smartify.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/da/b4/e3/dab4e355-fcb0-e324-9821-df9a1e425abf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Sm
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/da/b4/e3/dab4e355-fcb0-e324-9821-df9a1e425abf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/da/b4/e3/dab4e355-fcb0-e324-9821-df9a1e425abf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Smartify com.kraftwerk9.smartify app icon"></div></br>
   
-# Smartify (com.kraftwerk9.smartify
+# Smartify (com.kraftwerk9.smartify)
 
 **BundleId:** com.kraftwerk9.smartify
 **App Version:** 1.15.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sm
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sm
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,13 +56,13 @@ contains 1 App extensions
 support multiple languages
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
-- Tools: 9 lib(s)
-- Tracking: 3 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 3 lib(s)
+- Tools: 9 lib(s)
 - Network: 3 lib(s)
 
 **Apple dylibs:**
@@ -137,5 +129,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

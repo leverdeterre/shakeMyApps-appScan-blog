@@ -3,14 +3,6 @@ title: "Unfold (com.moonlab.unfoldstories)"
 permalink: /apps/ios/com.moonlab.unfoldstories.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/89/d9/3b/89d93b0c-0d2b-b07d-4bcc-86e97ac873f7/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Un
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/89/d9/3b/89d93b0c-0d2b-b07d-4bcc-86e97ac873f7/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/89/d9/3b/89d93b0c-0d2b-b07d-4bcc-86e97ac873f7/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Unfold com.moonlab.unfoldstories app icon"></div></br>
   
-# Unfold (com.moonlab.unfoldstories
+# Unfold (com.moonlab.unfoldstories)
 
 **BundleId:** com.moonlab.unfoldstories
 **App Version:** 8.15.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Un
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Un
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,16 +58,16 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 58
-- Tools: 18 lib(s)
-- Crash: 1 lib(s)
-- Storage: 3 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 18 lib(s)
 - Network: 4 lib(s)
 - UI: 3 lib(s)
+- Storage: 3 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -122,5 +114,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

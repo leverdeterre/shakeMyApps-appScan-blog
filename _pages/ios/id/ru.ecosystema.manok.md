@@ -3,14 +3,6 @@ title: "Decoy (ru.ecosystema.manok)"
 permalink: /apps/ios/ru.ecosystema.manok.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/67/5e/e9/675ee9a5-05cd-1857-e80c-53c3bd038c1e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application De
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/67/5e/e9/675ee9a5-05cd-1857-e80c-53c3bd038c1e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/67/5e/e9/675ee9a5-05cd-1857-e80c-53c3bd038c1e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Decoy ru.ecosystema.manok app icon"></div></br>
   
-# Decoy (ru.ecosystema.manok
+# Decoy (ru.ecosystema.manok)
 
 **BundleId:** ru.ecosystema.manok
 **App Version:** 6.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application De
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application De
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,14 +54,14 @@ Native App
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
 - Network: 1 lib(s)
+- Tools: 8 lib(s)
 - Storage: 4 lib(s)
 - UI: 1 lib(s)
-- Tools: 8 lib(s)
 
 **Apple dylibs:**
 
@@ -98,5 +90,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

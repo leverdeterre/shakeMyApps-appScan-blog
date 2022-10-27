@@ -3,14 +3,6 @@ title: "Blur (com.vv.blur)"
 permalink: /apps/ios/com.vv.blur.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/7b/0b/c67b0bab-b990-f2c2-7a02-217d44415345/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Bl
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/7b/0b/c67b0bab-b990-f2c2-7a02-217d44415345/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/c6/7b/0b/c67b0bab-b990-f2c2-7a02-217d44415345/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Blur com.vv.blur app icon"></div></br>
   
-# Blur (com.vv.blur
+# Blur (com.vv.blur)
 
 **BundleId:** com.vv.blur
 **App Version:** 1.10
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Bl
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Bl
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,13 +53,13 @@ Number of entitlements detected: 3
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
 - Crash: 1 lib(s)
-- Tracking: 2 lib(s)
 - Tools: 11 lib(s)
+- Tracking: 2 lib(s)
 - UI: 1 lib(s)
 
 **Apple dylibs:**
@@ -107,5 +99,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

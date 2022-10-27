@@ -3,14 +3,6 @@ title: "Flashtape (com.Flashtape)"
 permalink: /apps/ios/com.Flashtape.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/29/f6/2b/29f62b20-86bb-7dd2-ec44-b5c713988b94/AppIcon-1-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fl
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/29/f6/2b/29f62b20-86bb-7dd2-ec44-b5c713988b94/AppIcon-1-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/29/f6/2b/29f62b20-86bb-7dd2-ec44-b5c713988b94/AppIcon-1-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Flashtape com.Flashtape app icon"></div></br>
   
-# Flashtape (com.Flashtape
+# Flashtape (com.Flashtape)
 
 **BundleId:** com.Flashtape
 **App Version:** 0.12.10
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fl
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fl
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,15 +56,15 @@ contains 2 App extensions
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 38
-- Tools: 16 lib(s)
-- Tracking: 1 lib(s)
 - Logs: 1 lib(s)
+- Tools: 16 lib(s)
 - Network: 2 lib(s)
 - Storage: 1 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -109,5 +101,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

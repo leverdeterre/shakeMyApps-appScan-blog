@@ -3,14 +3,6 @@ title: "MyNetDiary (com.mynetdiary.MyNetDiary)"
 permalink: /apps/ios/com.mynetdiary.MyNetDiary.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/31/93/03/3193031c-2e8d-6667-e1a6-5cc92ca5be57/AppIconFree-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application My
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/31/93/03/3193031c-2e8d-6667-e1a6-5cc92ca5be57/AppIconFree-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/31/93/03/3193031c-2e8d-6667-e1a6-5cc92ca5be57/AppIconFree-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="MyNetDiary com.mynetdiary.MyNetDiary app icon"></div></br>
   
-# MyNetDiary (com.mynetdiary.MyNetDiary
+# MyNetDiary (com.mynetdiary.MyNetDiary)
 
 **BundleId:** com.mynetdiary.MyNetDiary
 **App Version:** 8.60
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application My
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application My
 **Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -69,16 +61,16 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
-- Tracking: 2 lib(s)
-- Tools: 13 lib(s)
+- Network: 2 lib(s)
 - Crash: 1 lib(s)
+- Tools: 13 lib(s)
 - UI: 5 lib(s)
 - Storage: 2 lib(s)
-- Network: 2 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -131,5 +123,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

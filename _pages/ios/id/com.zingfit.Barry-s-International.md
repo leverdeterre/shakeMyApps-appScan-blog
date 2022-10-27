@@ -3,14 +3,6 @@ title: "Barry's International (com.zingfit.Barry-s-International)"
 permalink: /apps/ios/com.zingfit.Barry-s-International.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/52/36/e9/5236e955-af56-7b6c-b2b5-32672cb51822/AppIcon.Barry-s-International-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/52/36/e9/5236e955-af56-7b6c-b2b5-32672cb51822/AppIcon.Barry-s-International-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/52/36/e9/5236e955-af56-7b6c-b2b5-32672cb51822/AppIcon.Barry-s-International-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Barry's International com.zingfit.Barry-s-International app icon"></div></br>
   
-# Barry's International (com.zingfit.Barry-s-International
+# Barry's International (com.zingfit.Barry-s-International)
 
 **BundleId:** com.zingfit.Barry-s-International
 **App Version:** 1.16.0
 **App Name:** Barry's International
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 3.97 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,19 +45,19 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 **Custom keys:** 14
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
-- Logs: 1 lib(s)
 - Tools: 8 lib(s)
 - Tracking: 2 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -90,5 +96,5 @@ Number of entitlements detected: 3
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

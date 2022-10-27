@@ -3,18 +3,10 @@ title: "Mowgli (travel.mowgli.app)"
 permalink: /apps/ios/travel.mowgli.app.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Mowgli (travel.mowgli.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Mowgli (travel.mowgli.app
+# Mowgli (travel.mowgli.app)
 
 **BundleId:** travel.mowgli.app
 **App Version:** 2.9.2
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 **Custom keys:** 6
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -54,15 +46,15 @@ GoogleLogin detected
 supported devices iPhone & iPad
 at least 3 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 47
-- Network: 1 lib(s)
-- Tracking: 5 lib(s)
 - Storage: 2 lib(s)
-- Crash: 1 lib(s)
+- Network: 1 lib(s)
 - Tools: 19 lib(s)
+- Tracking: 5 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -102,5 +94,5 @@ at least 3 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

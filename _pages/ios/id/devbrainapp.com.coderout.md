@@ -3,14 +3,6 @@ title: "تعليم السياقة - اشارات المرور (devbrainapp.com.c
 permalink: /apps/ios/devbrainapp.com.coderout.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/83/cc/e5/83cce509-6614-6e9c-5f6c-d1757cd7b6b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application ت
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/83/cc/e5/83cce509-6614-6e9c-5f6c-d1757cd7b6b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/83/cc/e5/83cce509-6614-6e9c-5f6c-d1757cd7b6b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="تعليم السياقة - اشارات المرور devbrainapp.com.coderout app icon"></div></br>
   
-# تعليم السياقة - اشارات المرور (devbrainapp.com.coderout
+# تعليم السياقة - اشارات المرور (devbrainapp.com.coderout)
 
 **BundleId:** devbrainapp.com.coderout
 **App Version:** 2.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application ت
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,19 +45,19 @@ AppScan generated a spoiler description of the content of the iOS application ت
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
-- UI: 1 lib(s)
 - Tools: 2 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -74,5 +66,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

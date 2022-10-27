@@ -3,14 +3,6 @@ title: "Bright (com.engbright.bright)"
 permalink: /apps/ios/com.engbright.bright.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/4f/da/9b4fda9b-3092-3a29-37cb-81eb476f573a/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Br
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/4f/da/9b4fda9b-3092-3a29-37cb-81eb476f573a/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9b/4f/da/9b4fda9b-3092-3a29-37cb-81eb476f573a/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Bright com.engbright.bright app icon"></div></br>
   
-# Bright (com.engbright.bright
+# Bright (com.engbright.bright)
 
 **BundleId:** com.engbright.bright
 **App Version:** 2.4.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Br
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Br
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,17 +59,17 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 37
-- Logs: 1 lib(s)
-- Storage: 2 lib(s)
-- Network: 1 lib(s)
-- Tools: 10 lib(s)
-- Tracking: 4 lib(s)
-- Crash: 1 lib(s)
 - UI: 6 lib(s)
+- Crash: 1 lib(s)
+- Network: 1 lib(s)
+- Logs: 1 lib(s)
+- Tracking: 4 lib(s)
+- Storage: 2 lib(s)
+- Tools: 10 lib(s)
 
 **Apple dylibs:**
 
@@ -110,5 +102,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

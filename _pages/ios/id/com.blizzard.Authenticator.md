@@ -3,14 +3,6 @@ title: "Authenticator (com.blizzard.Authenticator)"
 permalink: /apps/ios/com.blizzard.Authenticator.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/ed/09/da/ed09dafe-c880-2905-5b2f-44a24d2f5cd0/AppIcon-Appstore-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Au
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/ed/09/da/ed09dafe-c880-2905-5b2f-44a24d2f5cd0/AppIcon-Appstore-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/ed/09/da/ed09dafe-c880-2905-5b2f-44a24d2f5cd0/AppIcon-Appstore-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Authenticator com.blizzard.Authenticator app icon"></div></br>
   
-# Authenticator (com.blizzard.Authenticator
+# Authenticator (com.blizzard.Authenticator)
 
 **BundleId:** com.blizzard.Authenticator
 **App Version:** 2.5.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Au
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,22 +45,22 @@ AppScan generated a spoiler description of the content of the iOS application Au
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 18
-- UI: 1 lib(s)
-- Tracking: 1 lib(s)
 - Crash: 1 lib(s)
 - Network: 2 lib(s)
+- Tracking: 1 lib(s)
 - Tools: 6 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -77,5 +69,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

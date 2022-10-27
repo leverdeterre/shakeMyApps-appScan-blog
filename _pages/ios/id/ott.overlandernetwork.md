@@ -3,14 +3,6 @@ title: "Overlander Network (ott.overlandernetwork)"
 permalink: /apps/ios/ott.overlandernetwork.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a7/d0/b2/a7d0b215-7fbe-9dae-b18e-9a1b27a4a23c/AppIcon-Branded-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ov
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a7/d0/b2/a7d0b215-7fbe-9dae-b18e-9a1b27a4a23c/AppIcon-Branded-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a7/d0/b2/a7d0b215-7fbe-9dae-b18e-9a1b27a4a23c/AppIcon-Branded-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Overlander Network ott.overlandernetwork app icon"></div></br>
   
-# Overlander Network (ott.overlandernetwork
+# Overlander Network (ott.overlandernetwork)
 
 **BundleId:** ott.overlandernetwork
 **App Version:** 7.620.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ov
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ov
 **Custom keys:** 18
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,15 +56,15 @@ supported devices iPhone & iPad
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
+- UI: 5 lib(s)
+- Tools: 19 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 5 lib(s)
-- Tools: 19 lib(s)
 - Network: 2 lib(s)
-- UI: 5 lib(s)
 - Storage: 1 lib(s)
 
 **Apple dylibs:**
@@ -136,5 +128,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

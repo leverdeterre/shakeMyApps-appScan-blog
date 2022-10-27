@@ -3,14 +3,6 @@ title: "UWW (org.unitedworldwrestling.app)"
 permalink: /apps/ios/org.unitedworldwrestling.app.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/26/c5/98/26c5989d-2a1a-2268-b04f-abd489bc5587/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application UW
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/26/c5/98/26c5989d-2a1a-2268-b04f-abd489bc5587/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/26/c5/98/26c5989d-2a1a-2268-b04f-abd489bc5587/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="UWW org.unitedworldwrestling.app app icon"></div></br>
   
-# UWW (org.unitedworldwrestling.app
+# UWW (org.unitedworldwrestling.app)
 
 **BundleId:** org.unitedworldwrestling.app
 **App Version:** 1.1.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application UW
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application UW
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,15 +53,15 @@ Number of entitlements detected: 4
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 23
-- UI: 3 lib(s)
-- Crash: 1 lib(s)
-- Tracking: 2 lib(s)
 - Network: 1 lib(s)
+- UI: 3 lib(s)
+- Tracking: 2 lib(s)
 - Tools: 11 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -105,5 +97,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,18 +3,10 @@ title: "Skins&Mods for Among Us (app.skins.amongus)"
 permalink: /apps/ios/app.skins.amongus.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Skins&Mods for Among Us (app.skins.amongus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Skins&Mods for Among Us (app.skins.amongus
+# Skins&Mods for Among Us (app.skins.amongus)
 
 **BundleId:** app.skins.amongus
 **App Version:** 0.0.8
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Sk
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,14 +37,14 @@ AppScan generated a spoiler description of the content of the iOS application Sk
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 18
@@ -90,5 +82,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Freebox (fr.freebox.compagnon)"
 permalink: /apps/ios/fr.freebox.compagnon.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/68/90/f46890b7-868a-9ba1-6232-300987bbae9b/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fr
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/68/90/f46890b7-868a-9ba1-6232-300987bbae9b/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/68/90/f46890b7-868a-9ba1-6232-300987bbae9b/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Freebox fr.freebox.compagnon app icon"></div></br>
   
-# Freebox (fr.freebox.compagnon
+# Freebox (fr.freebox.compagnon)
 
 **BundleId:** fr.freebox.compagnon
 **App Version:** 4.5.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fr
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,13 +53,13 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
 - Network: 3 lib(s)
-- UI: 2 lib(s)
 - Tools: 4 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -76,5 +68,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

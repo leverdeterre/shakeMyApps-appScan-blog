@@ -3,14 +3,6 @@ title: "Yummly (com.yummly.production)"
 permalink: /apps/ios/com.yummly.production.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/2b/04/a62b044c-1716-32b0-a8af-0568de8d6930/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Yu
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/2b/04/a62b044c-1716-32b0-a8af-0568de8d6930/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/2b/04/a62b044c-1716-32b0-a8af-0568de8d6930/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Yummly com.yummly.production app icon"></div></br>
   
-# Yummly (com.yummly.production
+# Yummly (com.yummly.production)
 
 **BundleId:** com.yummly.production
 **App Version:** 8.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Yu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Yu
 **Custom keys:** 17
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -69,15 +61,15 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 67
-- Tracking: 6 lib(s)
-- Network: 3 lib(s)
 - UI: 2 lib(s)
-- Crash: 1 lib(s)
+- Network: 3 lib(s)
+- Tracking: 6 lib(s)
 - Tools: 28 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -125,5 +117,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "3340 Weather (com.tvalabama.-340-Weather)"
 permalink: /apps/ios/com.tvalabama.-340-Weather.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/33/49/54334936-33ff-1c50-3779-41e39ca787d2/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application 33
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/33/49/54334936-33ff-1c50-3779-41e39ca787d2/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/33/49/54334936-33ff-1c50-3779-41e39ca787d2/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="3340 Weather com.tvalabama.-340-Weather app icon"></div></br>
   
-# 3340 Weather (com.tvalabama.-340-Weather
+# 3340 Weather (com.tvalabama.-340-Weather)
 
 **BundleId:** com.tvalabama.-340-Weather
 **App Version:** 5.5.703
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application 33
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application 33
 **Custom keys:** 20
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,14 +53,14 @@ Number of entitlements detected: 3
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Crash: 1 lib(s)
-- Tools: 9 lib(s)
 - UI: 2 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 9 lib(s)
 
 **Apple dylibs:**
 
@@ -111,5 +103,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

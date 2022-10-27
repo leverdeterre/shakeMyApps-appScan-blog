@@ -3,48 +3,24 @@ title: "Hawaiian (com.hawaiianair.mobile)"
 permalink: /apps/ios/com.hawaiianair.mobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/99/1b/b4991bec-ac1a-7533-6aa0-26a05ec409a6/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/86/c1/ae86c199-8806-03a6-d620-ef8b21b4d293/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/99/1b/b4991bec-ac1a-7533-6aa0-26a05ec409a6/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/86/c1/ae86c199-8806-03a6-d620-ef8b21b4d293/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Hawaiian (com.hawaiianair.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/99/1b/b4991bec-ac1a-7533-6aa0-26a05ec409a6/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/86/c1/ae86c199-8806-03a6-d620-ef8b21b4d293/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Hawaiian com.hawaiianair.mobile app icon"></div></br>
   
-# Hawaiian (com.hawaiianair.mobile
+# Hawaiian (com.hawaiianair.mobile)
 
 **BundleId:** com.hawaiianair.mobile
 **App Version:** 3.1.1
 **App Name:** Hawaiian
 
 
-## AppScore : 4.30 (⭐️⭐️⭐️⭐️) 
-
-<table>
-<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
-<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
-<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
-<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
-<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
-<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
-<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
-<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
-<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
-</table>
-
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
-  
 ## AppScan informations 
 
 **Number of permissions:** 9
@@ -53,7 +29,7 @@ AppScan generated a spoiler description of the content of the iOS application Ha
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,12 +38,12 @@ supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 22
-- Tools: 3 lib(s)
 - UI: 2 lib(s)
+- Tools: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -76,5 +52,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

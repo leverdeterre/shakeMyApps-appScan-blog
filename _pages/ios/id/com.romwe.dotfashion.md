@@ -3,14 +3,6 @@ title: "ROMWE (com.romwe.dotfashion)"
 permalink: /apps/ios/com.romwe.dotfashion.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b2/92/0e/b2920eed-17d6-efa6-e409-f397e9e25f44/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application RO
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b2/92/0e/b2920eed-17d6-efa6-e409-f397e9e25f44/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b2/92/0e/b2920eed-17d6-efa6-e409-f397e9e25f44/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="ROMWE com.romwe.dotfashion app icon"></div></br>
   
-# ROMWE (com.romwe.dotfashion
+# ROMWE (com.romwe.dotfashion)
 
 **BundleId:** com.romwe.dotfashion
 **App Version:** 8.4.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application RO
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application RO
 **Custom keys:** 17
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,16 +58,16 @@ contains 1 App extensions
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 81
-- Tools: 27 lib(s)
+- Tracking: 4 lib(s)
 - Storage: 2 lib(s)
 - UI: 8 lib(s)
 - Network: 5 lib(s)
-- Tracking: 4 lib(s)
 - Crash: 1 lib(s)
+- Tools: 27 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -151,5 +143,5 @@ at least 3 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

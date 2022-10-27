@@ -3,14 +3,6 @@ title: "RMC Sport (fr.sfr.sfrsport)"
 permalink: /apps/ios/fr.sfr.sfrsport.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/1f/cf/0a1fcfa8-a81a-31a3-8e6b-9f4579bb8007/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application RM
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/1f/cf/0a1fcfa8-a81a-31a3-8e6b-9f4579bb8007/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/1f/cf/0a1fcfa8-a81a-31a3-8e6b-9f4579bb8007/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="RMC Sport fr.sfr.sfrsport app icon"></div></br>
   
-# RMC Sport (fr.sfr.sfrsport
+# RMC Sport (fr.sfr.sfrsport)
 
 **BundleId:** fr.sfr.sfrsport
 **App Version:** 6.22.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application RM
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application RM
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,15 +55,15 @@ supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 54
+- Storage: 4 lib(s)
 - Tools: 15 lib(s)
 - Network: 2 lib(s)
-- UI: 5 lib(s)
 - Logs: 1 lib(s)
-- Storage: 4 lib(s)
+- UI: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -125,5 +117,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

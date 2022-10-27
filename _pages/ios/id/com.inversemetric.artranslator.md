@@ -3,14 +3,6 @@ title: "AR Translator (com.inversemetric.artranslator)"
 permalink: /apps/ios/com.inversemetric.artranslator.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/10/8b/de/108bde09-c7da-9965-6f9e-554de2095c8f/AppIcon-1-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application AR
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/10/8b/de/108bde09-c7da-9965-6f9e-554de2095c8f/AppIcon-1-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/10/8b/de/108bde09-c7da-9965-6f9e-554de2095c8f/AppIcon-1-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="AR Translator com.inversemetric.artranslator app icon"></div></br>
   
-# AR Translator (com.inversemetric.artranslator
+# AR Translator (com.inversemetric.artranslator)
 
 **BundleId:** com.inversemetric.artranslator
 **App Version:** 2.65
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application AR
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application AR
 **Custom keys:** 31
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,16 +58,16 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 44
+- Tracking: 2 lib(s)
 - Network: 4 lib(s)
 - UI: 4 lib(s)
-- Tools: 16 lib(s)
 - Storage: 4 lib(s)
+- Tools: 16 lib(s)
 - Crash: 1 lib(s)
-- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -114,5 +106,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,33 +3,39 @@ title: "Mathway (com.bagatrix.mathway)"
 permalink: /apps/ios/com.bagatrix.mathway.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/3f/8c/a63f8c56-ae75-9ae4-b5f9-38e25dd6b8e8/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/1b/5b/cd1b5b01-f87f-509f-ac9f-d575550526f8/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/3f/8c/a63f8c56-ae75-9ae4-b5f9-38e25dd6b8e8/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/1b/5b/cd1b5b01-f87f-509f-ac9f-d575550526f8/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Mathway (com.bagatrix.mathway). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/3f/8c/a63f8c56-ae75-9ae4-b5f9-38e25dd6b8e8/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/1b/5b/cd1b5b01-f87f-509f-ac9f-d575550526f8/AppIcon-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg" width="100" height="100" alt="Mathway com.bagatrix.mathway app icon"></div></br>
   
-# Mathway (com.bagatrix.mathway
+# Mathway (com.bagatrix.mathway)
 
 **BundleId:** com.bagatrix.mathway
 **App Version:** 4.7.1
 **App Name:** Mathway
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.28 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ma
 **Custom keys:** 29
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,15 +59,15 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- UI: 2 lib(s)
 - Tools: 18 lib(s)
+- Tracking: 6 lib(s)
 - Network: 3 lib(s)
 - Crash: 1 lib(s)
-- Tracking: 6 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -109,5 +115,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

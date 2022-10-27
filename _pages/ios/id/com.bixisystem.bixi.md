@@ -3,14 +3,6 @@ title: "BIXI (com.bixisystem.bixi)"
 permalink: /apps/ios/com.bixisystem.bixi.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/1a/37/ab1a374a-26f2-13e7-01ad-d5d971cbbd3c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application BI
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/1a/37/ab1a374a-26f2-13e7-01ad-d5d971cbbd3c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ab/1a/37/ab1a374a-26f2-13e7-01ad-d5d971cbbd3c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="BIXI com.bixisystem.bixi app icon"></div></br>
   
-# BIXI (com.bixisystem.bixi
+# BIXI (com.bixisystem.bixi)
 
 **BundleId:** com.bixisystem.bixi
 **App Version:** 12.34.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application BI
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application BI
 **Custom keys:** 8
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,14 +54,14 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
-- Tools: 13 lib(s)
 - Network: 1 lib(s)
-- Storage: 1 lib(s)
+- Tools: 13 lib(s)
 - UI: 2 lib(s)
+- Storage: 1 lib(s)
 - Tracking: 1 lib(s)
 
 **Apple dylibs:**
@@ -79,5 +71,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

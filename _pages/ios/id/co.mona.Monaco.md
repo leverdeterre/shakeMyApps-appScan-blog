@@ -3,14 +3,6 @@ title: "Crypto.com (co.mona.Monaco)"
 permalink: /apps/ios/co.mona.Monaco.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/dc/92/d1dc924c-c4b3-d54c-fd0c-5d918bbdde56/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Cr
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/dc/92/d1dc924c-c4b3-d54c-fd0c-5d918bbdde56/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/dc/92/d1dc924c-c4b3-d54c-fd0c-5d918bbdde56/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Crypto.com co.mona.Monaco app icon"></div></br>
   
-# Crypto.com (co.mona.Monaco
+# Crypto.com (co.mona.Monaco)
 
 **BundleId:** co.mona.Monaco
 **App Version:** 3.146
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Cr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Cr
 **Custom keys:** 18
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,14 +58,14 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
+- Network: 3 lib(s)
 - UI: 1 lib(s)
 - Tracking: 4 lib(s)
 - Tools: 2 lib(s)
-- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -117,5 +109,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

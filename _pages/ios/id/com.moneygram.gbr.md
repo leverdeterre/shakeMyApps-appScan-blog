@@ -3,14 +3,6 @@ title: "MoneyGram (com.moneygram.gbr)"
 permalink: /apps/ios/com.moneygram.gbr.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/26/6e/02/266e02a6-cfe0-ba91-c729-4531cd342698/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/26/6e/02/266e02a6-cfe0-ba91-c729-4531cd342698/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/26/6e/02/266e02a6-cfe0-ba91-c729-4531cd342698/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="MoneyGram com.moneygram.gbr app icon"></div></br>
   
-# MoneyGram (com.moneygram.gbr
+# MoneyGram (com.moneygram.gbr)
 
 **BundleId:** com.moneygram.gbr
 **App Version:** 22.9.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 **Custom keys:** 17
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,14 +59,14 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 30
-- Tracking: 7 lib(s)
-- Tools: 8 lib(s)
 - UI: 1 lib(s)
+- Tools: 8 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 7 lib(s)
 
 **Apple dylibs:**
 
@@ -121,5 +113,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "TrumpWhiteHouse (com.sunfuture.trumptracker)"
 permalink: /apps/ios/com.sunfuture.trumptracker.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/8e/1c/c48e1c0e-7a22-e647-9d4b-cb5370b64f79/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/8e/1c/c48e1c0e-7a22-e647-9d4b-cb5370b64f79/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c4/8e/1c/c48e1c0e-7a22-e647-9d4b-cb5370b64f79/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="TrumpWhiteHouse com.sunfuture.trumptracker app icon"></div></br>
   
-# TrumpWhiteHouse (com.sunfuture.trumptracker
+# TrumpWhiteHouse (com.sunfuture.trumptracker)
 
 **BundleId:** com.sunfuture.trumptracker
 **App Version:** 1.5.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,16 +55,16 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
-- Tracking: 2 lib(s)
+- Tools: 14 lib(s)
 - Crash: 1 lib(s)
 - Network: 2 lib(s)
-- Storage: 1 lib(s)
-- Tools: 14 lib(s)
 - UI: 3 lib(s)
+- Storage: 1 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -105,5 +97,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

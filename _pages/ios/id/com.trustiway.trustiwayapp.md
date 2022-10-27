@@ -3,14 +3,6 @@ title: "My Trustiway (com.trustiway.trustiwayapp)"
 permalink: /apps/ios/com.trustiway.trustiwayapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/f5/6a/c3f56a65-91e8-c445-96b4-fb16590a266d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application My
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/f5/6a/c3f56a65-91e8-c445-96b4-fb16590a266d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/f5/6a/c3f56a65-91e8-c445-96b4-fb16590a266d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="My Trustiway com.trustiway.trustiwayapp app icon"></div></br>
   
-# My Trustiway (com.trustiway.trustiwayapp
+# My Trustiway (com.trustiway.trustiwayapp)
 
 **BundleId:** com.trustiway.trustiwayapp
 **App Version:** 1.0.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application My
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,20 +45,20 @@ AppScan generated a spoiler description of the content of the iOS application My
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
+- Tracking: 1 lib(s)
 - Tools: 9 lib(s)
 - Crash: 1 lib(s)
-- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -83,5 +75,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Matipay (com.matipay.vending)"
 permalink: /apps/ios/com.matipay.vending.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/30/67/2c/30672cbb-5f5e-49a5-b68d-502aa2860553/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ma
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/30/67/2c/30672cbb-5f5e-49a5-b68d-502aa2860553/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/30/67/2c/30672cbb-5f5e-49a5-b68d-502aa2860553/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Matipay com.matipay.vending app icon"></div></br>
   
-# Matipay (com.matipay.vending
+# Matipay (com.matipay.vending)
 
 **BundleId:** com.matipay.vending
 **App Version:** 3.6.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ma
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ma
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,13 +57,13 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 39
 - Crash: 1 lib(s)
-- UI: 5 lib(s)
 - Network: 2 lib(s)
+- UI: 5 lib(s)
 - Tools: 12 lib(s)
 - Tracking: 5 lib(s)
 
@@ -109,5 +101,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

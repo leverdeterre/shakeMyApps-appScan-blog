@@ -3,26 +3,18 @@ title: "Papa John's (pa.com.papajohns)"
 permalink: /apps/ios/pa.com.papajohns.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/33/80/77/338077db-acb3-d14c-2f21-6a820bd56463/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b6/9e/b6/b69eb6f8-8536-2bd8-1215-3b5418e8a389/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/33/80/77/338077db-acb3-d14c-2f21-6a820bd56463/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b6/9e/b6/b69eb6f8-8536-2bd8-1215-3b5418e8a389/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Papa John's (pa.com.papajohns). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/33/80/77/338077db-acb3-d14c-2f21-6a820bd56463/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b6/9e/b6/b69eb6f8-8536-2bd8-1215-3b5418e8a389/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Papa John's pa.com.papajohns app icon"></div></br>
   
-# Papa John's (pa.com.papajohns
+# Papa John's (pa.com.papajohns)
 
 **BundleId:** pa.com.papajohns
 **App Version:** 3.21.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,20 +45,20 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 FacebookLogin detected
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 69
-- Tools: 12 lib(s)
 - UI: 3 lib(s)
 - Logs: 1 lib(s)
+- Tools: 12 lib(s)
 - Network: 2 lib(s)
 - Tracking: 1 lib(s)
 
@@ -77,5 +69,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

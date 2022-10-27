@@ -3,26 +3,18 @@ title: "Radio Javan (com.RadioJavan.RJ)"
 permalink: /apps/ios/com.RadioJavan.RJ.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/fd/af/b0fdafef-4c73-e5d4-5dad-555f0091b919/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/c7/32/1dc732f0-6708-623e-5dac-077c9d26f110/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/fd/af/b0fdafef-4c73-e5d4-5dad-555f0091b919/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/c7/32/1dc732f0-6708-623e-5dac-077c9d26f110/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Radio Javan (com.RadioJavan.RJ). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/b0/fd/af/b0fdafef-4c73-e5d4-5dad-555f0091b919/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/c7/32/1dc732f0-6708-623e-5dac-077c9d26f110/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Radio Javan com.RadioJavan.RJ app icon"></div></br>
   
-# Radio Javan (com.RadioJavan.RJ
+# Radio Javan (com.RadioJavan.RJ)
 
 **BundleId:** com.RadioJavan.RJ
 **App Version:** 17.6.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 **Custom keys:** 22
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,14 +60,14 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
+- Tools: 10 lib(s)
+- Tracking: 3 lib(s)
 - Crash: 1 lib(s)
 - Storage: 1 lib(s)
-- Tracking: 3 lib(s)
-- Tools: 10 lib(s)
 
 **Apple dylibs:**
 
@@ -139,5 +131,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

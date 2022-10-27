@@ -3,18 +3,10 @@ title: "Unfollowers+ (reports.for.instagram)"
 permalink: /apps/ios/reports.for.instagram.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Unfollowers+ (reports.for.instagram). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Unfollowers+ (reports.for.instagram
+# Unfollowers+ (reports.for.instagram)
 
 **BundleId:** reports.for.instagram
 **App Version:** 1.5.5
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Un
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Un
 **Custom keys:** 12
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -55,16 +47,16 @@ build using Xcode 13
 support multiple languages
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
+- Network: 2 lib(s)
 - Tools: 11 lib(s)
+- Crash: 1 lib(s)
 - Storage: 1 lib(s)
 - Tracking: 2 lib(s)
-- Network: 2 lib(s)
 - UI: 3 lib(s)
-- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -96,5 +88,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

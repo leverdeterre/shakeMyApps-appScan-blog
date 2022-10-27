@@ -3,14 +3,6 @@ title: "Video Music (com.flyingnayeem.nmVideoMergerJune)"
 permalink: /apps/ios/com.flyingnayeem.nmVideoMergerJune.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a7/11/5d/a7115dc2-8ce6-282d-cceb-3bbb906c08b0/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Vi
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a7/11/5d/a7115dc2-8ce6-282d-cceb-3bbb906c08b0/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a7/11/5d/a7115dc2-8ce6-282d-cceb-3bbb906c08b0/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Video Music com.flyingnayeem.nmVideoMergerJune app icon"></div></br>
   
-# Video Music (com.flyingnayeem.nmVideoMergerJune
+# Video Music (com.flyingnayeem.nmVideoMergerJune)
 
 **BundleId:** com.flyingnayeem.nmVideoMergerJune
 **App Version:** 4.5.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Vi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Vi
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,14 +60,14 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 44
+- Tracking: 5 lib(s)
 - Tools: 12 lib(s)
 - UI: 2 lib(s)
 - Network: 1 lib(s)
-- Tracking: 5 lib(s)
 - Crash: 1 lib(s)
 
 **Apple dylibs:**
@@ -137,5 +129,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

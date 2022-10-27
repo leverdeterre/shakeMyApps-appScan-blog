@@ -3,26 +3,18 @@ title: "Hotels.com (com.hotels.HotelsNearMe)"
 permalink: /apps/ios/com.hotels.HotelsNearMe.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/da/6a/e0/da6ae089-4be9-e026-d8bc-debf90b403cb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/ee/da/81/eeda810f-20c4-69ff-ad9c-d2fcb11a7273/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/da/6a/e0/da6ae089-4be9-e026-d8bc-debf90b403cb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/ee/da/81/eeda810f-20c4-69ff-ad9c-d2fcb11a7273/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Hotels.com (com.hotels.HotelsNearMe). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/da/6a/e0/da6ae089-4be9-e026-d8bc-debf90b403cb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/ee/da/81/eeda810f-20c4-69ff-ad9c-d2fcb11a7273/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Hotels.com com.hotels.HotelsNearMe app icon"></div></br>
   
-# Hotels.com (com.hotels.HotelsNearMe
+# Hotels.com (com.hotels.HotelsNearMe)
 
 **BundleId:** com.hotels.HotelsNearMe
 **App Version:** 22.41
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ho
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ho
 **Custom keys:** 32
 **Low securit keys:** 5
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -69,13 +61,13 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 42
-- Tracking: 3 lib(s)
-- Tools: 1 lib(s)
 - UI: 1 lib(s)
+- Tools: 1 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -127,5 +119,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

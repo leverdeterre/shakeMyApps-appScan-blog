@@ -3,14 +3,6 @@ title: "HoneyCam (com.honeycamweb.honeycam)"
 permalink: /apps/ios/com.honeycamweb.honeycam.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/77/ac/86/77ac865d-5691-ee3b-79df-c7b7e6a1084d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ho
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/77/ac/86/77ac865d-5691-ee3b-79df-c7b7e6a1084d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/77/ac/86/77ac865d-5691-ee3b-79df-c7b7e6a1084d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="HoneyCam com.honeycamweb.honeycam app icon"></div></br>
   
-# HoneyCam (com.honeycamweb.honeycam
+# HoneyCam (com.honeycamweb.honeycam)
 
 **BundleId:** com.honeycamweb.honeycam
 **App Version:** 1.12.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ho
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ho
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,17 +56,17 @@ Native App
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 58
-- Network: 5 lib(s)
+- Crash: 1 lib(s)
 - Tools: 24 lib(s)
+- Tracking: 2 lib(s)
+- Network: 5 lib(s)
+- UI: 4 lib(s)
 - Logs: 1 lib(s)
 - Storage: 1 lib(s)
-- UI: 4 lib(s)
-- Tracking: 2 lib(s)
-- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -83,5 +75,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

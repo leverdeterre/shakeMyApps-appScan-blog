@@ -3,14 +3,6 @@ title: "CapMetro (com.CMTA.CapMetro)"
 permalink: /apps/ios/com.CMTA.CapMetro.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/df/96/dc/df96dc11-bed0-6017-43df-6af06c73fabf/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ca
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/df/96/dc/df96dc11-bed0-6017-43df-6af06c73fabf/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/df/96/dc/df96dc11-bed0-6017-43df-6af06c73fabf/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="CapMetro com.CMTA.CapMetro app icon"></div></br>
   
-# CapMetro (com.CMTA.CapMetro
+# CapMetro (com.CMTA.CapMetro)
 
 **BundleId:** com.CMTA.CapMetro
 **App Version:** 4.032
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ca
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ca
 **Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,14 +56,14 @@ Native App
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 58
 - Tools: 21 lib(s)
-- UI: 6 lib(s)
 - Network: 3 lib(s)
 - Tracking: 2 lib(s)
+- UI: 6 lib(s)
 
 **Apple dylibs:**
 
@@ -109,5 +101,5 @@ at least 3 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

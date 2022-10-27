@@ -3,14 +3,6 @@ title: "Speedometer (com.blocoware.speedometerfree)"
 permalink: /apps/ios/com.blocoware.speedometerfree.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/be/6c/1f/be6c1fc0-ca07-535f-f25c-d83d95de1f85/contsched.aeshimuu.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/be/6c/1f/be6c1fc0-ca07-535f-f25c-d83d95de1f85/contsched.aeshimuu.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/be/6c/1f/be6c1fc0-ca07-535f-f25c-d83d95de1f85/contsched.aeshimuu.png/512x512bb.jpg" width="100" height="100" alt="Speedometer com.blocoware.speedometerfree app icon"></div></br>
   
-# Speedometer (com.blocoware.speedometerfree
+# Speedometer (com.blocoware.speedometerfree)
 
 **BundleId:** com.blocoware.speedometerfree
 **App Version:** 3.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sp
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ support multiple languages
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
@@ -136,5 +128,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

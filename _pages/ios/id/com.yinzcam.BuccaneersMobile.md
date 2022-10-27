@@ -3,14 +3,6 @@ title: "Buccaneers (com.yinzcam.BuccaneersMobile)"
 permalink: /apps/ios/com.yinzcam.BuccaneersMobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e3/c8/8e/e3c88e64-7f80-bd17-a133-1de776300501/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Bu
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e3/c8/8e/e3c88e64-7f80-bd17-a133-1de776300501/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e3/c8/8e/e3c88e64-7f80-bd17-a133-1de776300501/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Buccaneers com.yinzcam.BuccaneersMobile app icon"></div></br>
   
-# Buccaneers (com.yinzcam.BuccaneersMobile
+# Buccaneers (com.yinzcam.BuccaneersMobile)
 
 **BundleId:** com.yinzcam.BuccaneersMobile
 **App Version:** 5.4.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Bu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Bu
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,12 +59,12 @@ contains 2 App extensions
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
-- Tools: 6 lib(s)
 - Network: 1 lib(s)
+- Tools: 6 lib(s)
 - Tracking: 1 lib(s)
 
 **Apple dylibs:**
@@ -138,5 +130,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

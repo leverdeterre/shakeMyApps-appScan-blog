@@ -3,14 +3,6 @@ title: "Vont (com.youthhr.Vont)"
 permalink: /apps/ios/com.youthhr.Vont.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/bf/03/99/bf03995e-b662-fe97-7923-cc21fb75e44a/AppIcon-Vont-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Vo
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/bf/03/99/bf03995e-b662-fe97-7923-cc21fb75e44a/AppIcon-Vont-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/bf/03/99/bf03995e-b662-fe97-7923-cc21fb75e44a/AppIcon-Vont-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Vont com.youthhr.Vont app icon"></div></br>
   
-# Vont (com.youthhr.Vont
+# Vont (com.youthhr.Vont)
 
 **BundleId:** com.youthhr.Vont
 **App Version:** 1.6.36
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Vo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Vo
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,7 +55,7 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 6
@@ -112,5 +104,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

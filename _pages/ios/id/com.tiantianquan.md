@@ -3,26 +3,18 @@ title: "tiantianquan (com.tiantianquan)"
 permalink: /apps/ios/com.tiantianquan.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/95/96/82/959682b7-ba5b-504b-02cb-5b9ad227e9d7/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/512x512bb.jpg
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/85/22/7d/85227dc6-12ff-c38b-95f4-fb0e8af7b2e4/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/95/96/82/959682b7-ba5b-504b-02cb-5b9ad227e9d7/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/85/22/7d/85227dc6-12ff-c38b-95f4-fb0e8af7b2e4/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application tiantianquan (com.tiantianquan). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/95/96/82/959682b7-ba5b-504b-02cb-5b9ad227e9d7/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/85/22/7d/85227dc6-12ff-c38b-95f4-fb0e8af7b2e4/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="tiantianquan com.tiantianquan app icon"></div></br>
   
-# tiantianquan (com.tiantianquan
+# tiantianquan (com.tiantianquan)
 
 **BundleId:** com.tiantianquan
 **App Version:** 1.8.20
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application ti
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application ti
 **Custom keys:** 16
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,7 +57,7 @@ supported devices iPhone & iPad
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
@@ -138,5 +130,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

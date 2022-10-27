@@ -3,14 +3,6 @@ title: "LeMondeduCC (com.forecomm.mondeducamping)"
 permalink: /apps/ios/com.forecomm.mondeducamping.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d8/c6/d9/d8c6d958-8a4a-4ba2-6690-e3f1d91e07bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Le
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d8/c6/d9/d8c6d958-8a4a-4ba2-6690-e3f1d91e07bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d8/c6/d9/d8c6d958-8a4a-4ba2-6690-e3f1d91e07bd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="LeMondeduCC com.forecomm.mondeducamping app icon"></div></br>
   
-# LeMondeduCC (com.forecomm.mondeducamping
+# LeMondeduCC (com.forecomm.mondeducamping)
 
 **BundleId:** com.forecomm.mondeducamping
 **App Version:** 5.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,13 +53,13 @@ Native App
 supported devices iPhone & iPad
 contains 2 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- UI: 1 lib(s)
 - Tools: 8 lib(s)
 - Network: 1 lib(s)
+- UI: 1 lib(s)
 - Tracking: 1 lib(s)
 - Crash: 2 lib(s)
 
@@ -78,5 +70,5 @@ contains 2 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

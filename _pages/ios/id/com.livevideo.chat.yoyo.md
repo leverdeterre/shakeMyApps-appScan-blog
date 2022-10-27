@@ -3,14 +3,6 @@ title: "YoYo (com.livevideo.chat.yoyo)"
 permalink: /apps/ios/com.livevideo.chat.yoyo.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/f3/49/9ff34913-136b-397b-5d7e-8023298a47e5/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Yo
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/f3/49/9ff34913-136b-397b-5d7e-8023298a47e5/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/9f/f3/49/9ff34913-136b-397b-5d7e-8023298a47e5/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="YoYo com.livevideo.chat.yoyo app icon"></div></br>
   
-# YoYo (com.livevideo.chat.yoyo
+# YoYo (com.livevideo.chat.yoyo)
 
 **BundleId:** com.livevideo.chat.yoyo
 **App Version:** 2.0.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Yo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Yo
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,14 +58,14 @@ contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 46
 - Network: 3 lib(s)
+- UI: 4 lib(s)
 - Tools: 15 lib(s)
 - Tracking: 4 lib(s)
-- UI: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -139,5 +131,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

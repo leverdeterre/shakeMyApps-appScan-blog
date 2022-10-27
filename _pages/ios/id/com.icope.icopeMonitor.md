@@ -3,14 +3,6 @@ title: "Icope Monitor (com.icope.icopeMonitor)"
 permalink: /apps/ios/com.icope.icopeMonitor.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/19/cc/8d/19cc8d40-9376-6a0b-4ee1-dc47e3db54a0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ic
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/19/cc/8d/19cc8d40-9376-6a0b-4ee1-dc47e3db54a0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/19/cc/8d/19cc8d40-9376-6a0b-4ee1-dc47e3db54a0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Icope Monitor com.icope.icopeMonitor app icon"></div></br>
   
-# Icope Monitor (com.icope.icopeMonitor
+# Icope Monitor (com.icope.icopeMonitor)
 
 **BundleId:** com.icope.icopeMonitor
 **App Version:** 1.0.15
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ic
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,18 +45,18 @@ AppScan generated a spoiler description of the content of the iOS application Ic
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
+- Network: 1 lib(s)
 - Storage: 1 lib(s)
 - Tools: 5 lib(s)
-- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -73,5 +65,5 @@ AppScan generated a spoiler description of the content of the iOS application Ic
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

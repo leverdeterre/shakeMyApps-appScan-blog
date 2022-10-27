@@ -3,26 +3,18 @@ title: "Vivint (com.vivint.panelcontrol.VivintNextGen)"
 permalink: /apps/ios/com.vivint.panelcontrol.VivintNextGen.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/52/f9/81/52f98110-61cc-89d8-b7bf-581a3a762a52/VIVAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/40/78/f5/4078f5d0-2fbd-d6bd-a119-517406d2ff42/VIVAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/52/f9/81/52f98110-61cc-89d8-b7bf-581a3a762a52/VIVAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/40/78/f5/4078f5d0-2fbd-d6bd-a119-517406d2ff42/VIVAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Vivint (com.vivint.panelcontrol.VivintNextGen). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/52/f9/81/52f98110-61cc-89d8-b7bf-581a3a762a52/VIVAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/40/78/f5/4078f5d0-2fbd-d6bd-a119-517406d2ff42/VIVAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Vivint com.vivint.panelcontrol.VivintNextGen app icon"></div></br>
   
-# Vivint (com.vivint.panelcontrol.VivintNextGen
+# Vivint (com.vivint.panelcontrol.VivintNextGen)
 
 **BundleId:** com.vivint.panelcontrol.VivintNextGen
 **App Version:** 22.10.300
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Vi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Vi
 **Custom keys:** 24
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,15 +59,15 @@ contains 6 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 26
 - UI: 3 lib(s)
 - Tools: 4 lib(s)
+- Tracking: 2 lib(s)
 - Network: 1 lib(s)
 - Storage: 1 lib(s)
-- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -134,5 +126,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "WWD (com.condenet.wwd)"
 permalink: /apps/ios/com.condenet.wwd.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/aa/7d/7b/aa7d7b7c-7584-8fed-3403-d78d8aae716c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application WW
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/aa/7d/7b/aa7d7b7c-7584-8fed-3403-d78d8aae716c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/aa/7d/7b/aa7d7b7c-7584-8fed-3403-d78d8aae716c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="WWD com.condenet.wwd app icon"></div></br>
   
-# WWD (com.condenet.wwd
+# WWD (com.condenet.wwd)
 
 **BundleId:** com.condenet.wwd
 **App Version:** 4.5.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application WW
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application WW
 **Custom keys:** 7
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,15 +54,15 @@ supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 50
-- Logs: 1 lib(s)
 - UI: 2 lib(s)
 - Tools: 9 lib(s)
 - Network: 2 lib(s)
 - Crash: 1 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -109,5 +101,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

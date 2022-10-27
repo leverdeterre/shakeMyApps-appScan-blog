@@ -3,14 +3,6 @@ title: "global storms (com.kellytechnology.NoaaNow)"
 permalink: /apps/ios/com.kellytechnology.NoaaNow.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/41/4f/bb/414fbbb4-4c73-55d4-fad1-27bd8e4f8861/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application gl
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/41/4f/bb/414fbbb4-4c73-55d4-fad1-27bd8e4f8861/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/41/4f/bb/414fbbb4-4c73-55d4-fad1-27bd8e4f8861/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="global storms com.kellytechnology.NoaaNow app icon"></div></br>
   
-# global storms (com.kellytechnology.NoaaNow
+# global storms (com.kellytechnology.NoaaNow)
 
 **BundleId:** com.kellytechnology.NoaaNow
 **App Version:** 12.14
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application gl
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application gl
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,12 +55,12 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
-- Tools: 6 lib(s)
 - Tracking: 1 lib(s)
+- Tools: 6 lib(s)
 
 **Apple dylibs:**
 
@@ -106,5 +98,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

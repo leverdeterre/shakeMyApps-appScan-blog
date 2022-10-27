@@ -3,14 +3,6 @@ title: "Thermometer (com.amberMobile.thermometerorange)"
 permalink: /apps/ios/com.amberMobile.thermometerorange.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/58/21/6d/58216d37-43e0-12d9-7b3b-eeb1a116827b/AppIconOrange-0-1x_U007emarketing-0-0-85-220-0-8.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Th
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/58/21/6d/58216d37-43e0-12d9-7b3b-eeb1a116827b/AppIconOrange-0-1x_U007emarketing-0-0-85-220-0-8.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/58/21/6d/58216d37-43e0-12d9-7b3b-eeb1a116827b/AppIconOrange-0-1x_U007emarketing-0-0-85-220-0-8.png/512x512bb.jpg" width="100" height="100" alt="Thermometer com.amberMobile.thermometerorange app icon"></div></br>
   
-# Thermometer (com.amberMobile.thermometerorange
+# Thermometer (com.amberMobile.thermometerorange)
 
 **BundleId:** com.amberMobile.thermometerorange
 **App Version:** 1.2.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Th
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Th
 **Custom keys:** 5
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,7 +55,7 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -75,5 +67,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

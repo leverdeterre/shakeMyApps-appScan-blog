@@ -3,26 +3,18 @@ title: "Babbel (com.babbel.babbelMulti)"
 permalink: /apps/ios/com.babbel.babbelMulti.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/7b/a5/8d7ba590-764e-952c-eba0-523766c79b81/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/56/0a/63/560a631e-3bfb-464d-749b-959b72e85e99/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/7b/a5/8d7ba590-764e-952c-eba0-523766c79b81/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/56/0a/63/560a631e-3bfb-464d-749b-959b72e85e99/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Babbel (com.babbel.babbelMulti). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/7b/a5/8d7ba590-764e-952c-eba0-523766c79b81/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/56/0a/63/560a631e-3bfb-464d-749b-959b72e85e99/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Babbel com.babbel.babbelMulti app icon"></div></br>
   
-# Babbel (com.babbel.babbelMulti
+# Babbel (com.babbel.babbelMulti)
 
 **BundleId:** com.babbel.babbelMulti
 **App Version:** 21.9.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 **Custom keys:** 11
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,7 +60,7 @@ support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
@@ -117,5 +109,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

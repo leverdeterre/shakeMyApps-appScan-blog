@@ -3,14 +3,6 @@ title: "Verses (com.verses.Verses)"
 permalink: /apps/ios/com.verses.Verses.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/41/4a/51/414a513e-1f9b-e532-2e63-d1442e1eea7a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-8.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Ve
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/41/4a/51/414a513e-1f9b-e532-2e63-d1442e1eea7a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-8.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/41/4a/51/414a513e-1f9b-e532-2e63-d1442e1eea7a/AppIcon-0-1x_U007emarketing-0-0-85-220-0-8.png/512x512bb.jpg" width="100" height="100" alt="Verses com.verses.Verses app icon"></div></br>
   
-# Verses (com.verses.Verses
+# Verses (com.verses.Verses)
 
 **BundleId:** com.verses.Verses
 **App Version:** 5.4.3
 **App Name:** Verses
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 3.87 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ve
 **Custom keys:** 10
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -48,15 +54,15 @@ Native App
 contains 1 App extensions
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
 - Tracking: 2 lib(s)
-- Network: 4 lib(s)
 - UI: 1 lib(s)
-- Tools: 8 lib(s)
 - Storage: 1 lib(s)
+- Network: 4 lib(s)
+- Tools: 8 lib(s)
 
 **Apple dylibs:**
 
@@ -65,5 +71,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

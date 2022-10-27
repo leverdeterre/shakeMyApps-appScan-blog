@@ -3,14 +3,6 @@ title: "Etsy (com.etsy.etsyforios)"
 permalink: /apps/ios/com.etsy.etsyforios.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/83/43/51/8343512d-8523-679c-4e1f-8ecb6c226f3a/BOEAppIcon-0-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Et
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/83/43/51/8343512d-8523-679c-4e1f-8ecb6c226f3a/BOEAppIcon-0-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/83/43/51/8343512d-8523-679c-4e1f-8ecb6c226f3a/BOEAppIcon-0-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Etsy com.etsy.etsyforios app icon"></div></br>
   
-# Etsy (com.etsy.etsyforios
+# Etsy (com.etsy.etsyforios)
 
 **BundleId:** com.etsy.etsyforios
 **App Version:** 6.12.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Et
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Et
 **Custom keys:** 20
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,7 +60,7 @@ at least 3 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
@@ -134,5 +126,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

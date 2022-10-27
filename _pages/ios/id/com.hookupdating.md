@@ -3,14 +3,6 @@ title: "HUD (com.hookupdating)"
 permalink: /apps/ios/com.hookupdating.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/90/02/b8/9002b850-3b54-d45a-e2bd-360a90062d09/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application HU
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/90/02/b8/9002b850-3b54-d45a-e2bd-360a90062d09/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/90/02/b8/9002b850-3b54-d45a-e2bd-360a90062d09/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="HUD com.hookupdating app icon"></div></br>
   
-# HUD (com.hookupdating
+# HUD (com.hookupdating)
 
 **BundleId:** com.hookupdating
 **App Version:** 8.2.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application HU
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application HU
 **Custom keys:** 27
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,16 +57,16 @@ contains 5 App extensions
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 70
 - UI: 8 lib(s)
+- Network: 7 lib(s)
+- Tracking: 5 lib(s)
 - Tools: 20 lib(s)
 - Storage: 3 lib(s)
 - Crash: 1 lib(s)
-- Network: 7 lib(s)
-- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 
@@ -128,5 +120,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

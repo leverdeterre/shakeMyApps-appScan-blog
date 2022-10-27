@@ -3,14 +3,6 @@ title: "Worklife (com.yoopies.worklife.ios)"
 permalink: /apps/ios/com.yoopies.worklife.ios.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/64/c4/5664c45d-7a8e-2a1f-3334-d8423e175082/AppIcon-Prod-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Wo
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/64/c4/5664c45d-7a8e-2a1f-3334-d8423e175082/AppIcon-Prod-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/56/64/c4/5664c45d-7a8e-2a1f-3334-d8423e175082/AppIcon-Prod-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Worklife com.yoopies.worklife.ios app icon"></div></br>
   
-# Worklife (com.yoopies.worklife.ios
+# Worklife (com.yoopies.worklife.ios)
 
 **BundleId:** com.yoopies.worklife.ios
 **App Version:** 1.4.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Wo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Wo
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,17 +56,17 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 92
-- Tracking: 8 lib(s)
+- Tools: 30 lib(s)
 - Logs: 1 lib(s)
 - Storage: 1 lib(s)
 - UI: 4 lib(s)
-- Network: 5 lib(s)
-- Tools: 30 lib(s)
 - Crash: 1 lib(s)
+- Network: 5 lib(s)
+- Tracking: 8 lib(s)
 
 **Apple dylibs:**
 
@@ -110,5 +102,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

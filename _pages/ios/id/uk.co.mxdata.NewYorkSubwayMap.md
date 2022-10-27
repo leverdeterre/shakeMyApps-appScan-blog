@@ -3,14 +3,6 @@ title: "NYC Subway (uk.co.mxdata.NewYorkSubwayMap)"
 permalink: /apps/ios/uk.co.mxdata.NewYorkSubwayMap.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/77/59/e1/7759e174-a333-b98f-3a96-45070d1e2baf/AppIcon-NYC-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application NY
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/77/59/e1/7759e174-a333-b98f-3a96-45070d1e2baf/AppIcon-NYC-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/77/59/e1/7759e174-a333-b98f-3a96-45070d1e2baf/AppIcon-NYC-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="NYC Subway uk.co.mxdata.NewYorkSubwayMap app icon"></div></br>
   
-# NYC Subway (uk.co.mxdata.NewYorkSubwayMap
+# NYC Subway (uk.co.mxdata.NewYorkSubwayMap)
 
 **BundleId:** uk.co.mxdata.NewYorkSubwayMap
 **App Version:** 4.8.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application NY
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application NY
 **Custom keys:** 19
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,16 +58,16 @@ contains 1 App extensions
 support multiple languages
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- Crash: 2 lib(s)
 - Tools: 9 lib(s)
-- UI: 4 lib(s)
-- Network: 2 lib(s)
 - Storage: 1 lib(s)
 - Tracking: 2 lib(s)
+- Network: 2 lib(s)
+- UI: 4 lib(s)
+- Crash: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -126,5 +118,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

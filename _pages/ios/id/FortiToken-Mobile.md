@@ -3,14 +3,6 @@ title: "FortiToken (FortiToken-Mobile)"
 permalink: /apps/ios/FortiToken-Mobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/0d/d2/d30dd21c-b2ba-84f2-43e4-6d401f4de535/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fo
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/0d/d2/d30dd21c-b2ba-84f2-43e4-6d401f4de535/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/0d/d2/d30dd21c-b2ba-84f2-43e4-6d401f4de535/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="FortiToken FortiToken-Mobile app icon"></div></br>
   
-# FortiToken (FortiToken-Mobile
+# FortiToken (FortiToken-Mobile)
 
 **BundleId:** FortiToken-Mobile
 **App Version:** 5.4.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fo
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ supported devices iPhone & iPad
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -74,5 +66,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

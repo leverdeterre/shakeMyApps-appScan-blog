@@ -3,14 +3,6 @@ title: "IMPACT Plus (com.totalaccesstna.mobileapp)"
 permalink: /apps/ios/com.totalaccesstna.mobileapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/a3/ef/aea3ef0c-2bd5-a84b-24fd-3da78f0a1cac/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application IM
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/a3/ef/aea3ef0c-2bd5-a84b-24fd-3da78f0a1cac/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/a3/ef/aea3ef0c-2bd5-a84b-24fd-3da78f0a1cac/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="IMPACT Plus com.totalaccesstna.mobileapp app icon"></div></br>
   
-# IMPACT Plus (com.totalaccesstna.mobileapp
+# IMPACT Plus (com.totalaccesstna.mobileapp)
 
 **BundleId:** com.totalaccesstna.mobileapp
 **App Version:** 7.0.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application IM
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application IM
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,12 +54,12 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-- Tools: 2 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -76,5 +68,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Il Messaggero (it.ilmessaggero.ipad)"
 permalink: /apps/ios/it.ilmessaggero.ipad.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/f1/86/2af186a8-265d-10fd-15e0-ec044f9128fc/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Il
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/f1/86/2af186a8-265d-10fd-15e0-ec044f9128fc/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/f1/86/2af186a8-265d-10fd-15e0-ec044f9128fc/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="Il Messaggero it.ilmessaggero.ipad app icon"></div></br>
   
-# Il Messaggero (it.ilmessaggero.ipad
+# Il Messaggero (it.ilmessaggero.ipad)
 
 **BundleId:** it.ilmessaggero.ipad
 **App Version:** 4.25
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Il
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Il
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,15 +59,15 @@ contains 2 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 26
-- Crash: 1 lib(s)
-- Tools: 12 lib(s)
+- Tracking: 2 lib(s)
 - UI: 1 lib(s)
 - Network: 2 lib(s)
-- Tracking: 2 lib(s)
+- Tools: 12 lib(s)
+- Crash: 1 lib(s)
 - Storage: 1 lib(s)
 
 **Apple dylibs:**
@@ -146,5 +138,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

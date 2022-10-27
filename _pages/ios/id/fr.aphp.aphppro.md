@@ -3,14 +3,6 @@ title: "APHPPro (fr.aphp.aphppro)"
 permalink: /apps/ios/fr.aphp.aphppro.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/f4/9e/23/f49e23ba-dc26-ba5a-ca2e-48a380137f45/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application AP
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/f4/9e/23/f49e23ba-dc26-ba5a-ca2e-48a380137f45/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/f4/9e/23/f49e23ba-dc26-ba5a-ca2e-48a380137f45/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="APHPPro fr.aphp.aphppro app icon"></div></br>
   
-# APHPPro (fr.aphp.aphppro
+# APHPPro (fr.aphp.aphppro)
 
 **BundleId:** fr.aphp.aphppro
 **App Version:** 2.1.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application AP
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,13 +45,13 @@ AppScan generated a spoiler description of the content of the iOS application AP
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -71,5 +63,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

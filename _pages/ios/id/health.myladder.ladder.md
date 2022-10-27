@@ -3,18 +3,10 @@ title: "Ladder (health.myladder.ladder)"
 permalink: /apps/ios/health.myladder.ladder.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Ladder (health.myladder.ladder). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Ladder (health.myladder.ladder
+# Ladder (health.myladder.ladder)
 
 **BundleId:** health.myladder.ladder
 **App Version:** 1.1.9
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application La
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application La
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -55,15 +47,15 @@ Native App
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 39
-- Tools: 20 lib(s)
-- UI: 3 lib(s)
-- Network: 3 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 5 lib(s)
+- UI: 3 lib(s)
+- Crash: 1 lib(s)
+- Network: 3 lib(s)
+- Tools: 20 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -117,5 +109,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "iGeneration (com.macgeneration.macgmobile.freeversion)"
 permalink: /apps/ios/com.macgeneration.macgmobile.freeversion.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a9/78/c9/a978c934-978c-5686-6813-278326387c25/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application iG
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a9/78/c9/a978c934-978c-5686-6813-278326387c25/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a9/78/c9/a978c934-978c-5686-6813-278326387c25/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="iGeneration com.macgeneration.macgmobile.freeversion app icon"></div></br>
   
-# iGeneration (com.macgeneration.macgmobile.freeversion
+# iGeneration (com.macgeneration.macgmobile.freeversion)
 
 **BundleId:** com.macgeneration.macgmobile.freeversion
 **App Version:** 5.10.13
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application iG
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application iG
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,14 +57,14 @@ contains 5 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
+- Tracking: 1 lib(s)
 - Crash: 1 lib(s)
 - Storage: 1 lib(s)
 - Tools: 7 lib(s)
-- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -134,5 +126,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

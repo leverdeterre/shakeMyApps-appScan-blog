@@ -3,14 +3,6 @@ title: "أخضر (com.a5dr.app)"
 permalink: /apps/ios/com.a5dr.app.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/ea/3a/eaea3a41-c0e5-bc3f-0eeb-ba75d1ddbbf3/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application أ
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/ea/3a/eaea3a41-c0e5-bc3f-0eeb-ba75d1ddbbf3/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/ea/3a/eaea3a41-c0e5-bc3f-0eeb-ba75d1ddbbf3/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="أخضر com.a5dr.app app icon"></div></br>
   
-# أخضر (com.a5dr.app
+# أخضر (com.a5dr.app)
 
 **BundleId:** com.a5dr.app
 **App Version:** 5.0.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application أ
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application أ
 **Custom keys:** 23
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,14 +56,14 @@ supported devices iPhone & iPad
 build using Xcode 13
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 50
-- Storage: 2 lib(s)
 - Logs: 1 lib(s)
-- Tracking: 5 lib(s)
 - Tools: 17 lib(s)
+- Storage: 2 lib(s)
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 
@@ -113,5 +105,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

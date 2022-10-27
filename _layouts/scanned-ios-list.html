@@ -1,0 +1,14 @@
+---
+layout: archive
+---
+
+{{ content }}
+<ul>
+  {% for thing in site.pages %}
+    {% if thing.permalink contains '/apps/ios/' %}
+  <li>
+    <a href="{{site.url}}/{{ thing.permalink }}">{{thing.title }}</a>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>

@@ -3,14 +3,6 @@ title: "Galaxy Watch (com.samsung.gearwatch)"
 permalink: /apps/ios/com.samsung.gearwatch.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/27/a0/bf/27a0bfaf-3df0-385d-eeb0-a44663348484/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ga
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/27/a0/bf/27a0bfaf-3df0-385d-eeb0-a44663348484/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/27/a0/bf/27a0bfaf-3df0-385d-eeb0-a44663348484/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Galaxy Watch com.samsung.gearwatch app icon"></div></br>
   
-# Galaxy Watch (com.samsung.gearwatch
+# Galaxy Watch (com.samsung.gearwatch)
 
 **BundleId:** com.samsung.gearwatch
 **App Version:** 1.11.22021602
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ga
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,20 +45,20 @@ AppScan generated a spoiler description of the content of the iOS application Ga
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
-- Network: 3 lib(s)
-- Logs: 1 lib(s)
 - Tools: 5 lib(s)
+- Logs: 1 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -75,5 +67,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,25 +3,39 @@ title: "ProJo (com.gatehousemedia.id3049)"
 permalink: /apps/ios/com.gatehousemedia.id3049.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/20/1d/5b/201d5b77-8ba3-a946-4b04-4a6937384100/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+header: 
+     overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/20/1d/5b/201d5b77-8ba3-a946-4b04-4a6937384100/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application ProJo (com.gatehousemedia.id3049). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# ProJo (com.gatehousemedia.id3049
+  
+  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/20/1d/5b/201d5b77-8ba3-a946-4b04-4a6937384100/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ProJo com.gatehousemedia.id3049 app icon"></div></br>
+  
+# ProJo (com.gatehousemedia.id3049)
 
 **BundleId:** com.gatehousemedia.id3049
 **App Version:** 6.12.5
 **App Name:** ProJo
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.18 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -31,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 **Custom keys:** 36
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -44,7 +58,7 @@ contains 4 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 12
@@ -109,5 +123,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

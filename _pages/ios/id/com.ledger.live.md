@@ -3,14 +3,6 @@ title: "Ledger Live (com.ledger.live)"
 permalink: /apps/ios/com.ledger.live.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/00/9f/23/009f236c-ceb9-2728-279c-0b2ff134a626/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Le
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/00/9f/23/009f236c-ceb9-2728-279c-0b2ff134a626/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/00/9f/23/009f236c-ceb9-2728-279c-0b2ff134a626/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ledger Live com.ledger.live app icon"></div></br>
   
-# Ledger Live (com.ledger.live
+# Ledger Live (com.ledger.live)
 
 **BundleId:** com.ledger.live
 **App Version:** 3.1.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,22 +45,22 @@ AppScan generated a spoiler description of the content of the iOS application Le
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 91
+- Network: 3 lib(s)
+- UI: 1 lib(s)
 - Logs: 1 lib(s)
 - Tracking: 4 lib(s)
-- UI: 1 lib(s)
 - Tools: 8 lib(s)
-- Network: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -127,5 +119,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Aldiko Next (com.demarque.aldiko)"
 permalink: /apps/ios/com.demarque.aldiko.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/de/25/74/de25742f-b21b-1694-82c1-503d11efd61d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Al
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/de/25/74/de25742f-b21b-1694-82c1-503d11efd61d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/de/25/74/de25742f-b21b-1694-82c1-503d11efd61d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Aldiko Next com.demarque.aldiko app icon"></div></br>
   
-# Aldiko Next (com.demarque.aldiko
+# Aldiko Next (com.demarque.aldiko)
 
 **BundleId:** com.demarque.aldiko
 **App Version:** 1.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Al
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Al
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,12 +58,12 @@ at least 4 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- Storage: 1 lib(s)
 - Tools: 5 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -104,5 +96,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Hello Piano (piano.edu.gismart)"
 permalink: /apps/ios/piano.edu.gismart.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/d5/de/c7d5ded3-2e6a-051e-0f75-e1390631b71b/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application He
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/d5/de/c7d5ded3-2e6a-051e-0f75-e1390631b71b/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c7/d5/de/c7d5ded3-2e6a-051e-0f75-e1390631b71b/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Hello Piano piano.edu.gismart app icon"></div></br>
   
-# Hello Piano (piano.edu.gismart
+# Hello Piano (piano.edu.gismart)
 
 **BundleId:** piano.edu.gismart
 **App Version:** 1.38
 **App Name:** Hello Piano
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.26 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application He
 **Custom keys:** 19
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,15 +59,15 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 56
-- Crash: 2 lib(s)
-- Network: 1 lib(s)
 - Storage: 1 lib(s)
-- Tools: 23 lib(s)
 - Tracking: 4 lib(s)
+- Network: 1 lib(s)
+- Tools: 23 lib(s)
+- Crash: 2 lib(s)
 - UI: 5 lib(s)
 
 **Apple dylibs:**
@@ -118,5 +124,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "foodbymaria (com.cookbook.fbm)"
 permalink: /apps/ios/com.cookbook.fbm.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/46/0a/a7/460aa7aa-95d1-20b7-35c0-cc207cf09db5/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application fo
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/46/0a/a7/460aa7aa-95d1-20b7-35c0-cc207cf09db5/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/46/0a/a7/460aa7aa-95d1-20b7-35c0-cc207cf09db5/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/512x512bb.jpg" width="100" height="100" alt="foodbymaria com.cookbook.fbm app icon"></div></br>
   
-# foodbymaria (com.cookbook.fbm
+# foodbymaria (com.cookbook.fbm)
 
 **BundleId:** com.cookbook.fbm
 **App Version:** 1.0060
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application fo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,13 +45,13 @@ AppScan generated a spoiler description of the content of the iOS application fo
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -71,5 +63,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

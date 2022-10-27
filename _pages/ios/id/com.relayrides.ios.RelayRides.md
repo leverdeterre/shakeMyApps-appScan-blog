@@ -3,14 +3,6 @@ title: "Turo (com.relayrides.ios.RelayRides)"
 permalink: /apps/ios/com.relayrides.ios.RelayRides.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/d2/16/1fd216e4-09f5-88d6-9cb1-539ca1cf81be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Tu
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/d2/16/1fd216e4-09f5-88d6-9cb1-539ca1cf81be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/1f/d2/16/1fd216e4-09f5-88d6-9cb1-539ca1cf81be/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Turo com.relayrides.ios.RelayRides app icon"></div></br>
   
-# Turo (com.relayrides.ios.RelayRides
+# Turo (com.relayrides.ios.RelayRides)
 
 **BundleId:** com.relayrides.ios.RelayRides
 **App Version:** 22.41.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Tu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Tu
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,15 +60,15 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 68
 - Tools: 19 lib(s)
 - UI: 4 lib(s)
-- Network: 4 lib(s)
-- Tracking: 9 lib(s)
 - Storage: 1 lib(s)
+- Tracking: 9 lib(s)
+- Network: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -136,5 +128,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

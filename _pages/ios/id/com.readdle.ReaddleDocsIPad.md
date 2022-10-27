@@ -3,33 +3,39 @@ title: "Documents (com.readdle.ReaddleDocsIPad)"
 permalink: /apps/ios/com.readdle.ReaddleDocsIPad.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/39/1a/22/391a22fc-b598-06f5-2a72-cb35d8623da3/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/512x512bb.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/01/14/d5/0114d5e3-2b6d-8b3f-a215-ae1a4bb45613/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/39/1a/22/391a22fc-b598-06f5-2a72-cb35d8623da3/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/01/14/d5/0114d5e3-2b6d-8b3f-a215-ae1a4bb45613/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Documents (com.readdle.ReaddleDocsIPad). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/39/1a/22/391a22fc-b598-06f5-2a72-cb35d8623da3/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/01/14/d5/0114d5e3-2b6d-8b3f-a215-ae1a4bb45613/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Documents com.readdle.ReaddleDocsIPad app icon"></div></br>
   
-# Documents (com.readdle.ReaddleDocsIPad
+# Documents (com.readdle.ReaddleDocsIPad)
 
 **BundleId:** com.readdle.ReaddleDocsIPad
 **App Version:** 8.2.4
 **App Name:** Documents
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.43 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Do
 **Custom keys:** 19
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -54,12 +60,12 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- UI: 1 lib(s)
 - Tools: 2 lib(s)
+- UI: 1 lib(s)
 - Tracking: 1 lib(s)
 
 **Apple dylibs:**
@@ -124,5 +130,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

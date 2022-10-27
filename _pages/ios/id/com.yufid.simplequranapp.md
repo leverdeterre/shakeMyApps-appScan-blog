@@ -3,14 +3,6 @@ title: "SimpleQuran (com.yufid.simplequranapp)"
 permalink: /apps/ios/com.yufid.simplequranapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/f1/44/57/f144576b-b03c-cc71-f19b-102f4291b77e/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Si
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/f1/44/57/f144576b-b03c-cc71-f19b-102f4291b77e/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/f1/44/57/f144576b-b03c-cc71-f19b-102f4291b77e/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="SimpleQuran com.yufid.simplequranapp app icon"></div></br>
   
-# SimpleQuran (com.yufid.simplequranapp
+# SimpleQuran (com.yufid.simplequranapp)
 
 **BundleId:** com.yufid.simplequranapp
 **App Version:** 2.2.11
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Si
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Si
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -73,5 +65,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

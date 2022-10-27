@@ -3,14 +3,6 @@ title: "Arabian chat (com.ettammar.med.Arabian-chat)"
 permalink: /apps/ios/com.ettammar.med.Arabian-chat.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/5e/07/e8/5e07e834-dba2-98a6-3ef3-b5640ccb5643/mzl.geraxxxk.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ar
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/5e/07/e8/5e07e834-dba2-98a6-3ef3-b5640ccb5643/mzl.geraxxxk.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/5e/07/e8/5e07e834-dba2-98a6-3ef3-b5640ccb5643/mzl.geraxxxk.png/512x512bb.jpg" width="100" height="100" alt="Arabian chat com.ettammar.med.Arabian-chat app icon"></div></br>
   
-# Arabian chat (com.ettammar.med.Arabian-chat
+# Arabian chat (com.ettammar.med.Arabian-chat)
 
 **BundleId:** com.ettammar.med.Arabian-chat
 **App Version:** 1.02
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ar
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application Ar
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 7
@@ -75,5 +67,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

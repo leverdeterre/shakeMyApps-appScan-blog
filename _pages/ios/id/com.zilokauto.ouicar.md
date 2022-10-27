@@ -3,14 +3,6 @@ title: "OuiCar (com.zilokauto.ouicar)"
 permalink: /apps/ios/com.zilokauto.ouicar.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/82/d1/3b/82d13b78-e216-ae95-28a2-0753ffee44ff/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ou
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/82/d1/3b/82d13b78-e216-ae95-28a2-0753ffee44ff/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/82/d1/3b/82d13b78-e216-ae95-28a2-0753ffee44ff/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="OuiCar com.zilokauto.ouicar app icon"></div></br>
   
-# OuiCar (com.zilokauto.ouicar
+# OuiCar (com.zilokauto.ouicar)
 
 **BundleId:** com.zilokauto.ouicar
 **App Version:** 8.14.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ou
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ou
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,12 +56,12 @@ contains 3 App extensions
 support multiple languages
 at least 3 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
-- Tools: 10 lib(s)
 - Network: 1 lib(s)
+- Tools: 10 lib(s)
 
 **Apple dylibs:**
 
@@ -111,5 +103,5 @@ at least 3 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

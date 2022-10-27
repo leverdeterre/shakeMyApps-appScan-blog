@@ -3,14 +3,6 @@ title: "Doodle (com.doodle.Doodle-App)"
 permalink: /apps/ios/com.doodle.Doodle-App.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/dc/13/d3dc13bc-3e48-b8a2-8dec-4ec712428469/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Do
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/dc/13/d3dc13bc-3e48-b8a2-8dec-4ec712428469/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/dc/13/d3dc13bc-3e48-b8a2-8dec-4ec712428469/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Doodle com.doodle.Doodle-App app icon"></div></br>
   
-# Doodle (com.doodle.Doodle-App
+# Doodle (com.doodle.Doodle-App)
 
 **BundleId:** com.doodle.Doodle-App
 **App Version:** 5.0.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Do
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Do
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,14 +54,14 @@ supported devices iPhone & iPad
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 65
-- Logs: 1 lib(s)
-- Crash: 1 lib(s)
 - Network: 2 lib(s)
 - Tools: 7 lib(s)
+- Logs: 1 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 1 lib(s)
 
 **Apple dylibs:**
@@ -122,5 +114,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

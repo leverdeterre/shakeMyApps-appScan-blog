@@ -3,14 +3,6 @@ title: "Dictionary (com.m-w.dictionary)"
 permalink: /apps/ios/com.m-w.dictionary.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/ca/f0/1ccaf050-da16-7504-1ef1-9a46df2ce6cb/contsched.dzcvlvzs.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Di
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/ca/f0/1ccaf050-da16-7504-1ef1-9a46df2ce6cb/contsched.dzcvlvzs.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/ca/f0/1ccaf050-da16-7504-1ef1-9a46df2ce6cb/contsched.dzcvlvzs.png/512x512bb.jpg" width="100" height="100" alt="Dictionary com.m-w.dictionary app icon"></div></br>
   
-# Dictionary (com.m-w.dictionary
+# Dictionary (com.m-w.dictionary)
 
 **BundleId:** com.m-w.dictionary
 **App Version:** 5.6.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Di
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Di
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,17 +58,17 @@ contains 5 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- Network: 2 lib(s)
-- Tracking: 2 lib(s)
-- UI: 4 lib(s)
-- Storage: 2 lib(s)
 - Tools: 10 lib(s)
+- Network: 2 lib(s)
 - Crash: 2 lib(s)
+- Tracking: 2 lib(s)
 - Logs: 1 lib(s)
+- Storage: 2 lib(s)
+- UI: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -142,5 +134,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

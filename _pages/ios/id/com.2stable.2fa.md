@@ -3,14 +3,6 @@ title: "Authenticator App (com.2stable.2fa)"
 permalink: /apps/ios/com.2stable.2fa.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/49/07/f2/4907f2a1-f63e-de3a-1d3d-0880948ecd46/AppIcon-0-1x_U007emarketing-0-10-0-P3-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Au
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/49/07/f2/4907f2a1-f63e-de3a-1d3d-0880948ecd46/AppIcon-0-1x_U007emarketing-0-10-0-P3-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/49/07/f2/4907f2a1-f63e-de3a-1d3d-0880948ecd46/AppIcon-0-1x_U007emarketing-0-10-0-P3-85-220.png/512x512bb.jpg" width="100" height="100" alt="Authenticator App com.2stable.2fa app icon"></div></br>
   
-# Authenticator App (com.2stable.2fa
+# Authenticator App (com.2stable.2fa)
 
 **BundleId:** com.2stable.2fa
 **App Version:** 3.14.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Au
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Au
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,7 +57,7 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -100,5 +92,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,18 +3,10 @@ title: "SDE (com.goomeo.sde)"
 permalink: /apps/ios/com.goomeo.sde.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application SDE (com.goomeo.sde). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# SDE (com.goomeo.sde
+# SDE (com.goomeo.sde)
 
 **BundleId:** com.goomeo.sde
 **App Version:** 5.5.47
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application SD
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application SD
 **Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -55,16 +47,16 @@ GoogleLogin detected
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
 - Logs: 1 lib(s)
-- UI: 6 lib(s)
-- Network: 4 lib(s)
 - Storage: 1 lib(s)
-- Tools: 7 lib(s)
+- Network: 4 lib(s)
+- UI: 6 lib(s)
 - Tracking: 1 lib(s)
+- Tools: 7 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -115,5 +107,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

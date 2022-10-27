@@ -3,18 +3,10 @@ title: "Heart Rate (com.runtastic.iphone.heartrate.pro)"
 permalink: /apps/ios/com.runtastic.iphone.heartrate.pro.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Heart Rate (com.runtastic.iphone.heartrate.pro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Heart Rate (com.runtastic.iphone.heartrate.pro
+# Heart Rate (com.runtastic.iphone.heartrate.pro)
 
 **BundleId:** com.runtastic.iphone.heartrate.pro
 **App Version:** 2.6
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application He
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application He
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -56,15 +48,15 @@ Native App
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 58
 - Storage: 1 lib(s)
-- Tools: 5 lib(s)
-- Logs: 1 lib(s)
 - Tracking: 3 lib(s)
+- Logs: 1 lib(s)
 - UI: 1 lib(s)
+- Tools: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -105,5 +97,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

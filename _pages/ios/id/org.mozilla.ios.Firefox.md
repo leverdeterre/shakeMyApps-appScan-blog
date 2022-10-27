@@ -3,14 +3,6 @@ title: "Firefox (org.mozilla.ios.Firefox)"
 permalink: /apps/ios/org.mozilla.ios.Firefox.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9e/b3/d3/9eb3d345-8251-903d-8905-cdf28556e9d2/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fi
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9e/b3/d3/9eb3d345-8251-903d-8905-cdf28556e9d2/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9e/b3/d3/9eb3d345-8251-903d-8905-cdf28556e9d2/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Firefox org.mozilla.ios.Firefox app icon"></div></br>
   
-# Firefox (org.mozilla.ios.Firefox
+# Firefox (org.mozilla.ios.Firefox)
 
 **BundleId:** org.mozilla.ios.Firefox
 **App Version:** 106.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fi
 **Custom keys:** 18
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,13 +59,13 @@ at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
-- Network: 1 lib(s)
-- Logs: 1 lib(s)
 - Tools: 1 lib(s)
+- Logs: 1 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -111,5 +103,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

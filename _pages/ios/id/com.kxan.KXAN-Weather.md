@@ -3,14 +3,6 @@ title: "KXAN Weather (com.kxan.KXAN-Weather)"
 permalink: /apps/ios/com.kxan.KXAN-Weather.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/bb/eb/a2bbebf7-7540-ca28-efb3-18f2701f4651/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application KX
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/bb/eb/a2bbebf7-7540-ca28-efb3-18f2701f4651/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/bb/eb/a2bbebf7-7540-ca28-efb3-18f2701f4651/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="KXAN Weather com.kxan.KXAN-Weather app icon"></div></br>
   
-# KXAN Weather (com.kxan.KXAN-Weather
+# KXAN Weather (com.kxan.KXAN-Weather)
 
 **BundleId:** com.kxan.KXAN-Weather
 **App Version:** 5.5.702
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application KX
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application KX
 **Custom keys:** 20
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,14 +53,14 @@ Number of entitlements detected: 3
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
 - Tools: 9 lib(s)
-- Crash: 1 lib(s)
-- Tracking: 2 lib(s)
 - UI: 2 lib(s)
+- Tracking: 2 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -111,5 +103,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Cuisine Actuelle (com.prismamedia.cuisineactuellekiosk)"
 permalink: /apps/ios/com.prismamedia.cuisineactuellekiosk.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/94/a6/1a/94a61abc-710e-4cf7-4e48-75994ca62114/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Cu
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/94/a6/1a/94a61abc-710e-4cf7-4e48-75994ca62114/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/94/a6/1a/94a61abc-710e-4cf7-4e48-75994ca62114/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="Cuisine Actuelle com.prismamedia.cuisineactuellekiosk app icon"></div></br>
   
-# Cuisine Actuelle (com.prismamedia.cuisineactuellekiosk
+# Cuisine Actuelle (com.prismamedia.cuisineactuellekiosk)
 
 **BundleId:** com.prismamedia.cuisineactuellekiosk
 **App Version:** 6.2.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Cu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Cu
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,13 +53,13 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
 - Tools: 7 lib(s)
-- Network: 2 lib(s)
 - Storage: 1 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -76,5 +68,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

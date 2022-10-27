@@ -3,14 +3,6 @@ title: "Baby Pics (com.burleighlabs.Baby-Pics)"
 permalink: /apps/ios/com.burleighlabs.Baby-Pics.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/47/22/504722e0-fc4b-8b12-7586-1b99f3c6c83c/BabyPicsAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/47/22/504722e0-fc4b-8b12-7586-1b99f3c6c83c/BabyPicsAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/47/22/504722e0-fc4b-8b12-7586-1b99f3c6c83c/BabyPicsAppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Baby Pics com.burleighlabs.Baby-Pics app icon"></div></br>
   
-# Baby Pics (com.burleighlabs.Baby-Pics
+# Baby Pics (com.burleighlabs.Baby-Pics)
 
 **BundleId:** com.burleighlabs.Baby-Pics
 **App Version:** 3.6.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,17 +58,17 @@ contains 1 App extensions
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 53
-- Network: 4 lib(s)
-- Storage: 2 lib(s)
 - Crash: 1 lib(s)
 - Logs: 1 lib(s)
+- UI: 6 lib(s)
+- Network: 4 lib(s)
 - Tools: 14 lib(s)
 - Tracking: 4 lib(s)
-- UI: 6 lib(s)
+- Storage: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -114,5 +106,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

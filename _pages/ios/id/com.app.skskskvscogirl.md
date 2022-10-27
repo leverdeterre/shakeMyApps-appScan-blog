@@ -3,18 +3,10 @@ title: "VSCO PREPPY (com.app.skskskvscogirl)"
 permalink: /apps/ios/com.app.skskskvscogirl.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application VSCO PREPPY (com.app.skskskvscogirl). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# VSCO PREPPY (com.app.skskskvscogirl
+# VSCO PREPPY (com.app.skskskvscogirl)
 
 **BundleId:** com.app.skskskvscogirl
 **App Version:** 1.2
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application VS
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application VS
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -54,13 +46,13 @@ Native App
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 22
 - Tracking: 1 lib(s)
-- Network: 4 lib(s)
 - Tools: 10 lib(s)
+- Network: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -97,5 +89,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

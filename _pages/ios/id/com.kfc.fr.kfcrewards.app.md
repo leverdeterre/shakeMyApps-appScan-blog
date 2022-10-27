@@ -3,18 +3,10 @@ title: "KFC Fidélité (com.kfc.fr.kfcrewards.app)"
 permalink: /apps/ios/com.kfc.fr.kfcrewards.app.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application KFC Fidélité (com.kfc.fr.kfcrewards.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# KFC Fidélité (com.kfc.fr.kfcrewards.app
+# KFC Fidélité (com.kfc.fr.kfcrewards.app)
 
 **BundleId:** com.kfc.fr.kfcrewards.app
 **App Version:** 7.5.4
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application KF
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application KF
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,7 +45,7 @@ Number of entitlements detected: 3
 FacebookLogin detected
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -104,5 +96,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

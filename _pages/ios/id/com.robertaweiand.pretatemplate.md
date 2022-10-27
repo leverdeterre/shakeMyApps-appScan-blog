@@ -3,14 +3,6 @@ title: "Prêt-à-Template (com.robertaweiand.pretatemplate)"
 permalink: /apps/ios/com.robertaweiand.pretatemplate.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/af/8d/bcaf8d5e-bb48-b478-2e0d-3109473d0538/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/af/8d/bcaf8d5e-bb48-b478-2e0d-3109473d0538/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/af/8d/bcaf8d5e-bb48-b478-2e0d-3109473d0538/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Prêt-à-Template com.robertaweiand.pretatemplate app icon"></div></br>
   
-# Prêt-à-Template (com.robertaweiand.pretatemplate
+# Prêt-à-Template (com.robertaweiand.pretatemplate)
 
 **BundleId:** com.robertaweiand.pretatemplate
 **App Version:** 3.2.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,7 +58,7 @@ at least 3 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -105,5 +97,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "USC Gameday (com.uscathletics.USC)"
 permalink: /apps/ios/com.uscathletics.USC.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/1d/b4/ad1db436-e127-dd30-01be-c0ed6b9c2169/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application US
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/1d/b4/ad1db436-e127-dd30-01be-c0ed6b9c2169/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/ad/1d/b4/ad1db436-e127-dd30-01be-c0ed6b9c2169/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="USC Gameday com.uscathletics.USC app icon"></div></br>
   
-# USC Gameday (com.uscathletics.USC
+# USC Gameday (com.uscathletics.USC)
 
 **BundleId:** com.uscathletics.USC
 **App Version:** 5.0.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application US
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application US
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,15 +56,15 @@ build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
-- Tools: 9 lib(s)
-- Tracking: 1 lib(s)
-- Logs: 1 lib(s)
-- UI: 1 lib(s)
 - Network: 1 lib(s)
+- Tracking: 1 lib(s)
+- Tools: 9 lib(s)
+- UI: 1 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -128,5 +120,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "iBurn (com.trailbehind.iBurn2010)"
 permalink: /apps/ios/com.trailbehind.iBurn2010.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/4a/1d/954a1d25-1817-3927-2a4f-a189f843dcc9/AppIcon-1x_U007emarketing-3-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application iB
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/4a/1d/954a1d25-1817-3927-2a4f-a189f843dcc9/AppIcon-1x_U007emarketing-3-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/95/4a/1d/954a1d25-1817-3927-2a4f-a189f843dcc9/AppIcon-1x_U007emarketing-3-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="iBurn com.trailbehind.iBurn2010 app icon"></div></br>
   
-# iBurn (com.trailbehind.iBurn2010
+# iBurn (com.trailbehind.iBurn2010)
 
 **BundleId:** com.trailbehind.iBurn2010
 **App Version:** 2022.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application iB
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application iB
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -106,5 +98,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

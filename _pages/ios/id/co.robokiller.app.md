@@ -3,33 +3,39 @@ title: "RoboKiller (co.robokiller.app)"
 permalink: /apps/ios/co.robokiller.app.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/18/69/8e18699f-7697-7f0d-b01d-3c88997c00f4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/2c/1f/d8/2c1fd857-ebcc-1601-f011-c43f760f837b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/18/69/8e18699f-7697-7f0d-b01d-3c88997c00f4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/2c/1f/d8/2c1fd857-ebcc-1601-f011-c43f760f837b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application RoboKiller (co.robokiller.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/18/69/8e18699f-7697-7f0d-b01d-3c88997c00f4/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/2c/1f/d8/2c1fd857-ebcc-1601-f011-c43f760f837b/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="RoboKiller co.robokiller.app app icon"></div></br>
   
-# RoboKiller (co.robokiller.app
+# RoboKiller (co.robokiller.app)
 
 **BundleId:** co.robokiller.app
 **App Version:** 22.09.23
 **App Name:** RoboKiller
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.50 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ro
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,16 +59,16 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 64
-- Tracking: 7 lib(s)
-- UI: 3 lib(s)
-- Crash: 1 lib(s)
-- Tools: 27 lib(s)
 - Network: 2 lib(s)
+- Tools: 27 lib(s)
+- UI: 3 lib(s)
+- Tracking: 7 lib(s)
 - Logs: 1 lib(s)
+- Crash: 1 lib(s)
 - Storage: 3 lib(s)
 
 **Apple dylibs:**
@@ -113,5 +119,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

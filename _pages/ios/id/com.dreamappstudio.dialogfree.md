@@ -3,14 +3,6 @@ title: "Dialog (com.dreamappstudio.dialogfree)"
 permalink: /apps/ios/com.dreamappstudio.dialogfree.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/19/9a/13/199a13af-f299-0b1f-5166-c4545915736c/AppIconFree-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Di
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/19/9a/13/199a13af-f299-0b1f-5166-c4545915736c/AppIconFree-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/19/9a/13/199a13af-f299-0b1f-5166-c4545915736c/AppIconFree-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Dialog com.dreamappstudio.dialogfree app icon"></div></br>
   
-# Dialog (com.dreamappstudio.dialogfree
+# Dialog (com.dreamappstudio.dialogfree)
 
 **BundleId:** com.dreamappstudio.dialogfree
 **App Version:** 4.46
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Di
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Di
 **Custom keys:** 15
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,17 +59,17 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 67
-- Crash: 1 lib(s)
-- Storage: 1 lib(s)
 - Logs: 1 lib(s)
-- Tools: 19 lib(s)
-- Tracking: 5 lib(s)
-- UI: 3 lib(s)
 - Network: 4 lib(s)
+- Tracking: 5 lib(s)
+- Storage: 1 lib(s)
+- Crash: 1 lib(s)
+- Tools: 19 lib(s)
+- UI: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftARKit
@@ -164,5 +156,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

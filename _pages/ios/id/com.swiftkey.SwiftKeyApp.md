@@ -3,18 +3,10 @@ title: "SwiftKey (com.swiftkey.SwiftKeyApp)"
 permalink: /apps/ios/com.swiftkey.SwiftKeyApp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application SwiftKey (com.swiftkey.SwiftKeyApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# SwiftKey (com.swiftkey.SwiftKeyApp
+# SwiftKey (com.swiftkey.SwiftKeyApp)
 
 **BundleId:** com.swiftkey.SwiftKeyApp
 **App Version:** 2.9.2
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Sw
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Sw
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -59,13 +51,13 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 18
-- Crash: 1 lib(s)
 - Tools: 13 lib(s)
 - Tracking: 1 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -119,5 +111,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,26 +3,18 @@ title: "Scanner Radio (net.gordonedwards.Scanner-Radio-Deluxe)"
 permalink: /apps/ios/net.gordonedwards.Scanner-Radio-Deluxe.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/2c/d0/f52cd000-36f2-38ff-f611-ed520f1bee50/AppIcon-2-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ac/eb/1e/aceb1e1d-a2bb-246f-2dca-f872c9d0ef92/AppIcon-2-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/2c/d0/f52cd000-36f2-38ff-f611-ed520f1bee50/AppIcon-2-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ac/eb/1e/aceb1e1d-a2bb-246f-2dca-f872c9d0ef92/AppIcon-2-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Scanner Radio (net.gordonedwards.Scanner-Radio-Deluxe). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f5/2c/d0/f52cd000-36f2-38ff-f611-ed520f1bee50/AppIcon-2-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ac/eb/1e/aceb1e1d-a2bb-246f-2dca-f872c9d0ef92/AppIcon-2-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Scanner Radio net.gordonedwards.Scanner-Radio-Deluxe app icon"></div></br>
   
-# Scanner Radio (net.gordonedwards.Scanner-Radio-Deluxe
+# Scanner Radio (net.gordonedwards.Scanner-Radio-Deluxe)
 
 **BundleId:** net.gordonedwards.Scanner-Radio-Deluxe
 **App Version:** 2.2.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sc
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sc
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,13 +57,13 @@ contains 3 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
-- Tracking: 2 lib(s)
-- Logs: 1 lib(s)
 - Crash: 1 lib(s)
+- Logs: 1 lib(s)
+- Tracking: 2 lib(s)
 - Tools: 10 lib(s)
 
 **Apple dylibs:**
@@ -124,5 +116,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

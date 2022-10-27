@@ -83,6 +83,8 @@
 
 
 
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="AppScan - Better Apps with better data Feed">
+
 
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -144,6 +146,11 @@
             </li><li class="masthead__menu-item">
               <a href="/blog.html">Blog</a>
             </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
         
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">Toggle menu</span>
@@ -388,6 +395,19 @@
     </div>
 
     
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form onsubmit="return googleCustomSearchExecute();" id="cse-search-box-form-id" role="search">
+    <label class="sr-only" for="cse-search-input-box-id">
+      Enter your search term...
+    </label>
+    <input type="search" id="cse-search-input-box-id" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results">
+    <gcse:searchresults-only></gcse:searchresults-only>
+  </div></div>
+
+      </div>
+    
 
     <div id="footer" class="page__footer">
       <footer>
@@ -403,11 +423,13 @@
     
       
         
-          <li><a href="/categories/#ios-app" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-apple" aria-hidden="true"></i> Scanned Apps</a></li>
+          <li><a href="/ios-apps.html" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-apple" aria-hidden="true"></i> Scanned Apps</a></li>
         
       
     
 
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
     
   </ul>
 </div>
@@ -421,7 +443,30 @@
   <script src="/assets/js/main.min.js"></script>
 
 
+<script>
+  (function () {
+    var cx = '70362e7b635b042c8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
 
+  function googleCustomSearchExecute() {
+    var input = document.getElementById('cse-search-input-box-id');
+    var element = google.search.cse.element.getElement('searchresults-only0');
+    if (input.value == '') {
+      element.clearAllResults();
+    } else {
+      element.execute(input.value);
+    }
+    return false;
+  }
+
+  
+</script>
 
 
 

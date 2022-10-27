@@ -3,18 +3,10 @@ title: "1XKET Bets Calculator (com.binavapp.ketbetscalculator)"
 permalink: /apps/ios/com.binavapp.ketbetscalculator.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application 1XKET Bets Calculator (com.binavapp.ketbetscalculator). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# 1XKET Bets Calculator (com.binavapp.ketbetscalculator
+# 1XKET Bets Calculator (com.binavapp.ketbetscalculator)
 
 **BundleId:** com.binavapp.ketbetscalculator
 **App Version:** 1.0.1
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application 1X
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,21 +37,21 @@ AppScan generated a spoiler description of the content of the iOS application 1X
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 40
-- Tools: 11 lib(s)
 - Tracking: 4 lib(s)
-- Network: 3 lib(s)
 - Storage: 5 lib(s)
+- Network: 3 lib(s)
+- Tools: 11 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -89,5 +81,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

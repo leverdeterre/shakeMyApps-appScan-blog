@@ -3,14 +3,6 @@ title: "Sittercity (com.sittercity.Sittercity)"
 permalink: /apps/ios/com.sittercity.Sittercity.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/52/6b/36/526b3636-bf37-b799-88dd-48eabff49445/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Si
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/52/6b/36/526b3636-bf37-b799-88dd-48eabff49445/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/52/6b/36/526b3636-bf37-b799-88dd-48eabff49445/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sittercity com.sittercity.Sittercity app icon"></div></br>
   
-# Sittercity (com.sittercity.Sittercity
+# Sittercity (com.sittercity.Sittercity)
 
 **BundleId:** com.sittercity.Sittercity
 **App Version:** 5.2.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Si
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Si
 **Custom keys:** 27
 **Low securit keys:** 6
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,15 +54,15 @@ Native App
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- Network: 2 lib(s)
 - Tracking: 4 lib(s)
-- Logs: 1 lib(s)
-- Tools: 19 lib(s)
 - UI: 5 lib(s)
+- Logs: 1 lib(s)
+- Network: 2 lib(s)
+- Tools: 19 lib(s)
 
 **Apple dylibs:**
 
@@ -102,5 +94,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

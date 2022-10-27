@@ -3,14 +3,6 @@ title: "Fire Remote (com.MissionDynamic.FireRemote)"
 permalink: /apps/ios/com.MissionDynamic.FireRemote.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/9f/a1/c49fa131-79d1-c976-bb46-9555b410e7ad/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fi
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/9f/a1/c49fa131-79d1-c976-bb46-9555b410e7ad/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/9f/a1/c49fa131-79d1-c976-bb46-9555b410e7ad/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Fire Remote com.MissionDynamic.FireRemote app icon"></div></br>
   
-# Fire Remote (com.MissionDynamic.FireRemote
+# Fire Remote (com.MissionDynamic.FireRemote)
 
 **BundleId:** com.MissionDynamic.FireRemote
 **App Version:** 1.0.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fi
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,12 +54,12 @@ Native App
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 7
-- Tools: 5 lib(s)
 - Tracking: 1 lib(s)
+- Tools: 5 lib(s)
 
 **Apple dylibs:**
 
@@ -119,5 +111,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

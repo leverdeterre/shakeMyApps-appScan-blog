@@ -3,14 +3,6 @@ title: "Cloud Console (com.google.Vespa)"
 permalink: /apps/ios/com.google.Vespa.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/60/4c/c5/604cc5e9-8a3b-1d4e-220f-3cedffe5d7f4/contsched.vxgfqxox.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Cl
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/60/4c/c5/604cc5e9-8a3b-1d4e-220f-3cedffe5d7f4/contsched.vxgfqxox.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/60/4c/c5/604cc5e9-8a3b-1d4e-220f-3cedffe5d7f4/contsched.vxgfqxox.png/512x512bb.jpg" width="100" height="100" alt="Cloud Console com.google.Vespa app icon"></div></br>
   
-# Cloud Console (com.google.Vespa
+# Cloud Console (com.google.Vespa)
 
 **BundleId:** com.google.Vespa
 **App Version:** 1.18.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Cl
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Cl
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,7 +57,7 @@ build using Xcode 13
 support multiple languages
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -107,5 +99,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

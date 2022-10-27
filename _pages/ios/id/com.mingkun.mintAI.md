@@ -3,14 +3,6 @@ title: "MintAI (com.mingkun.mintAI)"
 permalink: /apps/ios/com.mingkun.mintAI.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/98/ae/f2/98aef294-bd27-1ba0-28d9-e40650255d1f/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Mi
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/98/ae/f2/98aef294-bd27-1ba0-28d9-e40650255d1f/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/98/ae/f2/98aef294-bd27-1ba0-28d9-e40650255d1f/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="MintAI com.mingkun.mintAI app icon"></div></br>
   
-# MintAI (com.mingkun.mintAI
+# MintAI (com.mingkun.mintAI)
 
 **BundleId:** com.mingkun.mintAI
 **App Version:** 1.2.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Mi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Mi
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,13 +53,13 @@ FacebookLogin detected
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 39
-- Network: 3 lib(s)
-- Tools: 17 lib(s)
 - Tracking: 3 lib(s)
+- Tools: 17 lib(s)
+- Network: 3 lib(s)
 - Crash: 1 lib(s)
 - Storage: 1 lib(s)
 
@@ -78,5 +70,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

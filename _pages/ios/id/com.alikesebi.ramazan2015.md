@@ -3,14 +3,6 @@ title: "Ramazan2022 (com.alikesebi.ramazan2015)"
 permalink: /apps/ios/com.alikesebi.ramazan2015.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d0/e1/36/d0e13698-705a-ebc7-d054-61e29a9d59d6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d0/e1/36/d0e13698-705a-ebc7-d054-61e29a9d59d6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d0/e1/36/d0e13698-705a-ebc7-d054-61e29a9d59d6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="Ramazan2022 com.alikesebi.ramazan2015 app icon"></div></br>
   
-# Ramazan2022 (com.alikesebi.ramazan2015
+# Ramazan2022 (com.alikesebi.ramazan2015)
 
 **BundleId:** com.alikesebi.ramazan2015
 **App Version:** 1.1.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ra
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,15 +53,15 @@ Number of entitlements detected: 4
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 12
-- Tracking: 1 lib(s)
 - Network: 1 lib(s)
 - Tools: 7 lib(s)
-- UI: 1 lib(s)
+- Tracking: 1 lib(s)
 - Crash: 1 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -104,5 +96,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

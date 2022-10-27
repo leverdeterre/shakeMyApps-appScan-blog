@@ -3,14 +3,6 @@ title: "Tagged (com.tagged.meetme)"
 permalink: /apps/ios/com.tagged.meetme.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/81/21/bf/8121bff8-01b0-ab7e-667a-63652c16902d/AppIcon-Tagged-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ta
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/81/21/bf/8121bff8-01b0-ab7e-667a-63652c16902d/AppIcon-Tagged-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/81/21/bf/8121bff8-01b0-ab7e-667a-63652c16902d/AppIcon-Tagged-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Tagged com.tagged.meetme app icon"></div></br>
   
-# Tagged (com.tagged.meetme
+# Tagged (com.tagged.meetme)
 
 **BundleId:** com.tagged.meetme
 **App Version:** 9.55.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ta
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ta
 **Custom keys:** 23
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,16 +59,16 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 78
-- UI: 2 lib(s)
-- Crash: 1 lib(s)
-- Network: 3 lib(s)
 - Tracking: 6 lib(s)
 - Storage: 1 lib(s)
 - Tools: 15 lib(s)
+- Crash: 1 lib(s)
+- UI: 2 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -162,5 +154,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

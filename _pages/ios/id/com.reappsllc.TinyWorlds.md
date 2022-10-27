@@ -3,14 +3,6 @@ title: "Wallpapers Now (com.reappsllc.TinyWorlds)"
 permalink: /apps/ios/com.reappsllc.TinyWorlds.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/31/d0/c8/31d0c8ad-f978-f132-7632-ae83e32c522b/AppIcon-2-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/31/d0/c8/31d0c8ad-f978-f132-7632-ae83e32c522b/AppIcon-2-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/31/d0/c8/31d0c8ad-f978-f132-7632-ae83e32c522b/AppIcon-2-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Wallpapers Now com.reappsllc.TinyWorlds app icon"></div></br>
   
-# Wallpapers Now (com.reappsllc.TinyWorlds
+# Wallpapers Now (com.reappsllc.TinyWorlds)
 
 **BundleId:** com.reappsllc.TinyWorlds
 **App Version:** 1.2.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,19 +45,19 @@ AppScan generated a spoiler description of the content of the iOS application Wa
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Number of entitlements detected: 3
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 6
-- Tools: 4 lib(s)
 - Network: 1 lib(s)
+- Tools: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -99,5 +91,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

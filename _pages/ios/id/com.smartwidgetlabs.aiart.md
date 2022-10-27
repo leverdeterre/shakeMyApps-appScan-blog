@@ -3,14 +3,6 @@ title: "Dream Art (com.smartwidgetlabs.aiart)"
 permalink: /apps/ios/com.smartwidgetlabs.aiart.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/a8/b3/2da8b30a-8971-b6b0-3eb9-da68d49604e0/AppIcon1-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Dr
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/a8/b3/2da8b30a-8971-b6b0-3eb9-da68d49604e0/AppIcon1-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/a8/b3/2da8b30a-8971-b6b0-3eb9-da68d49604e0/AppIcon1-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Dream Art com.smartwidgetlabs.aiart app icon"></div></br>
   
-# Dream Art (com.smartwidgetlabs.aiart
+# Dream Art (com.smartwidgetlabs.aiart)
 
 **BundleId:** com.smartwidgetlabs.aiart
 **App Version:** 2.7.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Dr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Dr
 **Custom keys:** 15
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,14 +55,14 @@ Native App
 contains 1 App extensions
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 34
-- UI: 4 lib(s)
-- Tools: 10 lib(s)
-- Network: 2 lib(s)
 - Tracking: 2 lib(s)
+- Network: 2 lib(s)
+- Tools: 10 lib(s)
+- UI: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -108,5 +100,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

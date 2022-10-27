@@ -3,14 +3,6 @@ title: "WW Mobile (com.weightwatchers.wwmobile)"
 permalink: /apps/ios/com.weightwatchers.wwmobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/db/98/bb/db98bb6e-e8a7-bbbb-5e34-4454185038ae/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application WW
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/db/98/bb/db98bb6e-e8a7-bbbb-5e34-4454185038ae/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/db/98/bb/db98bb6e-e8a7-bbbb-5e34-4454185038ae/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="WW Mobile com.weightwatchers.wwmobile app icon"></div></br>
   
-# WW Mobile (com.weightwatchers.wwmobile
+# WW Mobile (com.weightwatchers.wwmobile)
 
 **BundleId:** com.weightwatchers.wwmobile
 **App Version:** 10.20.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application WW
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application WW
 **Custom keys:** 21
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,16 +59,16 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 45
-- Tools: 9 lib(s)
-- UI: 2 lib(s)
 - Tracking: 1 lib(s)
 - Storage: 1 lib(s)
 - Crash: 1 lib(s)
+- Tools: 9 lib(s)
 - Network: 3 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -127,5 +119,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

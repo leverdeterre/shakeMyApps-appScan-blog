@@ -3,14 +3,6 @@ title: "WIRED (com.condenet.wiredmag)"
 permalink: /apps/ios/com.condenet.wiredmag.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/60/fe/50/60fe50d4-c2dc-e63b-be77-3c97bad75c18/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application WI
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/60/fe/50/60fe50d4-c2dc-e63b-be77-3c97bad75c18/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/60/fe/50/60fe50d4-c2dc-e63b-be77-3c97bad75c18/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="WIRED com.condenet.wiredmag app icon"></div></br>
   
-# WIRED (com.condenet.wiredmag
+# WIRED (com.condenet.wiredmag)
 
 **BundleId:** com.condenet.wiredmag
 **App Version:** 5.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application WI
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application WI
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Native App
 supported devices iPhone & iPad
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -73,5 +65,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

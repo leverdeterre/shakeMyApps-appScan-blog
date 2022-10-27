@@ -3,14 +3,6 @@ title: "WFTV News (com.lsn.localnews147)"
 permalink: /apps/ios/com.lsn.localnews147.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/81/e0/e081e019-d716-a0d5-15e0-cf5e63f073c3/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application WF
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/81/e0/e081e019-d716-a0d5-15e0-cf5e63f073c3/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/81/e0/e081e019-d716-a0d5-15e0-cf5e63f073c3/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="WFTV News com.lsn.localnews147 app icon"></div></br>
   
-# WFTV News (com.lsn.localnews147
+# WFTV News (com.lsn.localnews147)
 
 **BundleId:** com.lsn.localnews147
 **App Version:** 8.6.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application WF
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application WF
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,14 +56,14 @@ build using Xcode 13
 contains 2 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 26
-- Network: 2 lib(s)
-- Tools: 6 lib(s)
-- Tracking: 5 lib(s)
 - UI: 2 lib(s)
+- Tracking: 5 lib(s)
+- Tools: 6 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -136,5 +128,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

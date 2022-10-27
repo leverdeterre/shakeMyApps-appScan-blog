@@ -3,14 +3,6 @@ title: "Pump Log (com.stefaniksoftware.pumplog)"
 permalink: /apps/ios/com.stefaniksoftware.pumplog.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/8e/02/a38e0280-f0bf-6fa0-6624-cc8cf037f28a/AppIcon-1x_U007emarketing-3-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pu
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/8e/02/a38e0280-f0bf-6fa0-6624-cc8cf037f28a/AppIcon-1x_U007emarketing-3-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/8e/02/a38e0280-f0bf-6fa0-6624-cc8cf037f28a/AppIcon-1x_U007emarketing-3-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Pump Log com.stefaniksoftware.pumplog app icon"></div></br>
   
-# Pump Log (com.stefaniksoftware.pumplog
+# Pump Log (com.stefaniksoftware.pumplog)
 
 **BundleId:** com.stefaniksoftware.pumplog
 **App Version:** 31
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pu
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -98,5 +90,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

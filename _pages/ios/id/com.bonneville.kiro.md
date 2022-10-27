@@ -3,14 +3,6 @@ title: "KIRO Newsradio 97.3 FM (com.bonneville.kiro)"
 permalink: /apps/ios/com.bonneville.kiro.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/21/9d/c3219dd8-a7bb-0a50-9f03-28e979ae08b6/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application KI
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/21/9d/c3219dd8-a7bb-0a50-9f03-28e979ae08b6/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/21/9d/c3219dd8-a7bb-0a50-9f03-28e979ae08b6/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="KIRO Newsradio 97.3 FM com.bonneville.kiro app icon"></div></br>
   
-# KIRO Newsradio 97.3 FM (com.bonneville.kiro
+# KIRO Newsradio 97.3 FM (com.bonneville.kiro)
 
 **BundleId:** com.bonneville.kiro
 **App Version:** 8.1.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application KI
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application KI
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ build using Xcode 13
 contains 1 App extensions
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
@@ -108,5 +100,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

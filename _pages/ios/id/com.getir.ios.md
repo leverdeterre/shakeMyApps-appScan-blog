@@ -3,14 +3,6 @@ title: "getir (com.getir.ios)"
 permalink: /apps/ios/com.getir.ios.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/8f/03/cb8f0358-7ca7-104e-5e7d-3f9eac643af8/AppIcon-1x_U007emarketing-0-4-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application ge
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/8f/03/cb8f0358-7ca7-104e-5e7d-3f9eac643af8/AppIcon-1x_U007emarketing-0-4-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/cb/8f/03/cb8f0358-7ca7-104e-5e7d-3f9eac643af8/AppIcon-1x_U007emarketing-0-4-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="getir com.getir.ios app icon"></div></br>
   
-# getir (com.getir.ios
+# getir (com.getir.ios)
 
 **BundleId:** com.getir.ios
 **App Version:** 2.15.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application ge
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application ge
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -69,7 +61,7 @@ at least 3 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
@@ -123,5 +115,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

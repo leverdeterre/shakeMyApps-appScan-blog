@@ -3,14 +3,6 @@ title: "Berlin Phil (com.berlinphil.dch)"
 permalink: /apps/ios/com.berlinphil.dch.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/bd/67/fbbd67f2-b207-e966-580e-ac176f46cd0a/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Be
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/bd/67/fbbd67f2-b207-e966-580e-ac176f46cd0a/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/bd/67/fbbd67f2-b207-e966-580e-ac176f46cd0a/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Berlin Phil com.berlinphil.dch app icon"></div></br>
   
-# Berlin Phil (com.berlinphil.dch
+# Berlin Phil (com.berlinphil.dch)
 
 **BundleId:** com.berlinphil.dch
 **App Version:** 3.23.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Be
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Be
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,14 +59,14 @@ at least 1 entitlemented features (strong iOS integration)
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
-- UI: 3 lib(s)
 - Tools: 7 lib(s)
-- Network: 3 lib(s)
 - Tracking: 1 lib(s)
+- UI: 3 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -120,5 +112,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

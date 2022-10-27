@@ -3,14 +3,6 @@ title: "Flyers & Business Cards Design (com.appfitstudio.FlyerandBusinessCardDes
 permalink: /apps/ios/com.appfitstudio.FlyerandBusinessCardDesign.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/a2/f5/c1a2f55a-b638-33ea-3f97-f6660236f0ee/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Fl
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/a2/f5/c1a2f55a-b638-33ea-3f97-f6660236f0ee/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/a2/f5/c1a2f55a-b638-33ea-3f97-f6660236f0ee/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Flyers & Business Cards Design com.appfitstudio.FlyerandBusinessCardDesign app icon"></div></br>
   
-# Flyers & Business Cards Design (com.appfitstudio.FlyerandBusinessCardDesign
+# Flyers & Business Cards Design (com.appfitstudio.FlyerandBusinessCardDesign)
 
 **BundleId:** com.appfitstudio.FlyerandBusinessCardDesign
 **App Version:** 1.0.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Fl
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Fl
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,7 +55,7 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
@@ -90,5 +82,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

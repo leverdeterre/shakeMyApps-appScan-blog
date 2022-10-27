@@ -3,14 +3,6 @@ title: "Options Vol (com.mobileinteractive.ioptionvolfree)"
 permalink: /apps/ios/com.mobileinteractive.ioptionvolfree.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/8f/df/03/8fdf039a-706b-2b48-7251-a5bb4d95ea6b/AppIcon-VolumeFree-1x_U007emarketing-85-220-6.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Op
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/8f/df/03/8fdf039a-706b-2b48-7251-a5bb4d95ea6b/AppIcon-VolumeFree-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/8f/df/03/8fdf039a-706b-2b48-7251-a5bb4d95ea6b/AppIcon-VolumeFree-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100" alt="Options Vol com.mobileinteractive.ioptionvolfree app icon"></div></br>
   
-# Options Vol (com.mobileinteractive.ioptionvolfree
+# Options Vol (com.mobileinteractive.ioptionvolfree)
 
 **BundleId:** com.mobileinteractive.ioptionvolfree
 **App Version:** 2.6.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Op
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Op
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,12 +53,12 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
-- Network: 1 lib(s)
 - Tools: 1 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -75,5 +67,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

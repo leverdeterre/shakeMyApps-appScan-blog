@@ -3,14 +3,6 @@ title: "Zappos (com.zappos.ipad)"
 permalink: /apps/ios/com.zappos.ipad.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/df/f0/15/dff0154a-5d3e-aa47-5486-aa6f0b48a139/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,17 +12,15 @@ AppScan generated a spoiler description of the content of the iOS application Za
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/df/f0/15/dff0154a-5d3e-aa47-5486-aa6f0b48a139/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/df/f0/15/dff0154a-5d3e-aa47-5486-aa6f0b48a139/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Zappos com.zappos.ipad app icon"></div></br>
   
-# Zappos (com.zappos.ipad
+# Zappos (com.zappos.ipad)
 
 **BundleId:** com.zappos.ipad
 **App Version:** 7.5.0
 **App Name:** Zappos
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
-  
 ## AppScan informations 
 
 **Number of permissions:** 8
@@ -39,7 +29,7 @@ AppScan generated a spoiler description of the content of the iOS application Za
 **Custom keys:** 17
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,14 +43,14 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 12
-- Tools: 1 lib(s)
+- Tracking: 1 lib(s)
 - Network: 1 lib(s)
 - UI: 1 lib(s)
-- Tracking: 1 lib(s)
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -121,5 +111,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

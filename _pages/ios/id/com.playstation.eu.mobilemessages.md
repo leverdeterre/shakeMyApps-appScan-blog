@@ -3,18 +3,10 @@ title: "PS Messages (com.playstation.eu.mobilemessages)"
 permalink: /apps/ios/com.playstation.eu.mobilemessages.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application PS Messages (com.playstation.eu.mobilemessages). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# PS Messages (com.playstation.eu.mobilemessages
+# PS Messages (com.playstation.eu.mobilemessages)
 
 **BundleId:** com.playstation.eu.mobilemessages
 **App Version:** 20.01.7
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application PS
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application PS
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -56,14 +48,14 @@ contains 1 App extensions
 support multiple languages
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- UI: 2 lib(s)
 - Tools: 2 lib(s)
-- Storage: 2 lib(s)
 - Network: 1 lib(s)
+- UI: 2 lib(s)
+- Storage: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -102,5 +94,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

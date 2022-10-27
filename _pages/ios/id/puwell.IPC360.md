@@ -3,14 +3,6 @@ title: "IPC360 (puwell.IPC360)"
 permalink: /apps/ios/puwell.IPC360.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/78/fe/ca78fe88-0a96-1d5b-78b6-1936e405ebce/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application IP
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/78/fe/ca78fe88-0a96-1d5b-78b6-1936e405ebce/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/78/fe/ca78fe88-0a96-1d5b-78b6-1936e405ebce/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="IPC360 puwell.IPC360 app icon"></div></br>
   
-# IPC360 (puwell.IPC360
+# IPC360 (puwell.IPC360)
 
 **BundleId:** puwell.IPC360
 **App Version:** 3.9.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application IP
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application IP
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -74,5 +66,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

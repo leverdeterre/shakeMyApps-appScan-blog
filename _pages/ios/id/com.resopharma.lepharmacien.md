@@ -3,14 +3,6 @@ title: "Le pharmacien (com.resopharma.lepharmacien)"
 permalink: /apps/ios/com.resopharma.lepharmacien.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/66/a8/c8/66a8c8ba-1e91-107b-fe2f-eda128b6daac/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Le
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/66/a8/c8/66a8c8ba-1e91-107b-fe2f-eda128b6daac/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/66/a8/c8/66a8c8ba-1e91-107b-fe2f-eda128b6daac/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Le pharmacien com.resopharma.lepharmacien app icon"></div></br>
   
-# Le pharmacien (com.resopharma.lepharmacien
+# Le pharmacien (com.resopharma.lepharmacien)
 
 **BundleId:** com.resopharma.lepharmacien
 **App Version:** 2.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Le
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,12 +45,12 @@ AppScan generated a spoiler description of the content of the iOS application Le
 **Custom keys:** 14
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -70,5 +62,5 @@ AppScan generated a spoiler description of the content of the iOS application Le
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

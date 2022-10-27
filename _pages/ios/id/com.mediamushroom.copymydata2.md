@@ -3,14 +3,6 @@ title: "CopyMyData (com.mediamushroom.copymydata2)"
 permalink: /apps/ios/com.mediamushroom.copymydata2.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/08/5c/1a/085c1acc-fc46-d76c-6ab8-a38a36052e24/AppIcon-0-0-1x_U007emarketing-0-0-0-1-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Co
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/08/5c/1a/085c1acc-fc46-d76c-6ab8-a38a36052e24/AppIcon-0-0-1x_U007emarketing-0-0-0-1-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/08/5c/1a/085c1acc-fc46-d76c-6ab8-a38a36052e24/AppIcon-0-0-1x_U007emarketing-0-0-0-1-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="CopyMyData com.mediamushroom.copymydata2 app icon"></div></br>
   
-# CopyMyData (com.mediamushroom.copymydata2
+# CopyMyData (com.mediamushroom.copymydata2)
 
 **BundleId:** com.mediamushroom.copymydata2
 **App Version:** 2.1.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 **Custom keys:** 9
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,13 +54,13 @@ GoogleLogin detected
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
-- Tracking: 3 lib(s)
 - Crash: 1 lib(s)
 - Tools: 11 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -139,5 +131,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Rooster Teeth (com.roosterteeth.roosterteeth)"
 permalink: /apps/ios/com.roosterteeth.roosterteeth.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/96/2c/ee962cef-c06a-2de7-73fc-1262af072e81/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ro
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/96/2c/ee962cef-c06a-2de7-73fc-1262af072e81/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ee/96/2c/ee962cef-c06a-2de7-73fc-1262af072e81/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Rooster Teeth com.roosterteeth.roosterteeth app icon"></div></br>
   
-# Rooster Teeth (com.roosterteeth.roosterteeth
+# Rooster Teeth (com.roosterteeth.roosterteeth)
 
 **BundleId:** com.roosterteeth.roosterteeth
 **App Version:** 3.8.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ro
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ro
 **Custom keys:** 17
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,16 +58,16 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
 - UI: 2 lib(s)
-- Tools: 10 lib(s)
-- Logs: 1 lib(s)
 - Network: 5 lib(s)
-- Storage: 1 lib(s)
+- Logs: 1 lib(s)
+- Tools: 10 lib(s)
 - Tracking: 4 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -126,5 +118,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

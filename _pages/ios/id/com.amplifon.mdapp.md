@@ -3,14 +3,6 @@ title: "Amplifon (com.amplifon.mdapp)"
 permalink: /apps/ios/com.amplifon.mdapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/11/5b/35/115b359a-2c0f-f54d-b9cb-9748a884dabb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Am
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/11/5b/35/115b359a-2c0f-f54d-b9cb-9748a884dabb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/11/5b/35/115b359a-2c0f-f54d-b9cb-9748a884dabb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Amplifon com.amplifon.mdapp app icon"></div></br>
   
-# Amplifon (com.amplifon.mdapp
+# Amplifon (com.amplifon.mdapp)
 
 **BundleId:** com.amplifon.mdapp
 **App Version:** 3.6.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Am
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,21 +45,21 @@ AppScan generated a spoiler description of the content of the iOS application Am
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 44
-- Tracking: 1 lib(s)
-- Tools: 14 lib(s)
 - Network: 3 lib(s)
+- Tracking: 1 lib(s)
 - UI: 1 lib(s)
+- Tools: 14 lib(s)
 - Storage: 1 lib(s)
 
 **Apple dylibs:**
@@ -77,5 +69,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

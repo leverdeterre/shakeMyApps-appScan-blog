@@ -3,14 +3,6 @@ title: "Proxyman (com.nsproxy.NSProxy-iOS)"
 permalink: /apps/ios/com.nsproxy.NSProxy-iOS.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/31/c3/af/31c3af99-037e-f1d5-f669-e5dc51c0dfef/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/31/c3/af/31c3af99-037e-f1d5-f669-e5dc51c0dfef/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/31/c3/af/31c3af99-037e-f1d5-f669-e5dc51c0dfef/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Proxyman com.nsproxy.NSProxy-iOS app icon"></div></br>
   
-# Proxyman (com.nsproxy.NSProxy-iOS
+# Proxyman (com.nsproxy.NSProxy-iOS)
 
 **BundleId:** com.nsproxy.NSProxy-iOS
 **App Version:** 1.11.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pr
 **Custom keys:** 5
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,13 +54,13 @@ Native App
 supported devices iPhone & iPad
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
+- Network: 3 lib(s)
 - Tools: 2 lib(s)
 - Storage: 1 lib(s)
-- Network: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -93,5 +85,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

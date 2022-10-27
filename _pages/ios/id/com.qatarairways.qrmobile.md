@@ -3,14 +3,6 @@ title: "Qatar Airways (com.qatarairways.qrmobile)"
 permalink: /apps/ios/com.qatarairways.qrmobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/04/f9/f9/04f9f9ea-9bf0-3e97-8e0e-9e3d73d47601/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Qa
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/04/f9/f9/04f9f9ea-9bf0-3e97-8e0e-9e3d73d47601/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/04/f9/f9/04f9f9ea-9bf0-3e97-8e0e-9e3d73d47601/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Qatar Airways com.qatarairways.qrmobile app icon"></div></br>
   
-# Qatar Airways (com.qatarairways.qrmobile
+# Qatar Airways (com.qatarairways.qrmobile)
 
 **BundleId:** com.qatarairways.qrmobile
 **App Version:** 12.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Qa
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Qa
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,16 +59,16 @@ at least 4 entitlemented features (strong iOS integration)
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 52
-- Crash: 1 lib(s)
-- Tools: 20 lib(s)
-- UI: 3 lib(s)
 - Tracking: 4 lib(s)
+- Tools: 20 lib(s)
 - Storage: 1 lib(s)
+- Crash: 1 lib(s)
 - Network: 3 lib(s)
+- UI: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -126,5 +118,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

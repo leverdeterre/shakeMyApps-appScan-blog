@@ -3,14 +3,6 @@ title: "iDisplay (com.shapeservices.idisplay)"
 permalink: /apps/ios/com.shapeservices.idisplay.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/09/f4/c0/09f4c0e3-fb39-cf05-a484-81bfec44ab47/mzl.zbwmalua.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application iD
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/09/f4/c0/09f4c0e3-fb39-cf05-a484-81bfec44ab47/mzl.zbwmalua.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/09/f4/c0/09f4c0e3-fb39-cf05-a484-81bfec44ab47/mzl.zbwmalua.png/512x512bb.jpg" width="100" height="100" alt="iDisplay com.shapeservices.idisplay app icon"></div></br>
   
-# iDisplay (com.shapeservices.idisplay
+# iDisplay (com.shapeservices.idisplay)
 
 **BundleId:** com.shapeservices.idisplay
 **App Version:** 6.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application iD
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application iD
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
@@ -110,5 +102,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

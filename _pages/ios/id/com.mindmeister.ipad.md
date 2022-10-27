@@ -3,14 +3,6 @@ title: "MindMeister (com.mindmeister.ipad)"
 permalink: /apps/ios/com.mindmeister.ipad.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/83/a5/0b83a50d-5e82-87c9-27ff-21cfe7002d9c/source/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,17 +12,15 @@ AppScan generated a spoiler description of the content of the iOS application Mi
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/83/a5/0b83a50d-5e82-87c9-27ff-21cfe7002d9c/source/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/83/a5/0b83a50d-5e82-87c9-27ff-21cfe7002d9c/source/512x512bb.jpg" width="100" height="100" alt="MindMeister com.mindmeister.ipad app icon"></div></br>
   
-# MindMeister (com.mindmeister.ipad
+# MindMeister (com.mindmeister.ipad)
 
 **BundleId:** com.mindmeister.ipad
 **App Version:** 7.10.14
 **App Name:** MindMeister
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
-  
 ## AppScan informations 
 
 **Number of permissions:** 4
@@ -39,7 +29,7 @@ AppScan generated a spoiler description of the content of the iOS application Mi
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -55,12 +45,12 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
-- Tools: 7 lib(s)
 - Storage: 1 lib(s)
+- Tools: 7 lib(s)
 
 **Apple dylibs:**
 
@@ -104,5 +94,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

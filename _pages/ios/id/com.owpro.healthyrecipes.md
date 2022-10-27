@@ -3,14 +3,6 @@ title: "Healthy Food (com.owpro.healthyrecipes)"
 permalink: /apps/ios/com.owpro.healthyrecipes.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/33/0e/e0/330ee0a2-01f4-b314-709e-cefbc1983002/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application He
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/33/0e/e0/330ee0a2-01f4-b314-709e-cefbc1983002/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/33/0e/e0/330ee0a2-01f4-b314-709e-cefbc1983002/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Healthy Food com.owpro.healthyrecipes app icon"></div></br>
   
-# Healthy Food (com.owpro.healthyrecipes
+# Healthy Food (com.owpro.healthyrecipes)
 
 **BundleId:** com.owpro.healthyrecipes
 **App Version:** 10.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application He
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application He
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,16 +58,16 @@ build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 43
-- Storage: 3 lib(s)
-- Tools: 22 lib(s)
-- Tracking: 4 lib(s)
 - UI: 5 lib(s)
+- Tools: 22 lib(s)
+- Storage: 3 lib(s)
 - Logs: 1 lib(s)
 - Network: 2 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -140,5 +132,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

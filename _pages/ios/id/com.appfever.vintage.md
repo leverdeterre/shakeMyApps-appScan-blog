@@ -3,14 +3,6 @@ title: "Vintage Logo (com.appfever.vintage)"
 permalink: /apps/ios/com.appfever.vintage.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/21/90/3f/21903f95-97d9-eb9b-27d1-b5e16cdd5e5f/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Vi
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/21/90/3f/21903f95-97d9-eb9b-27d1-b5e16cdd5e5f/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/21/90/3f/21903f95-97d9-eb9b-27d1-b5e16cdd5e5f/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Vintage Logo com.appfever.vintage app icon"></div></br>
   
-# Vintage Logo (com.appfever.vintage
+# Vintage Logo (com.appfever.vintage)
 
 **BundleId:** com.appfever.vintage
 **App Version:** 5.3.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Vi
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Vi
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,14 +55,14 @@ supported devices iPhone & iPad
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 18
-- UI: 2 lib(s)
-- Crash: 1 lib(s)
-- Tools: 7 lib(s)
 - Tracking: 1 lib(s)
+- Crash: 1 lib(s)
+- UI: 2 lib(s)
+- Tools: 7 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -118,5 +110,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

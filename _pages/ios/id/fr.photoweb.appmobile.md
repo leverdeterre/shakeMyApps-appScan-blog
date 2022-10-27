@@ -3,26 +3,18 @@ title: "myPhotoweb (fr.photoweb.appmobile)"
 permalink: /apps/ios/fr.photoweb.appmobile.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/67/cd/ae67cd8f-21b7-e5c8-79fe-65ff39b7991e/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/79/96/c87996e8-61ab-8d8a-75ed-6a898b86b9e9/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/67/cd/ae67cd8f-21b7-e5c8-79fe-65ff39b7991e/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/79/96/c87996e8-61ab-8d8a-75ed-6a898b86b9e9/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application myPhotoweb (fr.photoweb.appmobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/67/cd/ae67cd8f-21b7-e5c8-79fe-65ff39b7991e/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/79/96/c87996e8-61ab-8d8a-75ed-6a898b86b9e9/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="myPhotoweb fr.photoweb.appmobile app icon"></div></br>
   
-# myPhotoweb (fr.photoweb.appmobile
+# myPhotoweb (fr.photoweb.appmobile)
 
 **BundleId:** fr.photoweb.appmobile
 **App Version:** 4.4.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application my
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application my
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,14 +58,14 @@ contains 1 App extensions
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 68
-- Tracking: 7 lib(s)
-- Network: 4 lib(s)
 - Tools: 29 lib(s)
 - Crash: 1 lib(s)
+- Network: 4 lib(s)
+- Tracking: 7 lib(s)
 - UI: 4 lib(s)
 
 **Apple dylibs:**
@@ -117,5 +109,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

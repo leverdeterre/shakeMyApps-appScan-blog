@@ -3,14 +3,6 @@ title: "WAVY Weather (com.wavy.WAVY-Weather)"
 permalink: /apps/ios/com.wavy.WAVY-Weather.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/e2/d1/c4e2d157-63ac-5923-b0fa-646bd4dca57c/AppIcon-1x_U007emarketing-0-4-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application WA
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/e2/d1/c4e2d157-63ac-5923-b0fa-646bd4dca57c/AppIcon-1x_U007emarketing-0-4-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/e2/d1/c4e2d157-63ac-5923-b0fa-646bd4dca57c/AppIcon-1x_U007emarketing-0-4-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="WAVY Weather com.wavy.WAVY-Weather app icon"></div></br>
   
-# WAVY Weather (com.wavy.WAVY-Weather
+# WAVY Weather (com.wavy.WAVY-Weather)
 
 **BundleId:** com.wavy.WAVY-Weather
 **App Version:** 5.4.946
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application WA
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application WA
 **Custom keys:** 16
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,12 +53,12 @@ Number of entitlements detected: 3
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
-- Tools: 3 lib(s)
 - UI: 2 lib(s)
+- Tools: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -97,5 +89,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

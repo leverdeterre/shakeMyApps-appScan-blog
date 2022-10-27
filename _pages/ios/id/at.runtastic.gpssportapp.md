@@ -3,26 +3,18 @@ title: "Running (at.runtastic.gpssportapp)"
 permalink: /apps/ios/at.runtastic.gpssportapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6a/d5/1c/6ad51cdd-8ca8-1f9b-e546-eb36a90721fe/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/36/57/3d/36573dba-934a-7389-88a0-993e60429550/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6a/d5/1c/6ad51cdd-8ca8-1f9b-e546-eb36a90721fe/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/36/57/3d/36573dba-934a-7389-88a0-993e60429550/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Running (at.runtastic.gpssportapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6a/d5/1c/6ad51cdd-8ca8-1f9b-e546-eb36a90721fe/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/36/57/3d/36573dba-934a-7389-88a0-993e60429550/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Running at.runtastic.gpssportapp app icon"></div></br>
   
-# Running (at.runtastic.gpssportapp
+# Running (at.runtastic.gpssportapp)
 
 **BundleId:** at.runtastic.gpssportapp
 **App Version:** 12.30
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ru
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ru
 **Custom keys:** 33
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,15 +60,15 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 150
-- Tracking: 6 lib(s)
 - Network: 1 lib(s)
-- UI: 5 lib(s)
-- Tools: 21 lib(s)
 - Logs: 1 lib(s)
+- Tracking: 6 lib(s)
+- Tools: 21 lib(s)
+- UI: 5 lib(s)
 
 **Apple dylibs:**
 
@@ -134,5 +126,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

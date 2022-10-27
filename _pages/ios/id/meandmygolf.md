@@ -3,14 +3,6 @@ title: "Me And My Golf (meandmygolf)"
 permalink: /apps/ios/meandmygolf.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/40/8d/68/408d680b-5b38-0356-cf66-beafceccd1f3/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Me
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/40/8d/68/408d680b-5b38-0356-cf66-beafceccd1f3/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/40/8d/68/408d680b-5b38-0356-cf66-beafceccd1f3/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Me And My Golf meandmygolf app icon"></div></br>
   
-# Me And My Golf (meandmygolf
+# Me And My Golf (meandmygolf)
 
 **BundleId:** meandmygolf
 **App Version:** 2.13
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Me
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Me
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,15 +58,15 @@ contains 2 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 28
 - Crash: 1 lib(s)
 - Network: 3 lib(s)
-- Storage: 3 lib(s)
-- Tools: 9 lib(s)
 - Tracking: 1 lib(s)
+- Tools: 9 lib(s)
+- Storage: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -117,5 +109,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "KFC FR (fr.kfc.mobileapp)"
 permalink: /apps/ios/fr.kfc.mobileapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/68/e9/93/68e99376-1abe-1707-9279-3338c38d39ad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application KF
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/68/e9/93/68e99376-1abe-1707-9279-3338c38d39ad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/68/e9/93/68e99376-1abe-1707-9279-3338c38d39ad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="KFC FR fr.kfc.mobileapp app icon"></div></br>
   
-# KFC FR (fr.kfc.mobileapp
+# KFC FR (fr.kfc.mobileapp)
 
 **BundleId:** fr.kfc.mobileapp
 **App Version:** 1.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application KF
 <tr><td> App Security </td><td> ⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application KF
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,15 +56,15 @@ build using Xcode 13
 contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
-- Tracking: 4 lib(s)
-- Tools: 17 lib(s)
-- Crash: 1 lib(s)
 - Storage: 1 lib(s)
 - Network: 1 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 4 lib(s)
+- Tools: 17 lib(s)
 
 **Apple dylibs:**
 
@@ -108,5 +100,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

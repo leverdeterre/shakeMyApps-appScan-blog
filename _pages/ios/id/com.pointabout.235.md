@@ -3,14 +3,6 @@ title: "Buoyweather (com.pointabout.235)"
 permalink: /apps/ios/com.pointabout.235.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/4b/c5/f74bc546-41c9-11a2-84a5-e4df826594ad/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Bu
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/4b/c5/f74bc546-41c9-11a2-84a5-e4df826594ad/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/4b/c5/f74bc546-41c9-11a2-84a5-e4df826594ad/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Buoyweather com.pointabout.235 app icon"></div></br>
   
-# Buoyweather (com.pointabout.235
+# Buoyweather (com.pointabout.235)
 
 **BundleId:** com.pointabout.235
 **App Version:** 3.1.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Bu
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Bu
 **Custom keys:** 27
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,14 +55,14 @@ supported devices iPhone & iPad
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
 - Network: 2 lib(s)
+- Tools: 17 lib(s)
 - Storage: 1 lib(s)
 - Tracking: 2 lib(s)
-- Tools: 17 lib(s)
 
 **Apple dylibs:**
 
@@ -122,5 +114,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

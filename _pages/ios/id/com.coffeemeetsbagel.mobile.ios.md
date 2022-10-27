@@ -3,14 +3,6 @@ title: "CMB (com.coffeemeetsbagel.mobile.ios)"
 permalink: /apps/ios/com.coffeemeetsbagel.mobile.ios.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/0d/f2/a8/0df2a8de-5e51-7580-8601-ff9f96b8bc96/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application CM
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/0d/f2/a8/0df2a8de-5e51-7580-8601-ff9f96b8bc96/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/0d/f2/a8/0df2a8de-5e51-7580-8601-ff9f96b8bc96/AppIcon-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="CMB com.coffeemeetsbagel.mobile.ios app icon"></div></br>
   
-# CMB (com.coffeemeetsbagel.mobile.ios
+# CMB (com.coffeemeetsbagel.mobile.ios)
 
 **BundleId:** com.coffeemeetsbagel.mobile.ios
 **App Version:** 7.49.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application CM
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application CM
 **Custom keys:** 23
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,15 +57,15 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 58
-- Logs: 1 lib(s)
 - Tools: 9 lib(s)
-- UI: 4 lib(s)
-- Tracking: 6 lib(s)
 - Network: 4 lib(s)
+- Logs: 1 lib(s)
+- Tracking: 6 lib(s)
+- UI: 4 lib(s)
 
 **Apple dylibs:**
 
@@ -120,5 +112,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

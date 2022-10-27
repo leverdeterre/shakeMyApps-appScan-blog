@@ -3,14 +3,6 @@ title: "Coyote (com.moncoyote.icoyoteFR302)"
 permalink: /apps/ios/com.moncoyote.icoyoteFR302.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/87/a9/30/87a9301a-c942-cfe4-512b-dac7cb59ab3e/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Co
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/87/a9/30/87a9301a-c942-cfe4-512b-dac7cb59ab3e/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/87/a9/30/87a9301a-c942-cfe4-512b-dac7cb59ab3e/AppIcon-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Coyote com.moncoyote.icoyoteFR302 app icon"></div></br>
   
-# Coyote (com.moncoyote.icoyoteFR302
+# Coyote (com.moncoyote.icoyoteFR302)
 
 **BundleId:** com.moncoyote.icoyoteFR302
 **App Version:** 11.3.1780
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 **Custom keys:** 15
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,7 +56,7 @@ support multiple languages
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
@@ -107,5 +99,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

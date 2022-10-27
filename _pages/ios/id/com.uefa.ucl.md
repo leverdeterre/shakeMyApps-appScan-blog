@@ -3,14 +3,6 @@ title: "UCL (com.uefa.ucl)"
 permalink: /apps/ios/com.uefa.ucl.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/45/3b/f6/453bf61a-0519-cfd8-2989-c234e558962b/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application UC
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/45/3b/f6/453bf61a-0519-cfd8-2989-c234e558962b/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/45/3b/f6/453bf61a-0519-cfd8-2989-c234e558962b/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="UCL com.uefa.ucl app icon"></div></br>
   
-# UCL (com.uefa.ucl
+# UCL (com.uefa.ucl)
 
 **BundleId:** com.uefa.ucl
 **App Version:** 9.6.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application UC
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application UC
 **Custom keys:** 29
 **Low securit keys:** 4
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,17 +59,17 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 93
-- Network: 4 lib(s)
+- Logs: 1 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 3 lib(s)
 - Tools: 23 lib(s)
 - Storage: 3 lib(s)
-- Crash: 1 lib(s)
-- Logs: 1 lib(s)
+- Network: 4 lib(s)
 - UI: 5 lib(s)
-- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 
@@ -115,5 +107,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

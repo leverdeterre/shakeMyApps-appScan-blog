@@ -3,14 +3,6 @@ title: "NBitrise (com.nhancv.nbitrise)"
 permalink: /apps/ios/com.nhancv.nbitrise.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/04/6c/18/046c181c-7f4d-4c6f-e295-65f1b20e753f/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application NB
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/04/6c/18/046c181c-7f4d-4c6f-e295-65f1b20e753f/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/04/6c/18/046c181c-7f4d-4c6f-e295-65f1b20e753f/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="NBitrise com.nhancv.nbitrise app icon"></div></br>
   
-# NBitrise (com.nhancv.nbitrise
+# NBitrise (com.nhancv.nbitrise)
 
 **BundleId:** com.nhancv.nbitrise
 **App Version:** 1.0.9
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application NB
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,12 +45,12 @@ AppScan generated a spoiler description of the content of the iOS application NB
 **Custom keys:** 0
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 7
@@ -72,5 +64,5 @@ AppScan generated a spoiler description of the content of the iOS application NB
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

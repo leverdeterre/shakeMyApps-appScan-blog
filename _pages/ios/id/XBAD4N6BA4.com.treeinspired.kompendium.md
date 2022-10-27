@@ -3,14 +3,6 @@ title: "Kompendium (XBAD4N6BA4.com.treeinspired.kompendium)"
 permalink: /apps/ios/XBAD4N6BA4.com.treeinspired.kompendium.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/98/37/68/983768ff-4ad8-aba0-9ed8-d9999e4c2933/AppIcon-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Ko
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/98/37/68/983768ff-4ad8-aba0-9ed8-d9999e4c2933/AppIcon-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/98/37/68/983768ff-4ad8-aba0-9ed8-d9999e4c2933/AppIcon-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Kompendium XBAD4N6BA4.com.treeinspired.kompendium app icon"></div></br>
   
-# Kompendium (XBAD4N6BA4.com.treeinspired.kompendium
+# Kompendium (XBAD4N6BA4.com.treeinspired.kompendium)
 
 **BundleId:** XBAD4N6BA4.com.treeinspired.kompendium
 **App Version:** 6.2
 **App Name:** Kompendium
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.34 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ko
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -52,16 +58,16 @@ contains 1 App extensions
 support multiple languages
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 40
+- Crash: 1 lib(s)
 - Tools: 20 lib(s)
-- Tracking: 1 lib(s)
-- UI: 1 lib(s)
 - Storage: 2 lib(s)
 - Network: 2 lib(s)
-- Crash: 1 lib(s)
+- Tracking: 1 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -89,5 +95,5 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

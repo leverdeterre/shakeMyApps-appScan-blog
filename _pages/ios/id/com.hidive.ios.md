@@ -3,14 +3,6 @@ title: "HIDIVE (com.hidive.ios)"
 permalink: /apps/ios/com.hidive.ios.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/43/f9/2c/43f92c63-b61e-4ea3-394f-2f677e219bf6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application HI
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/43/f9/2c/43f92c63-b61e-4ea3-394f-2f677e219bf6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/43/f9/2c/43f92c63-b61e-4ea3-394f-2f677e219bf6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="HIDIVE com.hidive.ios app icon"></div></br>
   
-# HIDIVE (com.hidive.ios
+# HIDIVE (com.hidive.ios)
 
 **BundleId:** com.hidive.ios
 **App Version:** 1.21
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application HI
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,22 +45,22 @@ AppScan generated a spoiler description of the content of the iOS application HI
 **Custom keys:** 6
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 34
+- Tools: 12 lib(s)
 - Storage: 1 lib(s)
 - Network: 2 lib(s)
-- UI: 1 lib(s)
 - Logs: 1 lib(s)
-- Tools: 12 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -77,5 +69,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

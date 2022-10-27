@@ -3,14 +3,6 @@ title: "Veterinary Advisor: Dogs Cats (com.medpresso.Lonestar.cotecvadogcat)"
 permalink: /apps/ios/com.medpresso.Lonestar.cotecvadogcat.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/68/1f/45/681f4574-04b7-9519-d53e-c3919186b626/AppIcon-cotecvadogcat-0-1x_U007emarketing-0-4-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,16 +12,30 @@ AppScan generated a spoiler description of the content of the iOS application Ve
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/68/1f/45/681f4574-04b7-9519-d53e-c3919186b626/AppIcon-cotecvadogcat-0-1x_U007emarketing-0-4-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/68/1f/45/681f4574-04b7-9519-d53e-c3919186b626/AppIcon-cotecvadogcat-0-1x_U007emarketing-0-4-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Veterinary Advisor: Dogs Cats com.medpresso.Lonestar.cotecvadogcat app icon"></div></br>
   
-# Veterinary Advisor: Dogs Cats (com.medpresso.Lonestar.cotecvadogcat
+# Veterinary Advisor: Dogs Cats (com.medpresso.Lonestar.cotecvadogcat)
 
 **BundleId:** com.medpresso.Lonestar.cotecvadogcat
 **App Version:** 5.0.1
 **App Name:** Veterinary Advisor: Dogs Cats
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 3.98 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ve
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -47,7 +53,7 @@ FacebookLogin detected
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
@@ -61,5 +67,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

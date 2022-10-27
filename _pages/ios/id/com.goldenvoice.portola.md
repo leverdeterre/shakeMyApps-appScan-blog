@@ -3,14 +3,6 @@ title: "Portola Music Festival (com.goldenvoice.portola)"
 permalink: /apps/ios/com.goldenvoice.portola.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/f5/46/a0f54683-f0ee-cb90-4efd-4648ecf18065/AppIcon-0-0-1x_U007emarketing-0-0-0-2-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Po
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/f5/46/a0f54683-f0ee-cb90-4efd-4648ecf18065/AppIcon-0-0-1x_U007emarketing-0-0-0-2-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/f5/46/a0f54683-f0ee-cb90-4efd-4648ecf18065/AppIcon-0-0-1x_U007emarketing-0-0-0-2-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Portola Music Festival com.goldenvoice.portola app icon"></div></br>
   
-# Portola Music Festival (com.goldenvoice.portola
+# Portola Music Festival (com.goldenvoice.portola)
 
 **BundleId:** com.goldenvoice.portola
 **App Version:** 1.0.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Po
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Po
 **Custom keys:** 12
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -63,14 +55,14 @@ build using Xcode 13
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 23
 - Crash: 1 lib(s)
-- Tools: 6 lib(s)
-- Network: 3 lib(s)
 - Logs: 1 lib(s)
+- Network: 3 lib(s)
+- Tools: 6 lib(s)
 
 **Apple dylibs:**
 - libswiftARKit
@@ -145,5 +137,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

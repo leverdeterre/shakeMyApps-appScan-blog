@@ -3,14 +3,6 @@ title: "Mes datas et moi DEV (com.maif.mesdatasetmoi)"
 permalink: /apps/ios/com.maif.mesdatasetmoi.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/2a/26/ff/2a26ffa3-ff86-e99e-bcd8-b64bc10d31ba/AppIcon-1x_U007emarketing-0-6-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Me
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/2a/26/ff/2a26ffa3-ff86-e99e-bcd8-b64bc10d31ba/AppIcon-1x_U007emarketing-0-6-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/2a/26/ff/2a26ffa3-ff86-e99e-bcd8-b64bc10d31ba/AppIcon-1x_U007emarketing-0-6-85-220.png/512x512bb.jpg" width="100" height="100" alt="Mes datas et moi DEV com.maif.mesdatasetmoi app icon"></div></br>
   
-# Mes datas et moi DEV (com.maif.mesdatasetmoi
+# Mes datas et moi DEV (com.maif.mesdatasetmoi)
 
 **BundleId:** com.maif.mesdatasetmoi
 **App Version:** 1.3.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Me
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,12 +45,12 @@ AppScan generated a spoiler description of the content of the iOS application Me
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -71,5 +63,5 @@ AppScan generated a spoiler description of the content of the iOS application Me
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,26 +3,18 @@ title: "Pantaya (com.lionsgate.mucho-movies)"
 permalink: /apps/ios/com.lionsgate.mucho-movies.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/66/cb/3f/66cb3fc0-d4de-a77b-8c8a-655848c2d072/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/14/bd/9e/14bd9e35-df5f-c187-365e-dcf798f193ea/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/66/cb/3f/66cb3fc0-d4de-a77b-8c8a-655848c2d072/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/14/bd/9e/14bd9e35-df5f-c187-365e-dcf798f193ea/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Pantaya (com.lionsgate.mucho-movies). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/66/cb/3f/66cb3fc0-d4de-a77b-8c8a-655848c2d072/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/14/bd/9e/14bd9e35-df5f-c187-365e-dcf798f193ea/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Pantaya com.lionsgate.mucho-movies app icon"></div></br>
   
-# Pantaya (com.lionsgate.mucho-movies
+# Pantaya (com.lionsgate.mucho-movies)
 
 **BundleId:** com.lionsgate.mucho-movies
 **App Version:** 5.2.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 **Custom keys:** 21
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,15 +60,15 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 30
-- Crash: 1 lib(s)
-- Tools: 14 lib(s)
-- Tracking: 5 lib(s)
 - Network: 1 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 5 lib(s)
 - Logs: 1 lib(s)
+- Tools: 14 lib(s)
 
 **Apple dylibs:**
 
@@ -119,5 +111,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

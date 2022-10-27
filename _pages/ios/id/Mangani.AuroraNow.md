@@ -3,14 +3,6 @@ title: "AuroraNow (Mangani.AuroraNow)"
 permalink: /apps/ios/Mangani.AuroraNow.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/c0/a5/8f/c0a58f69-ccf4-c455-5a13-5fd8b9e46866/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Au
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/c0/a5/8f/c0a58f69-ccf4-c455-5a13-5fd8b9e46866/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/c0/a5/8f/c0a58f69-ccf4-c455-5a13-5fd8b9e46866/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/512x512bb.jpg" width="100" height="100" alt="AuroraNow Mangani.AuroraNow app icon"></div></br>
   
-# AuroraNow (Mangani.AuroraNow
+# AuroraNow (Mangani.AuroraNow)
 
 **BundleId:** Mangani.AuroraNow
 **App Version:** 1.3.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Au
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application Au
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -73,5 +65,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

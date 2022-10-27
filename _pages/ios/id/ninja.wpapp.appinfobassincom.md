@@ -3,14 +3,6 @@ title: "INFOBASSIN (ninja.wpapp.appinfobassincom)"
 permalink: /apps/ios/ninja.wpapp.appinfobassincom.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/e7/cc/8ee7ccfb-80dd-d57c-54a1-2f2e0e706f2e/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application IN
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/e7/cc/8ee7ccfb-80dd-d57c-54a1-2f2e0e706f2e/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/e7/cc/8ee7ccfb-80dd-d57c-54a1-2f2e0e706f2e/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="INFOBASSIN ninja.wpapp.appinfobassincom app icon"></div></br>
   
-# INFOBASSIN (ninja.wpapp.appinfobassincom
+# INFOBASSIN (ninja.wpapp.appinfobassincom)
 
 **BundleId:** ninja.wpapp.appinfobassincom
 **App Version:** 10.1645108820
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application IN
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application IN
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -72,5 +64,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

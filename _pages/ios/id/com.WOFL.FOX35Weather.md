@@ -3,14 +3,6 @@ title: "FOX 35 WX (com.WOFL.FOX35Weather)"
 permalink: /apps/ios/com.WOFL.FOX35Weather.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/41/47/a441478a-9f82-85d7-6b00-f445810f8fbd/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application FO
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/41/47/a441478a-9f82-85d7-6b00-f445810f8fbd/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a4/41/47/a441478a-9f82-85d7-6b00-f445810f8fbd/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="FOX 35 WX com.WOFL.FOX35Weather app icon"></div></br>
   
-# FOX 35 WX (com.WOFL.FOX35Weather
+# FOX 35 WX (com.WOFL.FOX35Weather)
 
 **BundleId:** com.WOFL.FOX35Weather
 **App Version:** 5.6.503
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application FO
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application FO
 **Custom keys:** 20
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,14 +54,14 @@ Native App
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 18
 - Tracking: 3 lib(s)
-- UI: 2 lib(s)
 - Crash: 1 lib(s)
 - Tools: 9 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -112,5 +104,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

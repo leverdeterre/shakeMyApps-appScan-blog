@@ -3,14 +3,6 @@ title: "Text Us (com.prettyboa.secondSMS)"
 permalink: /apps/ios/com.prettyboa.secondSMS.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/94/b0/67/94b0670b-bf29-bff7-22a2-06dd63a6c9a8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Te
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/94/b0/67/94b0670b-bf29-bff7-22a2-06dd63a6c9a8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/94/b0/67/94b0670b-bf29-bff7-22a2-06dd63a6c9a8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Text Us com.prettyboa.secondSMS app icon"></div></br>
   
-# Text Us (com.prettyboa.secondSMS
+# Text Us (com.prettyboa.secondSMS)
 
 **BundleId:** com.prettyboa.secondSMS
 **App Version:** 1.3.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Te
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Te
 **Custom keys:** 14
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,15 +56,15 @@ supported devices iPhone & iPad
 build using Xcode 13
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- Tools: 19 lib(s)
-- UI: 1 lib(s)
+- Network: 3 lib(s)
 - Tracking: 4 lib(s)
 - Crash: 1 lib(s)
-- Network: 3 lib(s)
+- Tools: 19 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -103,5 +95,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

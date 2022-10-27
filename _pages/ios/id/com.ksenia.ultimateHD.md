@@ -3,14 +3,6 @@ title: "Kamasutra Mastery (com.ksenia.ultimateHD)"
 permalink: /apps/ios/com.ksenia.ultimateHD.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/79/42/5b/79425b45-44f1-b85c-e56c-bf93dca9907d/mzl.reujzcle.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ka
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/79/42/5b/79425b45-44f1-b85c-e56c-bf93dca9907d/mzl.reujzcle.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/79/42/5b/79425b45-44f1-b85c-e56c-bf93dca9907d/mzl.reujzcle.png/512x512bb.jpg" width="100" height="100" alt="Kamasutra Mastery com.ksenia.ultimateHD app icon"></div></br>
   
-# Kamasutra Mastery (com.ksenia.ultimateHD
+# Kamasutra Mastery (com.ksenia.ultimateHD)
 
 **BundleId:** com.ksenia.ultimateHD
 **App Version:** 5.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ka
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application Ka
 **Custom keys:** 0
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -72,5 +64,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

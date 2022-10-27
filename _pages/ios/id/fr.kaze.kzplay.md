@@ -3,14 +3,6 @@ title: "ADN (fr.kaze.kzplay)"
 permalink: /apps/ios/fr.kaze.kzplay.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/93/b6/db/93b6db0c-f87e-8d21-7b0a-1bda7d39627e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application AD
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/93/b6/db/93b6db0c-f87e-8d21-7b0a-1bda7d39627e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/93/b6/db/93b6db0c-f87e-8d21-7b0a-1bda7d39627e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ADN fr.kaze.kzplay app icon"></div></br>
   
-# ADN (fr.kaze.kzplay
+# ADN (fr.kaze.kzplay)
 
 **BundleId:** fr.kaze.kzplay
 **App Version:** 7.8.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application AD
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application AD
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,15 +57,15 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
-- Tools: 13 lib(s)
-- Storage: 2 lib(s)
 - Network: 3 lib(s)
-- Tracking: 2 lib(s)
+- Storage: 2 lib(s)
+- Tools: 13 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -113,5 +105,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

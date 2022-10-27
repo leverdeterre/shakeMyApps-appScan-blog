@@ -3,14 +3,6 @@ title: "National Geographics (com.prismamedia.nationalgeographickiosk)"
 permalink: /apps/ios/com.prismamedia.nationalgeographickiosk.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/ba/4c/9fba4c2e-e218-6abc-7662-e4d34b1f7864/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Na
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/ba/4c/9fba4c2e-e218-6abc-7662-e4d34b1f7864/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/ba/4c/9fba4c2e-e218-6abc-7662-e4d34b1f7864/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="National Geographics com.prismamedia.nationalgeographickiosk app icon"></div></br>
   
-# National Geographics (com.prismamedia.nationalgeographickiosk
+# National Geographics (com.prismamedia.nationalgeographickiosk)
 
 **BundleId:** com.prismamedia.nationalgeographickiosk
 **App Version:** 6.2.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Na
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Na
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,13 +53,13 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Storage: 1 lib(s)
-- Tools: 7 lib(s)
 - Network: 2 lib(s)
+- Tools: 7 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -76,5 +68,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

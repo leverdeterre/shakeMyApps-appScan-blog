@@ -3,18 +3,10 @@ title: "Mon coach (fr.hatier.moncoachbescherelle)"
 permalink: /apps/ios/fr.hatier.moncoachbescherelle.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Mon coach (fr.hatier.moncoachbescherelle). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Mon coach (fr.hatier.moncoachbescherelle
+# Mon coach (fr.hatier.moncoachbescherelle)
 
 **BundleId:** fr.hatier.moncoachbescherelle
 **App Version:** 3.1.2
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Mo
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -55,17 +47,17 @@ Native App
 contains 1 App extensions
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 40
-- Tools: 13 lib(s)
+- Storage: 1 lib(s)
 - Tracking: 4 lib(s)
 - Logs: 1 lib(s)
-- UI: 5 lib(s)
 - Network: 3 lib(s)
 - Crash: 1 lib(s)
-- Storage: 1 lib(s)
+- Tools: 13 lib(s)
+- UI: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -127,5 +119,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

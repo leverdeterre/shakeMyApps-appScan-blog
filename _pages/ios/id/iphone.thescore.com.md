@@ -3,14 +3,6 @@ title: "theScore (iphone.thescore.com)"
 permalink: /apps/ios/iphone.thescore.com.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/ac/03/bcac0311-df01-bc3e-35ae-0eb539214e94/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application th
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/ac/03/bcac0311-df01-bc3e-35ae-0eb539214e94/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bc/ac/03/bcac0311-df01-bc3e-35ae-0eb539214e94/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="theScore iphone.thescore.com app icon"></div></br>
   
-# theScore (iphone.thescore.com
+# theScore (iphone.thescore.com)
 
 **BundleId:** iphone.thescore.com
 **App Version:** 22.13.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application th
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application th
 **Custom keys:** 19
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,17 +58,17 @@ contains 5 App extensions
 at least 1 entitlemented features (strong iOS integration)
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 68
-- Logs: 2 lib(s)
-- Network: 2 lib(s)
-- Storage: 1 lib(s)
-- UI: 4 lib(s)
-- Tracking: 7 lib(s)
-- Tools: 15 lib(s)
 - Crash: 1 lib(s)
+- UI: 4 lib(s)
+- Logs: 2 lib(s)
+- Tools: 15 lib(s)
+- Storage: 1 lib(s)
+- Network: 2 lib(s)
+- Tracking: 7 lib(s)
 
 **Apple dylibs:**
 
@@ -123,5 +115,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

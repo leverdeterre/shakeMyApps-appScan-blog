@@ -3,33 +3,39 @@ title: "Jack’d (com.gagediell.GageDiell)"
 permalink: /apps/ios/com.gagediell.GageDiell.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/8f/1a/788f1a88-f785-1ace-fa13-cff86f7d0418/JackdAppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/20/f4/1a20f47e-cfae-dbcc-36e6-76ea55f6a9be/JackdAppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/8f/1a/788f1a88-f785-1ace-fa13-cff86f7d0418/JackdAppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
+     overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/20/f4/1a20f47e-cfae-dbcc-36e6-76ea55f6a9be/JackdAppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application Jack’d (com.gagediell.GageDiell). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/8f/1a/788f1a88-f785-1ace-fa13-cff86f7d0418/JackdAppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1a/20/f4/1a20f47e-cfae-dbcc-36e6-76ea55f6a9be/JackdAppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Jack’d com.gagediell.GageDiell app icon"></div></br>
   
-# Jack’d (com.gagediell.GageDiell
+# Jack’d (com.gagediell.GageDiell)
 
 **BundleId:** com.gagediell.GageDiell
 **App Version:** 6.7400.0
 **App Name:** Jack’d
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.07 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ja
 **Custom keys:** 15
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -52,17 +58,17 @@ support multiple languages
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 79
-- UI: 8 lib(s)
-- Storage: 1 lib(s)
-- Logs: 1 lib(s)
-- Tools: 13 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 1 lib(s)
+- Logs: 1 lib(s)
+- UI: 8 lib(s)
+- Crash: 1 lib(s)
+- Storage: 1 lib(s)
 - Network: 3 lib(s)
+- Tools: 13 lib(s)
 
 **Apple dylibs:**
 
@@ -117,5 +123,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

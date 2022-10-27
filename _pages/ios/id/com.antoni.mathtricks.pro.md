@@ -3,14 +3,6 @@ title: "Math Tricks (com.antoni.mathtricks.pro)"
 permalink: /apps/ios/com.antoni.mathtricks.pro.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple82/v4/08/16/e7/0816e7f8-4d23-9cf0-1dcd-608fb50787d5/mzl.mtjzbanr.jpg/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ma
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple82/v4/08/16/e7/0816e7f8-4d23-9cf0-1dcd-608fb50787d5/mzl.mtjzbanr.jpg/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple82/v4/08/16/e7/0816e7f8-4d23-9cf0-1dcd-608fb50787d5/mzl.mtjzbanr.jpg/512x512bb.jpg" width="100" height="100" alt="Math Tricks com.antoni.mathtricks.pro app icon"></div></br>
   
-# Math Tricks (com.antoni.mathtricks.pro
+# Math Tricks (com.antoni.mathtricks.pro)
 
 **BundleId:** com.antoni.mathtricks.pro
 **App Version:** 1.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ma
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ma
 **Custom keys:** 1
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,7 +54,7 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 1
@@ -102,5 +94,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Count the Kicks (com.evidenceapps.countthekicks)"
 permalink: /apps/ios/com.evidenceapps.countthekicks.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/74/47/f674474a-98f8-49e7-d175-14ec509464b7/AppIcons-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Co
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/74/47/f674474a-98f8-49e7-d175-14ec509464b7/AppIcons-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f6/74/47/f674474a-98f8-49e7-d175-14ec509464b7/AppIcons-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Count the Kicks com.evidenceapps.countthekicks app icon"></div></br>
   
-# Count the Kicks (com.evidenceapps.countthekicks
+# Count the Kicks (com.evidenceapps.countthekicks)
 
 **BundleId:** com.evidenceapps.countthekicks
 **App Version:** 5.2.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Co
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,12 +57,12 @@ supported devices iPhone & iPad
 build using Xcode 13
 contains 1 App extensions
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-- Tracking: 1 lib(s)
 - Tools: 2 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -114,5 +106,5 @@ contains 1 App extensions
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

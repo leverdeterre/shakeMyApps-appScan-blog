@@ -3,33 +3,39 @@ title: "ZARA (com.inditex.zara.iphone)"
 permalink: /apps/ios/com.inditex.zara.iphone.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/01/ad/e401ad76-e34e-6977-0898-da1157d1eaa8/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/512x512bb.jpg
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/15/86/17/158617d4-4eda-41a0-6d1c-08291468040f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/01/ad/e401ad76-e34e-6977-0898-da1157d1eaa8/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/512x512bb.jpg
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/15/86/17/158617d4-4eda-41a0-6d1c-08291468040f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application ZARA (com.inditex.zara.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/e4/01/ad/e401ad76-e34e-6977-0898-da1157d1eaa8/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/15/86/17/158617d4-4eda-41a0-6d1c-08291468040f/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="ZARA com.inditex.zara.iphone app icon"></div></br>
   
-# ZARA (com.inditex.zara.iphone
+# ZARA (com.inditex.zara.iphone)
 
 **BundleId:** com.inditex.zara.iphone
 **App Version:** 11.45.0
 **App Name:** ZARA
 
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+## AppScore : 4.53 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -39,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application ZA
 **Custom keys:** 41
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -54,7 +60,7 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 18
@@ -119,5 +125,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "HRV (com.wms.hrv)"
 permalink: /apps/ios/com.wms.hrv.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1e/2e/44/1e2e44ad-f0be-fe9f-7297-13c20c631b34/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application HR
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1e/2e/44/1e2e44ad-f0be-fe9f-7297-13c20c631b34/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1e/2e/44/1e2e44ad-f0be-fe9f-7297-13c20c631b34/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="HRV com.wms.hrv app icon"></div></br>
   
-# HRV (com.wms.hrv
+# HRV (com.wms.hrv)
 
 **BundleId:** com.wms.hrv
 **App Version:** 1.2.8
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application HR
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application HR
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,14 +54,14 @@ Native App
 build using Xcode 13
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- Storage: 1 lib(s)
-- Tools: 4 lib(s)
-- Network: 1 lib(s)
 - UI: 3 lib(s)
+- Network: 1 lib(s)
+- Tools: 4 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -102,5 +94,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

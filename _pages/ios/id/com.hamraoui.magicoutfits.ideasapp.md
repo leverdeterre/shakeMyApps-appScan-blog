@@ -3,18 +3,10 @@ title: "Magic Toca : Outfit Ideas  (com.hamraoui.magicoutfits.ideasapp)"
 permalink: /apps/ios/com.hamraoui.magicoutfits.ideasapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Magic Toca : Outfit Ideas  (com.hamraoui.magicoutfits.ideasapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Magic Toca : Outfit Ideas  (com.hamraoui.magicoutfits.ideasapp
+# Magic Toca : Outfit Ideas  (com.hamraoui.magicoutfits.ideasapp)
 
 **BundleId:** com.hamraoui.magicoutfits.ideasapp
 **App Version:** 1.0.0
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Ma
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,14 +37,14 @@ AppScan generated a spoiler description of the content of the iOS application Ma
 **Custom keys:** 3
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 supported devices iPhone & iPad
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
@@ -65,5 +57,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

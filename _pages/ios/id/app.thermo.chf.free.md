@@ -3,14 +3,6 @@ title: "Thermometer Free (app.thermo.chf.free)"
 permalink: /apps/ios/app.thermo.chf.free.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/48/e1/b2/48e1b2a7-eda9-a15e-b2a2-c835479e6aed/mzl.adrtyszv.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Th
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/48/e1/b2/48e1b2a7-eda9-a15e-b2a2-c835479e6aed/mzl.adrtyszv.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/48/e1/b2/48e1b2a7-eda9-a15e-b2a2-c835479e6aed/mzl.adrtyszv.png/512x512bb.jpg" width="100" height="100" alt="Thermometer Free app.thermo.chf.free app icon"></div></br>
   
-# Thermometer Free (app.thermo.chf.free
+# Thermometer Free (app.thermo.chf.free)
 
 **BundleId:** app.thermo.chf.free
 **App Version:** 1.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Th
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Th
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,14 +53,14 @@ Native App
 supported devices iPhone & iPad
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- Network: 1 lib(s)
-- Storage: 1 lib(s)
 - UI: 2 lib(s)
 - Tools: 3 lib(s)
+- Network: 1 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -77,5 +69,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

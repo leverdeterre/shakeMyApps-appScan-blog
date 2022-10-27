@@ -3,14 +3,6 @@ title: "Mediterranean (com.nikita.yum)"
 permalink: /apps/ios/com.nikita.yum.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/63/22/05/63220546-750b-609c-41f1-eb1eff0d9830/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Me
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/63/22/05/63220546-750b-609c-41f1-eb1eff0d9830/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/63/22/05/63220546-750b-609c-41f1-eb1eff0d9830/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Mediterranean com.nikita.yum app icon"></div></br>
   
-# Mediterranean (com.nikita.yum
+# Mediterranean (com.nikita.yum)
 
 **BundleId:** com.nikita.yum
 **App Version:** 1.2
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Me
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Me
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,14 +53,14 @@ Number of entitlements detected: 3
 FacebookLogin detected
 Native App
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 23
-- UI: 3 lib(s)
 - Crash: 1 lib(s)
-- Network: 3 lib(s)
+- UI: 3 lib(s)
 - Tools: 11 lib(s)
+- Network: 3 lib(s)
 - Tracking: 2 lib(s)
 
 **Apple dylibs:**
@@ -97,5 +89,5 @@ Native App
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

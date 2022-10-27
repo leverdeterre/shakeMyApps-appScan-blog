@@ -3,14 +3,6 @@ title: "Pastel (com.highcaffeinecontent.pastel)"
 permalink: /apps/ios/com.highcaffeinecontent.pastel.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/85/0d/4d850da9-485d-3d1c-5a61-01306b4b3c22/AppIcon-0-1x_U007emarketing-0-0-0-4-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/85/0d/4d850da9-485d-3d1c-5a61-01306b4b3c22/AppIcon-0-1x_U007emarketing-0-0-0-4-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/85/0d/4d850da9-485d-3d1c-5a61-01306b4b3c22/AppIcon-0-1x_U007emarketing-0-0-0-4-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Pastel com.highcaffeinecontent.pastel app icon"></div></br>
   
-# Pastel (com.highcaffeinecontent.pastel
+# Pastel (com.highcaffeinecontent.pastel)
 
 **BundleId:** com.highcaffeinecontent.pastel
 **App Version:** 2.1.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pa
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,7 +58,7 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -97,5 +89,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

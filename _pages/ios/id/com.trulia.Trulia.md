@@ -3,14 +3,6 @@ title: "Trulia (com.trulia.Trulia)"
 permalink: /apps/ios/com.trulia.Trulia.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/b1/b1/fa/b1b1faa5-d6bd-14d9-8015-a1fd44e97c28/app-icon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/b1/b1/fa/b1b1faa5-d6bd-14d9-8015-a1fd44e97c28/app-icon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/b1/b1/fa/b1b1faa5-d6bd-14d9-8015-a1fd44e97c28/app-icon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Trulia com.trulia.Trulia app icon"></div></br>
   
-# Trulia (com.trulia.Trulia
+# Trulia (com.trulia.Trulia)
 
 **BundleId:** com.trulia.Trulia
 **App Version:** 14.5
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Tr
 **Custom keys:** 30
 **Low securit keys:** 6
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -69,16 +61,16 @@ SwiftUI
 Some shortcutItems 
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 50
-- Tracking: 6 lib(s)
-- Logs: 2 lib(s)
-- Crash: 1 lib(s)
 - Tools: 14 lib(s)
-- Network: 1 lib(s)
 - UI: 2 lib(s)
+- Crash: 1 lib(s)
+- Logs: 2 lib(s)
+- Tracking: 6 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -127,5 +119,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

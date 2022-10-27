@@ -3,14 +3,6 @@ title: "ScanGuru (com.sergey-gerasimenko.EasyDocScan)"
 permalink: /apps/ios/com.sergey-gerasimenko.EasyDocScan.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/3b/2c/e1/3b2ce10f-f351-5c03-4701-c4814c1c62bd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Sc
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/3b/2c/e1/3b2ce10f-f351-5c03-4701-c4814c1c62bd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/3b/2c/e1/3b2ce10f-f351-5c03-4701-c4814c1c62bd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ScanGuru com.sergey-gerasimenko.EasyDocScan app icon"></div></br>
   
-# ScanGuru (com.sergey-gerasimenko.EasyDocScan
+# ScanGuru (com.sergey-gerasimenko.EasyDocScan)
 
 **BundleId:** com.sergey-gerasimenko.EasyDocScan
 **App Version:** 2.18
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Sc
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Sc
 **Custom keys:** 13
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,14 +57,14 @@ build using Xcode 13
 support multiple languages
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- Tracking: 2 lib(s)
-- Tools: 8 lib(s)
 - Crash: 1 lib(s)
+- Tools: 8 lib(s)
 - UI: 2 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -126,5 +118,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

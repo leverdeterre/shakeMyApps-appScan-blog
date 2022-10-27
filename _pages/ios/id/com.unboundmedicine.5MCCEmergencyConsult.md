@@ -3,14 +3,6 @@ title: "Emergency (com.unboundmedicine.5MCCEmergencyConsult)"
 permalink: /apps/ios/com.unboundmedicine.5MCCEmergencyConsult.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/59/46/70/5946706e-7b21-b7c1-f9e2-81b5244ea96a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Em
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/59/46/70/5946706e-7b21-b7c1-f9e2-81b5244ea96a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/59/46/70/5946706e-7b21-b7c1-f9e2-81b5244ea96a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/512x512bb.jpg" width="100" height="100" alt="Emergency com.unboundmedicine.5MCCEmergencyConsult app icon"></div></br>
   
-# Emergency (com.unboundmedicine.5MCCEmergencyConsult
+# Emergency (com.unboundmedicine.5MCCEmergencyConsult)
 
 **BundleId:** com.unboundmedicine.5MCCEmergencyConsult
 **App Version:** 1.6
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Em
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,14 +45,14 @@ AppScan generated a spoiler description of the content of the iOS application Em
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 Native App
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 0
@@ -72,5 +64,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

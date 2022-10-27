@@ -3,14 +3,6 @@ title: "Ally (com.ally.MobileBanking)"
 permalink: /apps/ios/com.ally.MobileBanking.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bb/93/ca/bb93ca6b-ec84-92b1-7985-c0959b11a795/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Al
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bb/93/ca/bb93ca6b-ec84-92b1-7985-c0959b11a795/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bb/93/ca/bb93ca6b-ec84-92b1-7985-c0959b11a795/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ally com.ally.MobileBanking app icon"></div></br>
   
-# Ally (com.ally.MobileBanking
+# Ally (com.ally.MobileBanking)
 
 **BundleId:** com.ally.MobileBanking
 **App Version:** 22.09.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Al
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Al
 **Custom keys:** 14
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -67,14 +59,14 @@ at least 1 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
 - Logs: 1 lib(s)
 - UI: 2 lib(s)
-- Tools: 7 lib(s)
 - Tracking: 8 lib(s)
+- Tools: 7 lib(s)
 
 **Apple dylibs:**
 
@@ -128,5 +120,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

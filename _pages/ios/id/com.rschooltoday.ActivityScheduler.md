@@ -3,14 +3,6 @@ title: "ActivityScheduler (com.rschooltoday.ActivityScheduler)"
 permalink: /apps/ios/com.rschooltoday.ActivityScheduler.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/53/c1/c1/53c1c1de-b49b-9eaa-8afe-7e28bc17cf31/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ac
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/53/c1/c1/53c1c1de-b49b-9eaa-8afe-7e28bc17cf31/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/53/c1/c1/53c1c1de-b49b-9eaa-8afe-7e28bc17cf31/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="ActivityScheduler com.rschooltoday.ActivityScheduler app icon"></div></br>
   
-# ActivityScheduler (com.rschooltoday.ActivityScheduler
+# ActivityScheduler (com.rschooltoday.ActivityScheduler)
 
 **BundleId:** com.rschooltoday.ActivityScheduler
 **App Version:** 2.3.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ac
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ac
 **Custom keys:** 15
 **Low securit keys:** 3
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,16 +58,16 @@ supported devices iPhone & iPad
 build using Xcode 13
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 43
-- Tracking: 2 lib(s)
-- Tools: 16 lib(s)
 - Storage: 5 lib(s)
-- Crash: 1 lib(s)
+- Tools: 16 lib(s)
 - UI: 5 lib(s)
+- Tracking: 2 lib(s)
 - Network: 6 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -137,5 +129,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

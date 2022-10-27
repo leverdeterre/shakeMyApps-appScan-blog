@@ -3,14 +3,6 @@ title: "KANDY Magazine (com.kandymag.kandymagazine)"
 permalink: /apps/ios/com.kandymag.kandymagazine.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/39/e2/e939e20e-25ff-40ee-439b-ce7ff9b5b31d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application KA
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/39/e2/e939e20e-25ff-40ee-439b-ce7ff9b5b31d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/39/e2/e939e20e-25ff-40ee-439b-ce7ff9b5b31d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="KANDY Magazine com.kandymag.kandymagazine app icon"></div></br>
   
-# KANDY Magazine (com.kandymag.kandymagazine
+# KANDY Magazine (com.kandymag.kandymagazine)
 
 **BundleId:** com.kandymag.kandymagazine
 **App Version:** 11.2.7
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application KA
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application KA
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -64,16 +56,16 @@ supported devices iPhone & iPad
 contains 1 App extensions
 support multiple languages
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 48
-- Network: 2 lib(s)
-- Tracking: 1 lib(s)
-- Logs: 2 lib(s)
 - Storage: 1 lib(s)
-- Tools: 7 lib(s)
 - UI: 5 lib(s)
+- Network: 2 lib(s)
+- Logs: 2 lib(s)
+- Tools: 7 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 
@@ -104,5 +96,5 @@ support multiple languages
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

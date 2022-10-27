@@ -3,18 +3,10 @@ title: "Clind (io.clind.welcome)"
 permalink: /apps/ios/io.clind.welcome.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Clind (io.clind.welcome). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Clind (io.clind.welcome
+# Clind (io.clind.welcome)
 
 **BundleId:** io.clind.welcome
 **App Version:** 2.1.10
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Cl
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,7 +37,7 @@ AppScan generated a spoiler description of the content of the iOS application Cl
 **Custom keys:** 19
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -53,15 +45,15 @@ Number of entitlements detected: 6
 contains 3 App extensions
 at least 2 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 79
 - Network: 3 lib(s)
+- Logs: 1 lib(s)
+- Tracking: 1 lib(s)
 - Tools: 15 lib(s)
 - Crash: 1 lib(s)
-- Tracking: 1 lib(s)
-- Logs: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -131,5 +123,5 @@ at least 2 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Balance (com.elevateapp.kamino.kamino)"
 permalink: /apps/ios/com.elevateapp.kamino.kamino.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/d0/3e/0fd03e91-9d0d-8546-f44f-bd130228dfc0/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/d0/3e/0fd03e91-9d0d-8546-f44f-bd130228dfc0/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/d0/3e/0fd03e91-9d0d-8546-f44f-bd130228dfc0/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Balance com.elevateapp.kamino.kamino app icon"></div></br>
   
-# Balance (com.elevateapp.kamino.kamino
+# Balance (com.elevateapp.kamino.kamino)
 
 **BundleId:** com.elevateapp.kamino.kamino
 **App Version:** 1.64.1
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Ba
 **Custom keys:** 11
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,12 +58,12 @@ at least 2 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- Tools: 9 lib(s)
 - Network: 1 lib(s)
+- Tools: 9 lib(s)
 - Tracking: 2 lib(s)
 
 **Apple dylibs:**
@@ -117,5 +109,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

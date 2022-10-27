@@ -3,14 +3,6 @@ title: "Studin (fr.studin.app)"
 permalink: /apps/ios/fr.studin.app.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/42/cc/99/42cc99d2-276a-915d-2560-dbba10378d10/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application St
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/42/cc/99/42cc99d2-276a-915d-2560-dbba10378d10/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/42/cc/99/42cc99d2-276a-915d-2560-dbba10378d10/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Studin fr.studin.app app icon"></div></br>
   
-# Studin (fr.studin.app
+# Studin (fr.studin.app)
 
 **BundleId:** fr.studin.app
 **App Version:** 0.17
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application St
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application St
 **Custom keys:** 7
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -62,15 +54,15 @@ FacebookLogin detected
 GoogleLogin detected
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 45
+- Storage: 3 lib(s)
 - UI: 1 lib(s)
-- Tracking: 3 lib(s)
 - Network: 4 lib(s)
 - Tools: 16 lib(s)
-- Storage: 3 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
@@ -109,5 +101,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,14 +3,6 @@ title: "Plan! (Soft-For-Pleasure.Plan)"
 permalink: /apps/ios/Soft-For-Pleasure.Plan.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/2c/84/fb2c8465-5efa-5862-715c-a6a2e0b3edc2/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Pl
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/2c/84/fb2c8465-5efa-5862-715c-a6a2e0b3edc2/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/2c/84/fb2c8465-5efa-5862-715c-a6a2e0b3edc2/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Plan! Soft-For-Pleasure.Plan app icon"></div></br>
   
-# Plan! (Soft-For-Pleasure.Plan
+# Plan! (Soft-For-Pleasure.Plan)
 
 **BundleId:** Soft-For-Pleasure.Plan
 **App Version:** 1.713
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Pl
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Pl
 **Custom keys:** 8
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -65,14 +57,14 @@ contains 3 App extensions
 support multiple languages
 at least 1 entitlemented features (strong iOS integration)
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
 - UI: 1 lib(s)
+- Tools: 10 lib(s)
 - Tracking: 1 lib(s)
 - Crash: 1 lib(s)
-- Tools: 10 lib(s)
 - Storage: 3 lib(s)
 
 **Apple dylibs:**
@@ -106,5 +98,5 @@ at least 1 entitlemented features (strong iOS integration)
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

@@ -3,18 +3,10 @@ title: "Smart Mongo (com.yeyuanzhisen.smartMongoLite)"
 permalink: /apps/ios/com.yeyuanzhisen.smartMongoLite.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 ---
 AppScan generated a spoiler description of the content of the iOS application Smart Mongo (com.yeyuanzhisen.smartMongoLite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
-# Smart Mongo (com.yeyuanzhisen.smartMongoLite
+# Smart Mongo (com.yeyuanzhisen.smartMongoLite)
 
 **BundleId:** com.yeyuanzhisen.smartMongoLite
 **App Version:** 1.0.5
@@ -35,7 +27,7 @@ AppScan generated a spoiler description of the content of the iOS application Sm
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -45,13 +37,13 @@ AppScan generated a spoiler description of the content of the iOS application Sm
 **Custom keys:** 0
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
 supported devices iPhone & iPad
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
@@ -65,5 +57,5 @@ supported devices iPhone & iPad
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

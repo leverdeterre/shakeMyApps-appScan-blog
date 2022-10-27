@@ -3,14 +3,6 @@ title: "Km for Change (fr.hellochange.kmforchange)"
 permalink: /apps/ios/fr.hellochange.kmforchange.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/fe/7f/aefe7f81-a564-773b-e3d3-2856fbf39661/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Km
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/fe/7f/aefe7f81-a564-773b-e3d3-2856fbf39661/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/fe/7f/aefe7f81-a564-773b-e3d3-2856fbf39661/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Km for Change fr.hellochange.kmforchange app icon"></div></br>
   
-# Km for Change (fr.hellochange.kmforchange
+# Km for Change (fr.hellochange.kmforchange)
 
 **BundleId:** fr.hellochange.kmforchange
 **App Version:** 2.5.3
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Km
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Km
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,17 +53,17 @@ Number of entitlements detected: 3
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- Logs: 1 lib(s)
-- Storage: 3 lib(s)
-- UI: 2 lib(s)
 - Tracking: 2 lib(s)
+- Storage: 3 lib(s)
 - Crash: 1 lib(s)
-- Network: 2 lib(s)
 - Tools: 14 lib(s)
+- Network: 2 lib(s)
+- Logs: 1 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -101,5 +93,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

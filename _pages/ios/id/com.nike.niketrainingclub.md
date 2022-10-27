@@ -3,14 +3,6 @@ title: "NTC (com.nike.niketrainingclub)"
 permalink: /apps/ios/com.nike.niketrainingclub.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a3/09/5e/a3095efe-a293-c051-417c-f60c5c81909f/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application NT
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a3/09/5e/a3095efe-a293-c051-417c-f60c5c81909f/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a3/09/5e/a3095efe-a293-c051-417c-f60c5c81909f/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="NTC com.nike.niketrainingclub app icon"></div></br>
   
-# NTC (com.nike.niketrainingclub
+# NTC (com.nike.niketrainingclub)
 
 **BundleId:** com.nike.niketrainingclub
 **App Version:** 6.38.0
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application NT
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application NT
 **Custom keys:** 25
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -66,15 +58,15 @@ support multiple languages
 at least 3 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 73
-- Tools: 1 lib(s)
-- Network: 4 lib(s)
 - Tracking: 2 lib(s)
-- Storage: 2 lib(s)
+- Network: 4 lib(s)
 - UI: 2 lib(s)
+- Tools: 1 lib(s)
+- Storage: 2 lib(s)
 
 **Apple dylibs:**
 
@@ -119,5 +111,5 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

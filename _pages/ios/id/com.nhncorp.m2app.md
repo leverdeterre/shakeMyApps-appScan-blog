@@ -3,26 +3,18 @@ title: "BAND (com.nhncorp.m2app)"
 permalink: /apps/ios/com.nhncorp.m2app.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
-image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/e6/be/f4e6be91-eb3c-eaa6-0625-55fae1f0e179/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg
+image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/23/05/a6230541-b513-3a09-bb1a-544cae5b57f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/e6/be/f4e6be91-eb3c-eaa6-0625-55fae1f0e179/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg
+     overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/23/05/a6230541-b513-3a09-bb1a-544cae5b57f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg
 ---
 AppScan generated a spoiler description of the content of the iOS application BAND (com.nhncorp.m2app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/e6/be/f4e6be91-eb3c-eaa6-0625-55fae1f0e179/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/23/05/a6230541-b513-3a09-bb1a-544cae5b57f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="BAND com.nhncorp.m2app app icon"></div></br>
   
-# BAND (com.nhncorp.m2app
+# BAND (com.nhncorp.m2app)
 
 **BundleId:** com.nhncorp.m2app
 **App Version:** 9.0.21
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application BA
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application BA
 **Custom keys:** 26
 **Low securit keys:** 2
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -68,15 +60,15 @@ at least 3 entitlemented features (strong iOS integration)
 SwiftUI
 Some userActivityTypes
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 72
-- Storage: 1 lib(s)
-- Tracking: 2 lib(s)
-- Tools: 16 lib(s)
 - Network: 3 lib(s)
+- Tracking: 2 lib(s)
+- Storage: 1 lib(s)
 - UI: 6 lib(s)
+- Tools: 16 lib(s)
 
 **Apple dylibs:**
 
@@ -143,5 +135,5 @@ Some userActivityTypes
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 

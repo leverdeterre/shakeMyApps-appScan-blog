@@ -3,14 +3,6 @@ title: "Locksie (locksiebundapp)"
 permalink: /apps/ios/locksiebundapp.html
 layout: single
 author_profile: false
-categories: 
-  - ios app 
-  - Product 
-
-tags: 
-  - ios app 
-  - Product 
-
 image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/16/4c/6b/164c6b55-5b63-b2c6-bf6f-1dd1bc2fefca/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
 header: 
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -20,9 +12,9 @@ AppScan generated a spoiler description of the content of the iOS application Lo
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/16/4c/6b/164c6b55-5b63-b2c6-bf6f-1dd1bc2fefca/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100"></div>  
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/16/4c/6b/164c6b55-5b63-b2c6-bf6f-1dd1bc2fefca/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Locksie locksiebundapp app icon"></div></br>
   
-# Locksie (locksiebundapp
+# Locksie (locksiebundapp)
 
 **BundleId:** locksiebundapp
 **App Version:** 1.4
@@ -43,7 +35,7 @@ AppScan generated a spoiler description of the content of the iOS application Lo
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info .align-center}  
+[Get more details](/pricing.html){: .btn .btn--info}  
   
 ## AppScan informations 
 
@@ -53,7 +45,7 @@ AppScan generated a spoiler description of the content of the iOS application Lo
 **Custom keys:** 4
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Cool Facts
 
@@ -61,7 +53,7 @@ Number of entitlements detected: 3
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
 ## Librairies 
 **Number of Third Party Library detected:** 2
@@ -86,5 +78,5 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info .align-center}
+[Get more details](/pricing.html){: .btn .btn--info}
 
