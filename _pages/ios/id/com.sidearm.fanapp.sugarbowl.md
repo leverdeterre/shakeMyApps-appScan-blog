@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/4f/e6/d04fe663-06f8-6c76-51ab-dad52b989513/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Sugar Bowl (com.sidearm.fanapp.sugarbowl). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Sugar Bowl (com.sidearm.fanapp.sugarbowl). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/4f/e6/d04fe663-06f8-6c76-51ab-dad52b989513/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sugar Bowl com.sidearm.fanapp.sugarbowl app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/4f/e6/d04fe663-06f8-6c76-51ab-dad52b989513/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sugar Bowl com.sidearm.fanapp.sugarbowl app icon"></div>  
   
 # Sugar Bowl (com.sidearm.fanapp.sugarbowl)
 
@@ -60,11 +60,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
+- UI: 1 lib(s)
 - Network: 1 lib(s)
-- Tracking: 1 lib(s)
 - Logs: 1 lib(s)
 - Tools: 9 lib(s)
-- UI: 1 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 

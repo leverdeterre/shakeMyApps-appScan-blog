@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/b2/8e/a2/b28ea2e6-e32a-f2a1-f695-d0b41f0c2879/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Español (com.nemoapps.spanishfree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Español (com.nemoapps.spanishfree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/b2/8e/a2/b28ea2e6-e32a-f2a1-f695-d0b41f0c2879/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="Español com.nemoapps.spanishfree app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/b2/8e/a2/b28ea2e6-e32a-f2a1-f695-d0b41f0c2879/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="Español com.nemoapps.spanishfree app icon"></div>  
   
 # Español (com.nemoapps.spanishfree)
 

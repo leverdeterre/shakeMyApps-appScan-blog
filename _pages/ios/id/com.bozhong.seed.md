@@ -4,7 +4,7 @@ permalink: /apps/ios/com.bozhong.seed.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application BoZone (com.bozhong.seed). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application BoZone (com.bozhong.seed). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # BoZone (com.bozhong.seed)
 
@@ -53,8 +53,8 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-- Tools: 2 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

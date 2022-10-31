@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/34/df/f434df12-f2ba-569e-1a79-230e0b8c3d17/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Zello (com.zello.client.main). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Zello (com.zello.client.main). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/34/df/f434df12-f2ba-569e-1a79-230e0b8c3d17/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Zello com.zello.client.main app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/34/df/f434df12-f2ba-569e-1a79-230e0b8c3d17/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Zello com.zello.client.main app icon"></div>  
   
 # Zello (com.zello.client.main)
 
@@ -61,12 +61,12 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 30
-- Crash: 1 lib(s)
 - Tools: 10 lib(s)
-- UI: 5 lib(s)
-- Logs: 1 lib(s)
+- Crash: 1 lib(s)
 - Network: 2 lib(s)
 - Tracking: 3 lib(s)
+- UI: 5 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 

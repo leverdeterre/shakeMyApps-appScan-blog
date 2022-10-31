@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/cf/b8/d0/cfb8d0cd-575a-6c80-769e-b2c2dbe9b435/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Jetcost (com.jetcost.jetcost). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Jetcost (com.jetcost.jetcost). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/cf/b8/d0/cfb8d0cd-575a-6c80-769e-b2c2dbe9b435/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Jetcost com.jetcost.jetcost app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/cf/b8/d0/cfb8d0cd-575a-6c80-769e-b2c2dbe9b435/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Jetcost com.jetcost.jetcost app icon"></div>  
   
 # Jetcost (com.jetcost.jetcost)
 
@@ -64,8 +64,8 @@ SwiftUI
 **Number of Third Party Library detected:** 43
 - Tools: 14 lib(s)
 - Tracking: 2 lib(s)
-- UI: 4 lib(s)
 - Network: 4 lib(s)
+- UI: 4 lib(s)
 - Crash: 1 lib(s)
 
 **Apple dylibs:**

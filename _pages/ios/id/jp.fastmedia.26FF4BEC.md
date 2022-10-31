@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/ed/f3/c3edf381-007d-e953-327b-dcaa32e66689/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application 土井善晴の和食 (jp.fastmedia.26FF4BEC). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 土井善晴の和食 (jp.fastmedia.26FF4BEC). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/ed/f3/c3edf381-007d-e953-327b-dcaa32e66689/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="土井善晴の和食 jp.fastmedia.26FF4BEC app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c3/ed/f3/c3edf381-007d-e953-327b-dcaa32e66689/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="土井善晴の和食 jp.fastmedia.26FF4BEC app icon"></div>  
   
 # 土井善晴の和食 (jp.fastmedia.26FF4BEC)
 

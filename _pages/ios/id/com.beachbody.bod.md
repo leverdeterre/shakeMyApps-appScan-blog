@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/30/44/c4/3044c402-16b4-4b17-ecce-1d57da5beb69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Beachbody On Demand (com.beachbody.bod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Beachbody On Demand (com.beachbody.bod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/30/44/c4/3044c402-16b4-4b17-ecce-1d57da5beb69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Beachbody On Demand com.beachbody.bod app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/30/44/c4/3044c402-16b4-4b17-ecce-1d57da5beb69/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Beachbody On Demand com.beachbody.bod app icon"></div>  
   
 # Beachbody On Demand (com.beachbody.bod)
 
@@ -65,11 +65,11 @@ Some shortcutItems
 ## Librairies 
 **Number of Third Party Library detected:** 37
 - Network: 1 lib(s)
-- Crash: 1 lib(s)
-- Tools: 19 lib(s)
-- Logs: 1 lib(s)
-- Tracking: 2 lib(s)
 - UI: 3 lib(s)
+- Tracking: 2 lib(s)
+- Crash: 1 lib(s)
+- Logs: 1 lib(s)
+- Tools: 19 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/96/9d/cd969d18-086e-b3ff-f53c-a2e4e8992ba5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Amazon A to Z (com.amazon.EmployeeSelfServiceMobileIOS). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Amazon A to Z (com.amazon.EmployeeSelfServiceMobileIOS). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/96/9d/cd969d18-086e-b3ff-f53c-a2e4e8992ba5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Amazon A to Z com.amazon.EmployeeSelfServiceMobileIOS app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/96/9d/cd969d18-086e-b3ff-f53c-a2e4e8992ba5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Amazon A to Z com.amazon.EmployeeSelfServiceMobileIOS app icon"></div>  
   
 # Amazon A to Z (com.amazon.EmployeeSelfServiceMobileIOS)
 
@@ -59,10 +59,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 409
-- Tools: 12 lib(s)
-- Logs: 1 lib(s)
-- Network: 2 lib(s)
 - Tracking: 1 lib(s)
+- Network: 2 lib(s)
+- Logs: 1 lib(s)
+- Tools: 12 lib(s)
 
 **Apple dylibs:**
 

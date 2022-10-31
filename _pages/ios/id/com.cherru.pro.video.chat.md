@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/85/92/46/859246ec-5b4e-c0c8-33a3-96221d3c32c3/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application CherrU Pro (com.cherru.pro.video.chat). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application CherrU Pro (com.cherru.pro.video.chat). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/85/92/46/859246ec-5b4e-c0c8-33a3-96221d3c32c3/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="CherrU Pro com.cherru.pro.video.chat app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/85/92/46/859246ec-5b4e-c0c8-33a3-96221d3c32c3/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="CherrU Pro com.cherru.pro.video.chat app icon"></div>  
   
 # CherrU Pro (com.cherru.pro.video.chat)
 
@@ -62,11 +62,11 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 58
+- Tracking: 1 lib(s)
+- Tools: 17 lib(s)
+- Network: 6 lib(s)
 - Logs: 1 lib(s)
 - UI: 3 lib(s)
-- Tracking: 1 lib(s)
-- Network: 6 lib(s)
-- Tools: 17 lib(s)
 - Storage: 3 lib(s)
 
 **Apple dylibs:**

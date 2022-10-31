@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/13/fc/5e/13fc5efc-92ef-50af-9a3b-ccf8aad44190/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application S2 Pass (com.s2pass.s2pass). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application S2 Pass (com.s2pass.s2pass). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/13/fc/5e/13fc5efc-92ef-50af-9a3b-ccf8aad44190/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="S2 Pass com.s2pass.s2pass app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/13/fc/5e/13fc5efc-92ef-50af-9a3b-ccf8aad44190/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="S2 Pass com.s2pass.s2pass app icon"></div>  
   
 # S2 Pass (com.s2pass.s2pass)
 
@@ -60,8 +60,8 @@ at least 2 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 13
 - Tools: 8 lib(s)
-- Storage: 1 lib(s)
 - Network: 3 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 

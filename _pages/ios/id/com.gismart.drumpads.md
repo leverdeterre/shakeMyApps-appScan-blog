@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/b2/b8/ebb2b83d-dc23-da63-970c-374681fcad1b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Beat Maker Go (com.gismart.drumpads). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Beat Maker Go (com.gismart.drumpads). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/b2/b8/ebb2b83d-dc23-da63-970c-374681fcad1b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Beat Maker Go com.gismart.drumpads app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/eb/b2/b8/ebb2b83d-dc23-da63-970c-374681fcad1b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Beat Maker Go com.gismart.drumpads app icon"></div>  
   
 # Beat Maker Go (com.gismart.drumpads)
 
@@ -65,12 +65,12 @@ Some shortcutItems
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
+- Tools: 24 lib(s)
+- UI: 2 lib(s)
 - Tracking: 5 lib(s)
 - Network: 2 lib(s)
-- Crash: 2 lib(s)
-- UI: 2 lib(s)
 - Storage: 2 lib(s)
-- Tools: 24 lib(s)
+- Crash: 2 lib(s)
 
 **Apple dylibs:**
 

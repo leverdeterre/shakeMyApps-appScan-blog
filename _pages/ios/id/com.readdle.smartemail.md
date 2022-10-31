@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/6d/24/2d6d2470-ef6a-36a7-327e-61c568e4a364/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Spark (com.readdle.smartemail). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Spark (com.readdle.smartemail). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/6d/24/2d6d2470-ef6a-36a7-327e-61c568e4a364/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Spark com.readdle.smartemail app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/6d/24/2d6d2470-ef6a-36a7-327e-61c568e4a364/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Spark com.readdle.smartemail app icon"></div>  
   
 # Spark (com.readdle.smartemail)
 
@@ -64,10 +64,10 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 68
-- Network: 3 lib(s)
-- Storage: 1 lib(s)
-- Tools: 7 lib(s)
 - UI: 1 lib(s)
+- Tools: 7 lib(s)
+- Storage: 1 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 

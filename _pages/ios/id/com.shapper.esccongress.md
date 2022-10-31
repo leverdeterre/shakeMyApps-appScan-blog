@@ -4,7 +4,7 @@ permalink: /apps/ios/com.shapper.esccongress.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application ESC Congress 2022 (com.shapper.esccongress). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application ESC Congress 2022 (com.shapper.esccongress). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # ESC Congress 2022 (com.shapper.esccongress)
 

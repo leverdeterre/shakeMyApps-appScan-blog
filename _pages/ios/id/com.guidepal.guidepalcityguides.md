@@ -4,7 +4,7 @@ permalink: /apps/ios/com.guidepal.guidepalcityguides.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application GuidePal (com.guidepal.guidepalcityguides). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application GuidePal (com.guidepal.guidepalcityguides). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # GuidePal (com.guidepal.guidepalcityguides)
 
@@ -49,9 +49,9 @@ supported devices iPhone & iPad
 
 ## Librairies 
 **Number of Third Party Library detected:** 104
-- Logs: 2 lib(s)
 - Tools: 12 lib(s)
 - UI: 1 lib(s)
+- Logs: 2 lib(s)
 - Tracking: 4 lib(s)
 
 **Apple dylibs:**

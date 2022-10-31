@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/db/3c/c0/db3cc016-ef5a-9d62-e8c1-d6cd73041b4b/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application OpenDocumentReader Lite (at.tomtasche.reader.lite1). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application OpenDocumentReader Lite (at.tomtasche.reader.lite1). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/db/3c/c0/db3cc016-ef5a-9d62-e8c1-d6cd73041b4b/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="OpenDocumentReader Lite at.tomtasche.reader.lite1 app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/db/3c/c0/db3cc016-ef5a-9d62-e8c1-d6cd73041b4b/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="OpenDocumentReader Lite at.tomtasche.reader.lite1 app icon"></div>  
   
 # OpenDocumentReader Lite (at.tomtasche.reader.lite1)
 
@@ -61,8 +61,8 @@ support multiple languages
 **Number of Third Party Library detected:** 17
 - Tracking: 2 lib(s)
 - Tools: 7 lib(s)
-- Crash: 1 lib(s)
 - Storage: 1 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 

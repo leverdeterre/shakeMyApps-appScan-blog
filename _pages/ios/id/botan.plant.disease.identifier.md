@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/73/ea/d373ea47-f82d-5deb-8af8-e9d399036b1a/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Botan (botan.plant.disease.identifier). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Botan (botan.plant.disease.identifier). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/73/ea/d373ea47-f82d-5deb-8af8-e9d399036b1a/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Botan botan.plant.disease.identifier app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/d3/73/ea/d373ea47-f82d-5deb-8af8-e9d399036b1a/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Botan botan.plant.disease.identifier app icon"></div>  
   
 # Botan (botan.plant.disease.identifier)
 
@@ -60,11 +60,11 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
-- Tracking: 5 lib(s)
-- Network: 3 lib(s)
 - Storage: 1 lib(s)
-- Tools: 12 lib(s)
+- Tracking: 5 lib(s)
 - UI: 3 lib(s)
+- Tools: 12 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 

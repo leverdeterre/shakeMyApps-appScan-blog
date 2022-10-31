@@ -4,7 +4,7 @@ permalink: /apps/ios/com.yahoo.atom.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application News Digest (com.yahoo.atom). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application News Digest (com.yahoo.atom). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # News Digest (com.yahoo.atom)
 

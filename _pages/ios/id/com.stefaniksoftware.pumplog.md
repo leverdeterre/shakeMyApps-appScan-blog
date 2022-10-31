@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/8e/02/a38e0280-f0bf-6fa0-6624-cc8cf037f28a/AppIcon-1x_U007emarketing-3-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Pump Log (com.stefaniksoftware.pumplog). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Pump Log (com.stefaniksoftware.pumplog). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/8e/02/a38e0280-f0bf-6fa0-6624-cc8cf037f28a/AppIcon-1x_U007emarketing-3-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Pump Log com.stefaniksoftware.pumplog app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/8e/02/a38e0280-f0bf-6fa0-6624-cc8cf037f28a/AppIcon-1x_U007emarketing-3-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Pump Log com.stefaniksoftware.pumplog app icon"></div>  
   
 # Pump Log (com.stefaniksoftware.pumplog)
 

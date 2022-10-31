@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/c4/52/76/c45276a7-8915-819a-3d05-46dc94ef7c55/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application UX Reference (KieransComponents.UX-Masterclass). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application UX Reference (KieransComponents.UX-Masterclass). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/c4/52/76/c45276a7-8915-819a-3d05-46dc94ef7c55/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="UX Reference KieransComponents.UX-Masterclass app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/c4/52/76/c45276a7-8915-819a-3d05-46dc94ef7c55/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="UX Reference KieransComponents.UX-Masterclass app icon"></div>  
   
 # UX Reference (KieransComponents.UX-Masterclass)
 

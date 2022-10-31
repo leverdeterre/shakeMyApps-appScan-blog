@@ -4,7 +4,7 @@ permalink: /apps/ios/com.appcarslimited.junovpn.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Juno VPN (com.appcarslimited.junovpn). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Juno VPN (com.appcarslimited.junovpn). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Juno VPN (com.appcarslimited.junovpn)
 
@@ -50,11 +50,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 23
-- Storage: 1 lib(s)
 - Network: 3 lib(s)
-- UI: 3 lib(s)
-- Tools: 9 lib(s)
 - Tracking: 2 lib(s)
+- Storage: 1 lib(s)
+- Tools: 9 lib(s)
+- UI: 3 lib(s)
 - Crash: 1 lib(s)
 
 **Apple dylibs:**

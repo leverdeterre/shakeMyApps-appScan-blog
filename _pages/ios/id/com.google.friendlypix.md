@@ -4,7 +4,7 @@ permalink: /apps/ios/com.google.friendlypix.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application FriendlyPix (com.google.friendlypix). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application FriendlyPix (com.google.friendlypix). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # FriendlyPix (com.google.friendlypix)
 
@@ -51,10 +51,10 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 18
-- UI: 1 lib(s)
-- Network: 1 lib(s)
 - Tools: 10 lib(s)
 - Storage: 3 lib(s)
+- UI: 1 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

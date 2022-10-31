@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple60/v4/11/ff/25/11ff25f9-ac26-1668-09a9-9f26ba09fe0f/mzl.zestoszy.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Dinosaur (com.moomoolab.aw5). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Dinosaur (com.moomoolab.aw5). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple60/v4/11/ff/25/11ff25f9-ac26-1668-09a9-9f26ba09fe0f/mzl.zestoszy.png/512x512bb.jpg" width="100" height="100" alt="Dinosaur com.moomoolab.aw5 app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple60/v4/11/ff/25/11ff25f9-ac26-1668-09a9-9f26ba09fe0f/mzl.zestoszy.png/512x512bb.jpg" width="100" height="100" alt="Dinosaur com.moomoolab.aw5 app icon"></div>  
   
 # Dinosaur (com.moomoolab.aw5)
 

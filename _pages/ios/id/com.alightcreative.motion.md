@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1f/3d/8e/1f3d8ea4-d0af-b2b2-96cf-86e2645528ff/AppIcon-0-0-1x_U007emarketing-0-4-0-0-0-85-220-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Alight Motion (com.alightcreative.motion). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Alight Motion (com.alightcreative.motion). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1f/3d/8e/1f3d8ea4-d0af-b2b2-96cf-86e2645528ff/AppIcon-0-0-1x_U007emarketing-0-4-0-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Alight Motion com.alightcreative.motion app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1f/3d/8e/1f3d8ea4-d0af-b2b2-96cf-86e2645528ff/AppIcon-0-0-1x_U007emarketing-0-4-0-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Alight Motion com.alightcreative.motion app icon"></div>  
   
 # Alight Motion (com.alightcreative.motion)
 

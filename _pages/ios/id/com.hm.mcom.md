@@ -4,7 +4,7 @@ permalink: /apps/ios/com.hm.mcom.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application H&M (com.hm.mcom). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application H&M (com.hm.mcom). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # H&M (com.hm.mcom)
 
@@ -52,10 +52,10 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 6
+- Network: 1 lib(s)
+- UI: 1 lib(s)
 - Tracking: 1 lib(s)
 - Tools: 1 lib(s)
-- UI: 1 lib(s)
-- Network: 1 lib(s)
 
 **Apple dylibs:**
 

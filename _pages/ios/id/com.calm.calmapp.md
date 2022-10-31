@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/03/1f/6d/031f6ded-a2ad-4979-c927-b399afebb632/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Calm (com.calm.calmapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Calm (com.calm.calmapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/03/1f/6d/031f6ded-a2ad-4979-c927-b399afebb632/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Calm com.calm.calmapp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/03/1f/6d/031f6ded-a2ad-4979-c927-b399afebb632/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Calm com.calm.calmapp app icon"></div>  
   
 # Calm (com.calm.calmapp)
 
@@ -64,10 +64,10 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
-- UI: 2 lib(s)
-- Tools: 7 lib(s)
 - Tracking: 1 lib(s)
 - Network: 1 lib(s)
+- UI: 2 lib(s)
+- Tools: 7 lib(s)
 
 **Apple dylibs:**
 

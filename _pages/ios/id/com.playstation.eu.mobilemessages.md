@@ -4,7 +4,7 @@ permalink: /apps/ios/com.playstation.eu.mobilemessages.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application PS Messages (com.playstation.eu.mobilemessages). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PS Messages (com.playstation.eu.mobilemessages). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # PS Messages (com.playstation.eu.mobilemessages)
 
@@ -52,10 +52,10 @@ Some shortcutItems
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- Tools: 2 lib(s)
 - Network: 1 lib(s)
 - UI: 2 lib(s)
 - Storage: 2 lib(s)
+- Tools: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

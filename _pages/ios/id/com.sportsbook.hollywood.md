@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/47/0b/8a/470b8ae2-a585-3407-4401-b9babb12e07d/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Barstool Sportsbook (com.sportsbook.hollywood). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Barstool Sportsbook (com.sportsbook.hollywood). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/47/0b/8a/470b8ae2-a585-3407-4401-b9babb12e07d/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Barstool Sportsbook com.sportsbook.hollywood app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/47/0b/8a/470b8ae2-a585-3407-4401-b9babb12e07d/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Barstool Sportsbook com.sportsbook.hollywood app icon"></div>  
   
 # Barstool Sportsbook (com.sportsbook.hollywood)
 
@@ -60,8 +60,8 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
-- Tracking: 2 lib(s)
 - Tools: 8 lib(s)
+- Tracking: 2 lib(s)
 - UI: 2 lib(s)
 
 **Apple dylibs:**

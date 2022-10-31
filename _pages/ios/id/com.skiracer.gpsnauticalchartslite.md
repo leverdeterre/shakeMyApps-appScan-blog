@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/f0/74/84/f07484c1-9e81-bd2c-bcca-e74d383474bb/MarineAppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application i-Boating:Nautical/Marine Charts & lake fishing maps (com.skiracer.gpsnauticalchartslite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application i-Boating:Nautical/Marine Charts & lake fishing maps (com.skiracer.gpsnauticalchartslite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/f0/74/84/f07484c1-9e81-bd2c-bcca-e74d383474bb/MarineAppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg" width="100" height="100" alt="i-Boating:Nautical/Marine Charts & lake fishing maps com.skiracer.gpsnauticalchartslite app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/f0/74/84/f07484c1-9e81-bd2c-bcca-e74d383474bb/MarineAppIcon-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg" width="100" height="100" alt="i-Boating:Nautical/Marine Charts & lake fishing maps com.skiracer.gpsnauticalchartslite app icon"></div>  
   
 # i-Boating:Nautical/Marine Charts & lake fishing maps (com.skiracer.gpsnauticalchartslite)
 

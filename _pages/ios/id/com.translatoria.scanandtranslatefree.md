@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/14/dc/cf/14dccf30-5e02-e6e6-e45c-0b6b912c4fa8/farhadsdesign-1-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Scan&Translate (com.translatoria.scanandtranslatefree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Scan&Translate (com.translatoria.scanandtranslatefree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/14/dc/cf/14dccf30-5e02-e6e6-e45c-0b6b912c4fa8/farhadsdesign-1-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Scan&Translate com.translatoria.scanandtranslatefree app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/14/dc/cf/14dccf30-5e02-e6e6-e45c-0b6b912c4fa8/farhadsdesign-1-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Scan&Translate com.translatoria.scanandtranslatefree app icon"></div>  
   
 # Scan&Translate (com.translatoria.scanandtranslatefree)
 

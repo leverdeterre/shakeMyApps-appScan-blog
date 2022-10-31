@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/1b/e2/2d/1be22d67-c9f8-f01a-ae18-d4576ef0e17e/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application 한국어 (com.nemoapps.koreanfree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 한국어 (com.nemoapps.koreanfree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/1b/e2/2d/1be22d67-c9f8-f01a-ae18-d4576ef0e17e/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="한국어 com.nemoapps.koreanfree app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/1b/e2/2d/1be22d67-c9f8-f01a-ae18-d4576ef0e17e/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="한국어 com.nemoapps.koreanfree app icon"></div>  
   
 # 한국어 (com.nemoapps.koreanfree)
 

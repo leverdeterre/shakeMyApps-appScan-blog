@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/8c/6e/fd8c6e36-57af-b267-95d7-d6dbd2f10088/AppIcon-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application SUSE&Rancher (com.mightybell.suse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application SUSE&Rancher (com.mightybell.suse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/8c/6e/fd8c6e36-57af-b267-95d7-d6dbd2f10088/AppIcon-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg" width="100" height="100" alt="SUSE&Rancher com.mightybell.suse app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/fd/8c/6e/fd8c6e36-57af-b267-95d7-d6dbd2f10088/AppIcon-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg" width="100" height="100" alt="SUSE&Rancher com.mightybell.suse app icon"></div>  
   
 # SUSE&Rancher (com.mightybell.suse)
 
@@ -62,10 +62,10 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 28
-- Tracking: 2 lib(s)
-- Storage: 1 lib(s)
 - Tools: 2 lib(s)
+- Storage: 1 lib(s)
 - Network: 4 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

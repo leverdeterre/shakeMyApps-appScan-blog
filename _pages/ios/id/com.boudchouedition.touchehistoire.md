@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/66/c0/19/66c019c0-4527-7c18-f0d9-aa4f4daeb2e3/AppIcon-0-0-1x_U007emarketing-0-0-0-10-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Histoire (com.boudchouedition.touchehistoire). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Histoire (com.boudchouedition.touchehistoire). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/66/c0/19/66c019c0-4527-7c18-f0d9-aa4f4daeb2e3/AppIcon-0-0-1x_U007emarketing-0-0-0-10-85-220.png/512x512bb.jpg" width="100" height="100" alt="Histoire com.boudchouedition.touchehistoire app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/66/c0/19/66c019c0-4527-7c18-f0d9-aa4f4daeb2e3/AppIcon-0-0-1x_U007emarketing-0-0-0-10-85-220.png/512x512bb.jpg" width="100" height="100" alt="Histoire com.boudchouedition.touchehistoire app icon"></div>  
   
 # Histoire (com.boudchouedition.touchehistoire)
 

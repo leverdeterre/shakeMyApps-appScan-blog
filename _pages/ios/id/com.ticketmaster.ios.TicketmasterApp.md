@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c1/73/87/c173878b-5c7f-0fda-f450-68f8c4e829e1/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Ticketmaster (com.ticketmaster.ios.TicketmasterApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Ticketmaster (com.ticketmaster.ios.TicketmasterApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c1/73/87/c173878b-5c7f-0fda-f450-68f8c4e829e1/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ticketmaster com.ticketmaster.ios.TicketmasterApp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c1/73/87/c173878b-5c7f-0fda-f450-68f8c4e829e1/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ticketmaster com.ticketmaster.ios.TicketmasterApp app icon"></div>  
   
 # Ticketmaster (com.ticketmaster.ios.TicketmasterApp)
 

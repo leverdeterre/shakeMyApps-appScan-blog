@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/34/c1/fe/34c1fe2e-f08f-e22f-bc7f-4038e1c01ce9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application ShutEye (health.sleep.sounds.tracker.alarm.calm). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application ShutEye (health.sleep.sounds.tracker.alarm.calm). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/34/c1/fe/34c1fe2e-f08f-e22f-bc7f-4038e1c01ce9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ShutEye health.sleep.sounds.tracker.alarm.calm app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/34/c1/fe/34c1fe2e-f08f-e22f-bc7f-4038e1c01ce9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ShutEye health.sleep.sounds.tracker.alarm.calm app icon"></div>  
   
 # ShutEye (health.sleep.sounds.tracker.alarm.calm)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/d7/4a/fbd74a4b-e653-4b11-cac9-0aee3efe7e09/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Burger King (com.unit9.bkFrApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Burger King (com.unit9.bkFrApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/d7/4a/fbd74a4b-e653-4b11-cac9-0aee3efe7e09/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Burger King com.unit9.bkFrApp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/d7/4a/fbd74a4b-e653-4b11-cac9-0aee3efe7e09/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Burger King com.unit9.bkFrApp app icon"></div>  
   
 # Burger King (com.unit9.bkFrApp)
 
@@ -61,8 +61,8 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 6
-- Tracking: 2 lib(s)
 - Tools: 3 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

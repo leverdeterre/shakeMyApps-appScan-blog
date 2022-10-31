@@ -4,7 +4,7 @@ permalink: /apps/ios/com.allocine.home.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application AlloCiné Home (com.allocine.home). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application AlloCiné Home (com.allocine.home). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # AlloCiné Home (com.allocine.home)
 
@@ -53,10 +53,10 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
-- UI: 3 lib(s)
 - Logs: 1 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 3 lib(s)
+- Crash: 1 lib(s)
+- UI: 3 lib(s)
 - Tools: 7 lib(s)
 
 **Apple dylibs:**

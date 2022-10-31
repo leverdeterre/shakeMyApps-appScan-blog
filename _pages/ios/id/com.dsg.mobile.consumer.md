@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/e7/cb/a1e7cb6c-b9cd-a30f-6862-53ec49202b3e/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application DICK'S (com.dsg.mobile.consumer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application DICK'S (com.dsg.mobile.consumer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/e7/cb/a1e7cb6c-b9cd-a30f-6862-53ec49202b3e/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="DICK'S com.dsg.mobile.consumer app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a1/e7/cb/a1e7cb6c-b9cd-a30f-6862-53ec49202b3e/AppIcon-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="DICK'S com.dsg.mobile.consumer app icon"></div>  
   
 # DICK'S (com.dsg.mobile.consumer)
 

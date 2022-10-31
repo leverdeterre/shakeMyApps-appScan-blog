@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/90/06/27/900627ac-482a-aed3-8b0a-55549f0ea310/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Last.fm (fm.last.batch-scrobbler). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Last.fm (fm.last.batch-scrobbler). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/90/06/27/900627ac-482a-aed3-8b0a-55549f0ea310/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Last.fm fm.last.batch-scrobbler app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/90/06/27/900627ac-482a-aed3-8b0a-55549f0ea310/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Last.fm fm.last.batch-scrobbler app icon"></div>  
   
 # Last.fm (fm.last.batch-scrobbler)
 
@@ -60,8 +60,8 @@ SwiftUI
 **Number of Third Party Library detected:** 22
 - Tools: 5 lib(s)
 - UI: 2 lib(s)
-- Storage: 1 lib(s)
 - Tracking: 1 lib(s)
+- Storage: 1 lib(s)
 - Network: 2 lib(s)
 
 **Apple dylibs:**

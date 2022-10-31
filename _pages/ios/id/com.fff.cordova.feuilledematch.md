@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/ba/17/4aba1714-2503-7c9b-2e63-5afc71664c9e/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application FeuilleDeMatch (com.fff.cordova.feuilledematch). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application FeuilleDeMatch (com.fff.cordova.feuilledematch). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/ba/17/4aba1714-2503-7c9b-2e63-5afc71664c9e/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="FeuilleDeMatch com.fff.cordova.feuilledematch app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/ba/17/4aba1714-2503-7c9b-2e63-5afc71664c9e/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="FeuilleDeMatch com.fff.cordova.feuilledematch app icon"></div>  
   
 # FeuilleDeMatch (com.fff.cordova.feuilledematch)
 

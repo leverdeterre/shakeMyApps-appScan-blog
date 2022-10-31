@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/b1/2f/a7b12f51-c5c5-fea9-0bf6-476647432e43/AppIcon-0-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Sunrise Times (nz.co.petesmith.Sunrise-Free). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Sunrise Times (nz.co.petesmith.Sunrise-Free). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/b1/2f/a7b12f51-c5c5-fea9-0bf6-476647432e43/AppIcon-0-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sunrise Times nz.co.petesmith.Sunrise-Free app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/b1/2f/a7b12f51-c5c5-fea9-0bf6-476647432e43/AppIcon-0-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sunrise Times nz.co.petesmith.Sunrise-Free app icon"></div>  
   
 # Sunrise Times (nz.co.petesmith.Sunrise-Free)
 

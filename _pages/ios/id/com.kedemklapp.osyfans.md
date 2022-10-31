@@ -4,7 +4,7 @@ permalink: /apps/ios/com.kedemklapp.osyfans.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application OnlyFans Creators (com.kedemklapp.osyfans). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application OnlyFans Creators (com.kedemklapp.osyfans). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # OnlyFans Creators (com.kedemklapp.osyfans)
 
@@ -48,11 +48,11 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 53
-- Tracking: 2 lib(s)
-- Storage: 6 lib(s)
 - Network: 4 lib(s)
-- UI: 1 lib(s)
+- Storage: 6 lib(s)
 - Tools: 12 lib(s)
+- Tracking: 2 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 

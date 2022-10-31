@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/18/26/66/182666b8-902f-0c48-4129-baef9a76f096/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Barclays US (com.barclaycardus.iphonesvc). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Barclays US (com.barclaycardus.iphonesvc). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/18/26/66/182666b8-902f-0c48-4129-baef9a76f096/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Barclays US com.barclaycardus.iphonesvc app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/18/26/66/182666b8-902f-0c48-4129-baef9a76f096/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Barclays US com.barclaycardus.iphonesvc app icon"></div>  
   
 # Barclays US (com.barclaycardus.iphonesvc)
 

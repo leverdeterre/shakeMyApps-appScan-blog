@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/b4/ac/7ab4ac4f-8220-6b9b-79d5-f817260dd3c9/AppIcon-0-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Weather & Radar (de.wetteronline.WetterApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Weather & Radar (de.wetteronline.WetterApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/b4/ac/7ab4ac4f-8220-6b9b-79d5-f817260dd3c9/AppIcon-0-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Weather & Radar de.wetteronline.WetterApp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/7a/b4/ac/7ab4ac4f-8220-6b9b-79d5-f817260dd3c9/AppIcon-0-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Weather & Radar de.wetteronline.WetterApp app icon"></div>  
   
 # Weather & Radar (de.wetteronline.WetterApp)
 
@@ -62,9 +62,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 12
-- Tracking: 2 lib(s)
 - UI: 2 lib(s)
 - Tools: 2 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

@@ -4,7 +4,7 @@ permalink: /apps/ios/com.appoutfitclub.wallpaper.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application sanrio  (com.appoutfitclub.wallpaper). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application sanrio  (com.appoutfitclub.wallpaper). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # sanrio  (com.appoutfitclub.wallpaper)
 
@@ -50,9 +50,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 22
-- Tracking: 1 lib(s)
 - Network: 4 lib(s)
 - Tools: 10 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/17/2d/a2/172da2fc-9135-6313-95e8-9b71d898bb34/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Sharalike D (com.avcl.Sharalike-MultiDemo-App). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Sharalike D (com.avcl.Sharalike-MultiDemo-App). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/17/2d/a2/172da2fc-9135-6313-95e8-9b71d898bb34/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sharalike D com.avcl.Sharalike-MultiDemo-App app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/17/2d/a2/172da2fc-9135-6313-95e8-9b71d898bb34/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sharalike D com.avcl.Sharalike-MultiDemo-App app icon"></div>  
   
 # Sharalike D (com.avcl.Sharalike-MultiDemo-App)
 
@@ -58,9 +58,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
+- Network: 1 lib(s)
 - Tools: 1 lib(s)
 - UI: 2 lib(s)
-- Network: 1 lib(s)
 
 **Apple dylibs:**
 

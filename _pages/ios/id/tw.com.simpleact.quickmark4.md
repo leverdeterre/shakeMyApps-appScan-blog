@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple69/v4/06/53/8e/06538eaa-af1f-2d9b-55ac-9fe253f9e710/mzl.iihstupf.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application QuickMark (tw.com.simpleact.quickmark4). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application QuickMark (tw.com.simpleact.quickmark4). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple69/v4/06/53/8e/06538eaa-af1f-2d9b-55ac-9fe253f9e710/mzl.iihstupf.png/512x512bb.jpg" width="100" height="100" alt="QuickMark tw.com.simpleact.quickmark4 app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple69/v4/06/53/8e/06538eaa-af1f-2d9b-55ac-9fe253f9e710/mzl.iihstupf.png/512x512bb.jpg" width="100" height="100" alt="QuickMark tw.com.simpleact.quickmark4 app icon"></div>  
   
 # QuickMark (tw.com.simpleact.quickmark4)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/af/46/25/af4625e8-964f-ecca-1547-a84be147a83d/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application ESP Matter (com.espressif.matter). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application ESP Matter (com.espressif.matter). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/af/46/25/af4625e8-964f-ecca-1547-a84be147a83d/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="ESP Matter com.espressif.matter app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/af/46/25/af4625e8-964f-ecca-1547-a84be147a83d/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="ESP Matter com.espressif.matter app icon"></div>  
   
 # ESP Matter (com.espressif.matter)
 
@@ -58,8 +58,8 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
-- UI: 2 lib(s)
 - Network: 2 lib(s)
+- UI: 2 lib(s)
 - Tools: 2 lib(s)
 
 **Apple dylibs:**

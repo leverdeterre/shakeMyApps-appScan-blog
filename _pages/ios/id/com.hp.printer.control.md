@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/e1/8a/aae18ab1-d876-5e6e-b6bd-5db48f82a7af/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application HP Smart (com.hp.printer.control). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application HP Smart (com.hp.printer.control). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/e1/8a/aae18ab1-d876-5e6e-b6bd-5db48f82a7af/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="HP Smart com.hp.printer.control app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/aa/e1/8a/aae18ab1-d876-5e6e-b6bd-5db48f82a7af/AppIcon-1x_U007emarketing-0-6-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="HP Smart com.hp.printer.control app icon"></div>  
   
 # HP Smart (com.hp.printer.control)
 

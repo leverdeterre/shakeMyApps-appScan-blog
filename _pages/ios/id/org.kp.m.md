@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/de/87/3d/de873d62-ccd0-541b-b3cb-d66e25a14920/KPAppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application KP (org.kp.m). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application KP (org.kp.m). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/de/87/3d/de873d62-ccd0-541b-b3cb-d66e25a14920/KPAppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="KP org.kp.m app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/de/87/3d/de873d62-ccd0-541b-b3cb-d66e25a14920/KPAppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="KP org.kp.m app icon"></div>  
   
 # KP (org.kp.m)
 
@@ -61,9 +61,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 84
+- Network: 4 lib(s)
 - Storage: 1 lib(s)
 - UI: 1 lib(s)
-- Network: 4 lib(s)
 
 **Apple dylibs:**
 

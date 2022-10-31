@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/a6/9c/af/a69cafed-ba2a-a4e9-089d-0a3f9037fbfb/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application RainbowKey (com.keyboard.colorkeyboard). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application RainbowKey (com.keyboard.colorkeyboard). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/a6/9c/af/a69cafed-ba2a-a4e9-089d-0a3f9037fbfb/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="RainbowKey com.keyboard.colorkeyboard app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/a6/9c/af/a69cafed-ba2a-a4e9-089d-0a3f9037fbfb/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="RainbowKey com.keyboard.colorkeyboard app icon"></div>  
   
 # RainbowKey (com.keyboard.colorkeyboard)
 

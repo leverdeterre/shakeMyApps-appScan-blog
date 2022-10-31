@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/58/d5/ce58d594-670e-4fd5-aa1c-1849325e0595/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application ThemePack (com.cheese.themepack). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application ThemePack (com.cheese.themepack). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/58/d5/ce58d594-670e-4fd5-aa1c-1849325e0595/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ThemePack com.cheese.themepack app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/58/d5/ce58d594-670e-4fd5-aa1c-1849325e0595/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ThemePack com.cheese.themepack app icon"></div>  
   
 # ThemePack (com.cheese.themepack)
 
@@ -63,11 +63,11 @@ Some userActivityTypes
 ## Librairies 
 **Number of Third Party Library detected:** 32
 - Tracking: 2 lib(s)
-- Crash: 1 lib(s)
-- UI: 2 lib(s)
-- Network: 6 lib(s)
-- Storage: 3 lib(s)
 - Tools: 13 lib(s)
+- Network: 6 lib(s)
+- UI: 2 lib(s)
+- Storage: 3 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 

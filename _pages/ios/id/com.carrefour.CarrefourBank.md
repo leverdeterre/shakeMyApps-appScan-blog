@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/29/7e/e0297e5b-3f3f-74d4-51b7-d936da1cf664/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Banque (com.carrefour.CarrefourBank). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Banque (com.carrefour.CarrefourBank). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/29/7e/e0297e5b-3f3f-74d4-51b7-d936da1cf664/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Banque com.carrefour.CarrefourBank app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/29/7e/e0297e5b-3f3f-74d4-51b7-d936da1cf664/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Banque com.carrefour.CarrefourBank app icon"></div>  
   
 # Banque (com.carrefour.CarrefourBank)
 
@@ -61,11 +61,11 @@ Some shortcutItems
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
-- Tracking: 4 lib(s)
 - Crash: 1 lib(s)
 - UI: 1 lib(s)
-- Tools: 12 lib(s)
 - Network: 2 lib(s)
+- Tools: 12 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

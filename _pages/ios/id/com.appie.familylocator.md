@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/43/49/3d434901-b55a-a1c9-6a80-929f09561fc9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Family (com.appie.familylocator). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Family (com.appie.familylocator). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/43/49/3d434901-b55a-a1c9-6a80-929f09561fc9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Family com.appie.familylocator app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/43/49/3d434901-b55a-a1c9-6a80-929f09561fc9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Family com.appie.familylocator app icon"></div>  
   
 # Family (com.appie.familylocator)
 
@@ -61,12 +61,12 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
+- Crash: 1 lib(s)
+- UI: 4 lib(s)
+- Tracking: 1 lib(s)
 - Network: 5 lib(s)
 - Storage: 5 lib(s)
 - Tools: 17 lib(s)
-- Tracking: 1 lib(s)
-- UI: 4 lib(s)
-- Crash: 1 lib(s)
 
 **Apple dylibs:**
 

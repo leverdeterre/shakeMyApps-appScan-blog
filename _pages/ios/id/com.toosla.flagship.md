@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/74/07/12/74071267-694d-9f18-fc9e-cefe47d28310/AppIcon-0-1x_U007emarketing-0-3-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Toosla (com.toosla.flagship). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Toosla (com.toosla.flagship). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/74/07/12/74071267-694d-9f18-fc9e-cefe47d28310/AppIcon-0-1x_U007emarketing-0-3-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Toosla com.toosla.flagship app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/74/07/12/74071267-694d-9f18-fc9e-cefe47d28310/AppIcon-0-1x_U007emarketing-0-3-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Toosla com.toosla.flagship app icon"></div>  
   
 # Toosla (com.toosla.flagship)
 
@@ -63,8 +63,8 @@ SwiftUI
 **Number of Third Party Library detected:** 73
 - UI: 9 lib(s)
 - Tools: 25 lib(s)
-- Storage: 3 lib(s)
 - Logs: 2 lib(s)
+- Storage: 3 lib(s)
 - Tracking: 5 lib(s)
 - Network: 5 lib(s)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/65/e4/1d65e492-d99f-42c3-0389-e89d02d56cde/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Remoter VNC (com.rafiphoneapps.remoter). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Remoter VNC (com.rafiphoneapps.remoter). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/65/e4/1d65e492-d99f-42c3-0389-e89d02d56cde/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Remoter VNC com.rafiphoneapps.remoter app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/65/e4/1d65e492-d99f-42c3-0389-e89d02d56cde/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Remoter VNC com.rafiphoneapps.remoter app icon"></div>  
   
 # Remoter VNC (com.rafiphoneapps.remoter)
 
@@ -59,12 +59,12 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- UI: 1 lib(s)
-- Crash: 2 lib(s)
 - Tracking: 1 lib(s)
-- Logs: 1 lib(s)
-- Tools: 6 lib(s)
 - Network: 2 lib(s)
+- Crash: 2 lib(s)
+- Logs: 1 lib(s)
+- UI: 1 lib(s)
+- Tools: 6 lib(s)
 
 **Apple dylibs:**
 

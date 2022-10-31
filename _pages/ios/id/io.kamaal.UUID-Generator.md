@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/74/df/f2/74dff201-cf30-923b-b9f2-a4f55dfe5557/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Gen UUID (io.kamaal.UUID-Generator). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Gen UUID (io.kamaal.UUID-Generator). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/74/df/f2/74dff201-cf30-923b-b9f2-a4f55dfe5557/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Gen UUID io.kamaal.UUID-Generator app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/74/df/f2/74dff201-cf30-923b-b9f2-a4f55dfe5557/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Gen UUID io.kamaal.UUID-Generator app icon"></div>  
   
 # Gen UUID (io.kamaal.UUID-Generator)
 

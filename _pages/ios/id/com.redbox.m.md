@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/65/77/4d/65774da1-1c54-4050-0210-0235a3447ec3/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Redbox (com.redbox.m). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Redbox (com.redbox.m). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/65/77/4d/65774da1-1c54-4050-0210-0235a3447ec3/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Redbox com.redbox.m app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/65/77/4d/65774da1-1c54-4050-0210-0235a3447ec3/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Redbox com.redbox.m app icon"></div>  
   
 # Redbox (com.redbox.m)
 
@@ -63,10 +63,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
-- Logs: 1 lib(s)
-- Tools: 8 lib(s)
-- Network: 1 lib(s)
 - UI: 3 lib(s)
+- Tools: 8 lib(s)
+- Logs: 1 lib(s)
+- Network: 1 lib(s)
 - Tracking: 3 lib(s)
 
 **Apple dylibs:**

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/1e/2b/f91e2bb4-e4cb-b081-0e45-0c6e43ba0d5b/AppIcon-optionsignals-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Option Signals (ani.OptionsAlerts). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Option Signals (ani.OptionsAlerts). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/1e/2b/f91e2bb4-e4cb-b081-0e45-0c6e43ba0d5b/AppIcon-optionsignals-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Option Signals ani.OptionsAlerts app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/1e/2b/f91e2bb4-e4cb-b081-0e45-0c6e43ba0d5b/AppIcon-optionsignals-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Option Signals ani.OptionsAlerts app icon"></div>  
   
 # Option Signals (ani.OptionsAlerts)
 
@@ -57,8 +57,8 @@ build using Xcode 13
 ## Librairies 
 **Number of Third Party Library detected:** 30
 - Tracking: 2 lib(s)
-- Storage: 5 lib(s)
 - Tools: 14 lib(s)
+- Storage: 5 lib(s)
 
 **Apple dylibs:**
 

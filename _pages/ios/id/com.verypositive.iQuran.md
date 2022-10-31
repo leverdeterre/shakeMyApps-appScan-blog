@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ca/46/f2/ca46f21d-67cd-ebd7-7a0b-9daa0a114914/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Holy Quran (com.verypositive.iQuran). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Holy Quran (com.verypositive.iQuran). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ca/46/f2/ca46f21d-67cd-ebd7-7a0b-9daa0a114914/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Holy Quran com.verypositive.iQuran app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ca/46/f2/ca46f21d-67cd-ebd7-7a0b-9daa0a114914/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Holy Quran com.verypositive.iQuran app icon"></div>  
   
 # Holy Quran (com.verypositive.iQuran)
 
@@ -59,10 +59,10 @@ Some shortcutItems
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
-- Network: 3 lib(s)
 - Tools: 5 lib(s)
 - UI: 1 lib(s)
 - Storage: 1 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 

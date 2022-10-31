@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/88/be/d1/88bed1fe-cf2f-f11c-fcbd-eb8ce12ba0c2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Experian (com.experian.experianapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Experian (com.experian.experianapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/88/be/d1/88bed1fe-cf2f-f11c-fcbd-eb8ce12ba0c2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Experian com.experian.experianapp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/88/be/d1/88bed1fe-cf2f-f11c-fcbd-eb8ce12ba0c2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Experian com.experian.experianapp app icon"></div>  
   
 # Experian (com.experian.experianapp)
 
@@ -63,10 +63,10 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 41
-- Tools: 1 lib(s)
-- Logs: 1 lib(s)
 - Network: 2 lib(s)
+- Logs: 1 lib(s)
 - Tracking: 6 lib(s)
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 

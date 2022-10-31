@@ -4,7 +4,7 @@ permalink: /apps/ios/com.vibrain.instatracker.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application InstaTracker (com.vibrain.instatracker). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application InstaTracker (com.vibrain.instatracker). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # InstaTracker (com.vibrain.instatracker)
 
@@ -54,12 +54,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- Network: 1 lib(s)
 - Crash: 1 lib(s)
-- Storage: 1 lib(s)
-- Tools: 16 lib(s)
 - Tracking: 5 lib(s)
+- Tools: 16 lib(s)
+- Storage: 1 lib(s)
 - UI: 2 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 

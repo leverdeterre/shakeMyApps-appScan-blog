@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/c7/21/2a/c7212a3a-1e9a-9ca9-4ef9-e18b28054e64/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Lookbooks (com.ivan.snapmallspartner). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Lookbooks (com.ivan.snapmallspartner). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/c7/21/2a/c7212a3a-1e9a-9ca9-4ef9-e18b28054e64/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Lookbooks com.ivan.snapmallspartner app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/c7/21/2a/c7212a3a-1e9a-9ca9-4ef9-e18b28054e64/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Lookbooks com.ivan.snapmallspartner app icon"></div>  
   
 # Lookbooks (com.ivan.snapmallspartner)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/aa/c6/42/aac642af-2b74-4593-2e85-6e01a4f0365b/pr_source.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Football TV (com.tung.footballtv). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Football TV (com.tung.footballtv). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/aa/c6/42/aac642af-2b74-4593-2e85-6e01a4f0365b/pr_source.png/512x512bb.jpg" width="100" height="100" alt="Football TV com.tung.footballtv app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/aa/c6/42/aac642af-2b74-4593-2e85-6e01a4f0365b/pr_source.png/512x512bb.jpg" width="100" height="100" alt="Football TV com.tung.footballtv app icon"></div>  
   
 # Football TV (com.tung.footballtv)
 

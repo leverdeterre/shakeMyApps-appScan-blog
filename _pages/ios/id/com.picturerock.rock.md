@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/d1/31/f3d13118-34c4-82ce-4472-ac4e15688aef/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Rock Identifier (com.picturerock.rock). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Rock Identifier (com.picturerock.rock). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/d1/31/f3d13118-34c4-82ce-4472-ac4e15688aef/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Rock Identifier com.picturerock.rock app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/f3/d1/31/f3d13118-34c4-82ce-4472-ac4e15688aef/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Rock Identifier com.picturerock.rock app icon"></div>  
   
 # Rock Identifier (com.picturerock.rock)
 
@@ -61,11 +61,11 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 131
-- Tracking: 3 lib(s)
 - Crash: 1 lib(s)
-- Tools: 10 lib(s)
+- Tracking: 3 lib(s)
 - Network: 2 lib(s)
 - UI: 1 lib(s)
+- Tools: 10 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/b1/40/9b/b1409bf4-2011-bf3f-c638-ca1b3767cd85/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Todo List (com.tapuniverse.Todo-List). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Todo List (com.tapuniverse.Todo-List). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/b1/40/9b/b1409bf4-2011-bf3f-c638-ca1b3767cd85/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Todo List com.tapuniverse.Todo-List app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/b1/40/9b/b1409bf4-2011-bf3f-c638-ca1b3767cd85/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Todo List com.tapuniverse.Todo-List app icon"></div>  
   
 # Todo List (com.tapuniverse.Todo-List)
 

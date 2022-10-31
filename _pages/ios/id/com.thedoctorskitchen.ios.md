@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b7/ee/aa/b7eeaaa5-a32c-47b2-557f-baddb18b9504/AppIcon-Production-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Doctor’s Kitchen (com.thedoctorskitchen.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Doctor’s Kitchen (com.thedoctorskitchen.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b7/ee/aa/b7eeaaa5-a32c-47b2-557f-baddb18b9504/AppIcon-Production-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Doctor’s Kitchen com.thedoctorskitchen.ios app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b7/ee/aa/b7eeaaa5-a32c-47b2-557f-baddb18b9504/AppIcon-Production-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Doctor’s Kitchen com.thedoctorskitchen.ios app icon"></div>  
   
 # Doctor’s Kitchen (com.thedoctorskitchen.ios)
 

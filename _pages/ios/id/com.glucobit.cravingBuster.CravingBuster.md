@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/12/3a/4d/123a4d30-a56d-c01f-a054-555f729fca86/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Reframe (com.glucobit.cravingBuster.CravingBuster). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Reframe (com.glucobit.cravingBuster.CravingBuster). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/12/3a/4d/123a4d30-a56d-c01f-a054-555f729fca86/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Reframe com.glucobit.cravingBuster.CravingBuster app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/12/3a/4d/123a4d30-a56d-c01f-a054-555f729fca86/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Reframe com.glucobit.cravingBuster.CravingBuster app icon"></div>  
   
 # Reframe (com.glucobit.cravingBuster.CravingBuster)
 
@@ -60,12 +60,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 52
-- Network: 2 lib(s)
 - Tracking: 2 lib(s)
-- UI: 9 lib(s)
+- Network: 2 lib(s)
 - Tools: 10 lib(s)
 - Storage: 1 lib(s)
 - Logs: 1 lib(s)
+- UI: 9 lib(s)
 
 **Apple dylibs:**
 

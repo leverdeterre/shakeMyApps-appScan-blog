@@ -4,7 +4,7 @@ permalink: /apps/ios/com.reezo.femaleworkout.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application FemaleFitness (com.reezo.femaleworkout). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application FemaleFitness (com.reezo.femaleworkout). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # FemaleFitness (com.reezo.femaleworkout)
 
@@ -52,12 +52,12 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
-- UI: 3 lib(s)
 - Tools: 13 lib(s)
+- Storage: 1 lib(s)
+- Network: 1 lib(s)
+- UI: 3 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 4 lib(s)
-- Network: 1 lib(s)
-- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

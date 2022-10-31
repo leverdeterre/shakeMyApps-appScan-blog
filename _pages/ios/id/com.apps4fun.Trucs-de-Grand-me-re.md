@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/c0/15/f2/c015f2d8-9184-4242-1c41-2c54562abb0c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application TDGM (com.apps4fun.Trucs-de-Grand-me-re). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application TDGM (com.apps4fun.Trucs-de-Grand-me-re). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/c0/15/f2/c015f2d8-9184-4242-1c41-2c54562abb0c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="TDGM com.apps4fun.Trucs-de-Grand-me-re app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/c0/15/f2/c015f2d8-9184-4242-1c41-2c54562abb0c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="TDGM com.apps4fun.Trucs-de-Grand-me-re app icon"></div>  
   
 # TDGM (com.apps4fun.Trucs-de-Grand-me-re)
 
@@ -56,9 +56,9 @@ Native App
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
-- Tools: 4 lib(s)
-- UI: 3 lib(s)
 - Network: 1 lib(s)
+- UI: 3 lib(s)
+- Tools: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

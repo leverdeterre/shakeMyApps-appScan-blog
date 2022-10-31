@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/1d/df/98/1ddf98c3-5676-738e-21a2-9f9f9daa41c5/mzl.egtamncs.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application VLC iRemote (com.goonbee.VLC-Remote-HD-Lite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application VLC iRemote (com.goonbee.VLC-Remote-HD-Lite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/1d/df/98/1ddf98c3-5676-738e-21a2-9f9f9daa41c5/mzl.egtamncs.png/512x512bb.jpg" width="100" height="100" alt="VLC iRemote com.goonbee.VLC-Remote-HD-Lite app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/1d/df/98/1ddf98c3-5676-738e-21a2-9f9f9daa41c5/mzl.egtamncs.png/512x512bb.jpg" width="100" height="100" alt="VLC iRemote com.goonbee.VLC-Remote-HD-Lite app icon"></div>  
   
 # VLC iRemote (com.goonbee.VLC-Remote-HD-Lite)
 

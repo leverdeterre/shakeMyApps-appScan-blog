@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/ff/28/7a/ff287a12-4d1e-5829-699b-393a5b673a6d/mzl.taelylxf.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application القاعدة النورانية (com.alepponline.nawranyaDemo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application القاعدة النورانية (com.alepponline.nawranyaDemo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/ff/28/7a/ff287a12-4d1e-5829-699b-393a5b673a6d/mzl.taelylxf.png/512x512bb.jpg" width="100" height="100" alt="القاعدة النورانية com.alepponline.nawranyaDemo app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/ff/28/7a/ff287a12-4d1e-5829-699b-393a5b673a6d/mzl.taelylxf.png/512x512bb.jpg" width="100" height="100" alt="القاعدة النورانية com.alepponline.nawranyaDemo app icon"></div>  
   
 # القاعدة النورانية (com.alepponline.nawranyaDemo)
 

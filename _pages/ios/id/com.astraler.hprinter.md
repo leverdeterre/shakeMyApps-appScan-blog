@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/02/2c/3b/022c3b65-ce56-16ff-26db-c5d37c036786/AppIcon-4-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Smart Printer (com.astraler.hprinter). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Smart Printer (com.astraler.hprinter). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/02/2c/3b/022c3b65-ce56-16ff-26db-c5d37c036786/AppIcon-4-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Smart Printer com.astraler.hprinter app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/02/2c/3b/022c3b65-ce56-16ff-26db-c5d37c036786/AppIcon-4-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Smart Printer com.astraler.hprinter app icon"></div>  
   
 # Smart Printer (com.astraler.hprinter)
 
@@ -64,11 +64,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 61
+- Tracking: 5 lib(s)
 - Network: 4 lib(s)
 - UI: 3 lib(s)
 - Tools: 26 lib(s)
 - Storage: 2 lib(s)
-- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/02/8c/d0028c7b-10a5-298f-a278-47307fbecce5/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Iphigénie (com.iphigenie.3.10). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Iphigénie (com.iphigenie.3.10). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/02/8c/d0028c7b-10a5-298f-a278-47307fbecce5/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Iphigénie com.iphigenie.3.10 app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d0/02/8c/d0028c7b-10a5-298f-a278-47307fbecce5/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Iphigénie com.iphigenie.3.10 app icon"></div>  
   
 # Iphigénie (com.iphigenie.3.10)
 

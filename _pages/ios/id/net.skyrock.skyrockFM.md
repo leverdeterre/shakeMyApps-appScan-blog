@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/10/e3/66/10e366ff-7f60-5991-20d0-bc36f962f9a0/AppIcon-0-1x_U007emarketing-3-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Skyrock (net.skyrock.skyrockFM). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Skyrock (net.skyrock.skyrockFM). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/10/e3/66/10e366ff-7f60-5991-20d0-bc36f962f9a0/AppIcon-0-1x_U007emarketing-3-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Skyrock net.skyrock.skyrockFM app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/10/e3/66/10e366ff-7f60-5991-20d0-bc36f962f9a0/AppIcon-0-1x_U007emarketing-3-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Skyrock net.skyrock.skyrockFM app icon"></div>  
   
 # Skyrock (net.skyrock.skyrockFM)
 
@@ -61,12 +61,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 45
-- Tracking: 2 lib(s)
-- Storage: 3 lib(s)
-- Network: 3 lib(s)
 - Tools: 10 lib(s)
+- Network: 3 lib(s)
 - UI: 3 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 2 lib(s)
+- Storage: 3 lib(s)
 
 **Apple dylibs:**
 

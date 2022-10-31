@@ -4,7 +4,7 @@ permalink: /apps/ios/com.helpsy.app.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Helpsy (com.helpsy.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Helpsy (com.helpsy.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Helpsy (com.helpsy.app)
 
@@ -51,10 +51,10 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
-- Tools: 9 lib(s)
-- UI: 3 lib(s)
 - Tracking: 3 lib(s)
 - Storage: 2 lib(s)
+- UI: 3 lib(s)
+- Tools: 9 lib(s)
 
 **Apple dylibs:**
 

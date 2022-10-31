@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/87/0b/fb870b0b-8c4c-96c5-c614-60684e3a6053/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Focus (com.laser-focused.focus-ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Focus (com.laser-focused.focus-ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/87/0b/fb870b0b-8c4c-96c5-c614-60684e3a6053/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Focus com.laser-focused.focus-ios app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/fb/87/0b/fb870b0b-8c4c-96c5-c614-60684e3a6053/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Focus com.laser-focused.focus-ios app icon"></div>  
   
 # Focus (com.laser-focused.focus-ios)
 

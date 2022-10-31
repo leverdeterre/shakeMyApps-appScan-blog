@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/98/5c/e3/985ce3c5-03f6-fd22-5368-3f7dd837e0ad/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application 680 The Fan (com.seroyamobiletech.680TheFan). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 680 The Fan (com.seroyamobiletech.680TheFan). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/98/5c/e3/985ce3c5-03f6-fd22-5368-3f7dd837e0ad/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="680 The Fan com.seroyamobiletech.680TheFan app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/98/5c/e3/985ce3c5-03f6-fd22-5368-3f7dd837e0ad/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="680 The Fan com.seroyamobiletech.680TheFan app icon"></div>  
   
 # 680 The Fan (com.seroyamobiletech.680TheFan)
 
@@ -61,12 +61,12 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 75
-- Tools: 21 lib(s)
-- Storage: 3 lib(s)
-- Crash: 1 lib(s)
-- Network: 5 lib(s)
 - Tracking: 2 lib(s)
 - UI: 11 lib(s)
+- Storage: 3 lib(s)
+- Tools: 21 lib(s)
+- Crash: 1 lib(s)
+- Network: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

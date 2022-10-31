@@ -4,7 +4,7 @@ permalink: /apps/ios/com.firecore.fuse.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Infuse 4 (com.firecore.fuse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Infuse 4 (com.firecore.fuse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Infuse 4 (com.firecore.fuse)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/54/f8/8a/54f88a9e-dd22-afd6-69bf-4cf0a9671325/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Kidslox (com.kidslox.main). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Kidslox (com.kidslox.main). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/54/f8/8a/54f88a9e-dd22-afd6-69bf-4cf0a9671325/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Kidslox com.kidslox.main app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/54/f8/8a/54f88a9e-dd22-afd6-69bf-4cf0a9671325/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Kidslox com.kidslox.main app icon"></div>  
   
 # Kidslox (com.kidslox.main)
 
@@ -64,12 +64,12 @@ at least 2 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 57
 - Storage: 2 lib(s)
-- Tools: 27 lib(s)
-- Tracking: 3 lib(s)
-- Crash: 1 lib(s)
-- UI: 5 lib(s)
-- Network: 4 lib(s)
 - Logs: 1 lib(s)
+- UI: 5 lib(s)
+- Tracking: 3 lib(s)
+- Tools: 27 lib(s)
+- Network: 4 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

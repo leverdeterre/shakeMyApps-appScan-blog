@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/29/db/8f/29db8ffc-e0c0-1557-6f17-b15e5cd18df7/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application NEON Effects (com.platfarm.challa-ios-neon). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application NEON Effects (com.platfarm.challa-ios-neon). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/29/db/8f/29db8ffc-e0c0-1557-6f17-b15e5cd18df7/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="NEON Effects com.platfarm.challa-ios-neon app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/29/db/8f/29db8ffc-e0c0-1557-6f17-b15e5cd18df7/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="NEON Effects com.platfarm.challa-ios-neon app icon"></div>  
   
 # NEON Effects (com.platfarm.challa-ios-neon)
 
@@ -59,9 +59,9 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
-- Storage: 2 lib(s)
 - Tracking: 1 lib(s)
 - Tools: 6 lib(s)
+- Storage: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/b3/7e/ce/b37ece30-9250-8f21-3580-738dcbb0adc6/mzl.flfbyhud.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application PhotoCollage (info.e2uapp.photocollage). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PhotoCollage (info.e2uapp.photocollage). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/b3/7e/ce/b37ece30-9250-8f21-3580-738dcbb0adc6/mzl.flfbyhud.png/512x512bb.jpg" width="100" height="100" alt="PhotoCollage info.e2uapp.photocollage app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/b3/7e/ce/b37ece30-9250-8f21-3580-738dcbb0adc6/mzl.flfbyhud.png/512x512bb.jpg" width="100" height="100" alt="PhotoCollage info.e2uapp.photocollage app icon"></div>  
   
 # PhotoCollage (info.e2uapp.photocollage)
 

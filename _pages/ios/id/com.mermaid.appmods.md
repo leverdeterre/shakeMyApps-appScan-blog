@@ -4,7 +4,7 @@ permalink: /apps/ios/com.mermaid.appmods.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Mermaid Mods for Minecraft (com.mermaid.appmods). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Mermaid Mods for Minecraft (com.mermaid.appmods). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Mermaid Mods for Minecraft (com.mermaid.appmods)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/e3/d2/a0e3d214-7f40-581b-f1cb-294c865eebb4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application QuikTrip (com.quiktrip.qt). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application QuikTrip (com.quiktrip.qt). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/e3/d2/a0e3d214-7f40-581b-f1cb-294c865eebb4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="QuikTrip com.quiktrip.qt app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/e3/d2/a0e3d214-7f40-581b-f1cb-294c865eebb4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="QuikTrip com.quiktrip.qt app icon"></div>  
   
 # QuikTrip (com.quiktrip.qt)
 
@@ -62,9 +62,9 @@ SwiftUI
 ## Librairies 
 **Number of Third Party Library detected:** 29
 - Network: 2 lib(s)
-- Tools: 8 lib(s)
-- Tracking: 3 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 3 lib(s)
+- Tools: 8 lib(s)
 
 **Apple dylibs:**
 

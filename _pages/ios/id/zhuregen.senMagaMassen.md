@@ -4,7 +4,7 @@ permalink: /apps/ios/zhuregen.senMagaMassen.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Omegle (zhuregen.senMagaMassen). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Omegle (zhuregen.senMagaMassen). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Omegle (zhuregen.senMagaMassen)
 
@@ -50,10 +50,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
-- Tools: 2 lib(s)
-- Network: 2 lib(s)
 - Crash: 1 lib(s)
 - UI: 6 lib(s)
+- Tools: 2 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 

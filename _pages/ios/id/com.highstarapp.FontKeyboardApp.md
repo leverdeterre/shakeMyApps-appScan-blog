@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/db/84/c2/db84c2ea-c9e3-e804-4d73-7354c6d6e265/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Font Keyboard (com.highstarapp.FontKeyboardApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Font Keyboard (com.highstarapp.FontKeyboardApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/db/84/c2/db84c2ea-c9e3-e804-4d73-7354c6d6e265/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Font Keyboard com.highstarapp.FontKeyboardApp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/db/84/c2/db84c2ea-c9e3-e804-4d73-7354c6d6e265/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Font Keyboard com.highstarapp.FontKeyboardApp app icon"></div>  
   
 # Font Keyboard (com.highstarapp.FontKeyboardApp)
 
@@ -61,9 +61,9 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- Tracking: 2 lib(s)
-- UI: 1 lib(s)
 - Tools: 8 lib(s)
+- UI: 1 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

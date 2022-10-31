@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/39/bf/76/39bf76c3-3033-5218-02e8-c52ee34f9d7e/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Stripe (com.stripe.dashboard). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Stripe (com.stripe.dashboard). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/39/bf/76/39bf76c3-3033-5218-02e8-c52ee34f9d7e/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Stripe com.stripe.dashboard app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/39/bf/76/39bf76c3-3033-5218-02e8-c52ee34f9d7e/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Stripe com.stripe.dashboard app icon"></div>  
   
 # Stripe (com.stripe.dashboard)
 

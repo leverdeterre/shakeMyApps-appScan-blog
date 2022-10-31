@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/67/cb/0e/67cb0e1a-584b-2efc-a883-2d81c2fe27a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Waka 4.0 (vn.com.vega.vegabook). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Waka 4.0 (vn.com.vega.vegabook). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/67/cb/0e/67cb0e1a-584b-2efc-a883-2d81c2fe27a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Waka 4.0 vn.com.vega.vegabook app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/67/cb/0e/67cb0e1a-584b-2efc-a883-2d81c2fe27a1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Waka 4.0 vn.com.vega.vegabook app icon"></div>  
   
 # Waka 4.0 (vn.com.vega.vegabook)
 
@@ -61,12 +61,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 50
-- UI: 7 lib(s)
-- Crash: 1 lib(s)
-- Tools: 18 lib(s)
 - Storage: 2 lib(s)
-- Network: 1 lib(s)
+- UI: 7 lib(s)
+- Tools: 18 lib(s)
 - Tracking: 3 lib(s)
+- Network: 1 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

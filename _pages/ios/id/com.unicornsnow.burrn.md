@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/a1/78/0fa178e7-577e-3ffb-1a6d-554e8bfeea35/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Burrn (com.unicornsnow.burrn). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Burrn (com.unicornsnow.burrn). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/a1/78/0fa178e7-577e-3ffb-1a6d-554e8bfeea35/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Burrn com.unicornsnow.burrn app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/a1/78/0fa178e7-577e-3ffb-1a6d-554e8bfeea35/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Burrn com.unicornsnow.burrn app icon"></div>  
   
 # Burrn (com.unicornsnow.burrn)
 
@@ -64,8 +64,8 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-- Storage: 1 lib(s)
 - Tools: 2 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/62/c0/2d/62c02d5a-c91f-7aeb-4906-d7911fafd816/contsched.nsjwgwsd.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application 三毛游景点讲解 (com.IntelligenceGuide1.IntelligenceGuide). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 三毛游景点讲解 (com.IntelligenceGuide1.IntelligenceGuide). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/62/c0/2d/62c02d5a-c91f-7aeb-4906-d7911fafd816/contsched.nsjwgwsd.png/512x512bb.jpg" width="100" height="100" alt="三毛游景点讲解 com.IntelligenceGuide1.IntelligenceGuide app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/62/c0/2d/62c02d5a-c91f-7aeb-4906-d7911fafd816/contsched.nsjwgwsd.png/512x512bb.jpg" width="100" height="100" alt="三毛游景点讲解 com.IntelligenceGuide1.IntelligenceGuide app icon"></div>  
   
 # 三毛游景点讲解 (com.IntelligenceGuide1.IntelligenceGuide)
 
@@ -57,10 +57,10 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 78
-- Tools: 10 lib(s)
-- Network: 5 lib(s)
 - UI: 11 lib(s)
 - Storage: 2 lib(s)
+- Tools: 10 lib(s)
+- Network: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

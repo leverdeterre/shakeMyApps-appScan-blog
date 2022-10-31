@@ -4,7 +4,7 @@ permalink: /apps/ios/io.sentry.mobile.app.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Release Health (io.sentry.mobile.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Release Health (io.sentry.mobile.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Release Health (io.sentry.mobile.app)
 
@@ -47,8 +47,8 @@ Number of entitlements detected: 3
 
 ## Librairies 
 **Number of Third Party Library detected:** 12
-- Storage: 1 lib(s)
 - Tools: 5 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

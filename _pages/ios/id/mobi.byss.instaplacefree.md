@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/6d/b1/0c6db1a8-7742-8e94-3a62-edf3052e80f5/AppIconPhotoPlace-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application PhotoPlace (mobi.byss.instaplacefree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PhotoPlace (mobi.byss.instaplacefree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/6d/b1/0c6db1a8-7742-8e94-3a62-edf3052e80f5/AppIconPhotoPlace-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="PhotoPlace mobi.byss.instaplacefree app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/6d/b1/0c6db1a8-7742-8e94-3a62-edf3052e80f5/AppIconPhotoPlace-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="PhotoPlace mobi.byss.instaplacefree app icon"></div>  
   
 # PhotoPlace (mobi.byss.instaplacefree)
 
@@ -63,12 +63,12 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 52
-- Tools: 20 lib(s)
-- Logs: 1 lib(s)
-- Crash: 1 lib(s)
-- Network: 6 lib(s)
 - Tracking: 5 lib(s)
+- Network: 6 lib(s)
+- Tools: 20 lib(s)
+- Crash: 1 lib(s)
 - Storage: 5 lib(s)
+- Logs: 1 lib(s)
 - UI: 1 lib(s)
 
 **Apple dylibs:**

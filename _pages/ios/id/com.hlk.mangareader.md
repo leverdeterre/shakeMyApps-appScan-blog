@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/ad/5c/52/ad5c524d-329f-aa7f-0c8a-62bccc328c7e/pr_source.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application MangaLibrary (com.hlk.mangareader). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application MangaLibrary (com.hlk.mangareader). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/ad/5c/52/ad5c524d-329f-aa7f-0c8a-62bccc328c7e/pr_source.png/512x512bb.jpg" width="100" height="100" alt="MangaLibrary com.hlk.mangareader app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple1/v4/ad/5c/52/ad5c524d-329f-aa7f-0c8a-62bccc328c7e/pr_source.png/512x512bb.jpg" width="100" height="100" alt="MangaLibrary com.hlk.mangareader app icon"></div>  
   
 # MangaLibrary (com.hlk.mangareader)
 

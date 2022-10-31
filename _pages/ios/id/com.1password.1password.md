@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/7c/5a/9d/7c5a9dab-0a42-3184-be69-a4cbd5c66a9c/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application 1Password (com.1password.1password). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 1Password (com.1password.1password). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/7c/5a/9d/7c5a9dab-0a42-3184-be69-a4cbd5c66a9c/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg" width="100" height="100" alt="1Password com.1password.1password app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/7c/5a/9d/7c5a9dab-0a42-3184-be69-a4cbd5c66a9c/AppIcon-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg" width="100" height="100" alt="1Password com.1password.1password app icon"></div>  
   
 # 1Password (com.1password.1password)
 

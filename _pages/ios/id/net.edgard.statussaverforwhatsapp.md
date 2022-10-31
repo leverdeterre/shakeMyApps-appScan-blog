@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e1/75/46/e17546ea-2a92-1869-9e78-502e994eb8f3/a-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Status Saver for WA Story Save (net.edgard.statussaverforwhatsapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Status Saver for WA Story Save (net.edgard.statussaverforwhatsapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e1/75/46/e17546ea-2a92-1869-9e78-502e994eb8f3/a-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Status Saver for WA Story Save net.edgard.statussaverforwhatsapp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/e1/75/46/e17546ea-2a92-1869-9e78-502e994eb8f3/a-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Status Saver for WA Story Save net.edgard.statussaverforwhatsapp app icon"></div>  
   
 # Status Saver for WA Story Save (net.edgard.statussaverforwhatsapp)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/47/19/e6/4719e69e-51d1-42c8-8289-0454c717dd67/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Housecall Pro (com.codefied.HouseCallPro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Housecall Pro (com.codefied.HouseCallPro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/47/19/e6/4719e69e-51d1-42c8-8289-0454c717dd67/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Housecall Pro com.codefied.HouseCallPro app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/47/19/e6/4719e69e-51d1-42c8-8289-0454c717dd67/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Housecall Pro com.codefied.HouseCallPro app icon"></div>  
   
 # Housecall Pro (com.codefied.HouseCallPro)
 
@@ -63,10 +63,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 59
+- Tracking: 9 lib(s)
+- Network: 3 lib(s)
 - UI: 5 lib(s)
 - Tools: 9 lib(s)
-- Network: 3 lib(s)
-- Tracking: 9 lib(s)
 
 **Apple dylibs:**
 

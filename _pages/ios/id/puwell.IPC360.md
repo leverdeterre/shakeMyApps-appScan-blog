@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/78/fe/ca78fe88-0a96-1d5b-78b6-1936e405ebce/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application IPC360 (puwell.IPC360). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application IPC360 (puwell.IPC360). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/78/fe/ca78fe88-0a96-1d5b-78b6-1936e405ebce/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="IPC360 puwell.IPC360 app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ca/78/fe/ca78fe88-0a96-1d5b-78b6-1936e405ebce/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="IPC360 puwell.IPC360 app icon"></div>  
   
 # IPC360 (puwell.IPC360)
 

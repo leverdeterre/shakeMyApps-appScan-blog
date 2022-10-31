@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/60/ab/6d/60ab6dfa-0046-ab7c-a06b-54fb40bc4b8c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Scarlet (com.highcaffeinecontent.issues). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Scarlet (com.highcaffeinecontent.issues). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/60/ab/6d/60ab6dfa-0046-ab7c-a06b-54fb40bc4b8c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Scarlet com.highcaffeinecontent.issues app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/60/ab/6d/60ab6dfa-0046-ab7c-a06b-54fb40bc4b8c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Scarlet com.highcaffeinecontent.issues app icon"></div>  
   
 # Scarlet (com.highcaffeinecontent.issues)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/0d/73/e20d7343-e318-2952-0fb1-2acbfa5c8cae/AppIcon-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application GameStop (com.gamestop.powerup). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application GameStop (com.gamestop.powerup). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/0d/73/e20d7343-e318-2952-0fb1-2acbfa5c8cae/AppIcon-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg" width="100" height="100" alt="GameStop com.gamestop.powerup app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/0d/73/e20d7343-e318-2952-0fb1-2acbfa5c8cae/AppIcon-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg" width="100" height="100" alt="GameStop com.gamestop.powerup app icon"></div>  
   
 # GameStop (com.gamestop.powerup)
 

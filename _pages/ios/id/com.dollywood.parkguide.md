@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/50/89/26/50892652-e910-f4c1-d199-fce8c612c036/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Dollywood (com.dollywood.parkguide). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Dollywood (com.dollywood.parkguide). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/50/89/26/50892652-e910-f4c1-d199-fce8c612c036/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Dollywood com.dollywood.parkguide app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/50/89/26/50892652-e910-f4c1-d199-fce8c612c036/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Dollywood com.dollywood.parkguide app icon"></div>  
   
 # Dollywood (com.dollywood.parkguide)
 
@@ -57,11 +57,11 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 22
+- Storage: 3 lib(s)
 - Network: 2 lib(s)
 - Crash: 1 lib(s)
-- Tools: 10 lib(s)
-- Storage: 3 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 10 lib(s)
 
 **Apple dylibs:**
 

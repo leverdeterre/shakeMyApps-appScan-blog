@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/95/86/43/9586435a-45d6-66d7-35c9-ee5a945b7255/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application FlashFlash (com.hworks-agency.flashflash). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application FlashFlash (com.hworks-agency.flashflash). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/95/86/43/9586435a-45d6-66d7-35c9-ee5a945b7255/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="FlashFlash com.hworks-agency.flashflash app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/95/86/43/9586435a-45d6-66d7-35c9-ee5a945b7255/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="FlashFlash com.hworks-agency.flashflash app icon"></div>  
   
 # FlashFlash (com.hworks-agency.flashflash)
 

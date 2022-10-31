@@ -4,7 +4,7 @@ permalink: /apps/ios/com.standardcyborg.Capture.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Capture (com.standardcyborg.Capture). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Capture (com.standardcyborg.Capture). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Capture (com.standardcyborg.Capture)
 
@@ -49,8 +49,8 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
-- Tools: 4 lib(s)
 - Storage: 1 lib(s)
+- Tools: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftARKit

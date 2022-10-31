@@ -4,7 +4,7 @@ permalink: /apps/ios/com.video.bloomer.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Bloomer (com.video.bloomer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Bloomer (com.video.bloomer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Bloomer (com.video.bloomer)
 
@@ -54,10 +54,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 102
-- Tracking: 4 lib(s)
-- Storage: 3 lib(s)
-- Network: 3 lib(s)
 - UI: 6 lib(s)
+- Storage: 3 lib(s)
+- Tracking: 4 lib(s)
+- Network: 3 lib(s)
 - Tools: 23 lib(s)
 
 **Apple dylibs:**

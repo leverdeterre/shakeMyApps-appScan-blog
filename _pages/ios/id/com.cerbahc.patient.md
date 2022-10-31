@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9a/fc/09/9afc09f4-1ce3-2d96-6803-182d0894981d/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Cerballiance (com.cerbahc.patient). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Cerballiance (com.cerbahc.patient). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9a/fc/09/9afc09f4-1ce3-2d96-6803-182d0894981d/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Cerballiance com.cerbahc.patient app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9a/fc/09/9afc09f4-1ce3-2d96-6803-182d0894981d/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Cerballiance com.cerbahc.patient app icon"></div>  
   
 # Cerballiance (com.cerbahc.patient)
 
@@ -55,9 +55,9 @@ Native App
 
 ## Librairies 
 **Number of Third Party Library detected:** 26
-- UI: 2 lib(s)
-- Tools: 9 lib(s)
 - Storage: 1 lib(s)
+- Tools: 9 lib(s)
+- UI: 2 lib(s)
 - Network: 3 lib(s)
 
 **Apple dylibs:**

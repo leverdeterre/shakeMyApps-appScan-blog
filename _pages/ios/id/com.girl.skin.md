@@ -4,7 +4,7 @@ permalink: /apps/ios/com.girl.skin.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Girl Skins for Roblox Game (com.girl.skin). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Girl Skins for Roblox Game (com.girl.skin). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Girl Skins for Roblox Game (com.girl.skin)
 
@@ -53,9 +53,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- Tracking: 2 lib(s)
 - Tools: 6 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

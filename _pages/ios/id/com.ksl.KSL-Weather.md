@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/78/ea/4078eaf0-03f1-5dcf-7504-12ec670bdd7c/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application KSL Weather (com.ksl.KSL-Weather). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application KSL Weather (com.ksl.KSL-Weather). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/78/ea/4078eaf0-03f1-5dcf-7504-12ec670bdd7c/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="KSL Weather com.ksl.KSL-Weather app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/78/ea/4078eaf0-03f1-5dcf-7504-12ec670bdd7c/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="KSL Weather com.ksl.KSL-Weather app icon"></div>  
   
 # KSL Weather (com.ksl.KSL-Weather)
 
@@ -57,10 +57,10 @@ supported devices iPhone & iPad
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Crash: 1 lib(s)
 - Tools: 9 lib(s)
-- Tracking: 2 lib(s)
+- Crash: 1 lib(s)
 - UI: 2 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

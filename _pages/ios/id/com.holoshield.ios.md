@@ -4,7 +4,7 @@ permalink: /apps/ios/com.holoshield.ios.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application HoloShield (com.holoshield.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application HoloShield (com.holoshield.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # HoloShield (com.holoshield.ios)
 

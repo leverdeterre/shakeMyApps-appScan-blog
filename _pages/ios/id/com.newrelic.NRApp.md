@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/87/a2/e987a252-5261-3601-fa64-affa8e98dbc9/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application New Relic (com.newrelic.NRApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application New Relic (com.newrelic.NRApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/87/a2/e987a252-5261-3601-fa64-affa8e98dbc9/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="New Relic com.newrelic.NRApp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/87/a2/e987a252-5261-3601-fa64-affa8e98dbc9/AppIcon-1x_U007emarketing-0-0-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="New Relic com.newrelic.NRApp app icon"></div>  
   
 # New Relic (com.newrelic.NRApp)
 
@@ -62,10 +62,10 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
-- UI: 3 lib(s)
-- Tracking: 1 lib(s)
 - Network: 2 lib(s)
 - Tools: 3 lib(s)
+- UI: 3 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 

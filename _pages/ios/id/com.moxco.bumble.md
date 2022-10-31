@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/45/38/0f453818-3c51-4962-8713-b6d01e3adbc3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Bumble (com.moxco.bumble). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Bumble (com.moxco.bumble). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/45/38/0f453818-3c51-4962-8713-b6d01e3adbc3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Bumble com.moxco.bumble app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/45/38/0f453818-3c51-4962-8713-b6d01e3adbc3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Bumble com.moxco.bumble app icon"></div>  
   
 # Bumble (com.moxco.bumble)
 
@@ -61,12 +61,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 34
+- Tracking: 2 lib(s)
+- Storage: 1 lib(s)
 - UI: 1 lib(s)
+- Tools: 7 lib(s)
 - Network: 1 lib(s)
 - Logs: 2 lib(s)
-- Storage: 1 lib(s)
-- Tools: 7 lib(s)
-- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

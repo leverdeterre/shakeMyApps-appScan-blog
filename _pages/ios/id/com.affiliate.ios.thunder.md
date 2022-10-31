@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/cc/b1/09/ccb1097d-3d73-cc06-1f67-7ee9b0c5eab7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Thunderbolt (com.affiliate.ios.thunder). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Thunderbolt (com.affiliate.ios.thunder). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/cc/b1/09/ccb1097d-3d73-cc06-1f67-7ee9b0c5eab7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Thunderbolt com.affiliate.ios.thunder app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/cc/b1/09/ccb1097d-3d73-cc06-1f67-7ee9b0c5eab7/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Thunderbolt com.affiliate.ios.thunder app icon"></div>  
   
 # Thunderbolt (com.affiliate.ios.thunder)
 
@@ -58,8 +58,8 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
-- Tools: 4 lib(s)
 - UI: 1 lib(s)
+- Tools: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

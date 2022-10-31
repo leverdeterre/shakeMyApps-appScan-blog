@@ -4,7 +4,7 @@ permalink: /apps/ios/com.hiyo.live.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Yumy (com.hiyo.live). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Yumy (com.hiyo.live). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Yumy (com.hiyo.live)
 
@@ -54,8 +54,8 @@ SwiftUI
 ## Librairies 
 **Number of Third Party Library detected:** 71
 - Storage: 2 lib(s)
-- Tracking: 5 lib(s)
 - Network: 3 lib(s)
+- Tracking: 5 lib(s)
 - Tools: 24 lib(s)
 - UI: 7 lib(s)
 

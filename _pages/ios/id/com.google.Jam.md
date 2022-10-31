@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/dc/19/5edc1990-2619-18f0-2809-bf4402fed6bc/logo_jamboard_color-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Jamboard (com.google.Jam). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Jamboard (com.google.Jam). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/dc/19/5edc1990-2619-18f0-2809-bf4402fed6bc/logo_jamboard_color-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Jamboard com.google.Jam app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/dc/19/5edc1990-2619-18f0-2809-bf4402fed6bc/logo_jamboard_color-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Jamboard com.google.Jam app icon"></div>  
   
 # Jamboard (com.google.Jam)
 

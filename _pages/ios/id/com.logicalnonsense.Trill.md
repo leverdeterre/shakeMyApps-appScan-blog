@@ -4,7 +4,7 @@ permalink: /apps/ios/com.logicalnonsense.Trill.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Trill (com.logicalnonsense.Trill). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Trill (com.logicalnonsense.Trill). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Trill (com.logicalnonsense.Trill)
 
@@ -50,10 +50,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
-- Tools: 6 lib(s)
 - Tracking: 2 lib(s)
-- UI: 4 lib(s)
 - Network: 3 lib(s)
+- Tools: 6 lib(s)
+- UI: 4 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/c8/9b/ee/c89beed1-b6f7-6b02-5bef-194b19734f3b/mzl.dqqjpwls.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application iRewardChart (com.irewardchart.iRewardChart). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application iRewardChart (com.irewardchart.iRewardChart). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/c8/9b/ee/c89beed1-b6f7-6b02-5bef-194b19734f3b/mzl.dqqjpwls.png/512x512bb.jpg" width="100" height="100" alt="iRewardChart com.irewardchart.iRewardChart app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/c8/9b/ee/c89beed1-b6f7-6b02-5bef-194b19734f3b/mzl.dqqjpwls.png/512x512bb.jpg" width="100" height="100" alt="iRewardChart com.irewardchart.iRewardChart app icon"></div>  
   
 # iRewardChart (com.irewardchart.iRewardChart)
 
@@ -57,8 +57,8 @@ supported devices iPhone & iPad
 
 ## Librairies 
 **Number of Third Party Library detected:** 12
-- UI: 1 lib(s)
 - Tools: 6 lib(s)
+- UI: 1 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 1 lib(s)
 

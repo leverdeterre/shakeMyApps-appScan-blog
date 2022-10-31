@@ -4,7 +4,7 @@ permalink: /apps/ios/com.amazon.Now.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Prime Now (com.amazon.Now). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Prime Now (com.amazon.Now). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Prime Now (com.amazon.Now)
 
@@ -50,10 +50,10 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
-- Tools: 4 lib(s)
 - Network: 4 lib(s)
 - Storage: 1 lib(s)
 - UI: 1 lib(s)
+- Tools: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

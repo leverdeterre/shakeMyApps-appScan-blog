@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/af/00/40af0017-28f8-539b-5e63-8220fc309f04/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application EMMO (miki.EMMODay). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application EMMO (miki.EMMODay). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/af/00/40af0017-28f8-539b-5e63-8220fc309f04/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="EMMO miki.EMMODay app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/af/00/40af0017-28f8-539b-5e63-8220fc309f04/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="EMMO miki.EMMODay app icon"></div>  
   
 # EMMO (miki.EMMODay)
 
@@ -61,9 +61,9 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
-- UI: 4 lib(s)
-- Network: 1 lib(s)
 - Tools: 7 lib(s)
+- Network: 1 lib(s)
+- UI: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

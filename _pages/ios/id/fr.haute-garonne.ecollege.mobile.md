@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a6/08/81/a6088120-044c-7697-edfb-9595e4c39ec3/mzl.iroxnpiw.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application eCollège31 (fr.haute-garonne.ecollege.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application eCollège31 (fr.haute-garonne.ecollege.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a6/08/81/a6088120-044c-7697-edfb-9595e4c39ec3/mzl.iroxnpiw.png/512x512bb.jpg" width="100" height="100" alt="eCollège31 fr.haute-garonne.ecollege.mobile app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a6/08/81/a6088120-044c-7697-edfb-9595e4c39ec3/mzl.iroxnpiw.png/512x512bb.jpg" width="100" height="100" alt="eCollège31 fr.haute-garonne.ecollege.mobile app icon"></div>  
   
 # eCollège31 (fr.haute-garonne.ecollege.mobile)
 

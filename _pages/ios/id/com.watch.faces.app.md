@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/b3/f6/7db3f690-19d8-529a-c5e0-27f010fb0ca3/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Watch Faces Widgets (com.watch.faces.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Watch Faces Widgets (com.watch.faces.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/b3/f6/7db3f690-19d8-529a-c5e0-27f010fb0ca3/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Watch Faces Widgets com.watch.faces.app app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/b3/f6/7db3f690-19d8-529a-c5e0-27f010fb0ca3/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Watch Faces Widgets com.watch.faces.app app icon"></div>  
   
 # Watch Faces Widgets (com.watch.faces.app)
 
@@ -61,12 +61,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 50
+- Network: 1 lib(s)
+- UI: 2 lib(s)
+- Crash: 1 lib(s)
 - Tools: 11 lib(s)
 - Tracking: 5 lib(s)
 - Storage: 3 lib(s)
-- Crash: 1 lib(s)
-- Network: 1 lib(s)
-- UI: 2 lib(s)
 
 **Apple dylibs:**
 

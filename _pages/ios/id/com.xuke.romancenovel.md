@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/e3/a6/eae3a6fc-d5bd-6bef-8ba7-34636aabc57a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application RomanceNovel (com.xuke.romancenovel). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application RomanceNovel (com.xuke.romancenovel). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/e3/a6/eae3a6fc-d5bd-6bef-8ba7-34636aabc57a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="RomanceNovel com.xuke.romancenovel app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/ea/e3/a6/eae3a6fc-d5bd-6bef-8ba7-34636aabc57a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="RomanceNovel com.xuke.romancenovel app icon"></div>  
   
 # RomanceNovel (com.xuke.romancenovel)
 
@@ -62,10 +62,10 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 32
 - Storage: 2 lib(s)
-- UI: 3 lib(s)
-- Tracking: 3 lib(s)
-- Tools: 10 lib(s)
 - Network: 3 lib(s)
+- Tracking: 3 lib(s)
+- UI: 3 lib(s)
+- Tools: 10 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

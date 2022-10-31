@@ -4,7 +4,7 @@ permalink: /apps/ios/fr.alkeo.vdm.3.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application VDM (fr.alkeo.vdm.3). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application VDM (fr.alkeo.vdm.3). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # VDM (fr.alkeo.vdm.3)
 
@@ -52,13 +52,13 @@ contains 5 App extensions
 
 ## Librairies 
 **Number of Third Party Library detected:** 56
-- Network: 3 lib(s)
-- UI: 3 lib(s)
 - Tools: 22 lib(s)
-- Tracking: 2 lib(s)
-- Logs: 1 lib(s)
-- Crash: 1 lib(s)
+- Network: 3 lib(s)
 - Storage: 2 lib(s)
+- Tracking: 2 lib(s)
+- Crash: 1 lib(s)
+- UI: 3 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

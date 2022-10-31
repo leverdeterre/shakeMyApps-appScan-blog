@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/3c/58/9a3c5872-fdb7-f4b0-a069-2dbc64c56250/AppIcon-1x_U007emarketing-0-7-0-0-P3-GLES2_U002c0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Boomerang Maker (com.craftiz.boomeranger). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Boomerang Maker (com.craftiz.boomeranger). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/3c/58/9a3c5872-fdb7-f4b0-a069-2dbc64c56250/AppIcon-1x_U007emarketing-0-7-0-0-P3-GLES2_U002c0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Boomerang Maker com.craftiz.boomeranger app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/3c/58/9a3c5872-fdb7-f4b0-a069-2dbc64c56250/AppIcon-1x_U007emarketing-0-7-0-0-P3-GLES2_U002c0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Boomerang Maker com.craftiz.boomeranger app icon"></div>  
   
 # Boomerang Maker (com.craftiz.boomeranger)
 

@@ -4,7 +4,7 @@ permalink: /apps/ios/com.audiorecorder1.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Audio: Audio Editor (com.audiorecorder1). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Audio: Audio Editor (com.audiorecorder1). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Audio: Audio Editor (com.audiorecorder1)
 
@@ -49,9 +49,9 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 60
-- Tracking: 2 lib(s)
-- UI: 11 lib(s)
 - Storage: 2 lib(s)
+- UI: 11 lib(s)
+- Tracking: 2 lib(s)
 - Tools: 14 lib(s)
 - Network: 4 lib(s)
 

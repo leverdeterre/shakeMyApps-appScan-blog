@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/d5/94/06d59413-099e-96d5-f92a-e99b1a281438/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application QQ音乐 (com.tencent.QQMusic). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application QQ音乐 (com.tencent.QQMusic). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/d5/94/06d59413-099e-96d5-f92a-e99b1a281438/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="QQ音乐 com.tencent.QQMusic app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/06/d5/94/06d59413-099e-96d5-f92a-e99b1a281438/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="QQ音乐 com.tencent.QQMusic app icon"></div>  
   
 # QQ音乐 (com.tencent.QQMusic)
 
@@ -60,10 +60,10 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 109
-- Network: 2 lib(s)
 - UI: 2 lib(s)
 - Storage: 3 lib(s)
 - Tools: 6 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

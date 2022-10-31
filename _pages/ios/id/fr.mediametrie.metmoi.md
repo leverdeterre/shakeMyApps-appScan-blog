@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/41/1f/b2411fd7-5159-088d-085a-9a903d2b9b3f/AppIcon-1x_U007emarketing-0-5-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application M & Moi (fr.mediametrie.metmoi). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application M & Moi (fr.mediametrie.metmoi). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/41/1f/b2411fd7-5159-088d-085a-9a903d2b9b3f/AppIcon-1x_U007emarketing-0-5-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="M & Moi fr.mediametrie.metmoi app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/41/1f/b2411fd7-5159-088d-085a-9a903d2b9b3f/AppIcon-1x_U007emarketing-0-5-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="M & Moi fr.mediametrie.metmoi app icon"></div>  
   
 # M & Moi (fr.mediametrie.metmoi)
 
@@ -56,8 +56,8 @@ Number of entitlements detected: 3
 ## Librairies 
 **Number of Third Party Library detected:** 51
 - Tracking: 1 lib(s)
-- Tools: 9 lib(s)
 - Logs: 1 lib(s)
+- Tools: 9 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

@@ -4,7 +4,7 @@ permalink: /apps/ios/health.myladder.ladder.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Ladder (health.myladder.ladder). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Ladder (health.myladder.ladder). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Ladder (health.myladder.ladder)
 
@@ -51,11 +51,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 39
-- Tracking: 5 lib(s)
-- UI: 3 lib(s)
 - Crash: 1 lib(s)
 - Network: 3 lib(s)
+- UI: 3 lib(s)
 - Tools: 20 lib(s)
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

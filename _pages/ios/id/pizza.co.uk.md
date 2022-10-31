@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/8e/9e/f48e9e88-80db-89cf-8016-ad2d166aa230/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Takeaway (pizza.co.uk). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Takeaway (pizza.co.uk). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/8e/9e/f48e9e88-80db-89cf-8016-ad2d166aa230/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Takeaway pizza.co.uk app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/f4/8e/9e/f48e9e88-80db-89cf-8016-ad2d166aa230/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Takeaway pizza.co.uk app icon"></div>  
   
 # Takeaway (pizza.co.uk)
 
@@ -64,12 +64,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 77
-- Tracking: 8 lib(s)
 - UI: 6 lib(s)
-- Tools: 21 lib(s)
 - Crash: 1 lib(s)
-- Storage: 1 lib(s)
 - Logs: 2 lib(s)
+- Storage: 1 lib(s)
+- Tools: 21 lib(s)
+- Tracking: 8 lib(s)
 - Network: 4 lib(s)
 
 **Apple dylibs:**

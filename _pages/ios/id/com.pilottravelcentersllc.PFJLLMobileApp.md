@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/71/22/b7/7122b779-f672-eb79-070c-d2e8b6ae4f5d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Pilot Flying J: myRewards Plus (com.pilottravelcentersllc.PFJLLMobileApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Pilot Flying J: myRewards Plus (com.pilottravelcentersllc.PFJLLMobileApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/71/22/b7/7122b779-f672-eb79-070c-d2e8b6ae4f5d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Pilot Flying J: myRewards Plus com.pilottravelcentersllc.PFJLLMobileApp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/71/22/b7/7122b779-f672-eb79-070c-d2e8b6ae4f5d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Pilot Flying J: myRewards Plus com.pilottravelcentersllc.PFJLLMobileApp app icon"></div>  
   
 # Pilot Flying J: myRewards Plus (com.pilottravelcentersllc.PFJLLMobileApp)
 

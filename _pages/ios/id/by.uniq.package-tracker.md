@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/05/f8/c505f8ab-9ce2-3f04-2c59-cd14e17e9674/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Package Tracker (by.uniq.package-tracker). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Package Tracker (by.uniq.package-tracker). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/05/f8/c505f8ab-9ce2-3f04-2c59-cd14e17e9674/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Package Tracker by.uniq.package-tracker app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c5/05/f8/c505f8ab-9ce2-3f04-2c59-cd14e17e9674/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Package Tracker by.uniq.package-tracker app icon"></div>  
   
 # Package Tracker (by.uniq.package-tracker)
 

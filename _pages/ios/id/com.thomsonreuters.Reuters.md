@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/cc/58/8dcc58c6-1521-45fa-b9e9-4fe8700e20d6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Reuters (com.thomsonreuters.Reuters). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Reuters (com.thomsonreuters.Reuters). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/cc/58/8dcc58c6-1521-45fa-b9e9-4fe8700e20d6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Reuters com.thomsonreuters.Reuters app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8d/cc/58/8dcc58c6-1521-45fa-b9e9-4fe8700e20d6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Reuters com.thomsonreuters.Reuters app icon"></div>  
   
 # Reuters (com.thomsonreuters.Reuters)
 
@@ -61,13 +61,13 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 42
-- Logs: 1 lib(s)
-- Network: 2 lib(s)
-- UI: 2 lib(s)
-- Tools: 13 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 3 lib(s)
+- Crash: 1 lib(s)
 - Storage: 1 lib(s)
+- Tools: 13 lib(s)
+- Network: 2 lib(s)
+- Logs: 1 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 

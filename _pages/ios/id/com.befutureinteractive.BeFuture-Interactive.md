@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/aa/f6/e6aaf68d-4a1a-8410-d53a-d5eec244c7f4/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Betting Tips | BeFuture IN. (com.befutureinteractive.BeFuture-Interactive). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Betting Tips | BeFuture IN. (com.befutureinteractive.BeFuture-Interactive). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/aa/f6/e6aaf68d-4a1a-8410-d53a-d5eec244c7f4/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Betting Tips | BeFuture IN. com.befutureinteractive.BeFuture-Interactive app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e6/aa/f6/e6aaf68d-4a1a-8410-d53a-d5eec244c7f4/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Betting Tips | BeFuture IN. com.befutureinteractive.BeFuture-Interactive app icon"></div>  
   
 # Betting Tips | BeFuture IN. (com.befutureinteractive.BeFuture-Interactive)
 

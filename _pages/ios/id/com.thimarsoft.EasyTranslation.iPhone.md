@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/55/f8/dc/55f8dc13-7c45-a6b4-198d-809cfe6e924e/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application EasyTranslation.iPhone (com.thimarsoft.EasyTranslation.iPhone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application EasyTranslation.iPhone (com.thimarsoft.EasyTranslation.iPhone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/55/f8/dc/55f8dc13-7c45-a6b4-198d-809cfe6e924e/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="EasyTranslation.iPhone com.thimarsoft.EasyTranslation.iPhone app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/55/f8/dc/55f8dc13-7c45-a6b4-198d-809cfe6e924e/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="EasyTranslation.iPhone com.thimarsoft.EasyTranslation.iPhone app icon"></div>  
   
 # EasyTranslation.iPhone (com.thimarsoft.EasyTranslation.iPhone)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/02/6e/84/026e847b-3996-4bb9-f32d-6106075f9ee6/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Ad Stats (com.altairapps.admobstats). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Ad Stats (com.altairapps.admobstats). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/02/6e/84/026e847b-3996-4bb9-f32d-6106075f9ee6/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ad Stats com.altairapps.admobstats app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/02/6e/84/026e847b-3996-4bb9-f32d-6106075f9ee6/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ad Stats com.altairapps.admobstats app icon"></div>  
   
 # Ad Stats (com.altairapps.admobstats)
 

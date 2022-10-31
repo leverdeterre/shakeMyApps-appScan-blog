@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/32/64/a7326456-9ec7-2081-fe9a-df5e8f3a7b6e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Boston Herald E-Edition (com.NewspaperDirect.BostonHerald). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Boston Herald E-Edition (com.NewspaperDirect.BostonHerald). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/32/64/a7326456-9ec7-2081-fe9a-df5e8f3a7b6e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Boston Herald E-Edition com.NewspaperDirect.BostonHerald app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/32/64/a7326456-9ec7-2081-fe9a-df5e8f3a7b6e/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Boston Herald E-Edition com.NewspaperDirect.BostonHerald app icon"></div>  
   
 # Boston Herald E-Edition (com.NewspaperDirect.BostonHerald)
 

@@ -4,7 +4,7 @@ permalink: /apps/ios/com.binavapp.ketbetscalculator.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application 1XKET Bets Calculator (com.binavapp.ketbetscalculator). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 1XKET Bets Calculator (com.binavapp.ketbetscalculator). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # 1XKET Bets Calculator (com.binavapp.ketbetscalculator)
 
@@ -48,10 +48,10 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 40
-- Tracking: 4 lib(s)
 - Storage: 5 lib(s)
-- Network: 3 lib(s)
 - Tools: 11 lib(s)
+- Network: 3 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

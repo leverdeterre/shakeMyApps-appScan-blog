@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/dd/30/04/dd30044e-6d3d-3ab3-c253-ccc2375f1cf8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Moon Plus (com.rivolu.MoonCalendarPro.universal). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Moon Plus (com.rivolu.MoonCalendarPro.universal). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/dd/30/04/dd30044e-6d3d-3ab3-c253-ccc2375f1cf8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Moon Plus com.rivolu.MoonCalendarPro.universal app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/dd/30/04/dd30044e-6d3d-3ab3-c253-ccc2375f1cf8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Moon Plus com.rivolu.MoonCalendarPro.universal app icon"></div>  
   
 # Moon Plus (com.rivolu.MoonCalendarPro.universal)
 

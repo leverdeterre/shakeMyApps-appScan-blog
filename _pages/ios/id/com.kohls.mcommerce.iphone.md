@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/e8/e5/1ce8e550-3455-8eba-7aee-dcf3ab64cbfa/AppIcon-HolidayGreen-0-1x_U007emarketing-0-5-0-P3-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Kohl's (com.kohls.mcommerce.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Kohl's (com.kohls.mcommerce.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/e8/e5/1ce8e550-3455-8eba-7aee-dcf3ab64cbfa/AppIcon-HolidayGreen-0-1x_U007emarketing-0-5-0-P3-85-220.png/512x512bb.jpg" width="100" height="100" alt="Kohl's com.kohls.mcommerce.iphone app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/e8/e5/1ce8e550-3455-8eba-7aee-dcf3ab64cbfa/AppIcon-HolidayGreen-0-1x_U007emarketing-0-5-0-P3-85-220.png/512x512bb.jpg" width="100" height="100" alt="Kohl's com.kohls.mcommerce.iphone app icon"></div>  
   
 # Kohl's (com.kohls.mcommerce.iphone)
 

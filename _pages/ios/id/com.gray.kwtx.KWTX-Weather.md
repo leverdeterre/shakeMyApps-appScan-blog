@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/07/2e/8b072ea4-8bb1-b6d7-9aa2-8e5f802bc6f9/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application KWTX Weather (com.gray.kwtx.KWTX-Weather). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application KWTX Weather (com.gray.kwtx.KWTX-Weather). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/07/2e/8b072ea4-8bb1-b6d7-9aa2-8e5f802bc6f9/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="KWTX Weather com.gray.kwtx.KWTX-Weather app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/07/2e/8b072ea4-8bb1-b6d7-9aa2-8e5f802bc6f9/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="KWTX Weather com.gray.kwtx.KWTX-Weather app icon"></div>  
   
 # KWTX Weather (com.gray.kwtx.KWTX-Weather)
 
@@ -57,8 +57,8 @@ supported devices iPhone & iPad
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
-- Tools: 3 lib(s)
 - UI: 2 lib(s)
+- Tools: 3 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/31/bc/31/31bc31b3-7846-f0a6-0b10-fb339259fce9/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application MONDIAL DE L'AUTO 2022 (com.swapcard.mondialdelauto). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application MONDIAL DE L'AUTO 2022 (com.swapcard.mondialdelauto). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/31/bc/31/31bc31b3-7846-f0a6-0b10-fb339259fce9/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="MONDIAL DE L'AUTO 2022 com.swapcard.mondialdelauto app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/31/bc/31/31bc31b3-7846-f0a6-0b10-fb339259fce9/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="MONDIAL DE L'AUTO 2022 com.swapcard.mondialdelauto app icon"></div>  
   
 # MONDIAL DE L'AUTO 2022 (com.swapcard.mondialdelauto)
 

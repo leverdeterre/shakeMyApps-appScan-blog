@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/99/a8/30/99a83015-2a6f-e91c-2eb4-750d0ed2ead9/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Extra CU Mobile App (org.extracreditunion.grip). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Extra CU Mobile App (org.extracreditunion.grip). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/99/a8/30/99a83015-2a6f-e91c-2eb4-750d0ed2ead9/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Extra CU Mobile App org.extracreditunion.grip app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/99/a8/30/99a83015-2a6f-e91c-2eb4-750d0ed2ead9/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Extra CU Mobile App org.extracreditunion.grip app icon"></div>  
   
 # Extra CU Mobile App (org.extracreditunion.grip)
 

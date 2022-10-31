@@ -4,7 +4,7 @@ permalink: /apps/ios/com.watched.play.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application WATCHED (com.watched.play). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application WATCHED (com.watched.play). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # WATCHED (com.watched.play)
 
@@ -49,9 +49,9 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 52
-- Tools: 3 lib(s)
 - Logs: 1 lib(s)
 - Network: 2 lib(s)
+- Tools: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

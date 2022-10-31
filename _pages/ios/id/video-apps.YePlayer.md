@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/24/28/64/242864f5-f1c3-42d9-9bb7-bd9de723d84e/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application YePlayer (video-apps.YePlayer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application YePlayer (video-apps.YePlayer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/24/28/64/242864f5-f1c3-42d9-9bb7-bd9de723d84e/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="YePlayer video-apps.YePlayer app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/24/28/64/242864f5-f1c3-42d9-9bb7-bd9de723d84e/AppIcon-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="YePlayer video-apps.YePlayer app icon"></div>  
   
 # YePlayer (video-apps.YePlayer)
 
@@ -59,8 +59,8 @@ build using Xcode 13
 ## Librairies 
 **Number of Third Party Library detected:** 13
 - Storage: 1 lib(s)
-- Tools: 4 lib(s)
 - UI: 1 lib(s)
+- Tools: 4 lib(s)
 
 **Apple dylibs:**
 

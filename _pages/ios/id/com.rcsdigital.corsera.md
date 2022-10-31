@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/b3/3d/8bb33d32-77ac-8c5b-d374-d5b204502c96/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Corriere.it (com.rcsdigital.corsera). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Corriere.it (com.rcsdigital.corsera). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/b3/3d/8bb33d32-77ac-8c5b-d374-d5b204502c96/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Corriere.it com.rcsdigital.corsera app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8b/b3/3d/8bb33d32-77ac-8c5b-d374-d5b204502c96/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Corriere.it com.rcsdigital.corsera app icon"></div>  
   
 # Corriere.it (com.rcsdigital.corsera)
 
@@ -61,8 +61,8 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
-- Tracking: 5 lib(s)
 - Tools: 7 lib(s)
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 

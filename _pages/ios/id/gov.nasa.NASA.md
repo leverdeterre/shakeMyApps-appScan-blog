@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/a2/b2/eca2b2ec-38c8-7cd0-413f-a47b12eac4c4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application NASA (gov.nasa.NASA). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application NASA (gov.nasa.NASA). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/a2/b2/eca2b2ec-38c8-7cd0-413f-a47b12eac4c4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="NASA gov.nasa.NASA app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/a2/b2/eca2b2ec-38c8-7cd0-413f-a47b12eac4c4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="NASA gov.nasa.NASA app icon"></div>  
   
 # NASA (gov.nasa.NASA)
 
@@ -60,11 +60,11 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
-- UI: 3 lib(s)
-- Crash: 1 lib(s)
-- Tools: 13 lib(s)
-- Tracking: 2 lib(s)
 - Network: 2 lib(s)
+- Crash: 1 lib(s)
+- UI: 3 lib(s)
+- Tracking: 2 lib(s)
+- Tools: 13 lib(s)
 
 **Apple dylibs:**
 

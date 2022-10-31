@@ -4,7 +4,7 @@ permalink: /apps/ios/net.atos.spth.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application SpTH (net.atos.spth). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application SpTH (net.atos.spth). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # SpTH (net.atos.spth)
 
@@ -51,8 +51,8 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 8
-- Network: 2 lib(s)
 - Tools: 1 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

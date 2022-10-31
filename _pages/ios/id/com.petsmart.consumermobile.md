@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/83/ba/b383ba96-6d9b-ffa6-e81b-9693d4b8177f/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application PetSmart (com.petsmart.consumermobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PetSmart (com.petsmart.consumermobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/83/ba/b383ba96-6d9b-ffa6-e81b-9693d4b8177f/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="PetSmart com.petsmart.consumermobile app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/83/ba/b383ba96-6d9b-ffa6-e81b-9693d4b8177f/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="PetSmart com.petsmart.consumermobile app icon"></div>  
   
 # PetSmart (com.petsmart.consumermobile)
 
@@ -62,12 +62,12 @@ SwiftUI
 ## Librairies 
 **Number of Third Party Library detected:** 81
 - Crash: 1 lib(s)
-- Storage: 1 lib(s)
-- Network: 2 lib(s)
 - Logs: 2 lib(s)
 - Tracking: 5 lib(s)
-- Tools: 20 lib(s)
 - UI: 5 lib(s)
+- Network: 2 lib(s)
+- Storage: 1 lib(s)
+- Tools: 20 lib(s)
 
 **Apple dylibs:**
 

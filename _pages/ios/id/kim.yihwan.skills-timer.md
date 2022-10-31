@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/c4/76/9b/c4769bd5-5676-37c4-e694-4c5e037cd1f0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Session (kim.yihwan.skills-timer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Session (kim.yihwan.skills-timer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/c4/76/9b/c4769bd5-5676-37c4-e694-4c5e037cd1f0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Session kim.yihwan.skills-timer app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/c4/76/9b/c4769bd5-5676-37c4-e694-4c5e037cd1f0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Session kim.yihwan.skills-timer app icon"></div>  
   
 # Session (kim.yihwan.skills-timer)
 

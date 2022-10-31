@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/88/a5/29/88a5290d-c541-f49c-9e75-bd0e49294a53/AppIcon-release-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application NFL Fantasy (com.nfl.fantasy.core). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application NFL Fantasy (com.nfl.fantasy.core). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/88/a5/29/88a5290d-c541-f49c-9e75-bd0e49294a53/AppIcon-release-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="NFL Fantasy com.nfl.fantasy.core app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/88/a5/29/88a5290d-c541-f49c-9e75-bd0e49294a53/AppIcon-release-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="NFL Fantasy com.nfl.fantasy.core app icon"></div>  
   
 # NFL Fantasy (com.nfl.fantasy.core)
 
@@ -60,8 +60,8 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
-- Tools: 1 lib(s)
 - Tracking: 1 lib(s)
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

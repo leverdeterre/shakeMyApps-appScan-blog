@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/02/9e/18/029e189d-1f69-43b1-9dd0-838de34151da/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Dash Diet (com.realizedmobile.paleomealplan). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Dash Diet (com.realizedmobile.paleomealplan). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/02/9e/18/029e189d-1f69-43b1-9dd0-838de34151da/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Dash Diet com.realizedmobile.paleomealplan app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/02/9e/18/029e189d-1f69-43b1-9dd0-838de34151da/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Dash Diet com.realizedmobile.paleomealplan app icon"></div>  
   
 # Dash Diet (com.realizedmobile.paleomealplan)
 
@@ -59,9 +59,9 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
+- Tools: 18 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 5 lib(s)
-- Tools: 18 lib(s)
 
 **Apple dylibs:**
 

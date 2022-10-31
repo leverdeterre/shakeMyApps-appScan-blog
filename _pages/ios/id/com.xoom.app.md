@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/88/80/cd/8880cd69-6c7c-0f1f-88d3-5f2167c97743/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Xoom (com.xoom.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Xoom (com.xoom.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/88/80/cd/8880cd69-6c7c-0f1f-88d3-5f2167c97743/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Xoom com.xoom.app app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/88/80/cd/8880cd69-6c7c-0f1f-88d3-5f2167c97743/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Xoom com.xoom.app app icon"></div>  
   
 # Xoom (com.xoom.app)
 
@@ -60,11 +60,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 38
-- UI: 1 lib(s)
-- Crash: 1 lib(s)
-- Network: 5 lib(s)
 - Tools: 14 lib(s)
 - Tracking: 3 lib(s)
+- Network: 5 lib(s)
+- Crash: 1 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 

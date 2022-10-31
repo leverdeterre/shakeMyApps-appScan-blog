@@ -4,7 +4,7 @@ permalink: /apps/ios/com.private.video.chat.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Tikichat (com.private.video.chat). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Tikichat (com.private.video.chat). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Tikichat (com.private.video.chat)
 
@@ -52,10 +52,10 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 59
 - Storage: 1 lib(s)
+- UI: 3 lib(s)
 - Network: 3 lib(s)
 - Tracking: 4 lib(s)
 - Tools: 13 lib(s)
-- UI: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

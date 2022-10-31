@@ -4,7 +4,7 @@ permalink: /apps/ios/com.azurgate.SCMBImages.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application SCMB Images (com.azurgate.SCMBImages). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application SCMB Images (com.azurgate.SCMBImages). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # SCMB Images (com.azurgate.SCMBImages)
 
@@ -51,10 +51,10 @@ supported devices iPhone & iPad
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- Tracking: 1 lib(s)
-- Tools: 4 lib(s)
-- UI: 1 lib(s)
 - Network: 2 lib(s)
+- Tracking: 1 lib(s)
+- UI: 1 lib(s)
+- Tools: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

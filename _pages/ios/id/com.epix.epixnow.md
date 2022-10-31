@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/0b/35/01/0b3501f6-54fe-1e6d-65c5-b27a593c7997/AppIcon-EPIX-NOW-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application EPIX NOW (com.epix.epixnow). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application EPIX NOW (com.epix.epixnow). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/0b/35/01/0b3501f6-54fe-1e6d-65c5-b27a593c7997/AppIcon-EPIX-NOW-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="EPIX NOW com.epix.epixnow app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/0b/35/01/0b3501f6-54fe-1e6d-65c5-b27a593c7997/AppIcon-EPIX-NOW-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="EPIX NOW com.epix.epixnow app icon"></div>  
   
 # EPIX NOW (com.epix.epixnow)
 

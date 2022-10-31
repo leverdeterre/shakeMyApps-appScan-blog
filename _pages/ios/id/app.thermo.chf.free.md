@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/48/e1/b2/48e1b2a7-eda9-a15e-b2a2-c835479e6aed/mzl.adrtyszv.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Thermometer Free (app.thermo.chf.free). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Thermometer Free (app.thermo.chf.free). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/48/e1/b2/48e1b2a7-eda9-a15e-b2a2-c835479e6aed/mzl.adrtyszv.png/512x512bb.jpg" width="100" height="100" alt="Thermometer Free app.thermo.chf.free app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/48/e1/b2/48e1b2a7-eda9-a15e-b2a2-c835479e6aed/mzl.adrtyszv.png/512x512bb.jpg" width="100" height="100" alt="Thermometer Free app.thermo.chf.free app icon"></div>  
   
 # Thermometer Free (app.thermo.chf.free)
 
@@ -57,10 +57,10 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- UI: 2 lib(s)
-- Tools: 3 lib(s)
 - Network: 1 lib(s)
+- UI: 2 lib(s)
 - Storage: 1 lib(s)
+- Tools: 3 lib(s)
 
 **Apple dylibs:**
 

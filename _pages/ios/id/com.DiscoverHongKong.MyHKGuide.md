@@ -4,7 +4,7 @@ permalink: /apps/ios/com.DiscoverHongKong.MyHKGuide.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application HKTB (com.DiscoverHongKong.MyHKGuide). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application HKTB (com.DiscoverHongKong.MyHKGuide). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # HKTB (com.DiscoverHongKong.MyHKGuide)
 
@@ -50,10 +50,10 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
-- Tracking: 1 lib(s)
-- Network: 2 lib(s)
 - Tools: 3 lib(s)
 - UI: 3 lib(s)
+- Tracking: 1 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 

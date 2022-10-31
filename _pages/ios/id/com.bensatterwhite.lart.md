@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/24/24/12/2424128e-cd89-c7f8-84aa-818509e63c13/pr_source.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application BigBook (com.bensatterwhite.lart). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application BigBook (com.bensatterwhite.lart). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/24/24/12/2424128e-cd89-c7f8-84aa-818509e63c13/pr_source.png/512x512bb.jpg" width="100" height="100" alt="BigBook com.bensatterwhite.lart app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/24/24/12/2424128e-cd89-c7f8-84aa-818509e63c13/pr_source.png/512x512bb.jpg" width="100" height="100" alt="BigBook com.bensatterwhite.lart app icon"></div>  
   
 # BigBook (com.bensatterwhite.lart)
 

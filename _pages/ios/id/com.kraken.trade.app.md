@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/97/1a/aa971a1b-a1db-b774-cc8a-c4f2abf44c0b/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Kraken Pro (com.kraken.trade.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Kraken Pro (com.kraken.trade.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/97/1a/aa971a1b-a1db-b774-cc8a-c4f2abf44c0b/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Kraken Pro com.kraken.trade.app app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/97/1a/aa971a1b-a1db-b774-cc8a-c4f2abf44c0b/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Kraken Pro com.kraken.trade.app app icon"></div>  
   
 # Kraken Pro (com.kraken.trade.app)
 
@@ -21,6 +21,22 @@ AppScan generated a spoiler description of the content of the iOS application Kr
 **App Name:** Kraken Pro
 
 
+## AppScore : 4.24 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
+  
 ## AppScan informations 
 
 **Number of permissions:** 5
@@ -43,11 +59,11 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 91
-- Network: 3 lib(s)
-- UI: 4 lib(s)
 - Tools: 4 lib(s)
+- UI: 4 lib(s)
 - Logs: 1 lib(s)
 - Tracking: 2 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 

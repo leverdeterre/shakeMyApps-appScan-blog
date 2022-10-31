@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/e8/47/a6e8476f-7d98-3d95-8d78-a87a3fdb5101/appIcon-blue-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application My Measures (com.sis.si.mymeasuresfree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application My Measures (com.sis.si.mymeasuresfree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/e8/47/a6e8476f-7d98-3d95-8d78-a87a3fdb5101/appIcon-blue-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="My Measures com.sis.si.mymeasuresfree app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/e8/47/a6e8476f-7d98-3d95-8d78-a87a3fdb5101/appIcon-blue-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="My Measures com.sis.si.mymeasuresfree app icon"></div>  
   
 # My Measures (com.sis.si.mymeasuresfree)
 

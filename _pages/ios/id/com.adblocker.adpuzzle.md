@@ -4,7 +4,7 @@ permalink: /apps/ios/com.adblocker.adpuzzle.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application AdPuzzle (com.adblocker.adpuzzle). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application AdPuzzle (com.adblocker.adpuzzle). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # AdPuzzle (com.adblocker.adpuzzle)
 
@@ -53,11 +53,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- UI: 1 lib(s)
 - Network: 2 lib(s)
-- Tools: 2 lib(s)
-- Storage: 1 lib(s)
+- UI: 1 lib(s)
 - Tracking: 1 lib(s)
+- Storage: 1 lib(s)
+- Tools: 2 lib(s)
 
 **Apple dylibs:**
 

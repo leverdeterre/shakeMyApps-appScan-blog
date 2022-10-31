@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/10/c7/cd/10c7cd73-8a5c-91ef-70f5-be6d2274b757/mzl.qmlahskw.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application M&VLuxury (it.armandocipriani.MVL). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application M&VLuxury (it.armandocipriani.MVL). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/10/c7/cd/10c7cd73-8a5c-91ef-70f5-be6d2274b757/mzl.qmlahskw.png/512x512bb.jpg" width="100" height="100" alt="M&VLuxury it.armandocipriani.MVL app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/10/c7/cd/10c7cd73-8a5c-91ef-70f5-be6d2274b757/mzl.qmlahskw.png/512x512bb.jpg" width="100" height="100" alt="M&VLuxury it.armandocipriani.MVL app icon"></div>  
   
 # M&VLuxury (it.armandocipriani.MVL)
 

@@ -4,7 +4,7 @@ permalink: /apps/ios/com.roundcherryapps.vpnTor.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application TOR+VPN (com.roundcherryapps.vpnTor). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application TOR+VPN (com.roundcherryapps.vpnTor). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # TOR+VPN (com.roundcherryapps.vpnTor)
 
@@ -52,10 +52,10 @@ Some shortcutItems
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
+- Tools: 5 lib(s)
+- Storage: 2 lib(s)
 - Network: 2 lib(s)
 - UI: 5 lib(s)
-- Storage: 2 lib(s)
-- Tools: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

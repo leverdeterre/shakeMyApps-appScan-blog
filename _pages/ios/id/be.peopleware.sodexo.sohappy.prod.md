@@ -4,7 +4,7 @@ permalink: /apps/ios/be.peopleware.sodexo.sohappy.prod.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application So Happy (be.peopleware.sodexo.sohappy.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application So Happy (be.peopleware.sodexo.sohappy.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # So Happy (be.peopleware.sodexo.sohappy.prod)
 

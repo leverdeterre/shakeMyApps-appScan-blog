@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/37/e3/4c/37e34cf9-67b7-fc22-db0a-1a59b261478e/ParkNYC_AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application ParkNYC (us.parkmobile.nycdot). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application ParkNYC (us.parkmobile.nycdot). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/37/e3/4c/37e34cf9-67b7-fc22-db0a-1a59b261478e/ParkNYC_AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ParkNYC us.parkmobile.nycdot app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/37/e3/4c/37e34cf9-67b7-fc22-db0a-1a59b261478e/ParkNYC_AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ParkNYC us.parkmobile.nycdot app icon"></div>  
   
 # ParkNYC (us.parkmobile.nycdot)
 
@@ -64,12 +64,12 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 50
+- Tools: 25 lib(s)
+- Storage: 2 lib(s)
+- Tracking: 3 lib(s)
+- UI: 4 lib(s)
 - Network: 3 lib(s)
 - Crash: 1 lib(s)
-- UI: 4 lib(s)
-- Tracking: 3 lib(s)
-- Storage: 2 lib(s)
-- Tools: 25 lib(s)
 
 **Apple dylibs:**
 

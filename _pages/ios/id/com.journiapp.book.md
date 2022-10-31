@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/25/fa/3f25fa4e-d1df-04d8-f774-0fc6f6e558ef/AppIconBookProd-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Journi Print (com.journiapp.book). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Journi Print (com.journiapp.book). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/25/fa/3f25fa4e-d1df-04d8-f774-0fc6f6e558ef/AppIconBookProd-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Journi Print com.journiapp.book app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/25/fa/3f25fa4e-d1df-04d8-f774-0fc6f6e558ef/AppIconBookProd-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Journi Print com.journiapp.book app icon"></div>  
   
 # Journi Print (com.journiapp.book)
 
@@ -63,8 +63,8 @@ at least 3 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- Tracking: 1 lib(s)
 - Tools: 2 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 

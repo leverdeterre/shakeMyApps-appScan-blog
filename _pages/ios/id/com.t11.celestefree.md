@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/13/a9/bf/13a9bf2d-1601-e53f-2e7a-0d24408c6c20/AppIcon-1x_U007emarketing-4-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application SkyView Lite (com.t11.celestefree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application SkyView Lite (com.t11.celestefree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/13/a9/bf/13a9bf2d-1601-e53f-2e7a-0d24408c6c20/AppIcon-1x_U007emarketing-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="SkyView Lite com.t11.celestefree app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/13/a9/bf/13a9bf2d-1601-e53f-2e7a-0d24408c6c20/AppIcon-1x_U007emarketing-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="SkyView Lite com.t11.celestefree app icon"></div>  
   
 # SkyView Lite (com.t11.celestefree)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/05/06/f6/0506f6b1-4b6d-af22-ae9c-253b7c52d579/AppIcon-1x_U007emarketing-0-10-0-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Smarters Player Lite (com.smarters.smartiptvLite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Smarters Player Lite (com.smarters.smartiptvLite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/05/06/f6/0506f6b1-4b6d-af22-ae9c-253b7c52d579/AppIcon-1x_U007emarketing-0-10-0-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Smarters Player Lite com.smarters.smartiptvLite app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/05/06/f6/0506f6b1-4b6d-af22-ae9c-253b7c52d579/AppIcon-1x_U007emarketing-0-10-0-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Smarters Player Lite com.smarters.smartiptvLite app icon"></div>  
   
 # Smarters Player Lite (com.smarters.smartiptvLite)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/1d/c3/b01dc30b-2688-3bc5-c8d2-2d9cf09d17d2/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application PowerPoint (com.microsoft.Office.Powerpoint). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PowerPoint (com.microsoft.Office.Powerpoint). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/1d/c3/b01dc30b-2688-3bc5-c8d2-2d9cf09d17d2/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="PowerPoint com.microsoft.Office.Powerpoint app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/1d/c3/b01dc30b-2688-3bc5-c8d2-2d9cf09d17d2/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-0-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="PowerPoint com.microsoft.Office.Powerpoint app icon"></div>  
   
 # PowerPoint (com.microsoft.Office.Powerpoint)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/90/02/b8/9002b850-3b54-d45a-e2bd-360a90062d09/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application HUD (com.hookupdating). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application HUD (com.hookupdating). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/90/02/b8/9002b850-3b54-d45a-e2bd-360a90062d09/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="HUD com.hookupdating app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/90/02/b8/9002b850-3b54-d45a-e2bd-360a90062d09/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="HUD com.hookupdating app icon"></div>  
   
 # HUD (com.hookupdating)
 
@@ -61,12 +61,12 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 70
-- UI: 8 lib(s)
 - Network: 7 lib(s)
-- Tracking: 5 lib(s)
-- Tools: 20 lib(s)
+- UI: 8 lib(s)
 - Storage: 3 lib(s)
 - Crash: 1 lib(s)
+- Tools: 20 lib(s)
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 

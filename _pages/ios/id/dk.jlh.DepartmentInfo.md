@@ -4,7 +4,7 @@ permalink: /apps/ios/dk.jlh.DepartmentInfo.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application DepFrance (dk.jlh.DepartmentInfo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application DepFrance (dk.jlh.DepartmentInfo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # DepFrance (dk.jlh.DepartmentInfo)
 
@@ -48,10 +48,10 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
-- Logs: 1 lib(s)
 - UI: 3 lib(s)
-- Tools: 2 lib(s)
 - Network: 1 lib(s)
+- Logs: 1 lib(s)
+- Tools: 2 lib(s)
 
 **Apple dylibs:**
 

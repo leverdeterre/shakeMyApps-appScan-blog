@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/da/eb/a0daeb36-2f8e-df7d-52f0-dcacddd88e83/bmwappstore-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application My BMW (de.bmw.connected.mobile20.na). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application My BMW (de.bmw.connected.mobile20.na). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/da/eb/a0daeb36-2f8e-df7d-52f0-dcacddd88e83/bmwappstore-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="My BMW de.bmw.connected.mobile20.na app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/da/eb/a0daeb36-2f8e-df7d-52f0-dcacddd88e83/bmwappstore-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="My BMW de.bmw.connected.mobile20.na app icon"></div>  
   
 # My BMW (de.bmw.connected.mobile20.na)
 
@@ -59,10 +59,10 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 166
+- Tools: 21 lib(s)
 - Tracking: 1 lib(s)
 - Storage: 3 lib(s)
 - Network: 1 lib(s)
-- Tools: 21 lib(s)
 
 **Apple dylibs:**
 

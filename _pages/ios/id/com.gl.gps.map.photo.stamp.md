@@ -4,7 +4,7 @@ permalink: /apps/ios/com.gl.gps.map.photo.stamp.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application GPS Timestamp : Map Camera (com.gl.gps.map.photo.stamp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application GPS Timestamp : Map Camera (com.gl.gps.map.photo.stamp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # GPS Timestamp : Map Camera (com.gl.gps.map.photo.stamp)
 

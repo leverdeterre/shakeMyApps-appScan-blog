@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f1/e7/60/f1e760de-fbbe-5ec3-779a-258d9c362619/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application OuBruncher (fr.adveris.OuBruncher). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application OuBruncher (fr.adveris.OuBruncher). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f1/e7/60/f1e760de-fbbe-5ec3-779a-258d9c362619/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100" alt="OuBruncher fr.adveris.OuBruncher app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/f1/e7/60/f1e760de-fbbe-5ec3-779a-258d9c362619/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100" alt="OuBruncher fr.adveris.OuBruncher app icon"></div>  
   
 # OuBruncher (fr.adveris.OuBruncher)
 
@@ -58,8 +58,8 @@ supported devices iPhone & iPad
 
 ## Librairies 
 **Number of Third Party Library detected:** 6
-- Network: 1 lib(s)
 - Tracking: 1 lib(s)
+- Network: 1 lib(s)
 - Tools: 3 lib(s)
 
 **Apple dylibs:**

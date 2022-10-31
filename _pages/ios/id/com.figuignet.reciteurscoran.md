@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/cc/3a/91cc3a00-1659-369e-8df3-fb1beebbfbe8/mzl.ktrqoybt.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Muslim Quran (com.figuignet.reciteurscoran). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Muslim Quran (com.figuignet.reciteurscoran). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/cc/3a/91cc3a00-1659-369e-8df3-fb1beebbfbe8/mzl.ktrqoybt.png/512x512bb.jpg" width="100" height="100" alt="Muslim Quran com.figuignet.reciteurscoran app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/91/cc/3a/91cc3a00-1659-369e-8df3-fb1beebbfbe8/mzl.ktrqoybt.png/512x512bb.jpg" width="100" height="100" alt="Muslim Quran com.figuignet.reciteurscoran app icon"></div>  
   
 # Muslim Quran (com.figuignet.reciteurscoran)
 

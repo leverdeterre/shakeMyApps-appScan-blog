@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/95/79/07/95790734-c41e-213a-65e4-b349604b2818/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Codemagic App (uk.co.andrewreed.codemagic). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Codemagic App (uk.co.andrewreed.codemagic). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/95/79/07/95790734-c41e-213a-65e4-b349604b2818/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Codemagic App uk.co.andrewreed.codemagic app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/95/79/07/95790734-c41e-213a-65e4-b349604b2818/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Codemagic App uk.co.andrewreed.codemagic app icon"></div>  
   
 # Codemagic App (uk.co.andrewreed.codemagic)
 

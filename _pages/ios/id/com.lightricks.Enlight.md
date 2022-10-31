@@ -4,7 +4,7 @@ permalink: /apps/ios/com.lightricks.Enlight.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Enlight (com.lightricks.Enlight). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Enlight (com.lightricks.Enlight). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Enlight (com.lightricks.Enlight)
 
@@ -51,9 +51,9 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-- UI: 1 lib(s)
 - Tools: 1 lib(s)
 - Network: 1 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 

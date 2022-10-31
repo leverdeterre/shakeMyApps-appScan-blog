@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/57/5d/1d/575d1db5-7b61-a12c-9d33-dff51ffed457/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application KidloLand (com.internetdesignzone.rhymes). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application KidloLand (com.internetdesignzone.rhymes). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/57/5d/1d/575d1db5-7b61-a12c-9d33-dff51ffed457/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg" width="100" height="100" alt="KidloLand com.internetdesignzone.rhymes app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/57/5d/1d/575d1db5-7b61-a12c-9d33-dff51ffed457/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg" width="100" height="100" alt="KidloLand com.internetdesignzone.rhymes app icon"></div>  
   
 # KidloLand (com.internetdesignzone.rhymes)
 

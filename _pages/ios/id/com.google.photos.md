@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1b/6f/e8/1b6fe893-3b27-2def-7bf1-cd9b1cc5e0a7/logo_photos_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application GooglePhotos (com.google.photos). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application GooglePhotos (com.google.photos). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1b/6f/e8/1b6fe893-3b27-2def-7bf1-cd9b1cc5e0a7/logo_photos_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="GooglePhotos com.google.photos app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/1b/6f/e8/1b6fe893-3b27-2def-7bf1-cd9b1cc5e0a7/logo_photos_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="GooglePhotos com.google.photos app icon"></div>  
   
 # GooglePhotos (com.google.photos)
 

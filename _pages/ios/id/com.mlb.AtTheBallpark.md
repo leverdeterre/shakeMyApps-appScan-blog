@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/30/cb/ee/30cbee26-f29f-9f14-520e-2841d64ca0c0/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Ballpark (com.mlb.AtTheBallpark). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Ballpark (com.mlb.AtTheBallpark). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/30/cb/ee/30cbee26-f29f-9f14-520e-2841d64ca0c0/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ballpark com.mlb.AtTheBallpark app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/30/cb/ee/30cbee26-f29f-9f14-520e-2841d64ca0c0/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ballpark com.mlb.AtTheBallpark app icon"></div>  
   
 # Ballpark (com.mlb.AtTheBallpark)
 

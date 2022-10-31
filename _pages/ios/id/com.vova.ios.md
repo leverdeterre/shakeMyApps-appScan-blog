@@ -4,7 +4,7 @@ permalink: /apps/ios/com.vova.ios.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Vova (com.vova.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Vova (com.vova.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Vova (com.vova.ios)
 
@@ -53,13 +53,13 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 91
-- Tracking: 4 lib(s)
 - Network: 1 lib(s)
-- Storage: 1 lib(s)
-- UI: 4 lib(s)
-- Logs: 1 lib(s)
+- Tracking: 4 lib(s)
 - Tools: 29 lib(s)
+- Storage: 1 lib(s)
 - Crash: 1 lib(s)
+- Logs: 1 lib(s)
+- UI: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

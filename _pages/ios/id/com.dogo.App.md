@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/34/40/4b344092-c212-c6cc-71e3-c62b15d3de61/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Dogo (com.dogo.App). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Dogo (com.dogo.App). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/34/40/4b344092-c212-c6cc-71e3-c62b15d3de61/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Dogo com.dogo.App app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/34/40/4b344092-c212-c6cc-71e3-c62b15d3de61/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Dogo com.dogo.App app icon"></div>  
   
 # Dogo (com.dogo.App)
 
@@ -63,12 +63,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 61
-- Tracking: 5 lib(s)
+- Crash: 1 lib(s)
 - Storage: 4 lib(s)
+- Tools: 27 lib(s)
 - UI: 3 lib(s)
 - Network: 5 lib(s)
-- Tools: 27 lib(s)
-- Crash: 1 lib(s)
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 

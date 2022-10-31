@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/8d/62/a38d62b7-f45a-9b0a-5e63-21d5d2f3ff70/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application B&N NOOK (com.barnesandnoble.B-N-eReader). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application B&N NOOK (com.barnesandnoble.B-N-eReader). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/8d/62/a38d62b7-f45a-9b0a-5e63-21d5d2f3ff70/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="B&N NOOK com.barnesandnoble.B-N-eReader app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/8d/62/a38d62b7-f45a-9b0a-5e63-21d5d2f3ff70/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="B&N NOOK com.barnesandnoble.B-N-eReader app icon"></div>  
   
 # B&N NOOK (com.barnesandnoble.B-N-eReader)
 

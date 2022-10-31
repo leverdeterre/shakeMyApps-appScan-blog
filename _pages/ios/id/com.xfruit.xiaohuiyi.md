@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c7/38/8d/c7388d55-b61a-fa3f-b651-34c934c3b85b/AppIcon-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application 视频会议 (com.xfruit.xiaohuiyi). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 视频会议 (com.xfruit.xiaohuiyi). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c7/38/8d/c7388d55-b61a-fa3f-b651-34c934c3b85b/AppIcon-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="视频会议 com.xfruit.xiaohuiyi app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/c7/38/8d/c7388d55-b61a-fa3f-b651-34c934c3b85b/AppIcon-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="视频会议 com.xfruit.xiaohuiyi app icon"></div>  
   
 # 视频会议 (com.xfruit.xiaohuiyi)
 
@@ -59,10 +59,10 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 39
-- Storage: 3 lib(s)
 - Network: 5 lib(s)
-- Tools: 7 lib(s)
 - UI: 1 lib(s)
+- Tools: 7 lib(s)
+- Storage: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

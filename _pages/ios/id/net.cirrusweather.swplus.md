@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/59/8d/b7/598db75f-e264-98a4-b585-52c1ecd0fb3d/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application StormWatch+ (net.cirrusweather.swplus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application StormWatch+ (net.cirrusweather.swplus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/59/8d/b7/598db75f-e264-98a4-b585-52c1ecd0fb3d/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="StormWatch+ net.cirrusweather.swplus app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/59/8d/b7/598db75f-e264-98a4-b585-52c1ecd0fb3d/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="StormWatch+ net.cirrusweather.swplus app icon"></div>  
   
 # StormWatch+ (net.cirrusweather.swplus)
 

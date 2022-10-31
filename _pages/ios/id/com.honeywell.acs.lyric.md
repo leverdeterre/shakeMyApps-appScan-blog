@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/e3/8a/76/e38a7617-39b2-ac27-3012-47b0e646a0ca/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Resideo (com.honeywell.acs.lyric). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Resideo (com.honeywell.acs.lyric). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/e3/8a/76/e38a7617-39b2-ac27-3012-47b0e646a0ca/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Resideo com.honeywell.acs.lyric app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/e3/8a/76/e38a7617-39b2-ac27-3012-47b0e646a0ca/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Resideo com.honeywell.acs.lyric app icon"></div>  
   
 # Resideo (com.honeywell.acs.lyric)
 
@@ -59,11 +59,11 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
-- Network: 3 lib(s)
-- Logs: 1 lib(s)
 - Tracking: 2 lib(s)
-- Tools: 4 lib(s)
 - UI: 1 lib(s)
+- Network: 3 lib(s)
+- Tools: 4 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 

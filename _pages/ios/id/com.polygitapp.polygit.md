@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/ef/08/1cef08bf-f38d-86fe-a2d3-e41d35b3f614/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application PolyGit (com.polygitapp.polygit). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PolyGit (com.polygitapp.polygit). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/ef/08/1cef08bf-f38d-86fe-a2d3-e41d35b3f614/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="PolyGit com.polygitapp.polygit app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/1c/ef/08/1cef08bf-f38d-86fe-a2d3-e41d35b3f614/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="PolyGit com.polygitapp.polygit app icon"></div>  
   
 # PolyGit (com.polygitapp.polygit)
 
@@ -59,10 +59,10 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- Storage: 1 lib(s)
-- UI: 2 lib(s)
 - Network: 2 lib(s)
 - Tools: 3 lib(s)
+- UI: 2 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 

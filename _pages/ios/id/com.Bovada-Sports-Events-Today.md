@@ -4,7 +4,7 @@ permalink: /apps/ios/com.Bovada-Sports-Events-Today.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Bovada Sports Events Today (com.Bovada-Sports-Events-Today). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Bovada Sports Events Today (com.Bovada-Sports-Events-Today). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Bovada Sports Events Today (com.Bovada-Sports-Events-Today)
 

@@ -4,7 +4,7 @@ permalink: /apps/ios/com.app.picslide.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Mivo (com.app.picslide). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Mivo (com.app.picslide). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Mivo (com.app.picslide)
 
@@ -50,12 +50,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 80
-- Tools: 18 lib(s)
 - Network: 5 lib(s)
 - Storage: 2 lib(s)
-- Tracking: 5 lib(s)
 - UI: 4 lib(s)
 - Crash: 1 lib(s)
+- Tools: 18 lib(s)
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

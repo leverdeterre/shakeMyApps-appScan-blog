@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/9c/69/ce9c691e-9fb3-82e3-93f9-d12501d722e3/AppIconProduction-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Saturn (com.dcdwebdesign.saturn). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Saturn (com.dcdwebdesign.saturn). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/9c/69/ce9c691e-9fb3-82e3-93f9-d12501d722e3/AppIconProduction-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Saturn com.dcdwebdesign.saturn app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ce/9c/69/ce9c691e-9fb3-82e3-93f9-d12501d722e3/AppIconProduction-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Saturn com.dcdwebdesign.saturn app icon"></div>  
   
 # Saturn (com.dcdwebdesign.saturn)
 

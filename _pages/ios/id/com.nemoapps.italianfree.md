@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/72/79/19/7279199c-2781-7c92-6f53-da5d69b6be87/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Italiano (com.nemoapps.italianfree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Italiano (com.nemoapps.italianfree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/72/79/19/7279199c-2781-7c92-6f53-da5d69b6be87/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="Italiano com.nemoapps.italianfree app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/72/79/19/7279199c-2781-7c92-6f53-da5d69b6be87/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="Italiano com.nemoapps.italianfree app icon"></div>  
   
 # Italiano (com.nemoapps.italianfree)
 

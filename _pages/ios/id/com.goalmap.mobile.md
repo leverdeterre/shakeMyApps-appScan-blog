@@ -4,7 +4,7 @@ permalink: /apps/ios/com.goalmap.mobile.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Goalmap (com.goalmap.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Goalmap (com.goalmap.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Goalmap (com.goalmap.mobile)
 
@@ -49,9 +49,9 @@ GoogleLogin detected
 
 ## Librairies 
 **Number of Third Party Library detected:** 44
+- Logs: 1 lib(s)
 - UI: 1 lib(s)
 - Tools: 5 lib(s)
-- Logs: 1 lib(s)
 
 **Apple dylibs:**
 

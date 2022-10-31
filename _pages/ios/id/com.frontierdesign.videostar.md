@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/72/a7/4f/72a74f6e-83e1-6f50-6709-f6ef28c40e32/AppIconVS-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Video Star (com.frontierdesign.videostar). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Video Star (com.frontierdesign.videostar). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/72/a7/4f/72a74f6e-83e1-6f50-6709-f6ef28c40e32/AppIconVS-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Video Star com.frontierdesign.videostar app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/72/a7/4f/72a74f6e-83e1-6f50-6709-f6ef28c40e32/AppIconVS-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Video Star com.frontierdesign.videostar app icon"></div>  
   
 # Video Star (com.frontierdesign.videostar)
 

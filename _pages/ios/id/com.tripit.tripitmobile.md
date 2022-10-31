@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0a/9a/1a/0a9a1a2e-8f4a-f314-d63e-ca6405a57d6f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application TripIt (com.tripit.tripitmobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application TripIt (com.tripit.tripitmobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0a/9a/1a/0a9a1a2e-8f4a-f314-d63e-ca6405a57d6f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="TripIt com.tripit.tripitmobile app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0a/9a/1a/0a9a1a2e-8f4a-f314-d63e-ca6405a57d6f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="TripIt com.tripit.tripitmobile app icon"></div>  
   
 # TripIt (com.tripit.tripitmobile)
 
@@ -65,8 +65,8 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
-- UI: 2 lib(s)
 - Tools: 4 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 

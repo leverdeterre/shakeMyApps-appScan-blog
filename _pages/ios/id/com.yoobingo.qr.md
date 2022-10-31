@@ -4,7 +4,7 @@ permalink: /apps/ios/com.yoobingo.qr.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application QR Code (com.yoobingo.qr). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application QR Code (com.yoobingo.qr). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # QR Code (com.yoobingo.qr)
 
@@ -52,9 +52,9 @@ support multiple languages
 ## Librairies 
 **Number of Third Party Library detected:** 21
 - Network: 1 lib(s)
+- Tools: 8 lib(s)
 - Tracking: 3 lib(s)
 - UI: 1 lib(s)
-- Tools: 8 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

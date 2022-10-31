@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/3f/01/7e3f0181-e293-7da2-ef1e-3630201ad52b/AppIcon-1x_U007emarketing-0-10-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application HiMommy! (com.himommyapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application HiMommy! (com.himommyapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/3f/01/7e3f0181-e293-7da2-ef1e-3630201ad52b/AppIcon-1x_U007emarketing-0-10-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="HiMommy! com.himommyapp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/3f/01/7e3f0181-e293-7da2-ef1e-3630201ad52b/AppIcon-1x_U007emarketing-0-10-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="HiMommy! com.himommyapp app icon"></div>  
   
 # HiMommy! (com.himommyapp)
 
@@ -63,12 +63,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 74
+- Tracking: 6 lib(s)
+- Network: 5 lib(s)
+- Crash: 1 lib(s)
 - UI: 4 lib(s)
 - Tools: 23 lib(s)
 - Storage: 6 lib(s)
-- Crash: 1 lib(s)
-- Tracking: 6 lib(s)
-- Network: 5 lib(s)
 
 **Apple dylibs:**
 

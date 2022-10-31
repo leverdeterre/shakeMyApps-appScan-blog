@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/62/3a/be/623abe45-0238-b29b-0d45-da467d4d3154/mzl.ougqaevv.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application La Bible Catholique (french.book.catholique.La-Biblia). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application La Bible Catholique (french.book.catholique.La-Biblia). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/62/3a/be/623abe45-0238-b29b-0d45-da467d4d3154/mzl.ougqaevv.png/512x512bb.jpg" width="100" height="100" alt="La Bible Catholique french.book.catholique.La-Biblia app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/62/3a/be/623abe45-0238-b29b-0d45-da467d4d3154/mzl.ougqaevv.png/512x512bb.jpg" width="100" height="100" alt="La Bible Catholique french.book.catholique.La-Biblia app icon"></div>  
   
 # La Bible Catholique (french.book.catholique.La-Biblia)
 

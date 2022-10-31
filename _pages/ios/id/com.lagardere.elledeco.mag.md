@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/87/7b/8a/877b8a8e-b838-5bd9-8c3b-c14967519a00/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application ELLE Déco (com.lagardere.elledeco.mag). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application ELLE Déco (com.lagardere.elledeco.mag). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/87/7b/8a/877b8a8e-b838-5bd9-8c3b-c14967519a00/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ELLE Déco com.lagardere.elledeco.mag app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/87/7b/8a/877b8a8e-b838-5bd9-8c3b-c14967519a00/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ELLE Déco com.lagardere.elledeco.mag app icon"></div>  
   
 # ELLE Déco (com.lagardere.elledeco.mag)
 

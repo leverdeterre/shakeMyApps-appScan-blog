@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/75/41/ec7541eb-94c4-c0b6-93c2-2b4234dab485/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application OptumRx (com.optumhealth.mobile.OptumRX). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application OptumRx (com.optumhealth.mobile.OptumRX). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/75/41/ec7541eb-94c4-c0b6-93c2-2b4234dab485/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="OptumRx com.optumhealth.mobile.OptumRX app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/75/41/ec7541eb-94c4-c0b6-93c2-2b4234dab485/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="OptumRx com.optumhealth.mobile.OptumRX app icon"></div>  
   
 # OptumRx (com.optumhealth.mobile.OptumRX)
 

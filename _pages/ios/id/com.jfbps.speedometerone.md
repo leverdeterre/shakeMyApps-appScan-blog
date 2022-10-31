@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/f3/db/e8f3db25-1357-53d6-deb3-186c91c87481/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Speed GPS (com.jfbps.speedometerone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Speed GPS (com.jfbps.speedometerone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/f3/db/e8f3db25-1357-53d6-deb3-186c91c87481/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Speed GPS com.jfbps.speedometerone app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e8/f3/db/e8f3db25-1357-53d6-deb3-186c91c87481/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Speed GPS com.jfbps.speedometerone app icon"></div>  
   
 # Speed GPS (com.jfbps.speedometerone)
 
@@ -59,11 +59,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
-- Tools: 9 lib(s)
-- Logs: 1 lib(s)
 - Crash: 1 lib(s)
+- Tools: 9 lib(s)
 - UI: 3 lib(s)
 - Tracking: 1 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 

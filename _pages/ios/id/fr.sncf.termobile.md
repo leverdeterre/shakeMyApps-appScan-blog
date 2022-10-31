@@ -4,7 +4,7 @@ permalink: /apps/ios/fr.sncf.termobile.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application TER Mobile (fr.sncf.termobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application TER Mobile (fr.sncf.termobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # TER Mobile (fr.sncf.termobile)
 

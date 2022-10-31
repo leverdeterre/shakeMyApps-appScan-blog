@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/12/cc/d1/12ccd154-f499-016a-a5e9-452eeb02c7f4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Bring! (ch.publisheria.bring). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Bring! (ch.publisheria.bring). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/12/cc/d1/12ccd154-f499-016a-a5e9-452eeb02c7f4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Bring! ch.publisheria.bring app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/12/cc/d1/12ccd154-f499-016a-a5e9-452eeb02c7f4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Bring! ch.publisheria.bring app icon"></div>  
   
 # Bring! (ch.publisheria.bring)
 
@@ -65,11 +65,11 @@ Some userActivityTypes
 ## Librairies 
 **Number of Third Party Library detected:** 54
 - Storage: 1 lib(s)
-- Crash: 1 lib(s)
-- UI: 8 lib(s)
 - Tracking: 4 lib(s)
 - Network: 2 lib(s)
 - Tools: 18 lib(s)
+- UI: 8 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 

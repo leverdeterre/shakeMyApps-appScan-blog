@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f2/b0/39/f2b039e9-eac7-210a-7047-e3d952a458b5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Dash (com.mealmap.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Dash (com.mealmap.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f2/b0/39/f2b039e9-eac7-210a-7047-e3d952a458b5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Dash com.mealmap.app app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f2/b0/39/f2b039e9-eac7-210a-7047-e3d952a458b5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Dash com.mealmap.app app icon"></div>  
   
 # Dash (com.mealmap.app)
 
@@ -57,10 +57,10 @@ Native App
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- Tracking: 1 lib(s)
 - Tools: 6 lib(s)
-- UI: 2 lib(s)
 - Network: 2 lib(s)
+- Tracking: 1 lib(s)
+- UI: 2 lib(s)
 - Storage: 1 lib(s)
 
 **Apple dylibs:**

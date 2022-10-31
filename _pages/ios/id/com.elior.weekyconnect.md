@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/67/4a/81/674a8102-0a86-d2e4-47aa-ea643b6cf842/mzl.fpxfqyrd.jpg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application WeekyConnect (com.elior.weekyconnect). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application WeekyConnect (com.elior.weekyconnect). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/67/4a/81/674a8102-0a86-d2e4-47aa-ea643b6cf842/mzl.fpxfqyrd.jpg/512x512bb.jpg" width="100" height="100" alt="WeekyConnect com.elior.weekyconnect app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/67/4a/81/674a8102-0a86-d2e4-47aa-ea643b6cf842/mzl.fpxfqyrd.jpg/512x512bb.jpg" width="100" height="100" alt="WeekyConnect com.elior.weekyconnect app icon"></div>  
   
 # WeekyConnect (com.elior.weekyconnect)
 

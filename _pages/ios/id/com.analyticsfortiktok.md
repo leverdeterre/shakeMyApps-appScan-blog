@@ -4,7 +4,7 @@ permalink: /apps/ios/com.analyticsfortiktok.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Tiki for Tiktok (com.analyticsfortiktok). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Tiki for Tiktok (com.analyticsfortiktok). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Tiki for Tiktok (com.analyticsfortiktok)
 
@@ -53,12 +53,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 43
-- Network: 6 lib(s)
-- UI: 5 lib(s)
+- Tools: 13 lib(s)
+- Tracking: 2 lib(s)
 - Storage: 2 lib(s)
 - Crash: 1 lib(s)
-- Tracking: 2 lib(s)
-- Tools: 13 lib(s)
+- UI: 5 lib(s)
+- Network: 6 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

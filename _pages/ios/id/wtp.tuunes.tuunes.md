@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/34/63/66/34636605-df96-6225-7200-3655d3f7fd7e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Tuunes (wtp.tuunes.tuunes). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Tuunes (wtp.tuunes.tuunes). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/34/63/66/34636605-df96-6225-7200-3655d3f7fd7e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Tuunes wtp.tuunes.tuunes app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/34/63/66/34636605-df96-6225-7200-3655d3f7fd7e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Tuunes wtp.tuunes.tuunes app icon"></div>  
   
 # Tuunes (wtp.tuunes.tuunes)
 
@@ -63,9 +63,9 @@ Some shortcutItems
 ## Librairies 
 **Number of Third Party Library detected:** 13
 - Tools: 3 lib(s)
-- Tracking: 2 lib(s)
 - Network: 2 lib(s)
 - UI: 1 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

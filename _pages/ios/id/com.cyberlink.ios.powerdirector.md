@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/af/f3/9eaff349-56e7-fb1d-fc6d-778f8123e01e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application PowerDirector (com.cyberlink.ios.powerdirector). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PowerDirector (com.cyberlink.ios.powerdirector). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/af/f3/9eaff349-56e7-fb1d-fc6d-778f8123e01e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="PowerDirector com.cyberlink.ios.powerdirector app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/9e/af/f3/9eaff349-56e7-fb1d-fc6d-778f8123e01e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="PowerDirector com.cyberlink.ios.powerdirector app icon"></div>  
   
 # PowerDirector (com.cyberlink.ios.powerdirector)
 
@@ -62,10 +62,10 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
-- Tools: 15 lib(s)
-- Network: 3 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 15 lib(s)
 - Crash: 2 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

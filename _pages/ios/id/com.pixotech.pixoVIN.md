@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/70/c9/0e/70c90e69-8ee2-ae17-89f6-2532c3cce52c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Fleet (com.pixotech.pixoVIN). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Fleet (com.pixotech.pixoVIN). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/70/c9/0e/70c90e69-8ee2-ae17-89f6-2532c3cce52c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/512x512bb.jpg" width="100" height="100" alt="Fleet com.pixotech.pixoVIN app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/70/c9/0e/70c90e69-8ee2-ae17-89f6-2532c3cce52c/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/512x512bb.jpg" width="100" height="100" alt="Fleet com.pixotech.pixoVIN app icon"></div>  
   
 # Fleet (com.pixotech.pixoVIN)
 

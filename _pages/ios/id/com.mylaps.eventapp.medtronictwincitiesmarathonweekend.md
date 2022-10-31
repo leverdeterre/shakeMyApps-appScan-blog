@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/78/92/f2/7892f2ec-97a3-0512-5af4-9b977077509d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Twin Cities In Motion (com.mylaps.eventapp.medtronictwincitiesmarathonweekend). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Twin Cities In Motion (com.mylaps.eventapp.medtronictwincitiesmarathonweekend). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/78/92/f2/7892f2ec-97a3-0512-5af4-9b977077509d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Twin Cities In Motion com.mylaps.eventapp.medtronictwincitiesmarathonweekend app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/78/92/f2/7892f2ec-97a3-0512-5af4-9b977077509d/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Twin Cities In Motion com.mylaps.eventapp.medtronictwincitiesmarathonweekend app icon"></div>  
   
 # Twin Cities In Motion (com.mylaps.eventapp.medtronictwincitiesmarathonweekend)
 

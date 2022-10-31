@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/0c/82/cc/0c82cc90-3c08-27ba-12c8-1f8eb8bda42a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application StockAlarm (com.StockMarketAlarms.StockAlarm). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application StockAlarm (com.StockMarketAlarms.StockAlarm). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/0c/82/cc/0c82cc90-3c08-27ba-12c8-1f8eb8bda42a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="StockAlarm com.StockMarketAlarms.StockAlarm app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/0c/82/cc/0c82cc90-3c08-27ba-12c8-1f8eb8bda42a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="StockAlarm com.StockMarketAlarms.StockAlarm app icon"></div>  
   
 # StockAlarm (com.StockMarketAlarms.StockAlarm)
 

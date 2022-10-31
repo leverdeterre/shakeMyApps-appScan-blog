@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/09/f4/c0/09f4c0e3-fb39-cf05-a484-81bfec44ab47/mzl.zbwmalua.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application iDisplay (com.shapeservices.idisplay). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application iDisplay (com.shapeservices.idisplay). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/09/f4/c0/09f4c0e3-fb39-cf05-a484-81bfec44ab47/mzl.zbwmalua.png/512x512bb.jpg" width="100" height="100" alt="iDisplay com.shapeservices.idisplay app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple117/v4/09/f4/c0/09f4c0e3-fb39-cf05-a484-81bfec44ab47/mzl.zbwmalua.png/512x512bb.jpg" width="100" height="100" alt="iDisplay com.shapeservices.idisplay app icon"></div>  
   
 # iDisplay (com.shapeservices.idisplay)
 

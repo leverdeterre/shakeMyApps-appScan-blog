@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/68/1f/45/681f4574-04b7-9519-d53e-c3919186b626/AppIcon-cotecvadogcat-0-1x_U007emarketing-0-4-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Veterinary Advisor: Dogs Cats (com.medpresso.Lonestar.cotecvadogcat). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Veterinary Advisor: Dogs Cats (com.medpresso.Lonestar.cotecvadogcat). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/68/1f/45/681f4574-04b7-9519-d53e-c3919186b626/AppIcon-cotecvadogcat-0-1x_U007emarketing-0-4-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Veterinary Advisor: Dogs Cats com.medpresso.Lonestar.cotecvadogcat app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/68/1f/45/681f4574-04b7-9519-d53e-c3919186b626/AppIcon-cotecvadogcat-0-1x_U007emarketing-0-4-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Veterinary Advisor: Dogs Cats com.medpresso.Lonestar.cotecvadogcat app icon"></div>  
   
 # Veterinary Advisor: Dogs Cats (com.medpresso.Lonestar.cotecvadogcat)
 

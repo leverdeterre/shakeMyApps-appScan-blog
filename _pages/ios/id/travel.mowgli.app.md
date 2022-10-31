@@ -4,7 +4,7 @@ permalink: /apps/ios/travel.mowgli.app.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Mowgli (travel.mowgli.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Mowgli (travel.mowgli.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Mowgli (travel.mowgli.app)
 
@@ -50,10 +50,10 @@ at least 3 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 47
-- Storage: 2 lib(s)
 - Network: 1 lib(s)
-- Tools: 19 lib(s)
 - Tracking: 5 lib(s)
+- Tools: 19 lib(s)
+- Storage: 2 lib(s)
 - Crash: 1 lib(s)
 
 **Apple dylibs:**

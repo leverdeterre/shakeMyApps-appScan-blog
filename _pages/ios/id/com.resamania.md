@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/c7/36/13/c73613dd-bc4f-c9f1-1c64-b883a4743b35/mzl.exxdlqsq.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Resamania (com.resamania). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Resamania (com.resamania). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/c7/36/13/c73613dd-bc4f-c9f1-1c64-b883a4743b35/mzl.exxdlqsq.png/512x512bb.jpg" width="100" height="100" alt="Resamania com.resamania app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple49/v4/c7/36/13/c73613dd-bc4f-c9f1-1c64-b883a4743b35/mzl.exxdlqsq.png/512x512bb.jpg" width="100" height="100" alt="Resamania com.resamania app icon"></div>  
   
 # Resamania (com.resamania)
 

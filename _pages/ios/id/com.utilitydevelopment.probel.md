@@ -4,7 +4,7 @@ permalink: /apps/ios/com.utilitydevelopment.probel.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Blowly (com.utilitydevelopment.probel). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Blowly (com.utilitydevelopment.probel). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Blowly (com.utilitydevelopment.probel)
 
@@ -52,8 +52,8 @@ contains 1 App extensions
 ## Librairies 
 **Number of Third Party Library detected:** 8
 - Tools: 4 lib(s)
-- UI: 2 lib(s)
 - Storage: 1 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 

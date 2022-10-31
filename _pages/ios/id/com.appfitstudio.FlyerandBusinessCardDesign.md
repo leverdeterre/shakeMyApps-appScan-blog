@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/a2/f5/c1a2f55a-b638-33ea-3f97-f6660236f0ee/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Flyers & Business Cards Design (com.appfitstudio.FlyerandBusinessCardDesign). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Flyers & Business Cards Design (com.appfitstudio.FlyerandBusinessCardDesign). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/a2/f5/c1a2f55a-b638-33ea-3f97-f6660236f0ee/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Flyers & Business Cards Design com.appfitstudio.FlyerandBusinessCardDesign app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/a2/f5/c1a2f55a-b638-33ea-3f97-f6660236f0ee/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Flyers & Business Cards Design com.appfitstudio.FlyerandBusinessCardDesign app icon"></div>  
   
 # Flyers & Business Cards Design (com.appfitstudio.FlyerandBusinessCardDesign)
 

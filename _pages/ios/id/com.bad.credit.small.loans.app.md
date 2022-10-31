@@ -4,7 +4,7 @@ permalink: /apps/ios/com.bad.credit.small.loans.app.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Loans (com.bad.credit.small.loans.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Loans (com.bad.credit.small.loans.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Loans (com.bad.credit.small.loans.app)
 

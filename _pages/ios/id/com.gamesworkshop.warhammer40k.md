@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/71/86/c8/7186c801-a890-3a57-dcea-52b336b246ea/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application WH 40K (com.gamesworkshop.warhammer40k). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application WH 40K (com.gamesworkshop.warhammer40k). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/71/86/c8/7186c801-a890-3a57-dcea-52b336b246ea/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="WH 40K com.gamesworkshop.warhammer40k app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/71/86/c8/7186c801-a890-3a57-dcea-52b336b246ea/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="WH 40K com.gamesworkshop.warhammer40k app icon"></div>  
   
 # WH 40K (com.gamesworkshop.warhammer40k)
 

@@ -4,7 +4,7 @@ permalink: /apps/ios/com.inigoapp.Business-Cards.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Inigo Cards (com.inigoapp.Business-Cards). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Inigo Cards (com.inigoapp.Business-Cards). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Inigo Cards (com.inigoapp.Business-Cards)
 
@@ -50,10 +50,10 @@ Native App
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
-- UI: 1 lib(s)
-- Tracking: 3 lib(s)
-- Tools: 7 lib(s)
 - Network: 3 lib(s)
+- Tracking: 3 lib(s)
+- UI: 1 lib(s)
+- Tools: 7 lib(s)
 
 **Apple dylibs:**
 - libswiftAccelerate

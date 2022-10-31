@@ -4,7 +4,7 @@ permalink: /apps/ios/com.Followers.Tool.app.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Followers (com.Followers.Tool.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Followers (com.Followers.Tool.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Followers (com.Followers.Tool.app)
 

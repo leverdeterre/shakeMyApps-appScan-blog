@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/39/34/3e/39343e5b-32d5-b12f-07bd-ed491877f731/contsched.infgxkxo.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Drops (com.planblabs.drops.italian). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Drops (com.planblabs.drops.italian). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/39/34/3e/39343e5b-32d5-b12f-07bd-ed491877f731/contsched.infgxkxo.png/512x512bb.jpg" width="100" height="100" alt="Drops com.planblabs.drops.italian app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/39/34/3e/39343e5b-32d5-b12f-07bd-ed491877f731/contsched.infgxkxo.png/512x512bb.jpg" width="100" height="100" alt="Drops com.planblabs.drops.italian app icon"></div>  
   
 # Drops (com.planblabs.drops.italian)
 
@@ -62,8 +62,8 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
-- Tracking: 3 lib(s)
 - Tools: 10 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

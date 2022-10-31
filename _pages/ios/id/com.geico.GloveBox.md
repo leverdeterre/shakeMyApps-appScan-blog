@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/53/b6/e7/53b6e751-0605-160d-c11c-a051cb7934f5/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application GEICO Mobile (com.geico.GloveBox). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application GEICO Mobile (com.geico.GloveBox). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/53/b6/e7/53b6e751-0605-160d-c11c-a051cb7934f5/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="GEICO Mobile com.geico.GloveBox app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/53/b6/e7/53b6e751-0605-160d-c11c-a051cb7934f5/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="GEICO Mobile com.geico.GloveBox app icon"></div>  
   
 # GEICO Mobile (com.geico.GloveBox)
 
@@ -62,10 +62,10 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
+- Tools: 2 lib(s)
 - Logs: 2 lib(s)
 - Storage: 2 lib(s)
 - Tracking: 1 lib(s)
-- Tools: 2 lib(s)
 
 **Apple dylibs:**
 

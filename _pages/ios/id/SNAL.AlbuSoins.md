@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/db/5e/d3/db5ed3ce-21a9-9b1b-8401-36fc74b63d94/AppIconAS-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application AlbuSoins (SNAL.AlbuSoins). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application AlbuSoins (SNAL.AlbuSoins). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/db/5e/d3/db5ed3ce-21a9-9b1b-8401-36fc74b63d94/AppIconAS-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="AlbuSoins SNAL.AlbuSoins app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/db/5e/d3/db5ed3ce-21a9-9b1b-8401-36fc74b63d94/AppIconAS-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="AlbuSoins SNAL.AlbuSoins app icon"></div>  
   
 # AlbuSoins (SNAL.AlbuSoins)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/5b/8f/02/5b8f0272-4815-8d5f-0455-3d815b64e155/mzl.zhqhilcv.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Yesbook (com.invent.yesbook). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Yesbook (com.invent.yesbook). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/5b/8f/02/5b8f0272-4815-8d5f-0455-3d815b64e155/mzl.zhqhilcv.png/512x512bb.jpg" width="100" height="100" alt="Yesbook com.invent.yesbook app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/5b/8f/02/5b8f0272-4815-8d5f-0455-3d815b64e155/mzl.zhqhilcv.png/512x512bb.jpg" width="100" height="100" alt="Yesbook com.invent.yesbook app icon"></div>  
   
 # Yesbook (com.invent.yesbook)
 

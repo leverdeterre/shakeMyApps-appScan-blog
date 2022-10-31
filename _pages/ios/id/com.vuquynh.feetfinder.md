@@ -4,7 +4,7 @@ permalink: /apps/ios/com.vuquynh.feetfinder.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Feet Photos (com.vuquynh.feetfinder). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Feet Photos (com.vuquynh.feetfinder). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Feet Photos (com.vuquynh.feetfinder)
 
@@ -51,10 +51,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Tracking: 2 lib(s)
-- Network: 2 lib(s)
-- Storage: 1 lib(s)
 - Tools: 8 lib(s)
+- Network: 2 lib(s)
+- Tracking: 2 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 

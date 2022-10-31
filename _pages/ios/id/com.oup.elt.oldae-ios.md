@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/c5/2a/00/c52a0009-5393-8ee8-77fb-f3a3f4177577/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application OLDAE (com.oup.elt.oldae-ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application OLDAE (com.oup.elt.oldae-ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/c5/2a/00/c52a0009-5393-8ee8-77fb-f3a3f4177577/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="OLDAE com.oup.elt.oldae-ios app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/c5/2a/00/c52a0009-5393-8ee8-77fb-f3a3f4177577/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="OLDAE com.oup.elt.oldae-ios app icon"></div>  
   
 # OLDAE (com.oup.elt.oldae-ios)
 

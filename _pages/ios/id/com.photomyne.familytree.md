@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/da/88/df/da88df77-a26a-495a-b1b7-a362df9de4f0/AppIconLite-1x_U007emarketing-0-6-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application FamilyTree (com.photomyne.familytree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application FamilyTree (com.photomyne.familytree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/da/88/df/da88df77-a26a-495a-b1b7-a362df9de4f0/AppIconLite-1x_U007emarketing-0-6-85-220.png/512x512bb.jpg" width="100" height="100" alt="FamilyTree com.photomyne.familytree app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/da/88/df/da88df77-a26a-495a-b1b7-a362df9de4f0/AppIconLite-1x_U007emarketing-0-6-85-220.png/512x512bb.jpg" width="100" height="100" alt="FamilyTree com.photomyne.familytree app icon"></div>  
   
 # FamilyTree (com.photomyne.familytree)
 

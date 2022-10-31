@@ -4,7 +4,7 @@ permalink: /apps/ios/com.audiencemedia.app9700.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Lonely Planet Italia (com.audiencemedia.app9700). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Lonely Planet Italia (com.audiencemedia.app9700). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Lonely Planet Italia (com.audiencemedia.app9700)
 
@@ -50,12 +50,12 @@ contains 1 App extensions
 
 ## Librairies 
 **Number of Third Party Library detected:** 41
-- Tracking: 2 lib(s)
-- Network: 1 lib(s)
-- Crash: 1 lib(s)
-- UI: 2 lib(s)
-- Tools: 14 lib(s)
 - Storage: 1 lib(s)
+- Crash: 1 lib(s)
+- Network: 1 lib(s)
+- Tools: 14 lib(s)
+- UI: 2 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

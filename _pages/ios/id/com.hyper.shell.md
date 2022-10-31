@@ -4,7 +4,7 @@ permalink: /apps/ios/com.hyper.shell.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application HyperShell (com.hyper.shell). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application HyperShell (com.hyper.shell). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # HyperShell (com.hyper.shell)
 
@@ -51,10 +51,10 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
-- UI: 2 lib(s)
+- Network: 5 lib(s)
 - Storage: 3 lib(s)
 - Tools: 11 lib(s)
-- Network: 5 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 

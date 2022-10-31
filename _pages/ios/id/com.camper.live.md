@@ -4,7 +4,7 @@ permalink: /apps/ios/com.camper.live.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Cammeet (com.camper.live). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Cammeet (com.camper.live). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Cammeet (com.camper.live)
 
@@ -51,10 +51,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 44
-- UI: 7 lib(s)
-- Storage: 1 lib(s)
 - Network: 5 lib(s)
+- Storage: 1 lib(s)
 - Tools: 10 lib(s)
+- UI: 7 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

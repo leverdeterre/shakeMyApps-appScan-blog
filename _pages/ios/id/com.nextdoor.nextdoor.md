@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/f1/ff/8af1ffb8-ff30-4841-935b-bc1961ab61df/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Nextdoor (com.nextdoor.nextdoor). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Nextdoor (com.nextdoor.nextdoor). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/f1/ff/8af1ffb8-ff30-4841-935b-bc1961ab61df/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Nextdoor com.nextdoor.nextdoor app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/8a/f1/ff/8af1ffb8-ff30-4841-935b-bc1961ab61df/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Nextdoor com.nextdoor.nextdoor app icon"></div>  
   
 # Nextdoor (com.nextdoor.nextdoor)
 
@@ -63,8 +63,8 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 28
-- Tracking: 1 lib(s)
 - Tools: 3 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 

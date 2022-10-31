@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/0b/e1/d20be182-38d3-cbcf-9c58-9424e9c04bb9/AppIcon-AppStore-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Credit Sesame (com.creditsesame.mobile.ios.finance). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Credit Sesame (com.creditsesame.mobile.ios.finance). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/0b/e1/d20be182-38d3-cbcf-9c58-9424e9c04bb9/AppIcon-AppStore-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Credit Sesame com.creditsesame.mobile.ios.finance app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/d2/0b/e1/d20be182-38d3-cbcf-9c58-9424e9c04bb9/AppIcon-AppStore-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Credit Sesame com.creditsesame.mobile.ios.finance app icon"></div>  
   
 # Credit Sesame (com.creditsesame.mobile.ios.finance)
 
@@ -61,11 +61,11 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 63
 - Tracking: 5 lib(s)
-- Network: 3 lib(s)
-- UI: 5 lib(s)
 - Tools: 15 lib(s)
 - Crash: 1 lib(s)
 - Storage: 2 lib(s)
+- UI: 5 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 

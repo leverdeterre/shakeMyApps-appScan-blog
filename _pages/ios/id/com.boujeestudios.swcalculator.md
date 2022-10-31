@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/27/d7/6f/27d76f7f-234f-d0ce-ddeb-e3b21aabf5ac/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Wish Simulator (com.boujeestudios.swcalculator). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Wish Simulator (com.boujeestudios.swcalculator). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/27/d7/6f/27d76f7f-234f-d0ce-ddeb-e3b21aabf5ac/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Wish Simulator com.boujeestudios.swcalculator app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/27/d7/6f/27d76f7f-234f-d0ce-ddeb-e3b21aabf5ac/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Wish Simulator com.boujeestudios.swcalculator app icon"></div>  
   
 # Wish Simulator (com.boujeestudios.swcalculator)
 

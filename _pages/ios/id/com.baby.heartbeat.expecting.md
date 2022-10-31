@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/22/fd/43/22fd4301-3e12-bb88-58ce-3b32e5beb281/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Expecting (com.baby.heartbeat.expecting). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Expecting (com.baby.heartbeat.expecting). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/22/fd/43/22fd4301-3e12-bb88-58ce-3b32e5beb281/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Expecting com.baby.heartbeat.expecting app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/22/fd/43/22fd4301-3e12-bb88-58ce-3b32e5beb281/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Expecting com.baby.heartbeat.expecting app icon"></div>  
   
 # Expecting (com.baby.heartbeat.expecting)
 
@@ -57,9 +57,9 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
+- UI: 1 lib(s)
 - Tools: 3 lib(s)
 - Storage: 1 lib(s)
-- UI: 1 lib(s)
 
 **Apple dylibs:**
 

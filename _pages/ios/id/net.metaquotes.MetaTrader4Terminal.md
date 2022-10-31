@@ -4,7 +4,7 @@ permalink: /apps/ios/net.metaquotes.MetaTrader4Terminal.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application MetaTrader 4 (net.metaquotes.MetaTrader4Terminal). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application MetaTrader 4 (net.metaquotes.MetaTrader4Terminal). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # MetaTrader 4 (net.metaquotes.MetaTrader4Terminal)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/11/d0/53/11d053ab-8912-b721-be28-1e2d0c1e69be/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Mondly (com.atistudios.MondlyFrench). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Mondly (com.atistudios.MondlyFrench). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/11/d0/53/11d053ab-8912-b721-be28-1e2d0c1e69be/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Mondly com.atistudios.MondlyFrench app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/11/d0/53/11d053ab-8912-b721-be28-1e2d0c1e69be/AppIcon-1x_U007emarketing-0-7-0-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Mondly com.atistudios.MondlyFrench app icon"></div>  
   
 # Mondly (com.atistudios.MondlyFrench)
 

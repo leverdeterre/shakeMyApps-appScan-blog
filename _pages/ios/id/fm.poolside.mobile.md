@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/97/18/8f/97188f46-f63b-3d71-a56e-e3b8629dfb1c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Poolsuite FM (fm.poolside.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Poolsuite FM (fm.poolside.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/97/18/8f/97188f46-f63b-3d71-a56e-e3b8629dfb1c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Poolsuite FM fm.poolside.mobile app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/97/18/8f/97188f46-f63b-3d71-a56e-e3b8629dfb1c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Poolsuite FM fm.poolside.mobile app icon"></div>  
   
 # Poolsuite FM (fm.poolside.mobile)
 
@@ -56,11 +56,11 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 58
-- Tools: 11 lib(s)
-- Storage: 1 lib(s)
-- Tracking: 2 lib(s)
-- Logs: 1 lib(s)
 - Network: 1 lib(s)
+- Tracking: 2 lib(s)
+- Storage: 1 lib(s)
+- Logs: 1 lib(s)
+- Tools: 11 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c4/5e/62/c45e6212-8c91-32f5-1c91-891c3a428545/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Skilleos (com.skilleos.skilleos). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Skilleos (com.skilleos.skilleos). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c4/5e/62/c45e6212-8c91-32f5-1c91-891c3a428545/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Skilleos com.skilleos.skilleos app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c4/5e/62/c45e6212-8c91-32f5-1c91-891c3a428545/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Skilleos com.skilleos.skilleos app icon"></div>  
   
 # Skilleos (com.skilleos.skilleos)
 
@@ -59,9 +59,9 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 32
 - Tools: 10 lib(s)
+- Tracking: 1 lib(s)
 - Storage: 2 lib(s)
 - Network: 1 lib(s)
-- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

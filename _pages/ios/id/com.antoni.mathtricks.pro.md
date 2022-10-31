@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple82/v4/08/16/e7/0816e7f8-4d23-9cf0-1dcd-608fb50787d5/mzl.mtjzbanr.jpg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Math Tricks (com.antoni.mathtricks.pro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Math Tricks (com.antoni.mathtricks.pro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple82/v4/08/16/e7/0816e7f8-4d23-9cf0-1dcd-608fb50787d5/mzl.mtjzbanr.jpg/512x512bb.jpg" width="100" height="100" alt="Math Tricks com.antoni.mathtricks.pro app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple82/v4/08/16/e7/0816e7f8-4d23-9cf0-1dcd-608fb50787d5/mzl.mtjzbanr.jpg/512x512bb.jpg" width="100" height="100" alt="Math Tricks com.antoni.mathtricks.pro app icon"></div>  
   
 # Math Tricks (com.antoni.mathtricks.pro)
 

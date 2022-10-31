@@ -4,7 +4,7 @@ permalink: /apps/ios/com.andrew.photolabeditorx.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application PhotoLab Editor X (com.andrew.photolabeditorx). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PhotoLab Editor X (com.andrew.photolabeditorx). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # PhotoLab Editor X (com.andrew.photolabeditorx)
 
@@ -50,10 +50,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
-- Tracking: 2 lib(s)
-- Tools: 6 lib(s)
 - Network: 1 lib(s)
 - Crash: 1 lib(s)
+- Tools: 6 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

@@ -4,7 +4,7 @@ permalink: /apps/ios/com.jmo.conquestskill.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application RocketSkill (com.jmo.conquestskill). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application RocketSkill (com.jmo.conquestskill). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # RocketSkill (com.jmo.conquestskill)
 
@@ -53,11 +53,11 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- UI: 4 lib(s)
 - Tools: 14 lib(s)
-- Network: 2 lib(s)
+- UI: 4 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 2 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftCore
