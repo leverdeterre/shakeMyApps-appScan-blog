@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/21/26/0f/21260fe8-7107-b7a5-e860-ae3f7c2856f6/contsched.gbxwkxdo.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Whoop Triggerz Plus (com.Carlton.WhoopTriggerzPlus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Whoop Triggerz Plus (com.Carlton.WhoopTriggerzPlus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/21/26/0f/21260fe8-7107-b7a5-e860-ae3f7c2856f6/contsched.gbxwkxdo.png/512x512bb.jpg" width="100" height="100" alt="Whoop Triggerz Plus com.Carlton.WhoopTriggerzPlus app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/21/26/0f/21260fe8-7107-b7a5-e860-ae3f7c2856f6/contsched.gbxwkxdo.png/512x512bb.jpg" width="100" height="100" alt="Whoop Triggerz Plus com.Carlton.WhoopTriggerzPlus app icon"></div>  
   
 # Whoop Triggerz Plus (com.Carlton.WhoopTriggerzPlus)
 
@@ -57,10 +57,10 @@ supported devices iPhone & iPad
 
 ## Librairies 
 **Number of Third Party Library detected:** 28
-- UI: 3 lib(s)
-- Tracking: 2 lib(s)
 - Tools: 12 lib(s)
 - Network: 2 lib(s)
+- Tracking: 2 lib(s)
+- UI: 3 lib(s)
 - Storage: 1 lib(s)
 
 **Apple dylibs:**

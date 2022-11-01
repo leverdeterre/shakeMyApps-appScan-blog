@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/23/05/a6230541-b513-3a09-bb1a-544cae5b57f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application BAND (com.nhncorp.m2app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application BAND (com.nhncorp.m2app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/23/05/a6230541-b513-3a09-bb1a-544cae5b57f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="BAND com.nhncorp.m2app app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a6/23/05/a6230541-b513-3a09-bb1a-544cae5b57f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="BAND com.nhncorp.m2app app icon"></div>  
   
 # BAND (com.nhncorp.m2app)
 
@@ -64,11 +64,11 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 72
-- Network: 3 lib(s)
-- Tracking: 2 lib(s)
-- Storage: 1 lib(s)
-- UI: 6 lib(s)
 - Tools: 16 lib(s)
+- Storage: 1 lib(s)
+- Network: 3 lib(s)
+- UI: 6 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

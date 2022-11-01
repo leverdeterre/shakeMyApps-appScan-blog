@@ -4,7 +4,7 @@ permalink: /apps/ios/com.blinknetwork.blinkmobile.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Blink (com.blinknetwork.blinkmobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Blink (com.blinknetwork.blinkmobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Blink (com.blinknetwork.blinkmobile)
 
@@ -52,9 +52,9 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
-- Tools: 7 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 1 lib(s)
+- Crash: 1 lib(s)
+- Tools: 7 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

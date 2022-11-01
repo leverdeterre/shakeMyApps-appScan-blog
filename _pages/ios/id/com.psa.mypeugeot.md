@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/8c/1b/0c8c1b79-e2f2-5597-b89f-9abf5ef5e727/app_launcher_icon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application MyPeugeot (com.psa.mypeugeot). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application MyPeugeot (com.psa.mypeugeot). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/8c/1b/0c8c1b79-e2f2-5597-b89f-9abf5ef5e727/app_launcher_icon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="MyPeugeot com.psa.mypeugeot app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/8c/1b/0c8c1b79-e2f2-5597-b89f-9abf5ef5e727/app_launcher_icon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="MyPeugeot com.psa.mypeugeot app icon"></div>  
   
 # MyPeugeot (com.psa.mypeugeot)
 
@@ -60,12 +60,12 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 54
-- Network: 4 lib(s)
 - Tools: 13 lib(s)
-- Tracking: 1 lib(s)
-- Crash: 1 lib(s)
 - Logs: 1 lib(s)
 - UI: 2 lib(s)
+- Tracking: 1 lib(s)
+- Network: 4 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

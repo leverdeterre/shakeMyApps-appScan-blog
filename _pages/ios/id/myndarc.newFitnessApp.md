@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/44/c7/f8/44c7f8e7-1162-1af8-c540-3147f3964f42/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Athlytic (myndarc.newFitnessApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Athlytic (myndarc.newFitnessApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/44/c7/f8/44c7f8e7-1162-1af8-c540-3147f3964f42/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Athlytic myndarc.newFitnessApp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/44/c7/f8/44c7f8e7-1162-1af8-c540-3147f3964f42/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Athlytic myndarc.newFitnessApp app icon"></div>  
   
 # Athlytic (myndarc.newFitnessApp)
 

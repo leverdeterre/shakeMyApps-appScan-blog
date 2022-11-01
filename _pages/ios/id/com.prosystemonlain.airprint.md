@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/00/aa/7400aaf1-b9a0-ca71-6df1-261bfd6542b7/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application AirPrint (com.prosystemonlain.airprint). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application AirPrint (com.prosystemonlain.airprint). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/00/aa/7400aaf1-b9a0-ca71-6df1-261bfd6542b7/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="AirPrint com.prosystemonlain.airprint app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/74/00/aa/7400aaf1-b9a0-ca71-6df1-261bfd6542b7/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="AirPrint com.prosystemonlain.airprint app icon"></div>  
   
 # AirPrint (com.prosystemonlain.airprint)
 

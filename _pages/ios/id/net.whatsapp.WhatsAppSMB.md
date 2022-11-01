@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/39/87/ee/3987eeeb-b831-40eb-0706-d902d0c4baa3/AppIconSMB-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application ‎WA Business (net.whatsapp.WhatsAppSMB). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application ‎WA Business (net.whatsapp.WhatsAppSMB). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/39/87/ee/3987eeeb-b831-40eb-0706-d902d0c4baa3/AppIconSMB-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="‎WA Business net.whatsapp.WhatsAppSMB app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/39/87/ee/3987eeeb-b831-40eb-0706-d902d0c4baa3/AppIconSMB-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="‎WA Business net.whatsapp.WhatsAppSMB app icon"></div>  
   
 # ‎WA Business (net.whatsapp.WhatsAppSMB)
 

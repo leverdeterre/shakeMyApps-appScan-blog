@@ -4,7 +4,7 @@ permalink: /apps/ios/com.area120.Grasshopper.prod.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Grasshopper (com.area120.Grasshopper.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Grasshopper (com.area120.Grasshopper.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Grasshopper (com.area120.Grasshopper.prod)
 
@@ -48,10 +48,10 @@ GoogleLogin detected
 
 ## Librairies 
 **Number of Third Party Library detected:** 70
-- Logs: 2 lib(s)
 - Tools: 14 lib(s)
-- Tracking: 1 lib(s)
 - Storage: 2 lib(s)
+- Tracking: 1 lib(s)
+- Logs: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

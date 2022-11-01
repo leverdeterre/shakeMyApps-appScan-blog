@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/27/36/a0/2736a00b-0dca-6e97-59c5-50a478c0ee63/AppIcon-Release-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Verse (com.joinverse.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Verse (com.joinverse.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/27/36/a0/2736a00b-0dca-6e97-59c5-50a478c0ee63/AppIcon-Release-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="Verse com.joinverse.ios app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/27/36/a0/2736a00b-0dca-6e97-59c5-50a478c0ee63/AppIcon-Release-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="Verse com.joinverse.ios app icon"></div>  
   
 # Verse (com.joinverse.ios)
 
@@ -63,11 +63,11 @@ Some shortcutItems
 
 ## Librairies 
 **Number of Third Party Library detected:** 76
-- UI: 5 lib(s)
-- Tracking: 4 lib(s)
-- Network: 3 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 4 lib(s)
 - Tools: 29 lib(s)
+- Network: 3 lib(s)
+- UI: 5 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/d1/08/e1/d108e1ca-4c0e-bfc3-cc1c-1c2ae848eed5/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Fires (com.livewaremedia.Fires). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Fires (com.livewaremedia.Fires). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/d1/08/e1/d108e1ca-4c0e-bfc3-cc1c-1c2ae848eed5/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Fires com.livewaremedia.Fires app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/d1/08/e1/d108e1ca-4c0e-bfc3-cc1c-1c2ae848eed5/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Fires com.livewaremedia.Fires app icon"></div>  
   
 # Fires (com.livewaremedia.Fires)
 
@@ -58,9 +58,9 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
+- Tools: 9 lib(s)
 - Tracking: 1 lib(s)
 - Network: 1 lib(s)
-- Tools: 9 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/9f/4a/8e/9f4a8ea9-8363-d149-f81c-90099e166b00/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Tsugi Radio (com.icreo.tsugiradio). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Tsugi Radio (com.icreo.tsugiradio). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/9f/4a/8e/9f4a8ea9-8363-d149-f81c-90099e166b00/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Tsugi Radio com.icreo.tsugiradio app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/9f/4a/8e/9f4a8ea9-8363-d149-f81c-90099e166b00/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Tsugi Radio com.icreo.tsugiradio app icon"></div>  
   
 # Tsugi Radio (com.icreo.tsugiradio)
 

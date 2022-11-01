@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b4/21/0e/b4210e39-8373-57e7-8491-719f4b82372d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Titan (com.titank12.family.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Titan (com.titank12.family.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b4/21/0e/b4210e39-8373-57e7-8491-719f4b82372d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Titan com.titank12.family.mobile app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b4/21/0e/b4210e39-8373-57e7-8491-719f4b82372d/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Titan com.titank12.family.mobile app icon"></div>  
   
 # Titan (com.titank12.family.mobile)
 
@@ -57,8 +57,8 @@ supported devices iPhone & iPad
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- Tools: 9 lib(s)
 - Storage: 1 lib(s)
+- Tools: 9 lib(s)
 
 **Apple dylibs:**
 

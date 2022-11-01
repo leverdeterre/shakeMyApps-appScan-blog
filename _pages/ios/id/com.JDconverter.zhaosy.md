@@ -4,7 +4,7 @@ permalink: /apps/ios/com.JDconverter.zhaosy.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application PDF Converter (com.JDconverter.zhaosy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PDF Converter (com.JDconverter.zhaosy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # PDF Converter (com.JDconverter.zhaosy)
 
@@ -49,10 +49,10 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- UI: 3 lib(s)
-- Storage: 1 lib(s)
-- Network: 3 lib(s)
 - Tools: 1 lib(s)
+- Storage: 1 lib(s)
+- UI: 3 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 

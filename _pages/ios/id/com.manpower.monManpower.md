@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/92/09/20/9209201a-8772-e606-0226-2d70d4ff4c5f/AppIcon-1x_U007emarketing-4-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Manpower (com.manpower.monManpower). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Manpower (com.manpower.monManpower). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/92/09/20/9209201a-8772-e606-0226-2d70d4ff4c5f/AppIcon-1x_U007emarketing-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Manpower com.manpower.monManpower app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/92/09/20/9209201a-8772-e606-0226-2d70d4ff4c5f/AppIcon-1x_U007emarketing-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Manpower com.manpower.monManpower app icon"></div>  
   
 # Manpower (com.manpower.monManpower)
 
@@ -58,12 +58,12 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 27
+- Tools: 10 lib(s)
 - UI: 2 lib(s)
-- Tracking: 2 lib(s)
-- Crash: 1 lib(s)
 - Storage: 1 lib(s)
 - Network: 4 lib(s)
-- Tools: 10 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

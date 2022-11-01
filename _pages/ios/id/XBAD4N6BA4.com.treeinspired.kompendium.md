@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/98/37/68/983768ff-4ad8-aba0-9ed8-d9999e4c2933/AppIcon-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Kompendium (XBAD4N6BA4.com.treeinspired.kompendium). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Kompendium (XBAD4N6BA4.com.treeinspired.kompendium). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/98/37/68/983768ff-4ad8-aba0-9ed8-d9999e4c2933/AppIcon-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Kompendium XBAD4N6BA4.com.treeinspired.kompendium app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/98/37/68/983768ff-4ad8-aba0-9ed8-d9999e4c2933/AppIcon-0-1x_U007emarketing-0-6-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Kompendium XBAD4N6BA4.com.treeinspired.kompendium app icon"></div>  
   
 # Kompendium (XBAD4N6BA4.com.treeinspired.kompendium)
 

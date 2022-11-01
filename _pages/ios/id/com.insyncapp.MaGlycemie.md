@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/ac/80/a2/ac80a27a-9e52-9325-4131-2b445b34e44e/mzl.tqxzwiru.jpg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application MaGlycemie (com.insyncapp.MaGlycemie). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application MaGlycemie (com.insyncapp.MaGlycemie). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/ac/80/a2/ac80a27a-9e52-9325-4131-2b445b34e44e/mzl.tqxzwiru.jpg/512x512bb.jpg" width="100" height="100" alt="MaGlycemie com.insyncapp.MaGlycemie app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/ac/80/a2/ac80a27a-9e52-9325-4131-2b445b34e44e/mzl.tqxzwiru.jpg/512x512bb.jpg" width="100" height="100" alt="MaGlycemie com.insyncapp.MaGlycemie app icon"></div>  
   
 # MaGlycemie (com.insyncapp.MaGlycemie)
 

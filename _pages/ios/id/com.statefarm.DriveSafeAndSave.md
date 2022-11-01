@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/4b/9c/e94b9ca0-5217-2615-7c0f-ef6ef3081dc1/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Drive Safe & Save (com.statefarm.DriveSafeAndSave). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Drive Safe & Save (com.statefarm.DriveSafeAndSave). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/4b/9c/e94b9ca0-5217-2615-7c0f-ef6ef3081dc1/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Drive Safe & Save com.statefarm.DriveSafeAndSave app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/4b/9c/e94b9ca0-5217-2615-7c0f-ef6ef3081dc1/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Drive Safe & Save com.statefarm.DriveSafeAndSave app icon"></div>  
   
 # Drive Safe & Save (com.statefarm.DriveSafeAndSave)
 
@@ -59,8 +59,8 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
-- Tools: 3 lib(s)
 - Network: 1 lib(s)
+- Tools: 3 lib(s)
 
 **Apple dylibs:**
 

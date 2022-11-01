@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/46/0a/a7/460aa7aa-95d1-20b7-35c0-cc207cf09db5/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application foodbymaria (com.cookbook.fbm). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application foodbymaria (com.cookbook.fbm). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/46/0a/a7/460aa7aa-95d1-20b7-35c0-cc207cf09db5/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/512x512bb.jpg" width="100" height="100" alt="foodbymaria com.cookbook.fbm app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/46/0a/a7/460aa7aa-95d1-20b7-35c0-cc207cf09db5/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/512x512bb.jpg" width="100" height="100" alt="foodbymaria com.cookbook.fbm app icon"></div>  
   
 # foodbymaria (com.cookbook.fbm)
 

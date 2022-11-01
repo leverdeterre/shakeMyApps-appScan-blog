@@ -4,7 +4,7 @@ permalink: /apps/ios/com.QuickSlagAsh.app.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application QuickSlagAsh (com.QuickSlagAsh.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application QuickSlagAsh (com.QuickSlagAsh.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # QuickSlagAsh (com.QuickSlagAsh.app)
 
@@ -50,8 +50,8 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 18
-- Network: 4 lib(s)
 - Tools: 7 lib(s)
+- Network: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/10/17/3a/10173ae7-326c-da69-6c0d-c63bc9ebb12a/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Diet Tracker (com.dietTracker.dietTracker). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Diet Tracker (com.dietTracker.dietTracker). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/10/17/3a/10173ae7-326c-da69-6c0d-c63bc9ebb12a/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Diet Tracker com.dietTracker.dietTracker app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/10/17/3a/10173ae7-326c-da69-6c0d-c63bc9ebb12a/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Diet Tracker com.dietTracker.dietTracker app icon"></div>  
   
 # Diet Tracker (com.dietTracker.dietTracker)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ca/e3/66/cae366e4-7320-ff7c-ce8b-9c706d361602/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application PowerSchool (com.powerschool.portal). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PowerSchool (com.powerschool.portal). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ca/e3/66/cae366e4-7320-ff7c-ce8b-9c706d361602/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="PowerSchool com.powerschool.portal app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ca/e3/66/cae366e4-7320-ff7c-ce8b-9c706d361602/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="PowerSchool com.powerschool.portal app icon"></div>  
   
 # PowerSchool (com.powerschool.portal)
 
@@ -60,10 +60,10 @@ support multiple languages
 ## Librairies 
 **Number of Third Party Library detected:** 39
 - Network: 1 lib(s)
-- UI: 2 lib(s)
-- Tools: 11 lib(s)
-- Logs: 1 lib(s)
 - Crash: 1 lib(s)
+- Logs: 1 lib(s)
+- Tools: 11 lib(s)
+- UI: 2 lib(s)
 - Tracking: 1 lib(s)
 
 **Apple dylibs:**

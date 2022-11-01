@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/f5/56/79f55680-bb37-230e-935e-f94a2fd5cc48/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Clever (com.dpmapps.supernova). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Clever (com.dpmapps.supernova). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/f5/56/79f55680-bb37-230e-935e-f94a2fd5cc48/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Clever com.dpmapps.supernova app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/f5/56/79f55680-bb37-230e-935e-f94a2fd5cc48/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Clever com.dpmapps.supernova app icon"></div>  
   
 # Clever (com.dpmapps.supernova)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/e1/97/e2e197db-3f95-ea8d-ed3b-623b69d5e4e4/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application inDrive (ru.inDriver-ru). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application inDrive (ru.inDriver-ru). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/e1/97/e2e197db-3f95-ea8d-ed3b-623b69d5e4e4/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="inDrive ru.inDriver-ru app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/e2/e1/97/e2e197db-3f95-ea8d-ed3b-623b69d5e4e4/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="inDrive ru.inDriver-ru app icon"></div>  
   
 # inDrive (ru.inDriver-ru)
 
@@ -62,9 +62,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 80
-- Network: 1 lib(s)
-- UI: 3 lib(s)
 - Tools: 4 lib(s)
+- UI: 3 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 

@@ -4,7 +4,7 @@ permalink: /apps/ios/com.PaydayUmbrella.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Payday Umbrella (com.PaydayUmbrella). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Payday Umbrella (com.PaydayUmbrella). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Payday Umbrella (com.PaydayUmbrella)
 
@@ -50,8 +50,8 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 14
-- Network: 2 lib(s)
 - Tracking: 3 lib(s)
+- Network: 2 lib(s)
 - Tools: 7 lib(s)
 
 **Apple dylibs:**

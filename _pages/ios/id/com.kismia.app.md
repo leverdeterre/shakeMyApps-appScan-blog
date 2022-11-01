@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/20/7f/48/207f48e7-5823-d705-77a5-faecd15db93d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Kismia (com.kismia.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Kismia (com.kismia.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/20/7f/48/207f48e7-5823-d705-77a5-faecd15db93d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Kismia com.kismia.app app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/20/7f/48/207f48e7-5823-d705-77a5-faecd15db93d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Kismia com.kismia.app app icon"></div>  
   
 # Kismia (com.kismia.app)
 
@@ -63,11 +63,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 58
+- Tools: 30 lib(s)
 - Tracking: 4 lib(s)
-- UI: 4 lib(s)
 - Crash: 1 lib(s)
 - Network: 6 lib(s)
-- Tools: 30 lib(s)
+- UI: 4 lib(s)
 
 **Apple dylibs:**
 

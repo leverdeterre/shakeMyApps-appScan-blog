@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/b2/42/43/b24243dc-599d-53c4-9fed-a75052f8c306/mzl.pjhcqzdc.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Dental - Lite (com.iSO-FORM.DentalLite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Dental - Lite (com.iSO-FORM.DentalLite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/b2/42/43/b24243dc-599d-53c4-9fed-a75052f8c306/mzl.pjhcqzdc.png/512x512bb.jpg" width="100" height="100" alt="Dental - Lite com.iSO-FORM.DentalLite app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/b2/42/43/b24243dc-599d-53c4-9fed-a75052f8c306/mzl.pjhcqzdc.png/512x512bb.jpg" width="100" height="100" alt="Dental - Lite com.iSO-FORM.DentalLite app icon"></div>  
   
 # Dental - Lite (com.iSO-FORM.DentalLite)
 

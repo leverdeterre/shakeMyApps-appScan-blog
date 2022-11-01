@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/24/b7/8e24b7de-42c2-91a6-207e-e6f3692efadf/AppIconKroger-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Kroger (com.kroger.krogermobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Kroger (com.kroger.krogermobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/24/b7/8e24b7de-42c2-91a6-207e-e6f3692efadf/AppIconKroger-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Kroger com.kroger.krogermobile app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8e/24/b7/8e24b7de-42c2-91a6-207e-e6f3692efadf/AppIconKroger-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Kroger com.kroger.krogermobile app icon"></div>  
   
 # Kroger (com.kroger.krogermobile)
 

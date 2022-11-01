@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/7d/5b/7a7d5b7a-51f7-46a2-f122-c1af155532cc/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Massager (com.enjoysofy.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Massager (com.enjoysofy.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/7d/5b/7a7d5b7a-51f7-46a2-f122-c1af155532cc/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Massager com.enjoysofy.app app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/7a/7d/5b/7a7d5b7a-51f7-46a2-f122-c1af155532cc/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Massager com.enjoysofy.app app icon"></div>  
   
 # Massager (com.enjoysofy.app)
 

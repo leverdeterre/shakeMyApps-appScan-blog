@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/18/1c/3b/181c3be2-ffda-f51c-c639-43a3ce197fcd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Tabler (com.nxtlvl.tabler). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Tabler (com.nxtlvl.tabler). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/18/1c/3b/181c3be2-ffda-f51c-c639-43a3ce197fcd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Tabler com.nxtlvl.tabler app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/18/1c/3b/181c3be2-ffda-f51c-c639-43a3ce197fcd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Tabler com.nxtlvl.tabler app icon"></div>  
   
 # Tabler (com.nxtlvl.tabler)
 
@@ -61,12 +61,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- Crash: 1 lib(s)
-- Network: 3 lib(s)
-- Tools: 12 lib(s)
 - UI: 3 lib(s)
 - Storage: 3 lib(s)
 - Tracking: 1 lib(s)
+- Crash: 1 lib(s)
+- Tools: 12 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 

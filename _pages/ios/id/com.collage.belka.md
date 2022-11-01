@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ad/9a/42/ad9a4285-85fe-f146-5ff6-2eb04c2ca246/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Collageable (com.collage.belka). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Collageable (com.collage.belka). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ad/9a/42/ad9a4285-85fe-f146-5ff6-2eb04c2ca246/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Collageable com.collage.belka app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/ad/9a/42/ad9a4285-85fe-f146-5ff6-2eb04c2ca246/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Collageable com.collage.belka app icon"></div>  
   
 # Collageable (com.collage.belka)
 

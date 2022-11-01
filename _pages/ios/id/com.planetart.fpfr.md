@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/25/c6/5f25c650-6db4-9c84-3e05-1b0c6aa6933a/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application FreePrints (com.planetart.fpfr). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application FreePrints (com.planetart.fpfr). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/25/c6/5f25c650-6db4-9c84-3e05-1b0c6aa6933a/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="FreePrints com.planetart.fpfr app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5f/25/c6/5f25c650-6db4-9c84-3e05-1b0c6aa6933a/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="FreePrints com.planetart.fpfr app icon"></div>  
   
 # FreePrints (com.planetart.fpfr)
 
@@ -64,11 +64,11 @@ at least 4 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 75
 - Network: 5 lib(s)
+- UI: 2 lib(s)
+- Tracking: 5 lib(s)
+- Logs: 1 lib(s)
 - Tools: 28 lib(s)
 - Crash: 1 lib(s)
-- UI: 2 lib(s)
-- Logs: 1 lib(s)
-- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 

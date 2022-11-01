@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/6f/c2/8b6fc21c-8fe6-2de2-3f4e-e7c98080d9cf/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Liberty Rider (com.liberty-rider.liberty-rider). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Liberty Rider (com.liberty-rider.liberty-rider). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/6f/c2/8b6fc21c-8fe6-2de2-3f4e-e7c98080d9cf/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Liberty Rider com.liberty-rider.liberty-rider app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8b/6f/c2/8b6fc21c-8fe6-2de2-3f4e-e7c98080d9cf/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Liberty Rider com.liberty-rider.liberty-rider app icon"></div>  
   
 # Liberty Rider (com.liberty-rider.liberty-rider)
 
@@ -62,13 +62,13 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 73
-- Network: 2 lib(s)
+- Tracking: 5 lib(s)
+- Storage: 2 lib(s)
+- UI: 4 lib(s)
+- Tools: 31 lib(s)
 - Logs: 1 lib(s)
 - Crash: 1 lib(s)
-- UI: 4 lib(s)
-- Storage: 2 lib(s)
-- Tools: 31 lib(s)
-- Tracking: 5 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 

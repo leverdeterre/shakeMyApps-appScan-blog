@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/79/0b/21/790b213b-0143-184c-67cc-50742bc6768d/AppIcon-1-1x_U007emarketing-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Clover (co.clover.clover). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Clover (co.clover.clover). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/79/0b/21/790b213b-0143-184c-67cc-50742bc6768d/AppIcon-1-1x_U007emarketing-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Clover co.clover.clover app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/79/0b/21/790b213b-0143-184c-67cc-50742bc6768d/AppIcon-1-1x_U007emarketing-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Clover co.clover.clover app icon"></div>  
   
 # Clover (co.clover.clover)
 

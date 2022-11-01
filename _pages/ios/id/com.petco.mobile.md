@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/3c/6c/6d3c6c37-b6c1-f777-2c84-495067cec505/PetcoAppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Petco (com.petco.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Petco (com.petco.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/3c/6c/6d3c6c37-b6c1-f777-2c84-495067cec505/PetcoAppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Petco com.petco.mobile app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/6d/3c/6c/6d3c6c37-b6c1-f777-2c84-495067cec505/PetcoAppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Petco com.petco.mobile app icon"></div>  
   
 # Petco (com.petco.mobile)
 
@@ -59,8 +59,8 @@ at least 3 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
-- Tools: 12 lib(s)
 - Storage: 1 lib(s)
+- Tools: 12 lib(s)
 
 **Apple dylibs:**
 

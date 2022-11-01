@@ -4,7 +4,7 @@ permalink: /apps/ios/com.fast.vpn.master.vpm.proxy.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Faster VPN (com.fast.vpn.master.vpm.proxy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Faster VPN (com.fast.vpn.master.vpm.proxy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Faster VPN (com.fast.vpn.master.vpm.proxy)
 
@@ -50,11 +50,11 @@ contains 1 App extensions
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
-- Logs: 1 lib(s)
 - Tools: 10 lib(s)
 - UI: 2 lib(s)
 - Network: 3 lib(s)
 - Tracking: 2 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 

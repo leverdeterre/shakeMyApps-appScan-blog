@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/9a/5d/1d9a5d7f-c2b2-32f6-fdbc-9edd5fb14e74/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application FM Radio (co.rocket-apps.ios.radio). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application FM Radio (co.rocket-apps.ios.radio). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/9a/5d/1d9a5d7f-c2b2-32f6-fdbc-9edd5fb14e74/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg" width="100" height="100" alt="FM Radio co.rocket-apps.ios.radio app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/9a/5d/1d9a5d7f-c2b2-32f6-fdbc-9edd5fb14e74/AppIcon-0-0-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg" width="100" height="100" alt="FM Radio co.rocket-apps.ios.radio app icon"></div>  
   
 # FM Radio (co.rocket-apps.ios.radio)
 

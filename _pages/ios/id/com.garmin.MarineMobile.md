@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/5c/ae/605caec4-e0c2-b0b4-8a20-b8bf06cd3233/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application ActiveCaptain (com.garmin.MarineMobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application ActiveCaptain (com.garmin.MarineMobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/5c/ae/605caec4-e0c2-b0b4-8a20-b8bf06cd3233/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ActiveCaptain com.garmin.MarineMobile app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/60/5c/ae/605caec4-e0c2-b0b4-8a20-b8bf06cd3233/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ActiveCaptain com.garmin.MarineMobile app icon"></div>  
   
 # ActiveCaptain (com.garmin.MarineMobile)
 

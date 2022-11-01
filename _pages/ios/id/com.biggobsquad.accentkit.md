@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/38/9e/df/389edf4c-4110-cc34-8dd1-e8253587c5f1/AppIcon-1x_U007emarketing-85-220-5.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application The Accent Kit (com.biggobsquad.accentkit). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application The Accent Kit (com.biggobsquad.accentkit). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/38/9e/df/389edf4c-4110-cc34-8dd1-e8253587c5f1/AppIcon-1x_U007emarketing-85-220-5.jpeg/512x512bb.jpg" width="100" height="100" alt="The Accent Kit com.biggobsquad.accentkit app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/38/9e/df/389edf4c-4110-cc34-8dd1-e8253587c5f1/AppIcon-1x_U007emarketing-85-220-5.jpeg/512x512bb.jpg" width="100" height="100" alt="The Accent Kit com.biggobsquad.accentkit app icon"></div>  
   
 # The Accent Kit (com.biggobsquad.accentkit)
 

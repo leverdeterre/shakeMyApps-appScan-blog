@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c1/91/97/c191971f-2f7e-78ea-3f2f-97c4518300c2/LuckGrib-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application LuckGrib (com.craigmcpheeters.LuckGrib.iOS). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application LuckGrib (com.craigmcpheeters.LuckGrib.iOS). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c1/91/97/c191971f-2f7e-78ea-3f2f-97c4518300c2/LuckGrib-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="LuckGrib com.craigmcpheeters.LuckGrib.iOS app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/c1/91/97/c191971f-2f7e-78ea-3f2f-97c4518300c2/LuckGrib-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="LuckGrib com.craigmcpheeters.LuckGrib.iOS app icon"></div>  
   
 # LuckGrib (com.craigmcpheeters.LuckGrib.iOS)
 

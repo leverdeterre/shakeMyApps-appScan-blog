@@ -4,7 +4,7 @@ permalink: /apps/ios/com.billabong.surfreport.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Surf Report (com.billabong.surfreport). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Surf Report (com.billabong.surfreport). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Surf Report (com.billabong.surfreport)
 
@@ -47,8 +47,8 @@ Native App
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
-- Network: 1 lib(s)
 - Storage: 1 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 

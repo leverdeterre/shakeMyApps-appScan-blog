@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/0b/ef/8f0bef26-efdb-5f5c-a31c-9f98efd3d87f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Jack in the Box (com.jackinthebox.jibprod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Jack in the Box (com.jackinthebox.jibprod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/0b/ef/8f0bef26-efdb-5f5c-a31c-9f98efd3d87f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Jack in the Box com.jackinthebox.jibprod app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/8f/0b/ef/8f0bef26-efdb-5f5c-a31c-9f98efd3d87f/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Jack in the Box com.jackinthebox.jibprod app icon"></div>  
   
 # Jack in the Box (com.jackinthebox.jibprod)
 
@@ -57,10 +57,10 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 37
-- Tools: 11 lib(s)
-- Tracking: 5 lib(s)
-- Network: 1 lib(s)
 - Crash: 1 lib(s)
+- Network: 1 lib(s)
+- Tracking: 5 lib(s)
+- Tools: 11 lib(s)
 
 **Apple dylibs:**
 

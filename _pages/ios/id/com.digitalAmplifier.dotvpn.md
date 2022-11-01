@@ -4,7 +4,7 @@ permalink: /apps/ios/com.digitalAmplifier.dotvpn.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Dot VPN - Fast & Secure (com.digitalAmplifier.dotvpn). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Dot VPN - Fast & Secure (com.digitalAmplifier.dotvpn). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Dot VPN - Fast & Secure (com.digitalAmplifier.dotvpn)
 
@@ -49,10 +49,10 @@ Native App
 ## Librairies 
 **Number of Third Party Library detected:** 16
 - Tools: 7 lib(s)
-- Tracking: 2 lib(s)
-- Network: 1 lib(s)
 - Storage: 1 lib(s)
 - UI: 2 lib(s)
+- Network: 1 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

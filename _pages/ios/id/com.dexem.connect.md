@@ -4,7 +4,7 @@ permalink: /apps/ios/com.dexem.connect.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Connect (com.dexem.connect). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Connect (com.dexem.connect). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Connect (com.dexem.connect)
 
@@ -49,9 +49,9 @@ Native App
 
 ## Librairies 
 **Number of Third Party Library detected:** 9
+- UI: 1 lib(s)
 - Crash: 1 lib(s)
 - Storage: 1 lib(s)
-- UI: 1 lib(s)
 
 **Apple dylibs:**
 

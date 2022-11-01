@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/a2/fc/9d/a2fc9d65-28e0-a262-b6dc-f0a70b98dabc/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application BT Smartwatch (BTNotifier.Scanner.com). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application BT Smartwatch (BTNotifier.Scanner.com). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/a2/fc/9d/a2fc9d65-28e0-a262-b6dc-f0a70b98dabc/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="BT Smartwatch BTNotifier.Scanner.com app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/a2/fc/9d/a2fc9d65-28e0-a262-b6dc-f0a70b98dabc/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="BT Smartwatch BTNotifier.Scanner.com app icon"></div>  
   
 # BT Smartwatch (BTNotifier.Scanner.com)
 

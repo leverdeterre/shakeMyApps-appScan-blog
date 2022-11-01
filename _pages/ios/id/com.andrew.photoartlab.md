@@ -4,7 +4,7 @@ permalink: /apps/ios/com.andrew.photoartlab.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Photo Art Lab (com.andrew.photoartlab). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Photo Art Lab (com.andrew.photoartlab). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Photo Art Lab (com.andrew.photoartlab)
 
@@ -51,8 +51,8 @@ contains 1 App extensions
 ## Librairies 
 **Number of Third Party Library detected:** 20
 - Network: 1 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 2 lib(s)
+- Crash: 1 lib(s)
 - Tools: 6 lib(s)
 
 **Apple dylibs:**

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/99/27/c2/9927c23d-14f0-108f-11a2-51cfb91a2988/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application La Nouvelle République (com.lanr.com). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application La Nouvelle République (com.lanr.com). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/99/27/c2/9927c23d-14f0-108f-11a2-51cfb91a2988/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="La Nouvelle République com.lanr.com app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/99/27/c2/9927c23d-14f0-108f-11a2-51cfb91a2988/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="La Nouvelle République com.lanr.com app icon"></div>  
   
 # La Nouvelle République (com.lanr.com)
 
@@ -61,8 +61,8 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 18
 - Tools: 9 lib(s)
-- Network: 2 lib(s)
 - Tracking: 3 lib(s)
+- Network: 2 lib(s)
 - Crash: 1 lib(s)
 - UI: 1 lib(s)
 

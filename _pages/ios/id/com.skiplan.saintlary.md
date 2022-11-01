@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/16/09/d0/1609d017-ec2c-3bd4-d6cf-6fb3f3e78b43/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Saint Lary (com.skiplan.saintlary). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Saint Lary (com.skiplan.saintlary). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/16/09/d0/1609d017-ec2c-3bd4-d6cf-6fb3f3e78b43/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Saint Lary com.skiplan.saintlary app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/16/09/d0/1609d017-ec2c-3bd4-d6cf-6fb3f3e78b43/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Saint Lary com.skiplan.saintlary app icon"></div>  
   
 # Saint Lary (com.skiplan.saintlary)
 
@@ -60,11 +60,11 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 48
+- Network: 2 lib(s)
 - UI: 5 lib(s)
-- Tools: 14 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 3 lib(s)
-- Network: 2 lib(s)
+- Tools: 14 lib(s)
 
 **Apple dylibs:**
 

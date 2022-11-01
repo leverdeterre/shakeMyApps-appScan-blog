@@ -4,7 +4,7 @@ permalink: /apps/ios/com.mrkavapp.fanelo.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Fanelo For OnlyFans (com.mrkavapp.fanelo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Fanelo For OnlyFans (com.mrkavapp.fanelo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Fanelo For OnlyFans (com.mrkavapp.fanelo)
 
@@ -48,10 +48,10 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 40
-- Storage: 4 lib(s)
-- Network: 3 lib(s)
 - Tools: 11 lib(s)
 - Tracking: 2 lib(s)
+- Network: 3 lib(s)
+- Storage: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

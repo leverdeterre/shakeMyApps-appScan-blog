@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/6d/85/9c/6d859c88-5999-b236-d8a7-a88f33ed5cc4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-85-220-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Eclat-BFC (fr.eclatbfc.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Eclat-BFC (fr.eclatbfc.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/6d/85/9c/6d859c88-5999-b236-d8a7-a88f33ed5cc4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Eclat-BFC fr.eclatbfc.mobile app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/6d/85/9c/6d859c88-5999-b236-d8a7-a88f33ed5cc4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Eclat-BFC fr.eclatbfc.mobile app icon"></div>  
   
 # Eclat-BFC (fr.eclatbfc.mobile)
 

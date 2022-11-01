@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/22/34/dc2234c2-e0a7-6f87-40af-b95e38c88c15/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Walgreens (com.usablenet.walgreens). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Walgreens (com.usablenet.walgreens). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/22/34/dc2234c2-e0a7-6f87-40af-b95e38c88c15/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Walgreens com.usablenet.walgreens app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/22/34/dc2234c2-e0a7-6f87-40af-b95e38c88c15/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Walgreens com.usablenet.walgreens app icon"></div>  
   
 # Walgreens (com.usablenet.walgreens)
 
@@ -62,13 +62,13 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 125
-- UI: 5 lib(s)
-- Storage: 1 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 5 lib(s)
-- Network: 4 lib(s)
 - Tools: 20 lib(s)
+- Network: 4 lib(s)
+- Storage: 1 lib(s)
 - Logs: 1 lib(s)
+- Crash: 1 lib(s)
+- UI: 5 lib(s)
 
 **Apple dylibs:**
 

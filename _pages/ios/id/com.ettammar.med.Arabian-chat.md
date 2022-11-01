@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/5e/07/e8/5e07e834-dba2-98a6-3ef3-b5640ccb5643/mzl.geraxxxk.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Arabian chat (com.ettammar.med.Arabian-chat). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Arabian chat (com.ettammar.med.Arabian-chat). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/5e/07/e8/5e07e834-dba2-98a6-3ef3-b5640ccb5643/mzl.geraxxxk.png/512x512bb.jpg" width="100" height="100" alt="Arabian chat com.ettammar.med.Arabian-chat app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/5e/07/e8/5e07e834-dba2-98a6-3ef3-b5640ccb5643/mzl.geraxxxk.png/512x512bb.jpg" width="100" height="100" alt="Arabian chat com.ettammar.med.Arabian-chat app icon"></div>  
   
 # Arabian chat (com.ettammar.med.Arabian-chat)
 
@@ -56,9 +56,9 @@ supported devices iPhone & iPad
 
 ## Librairies 
 **Number of Third Party Library detected:** 7
+- Storage: 1 lib(s)
 - UI: 1 lib(s)
 - Tools: 3 lib(s)
-- Storage: 1 lib(s)
 
 **Apple dylibs:**
 

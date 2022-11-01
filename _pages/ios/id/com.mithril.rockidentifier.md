@@ -4,7 +4,7 @@ permalink: /apps/ios/com.mithril.rockidentifier.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Crystal Identifier Scanner (com.mithril.rockidentifier). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Crystal Identifier Scanner (com.mithril.rockidentifier). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Crystal Identifier Scanner (com.mithril.rockidentifier)
 
@@ -52,11 +52,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 26
+- UI: 1 lib(s)
+- Tracking: 5 lib(s)
 - Storage: 2 lib(s)
 - Network: 2 lib(s)
-- Tracking: 5 lib(s)
 - Tools: 13 lib(s)
-- UI: 1 lib(s)
 - Crash: 1 lib(s)
 
 **Apple dylibs:**

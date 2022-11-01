@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/31/75/83/31758373-d7d5-a463-b70f-e60e04ace2d4/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Carvana (com.carvana.copilot). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Carvana (com.carvana.copilot). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/31/75/83/31758373-d7d5-a463-b70f-e60e04ace2d4/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Carvana com.carvana.copilot app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/31/75/83/31758373-d7d5-a463-b70f-e60e04ace2d4/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Carvana com.carvana.copilot app icon"></div>  
   
 # Carvana (com.carvana.copilot)
 

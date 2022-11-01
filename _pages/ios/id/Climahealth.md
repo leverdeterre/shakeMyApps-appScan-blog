@@ -4,7 +4,7 @@ permalink: /apps/ios/Climahealth.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Weather & Health (Climahealth). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Weather & Health (Climahealth). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Weather & Health (Climahealth)
 
@@ -52,12 +52,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 34
-- Tracking: 5 lib(s)
-- Tools: 14 lib(s)
 - Network: 3 lib(s)
-- UI: 2 lib(s)
 - Storage: 1 lib(s)
 - Crash: 1 lib(s)
+- Tools: 14 lib(s)
+- UI: 2 lib(s)
+- Tracking: 5 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ad/15/21/ad152179-b75c-be4f-cf81-847504f4fdcc/AppIcon_Release-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Voice Translator (vt.free). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Voice Translator (vt.free). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ad/15/21/ad152179-b75c-be4f-cf81-847504f4fdcc/AppIcon_Release-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Voice Translator vt.free app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ad/15/21/ad152179-b75c-be4f-cf81-847504f4fdcc/AppIcon_Release-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Voice Translator vt.free app icon"></div>  
   
 # Voice Translator (vt.free)
 
@@ -60,12 +60,12 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 64
-- Crash: 1 lib(s)
-- UI: 4 lib(s)
-- Storage: 1 lib(s)
-- Tracking: 5 lib(s)
-- Tools: 21 lib(s)
 - Network: 4 lib(s)
+- Storage: 1 lib(s)
+- Tools: 21 lib(s)
+- Tracking: 5 lib(s)
+- UI: 4 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 

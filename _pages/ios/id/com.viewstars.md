@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/d5/e1/11d5e179-2b31-50ae-ac55-116640ed3112/AppIcon-2-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Sky View (com.viewstars). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Sky View (com.viewstars). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/d5/e1/11d5e179-2b31-50ae-ac55-116640ed3112/AppIcon-2-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Sky View com.viewstars app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/11/d5/e1/11d5e179-2b31-50ae-ac55-116640ed3112/AppIcon-2-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Sky View com.viewstars app icon"></div>  
   
 # Sky View (com.viewstars)
 
@@ -57,12 +57,12 @@ Native App
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
-- Crash: 1 lib(s)
-- Storage: 2 lib(s)
 - Network: 2 lib(s)
+- Crash: 1 lib(s)
 - UI: 3 lib(s)
-- Tracking: 3 lib(s)
 - Tools: 14 lib(s)
+- Storage: 2 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftARKit

@@ -4,7 +4,7 @@ permalink: /apps/ios/bar.code.qrcode.reader.tak.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application QuickQR (bar.code.qrcode.reader.tak). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application QuickQR (bar.code.qrcode.reader.tak). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # QuickQR (bar.code.qrcode.reader.tak)
 
@@ -52,8 +52,8 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 4
-- UI: 1 lib(s)
 - Tools: 3 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 

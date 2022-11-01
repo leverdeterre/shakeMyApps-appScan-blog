@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/e2/71/0de271f0-67db-9795-8bb3-6d40c8eab526/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Speed Trap Plus (Co.eVolutive.Radar-Plus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Speed Trap Plus (Co.eVolutive.Radar-Plus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/e2/71/0de271f0-67db-9795-8bb3-6d40c8eab526/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Speed Trap Plus Co.eVolutive.Radar-Plus app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/e2/71/0de271f0-67db-9795-8bb3-6d40c8eab526/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Speed Trap Plus Co.eVolutive.Radar-Plus app icon"></div>  
   
 # Speed Trap Plus (Co.eVolutive.Radar-Plus)
 

@@ -4,7 +4,7 @@ permalink: /apps/ios/fr.hatier.moncoachbescherelle.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Mon coach (fr.hatier.moncoachbescherelle). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Mon coach (fr.hatier.moncoachbescherelle). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Mon coach (fr.hatier.moncoachbescherelle)
 
@@ -51,13 +51,13 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 40
-- Storage: 1 lib(s)
+- UI: 5 lib(s)
+- Tools: 13 lib(s)
 - Tracking: 4 lib(s)
 - Logs: 1 lib(s)
-- Network: 3 lib(s)
 - Crash: 1 lib(s)
-- Tools: 13 lib(s)
-- UI: 5 lib(s)
+- Network: 3 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

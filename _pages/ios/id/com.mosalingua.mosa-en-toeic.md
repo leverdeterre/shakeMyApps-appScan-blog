@@ -4,7 +4,7 @@ permalink: /apps/ios/com.mosalingua.mosa-en-toeic.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application MosaLingua (com.mosalingua.mosa-en-toeic). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application MosaLingua (com.mosalingua.mosa-en-toeic). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # MosaLingua (com.mosalingua.mosa-en-toeic)
 

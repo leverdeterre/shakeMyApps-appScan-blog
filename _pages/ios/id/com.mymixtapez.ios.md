@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/13/45/e4/1345e40c-f894-f87c-68c4-d22bca931035/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application My Mixtapez (com.mymixtapez.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application My Mixtapez (com.mymixtapez.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/13/45/e4/1345e40c-f894-f87c-68c4-d22bca931035/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="My Mixtapez com.mymixtapez.ios app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/13/45/e4/1345e40c-f894-f87c-68c4-d22bca931035/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="My Mixtapez com.mymixtapez.ios app icon"></div>  
   
 # My Mixtapez (com.mymixtapez.ios)
 
@@ -63,11 +63,11 @@ Some shortcutItems
 ## Librairies 
 **Number of Third Party Library detected:** 58
 - UI: 4 lib(s)
-- Tools: 24 lib(s)
-- Crash: 1 lib(s)
 - Network: 4 lib(s)
-- Storage: 1 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 3 lib(s)
+- Storage: 1 lib(s)
+- Tools: 24 lib(s)
 
 **Apple dylibs:**
 

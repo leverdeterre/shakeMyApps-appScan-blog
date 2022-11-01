@@ -4,7 +4,7 @@ permalink: /apps/ios/com.insmessage.message.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application ShareQA (com.insmessage.message). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application ShareQA (com.insmessage.message). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # ShareQA (com.insmessage.message)
 
@@ -50,9 +50,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- Network: 2 lib(s)
-- UI: 1 lib(s)
 - Tools: 3 lib(s)
+- UI: 1 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 

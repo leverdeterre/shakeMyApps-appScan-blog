@@ -4,7 +4,7 @@ permalink: /apps/ios/com.google.AndroidTVRemote.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Android TV (com.google.AndroidTVRemote). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Android TV (com.google.AndroidTVRemote). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Android TV (com.google.AndroidTVRemote)
 

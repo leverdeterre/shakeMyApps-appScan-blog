@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/79/e9/7f/79e97f71-6b26-4861-f3c0-8bacaac9eccf/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Beebs (com.mobeex.babytouch). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Beebs (com.mobeex.babytouch). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/79/e9/7f/79e97f71-6b26-4861-f3c0-8bacaac9eccf/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Beebs com.mobeex.babytouch app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/79/e9/7f/79e97f71-6b26-4861-f3c0-8bacaac9eccf/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Beebs com.mobeex.babytouch app icon"></div>  
   
 # Beebs (com.mobeex.babytouch)
 
@@ -63,12 +63,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 90
-- Tools: 33 lib(s)
 - Logs: 1 lib(s)
 - Storage: 2 lib(s)
-- Network: 8 lib(s)
 - Tracking: 5 lib(s)
+- Network: 8 lib(s)
 - UI: 10 lib(s)
+- Tools: 33 lib(s)
 - Crash: 1 lib(s)
 
 **Apple dylibs:**

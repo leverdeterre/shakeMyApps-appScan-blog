@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/f4/36/3ef436e3-62c4-bbd2-4107-58ecd87f940c/AppIcon-0-1x_U007emarketing-0-10-0-0-0-GLES2_U002c0-85-220-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Hub (com.air-watch.agent). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Hub (com.air-watch.agent). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/f4/36/3ef436e3-62c4-bbd2-4107-58ecd87f940c/AppIcon-0-1x_U007emarketing-0-10-0-0-0-GLES2_U002c0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Hub com.air-watch.agent app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/3e/f4/36/3ef436e3-62c4-bbd2-4107-58ecd87f940c/AppIcon-0-1x_U007emarketing-0-10-0-0-0-GLES2_U002c0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Hub com.air-watch.agent app icon"></div>  
   
 # Hub (com.air-watch.agent)
 
@@ -63,11 +63,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 88
+- Storage: 1 lib(s)
+- Network: 2 lib(s)
 - Logs: 1 lib(s)
 - Tools: 8 lib(s)
 - UI: 1 lib(s)
-- Network: 2 lib(s)
-- Storage: 1 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/03/ee/97/03ee97ef-0f36-3a0b-be9e-ae63b3e3dc59/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Xfinity (com.xfinity.digitalhome). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Xfinity (com.xfinity.digitalhome). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/03/ee/97/03ee97ef-0f36-3a0b-be9e-ae63b3e3dc59/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Xfinity com.xfinity.digitalhome app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/03/ee/97/03ee97ef-0f36-3a0b-be9e-ae63b3e3dc59/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Xfinity com.xfinity.digitalhome app icon"></div>  
   
 # Xfinity (com.xfinity.digitalhome)
 
@@ -61,11 +61,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 112
-- Tracking: 2 lib(s)
-- Logs: 1 lib(s)
-- Tools: 15 lib(s)
-- Network: 2 lib(s)
 - UI: 2 lib(s)
+- Tracking: 2 lib(s)
+- Network: 2 lib(s)
+- Tools: 15 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 

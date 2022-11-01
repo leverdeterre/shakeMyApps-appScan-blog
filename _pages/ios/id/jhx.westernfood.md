@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a0/20/b2/a020b280-7c37-bbfd-a682-9bb8fd1d23cd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application 西餐厅美食做法菜谱 (jhx.westernfood). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 西餐厅美食做法菜谱 (jhx.westernfood). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a0/20/b2/a020b280-7c37-bbfd-a682-9bb8fd1d23cd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="西餐厅美食做法菜谱 jhx.westernfood app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/a0/20/b2/a020b280-7c37-bbfd-a682-9bb8fd1d23cd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="西餐厅美食做法菜谱 jhx.westernfood app icon"></div>  
   
 # 西餐厅美食做法菜谱 (jhx.westernfood)
 

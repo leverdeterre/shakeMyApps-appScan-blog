@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/be/7d/d9/be7dd947-80c4-ac07-fc26-e178926210a5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Pocket FM (com.radio.pocketfm). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Pocket FM (com.radio.pocketfm). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/be/7d/d9/be7dd947-80c4-ac07-fc26-e178926210a5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Pocket FM com.radio.pocketfm app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/be/7d/d9/be7dd947-80c4-ac07-fc26-e178926210a5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Pocket FM com.radio.pocketfm app icon"></div>  
   
 # Pocket FM (com.radio.pocketfm)
 
@@ -63,12 +63,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 62
-- Tools: 21 lib(s)
 - Network: 8 lib(s)
-- Crash: 1 lib(s)
+- UI: 2 lib(s)
 - Tracking: 5 lib(s)
 - Storage: 3 lib(s)
-- UI: 2 lib(s)
+- Crash: 1 lib(s)
+- Tools: 21 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

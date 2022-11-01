@@ -4,7 +4,7 @@ permalink: /apps/ios/com.geteventfuel.eutechprograms.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Tech Programs (com.geteventfuel.eutechprograms). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Tech Programs (com.geteventfuel.eutechprograms). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Tech Programs (com.geteventfuel.eutechprograms)
 
@@ -50,8 +50,8 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
-- Tools: 5 lib(s)
 - UI: 3 lib(s)
+- Tools: 5 lib(s)
 - Network: 3 lib(s)
 
 **Apple dylibs:**

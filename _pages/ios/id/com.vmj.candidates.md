@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/1c/93/321c9304-6f4c-5a83-fe14-4a4b4236db5e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application 247 remplaçants (com.vmj.candidates). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 247 remplaçants (com.vmj.candidates). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/1c/93/321c9304-6f4c-5a83-fe14-4a4b4236db5e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="247 remplaçants com.vmj.candidates app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/1c/93/321c9304-6f4c-5a83-fe14-4a4b4236db5e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="247 remplaçants com.vmj.candidates app icon"></div>  
   
 # 247 remplaçants (com.vmj.candidates)
 
@@ -60,8 +60,8 @@ support multiple languages
 ## Librairies 
 **Number of Third Party Library detected:** 24
 - UI: 6 lib(s)
-- Tools: 11 lib(s)
 - Tracking: 1 lib(s)
+- Tools: 11 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

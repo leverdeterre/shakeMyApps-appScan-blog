@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/a9/4e/03a94e26-52da-3c5d-a995-40db29c2394b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application TraslateNow (com.tranlate.huihui.now). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application TraslateNow (com.tranlate.huihui.now). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/a9/4e/03a94e26-52da-3c5d-a995-40db29c2394b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="TraslateNow com.tranlate.huihui.now app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/03/a9/4e/03a94e26-52da-3c5d-a995-40db29c2394b/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="TraslateNow com.tranlate.huihui.now app icon"></div>  
   
 # TraslateNow (com.tranlate.huihui.now)
 
@@ -59,9 +59,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
-- Tools: 12 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 4 lib(s)
+- Crash: 1 lib(s)
+- Tools: 12 lib(s)
 
 **Apple dylibs:**
 

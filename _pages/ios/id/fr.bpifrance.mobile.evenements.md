@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/5d/ab/2e/5dab2e85-a580-7929-226d-15b9c3d3e8ef/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Bpifrance Evenements (fr.bpifrance.mobile.evenements). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Bpifrance Evenements (fr.bpifrance.mobile.evenements). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/5d/ab/2e/5dab2e85-a580-7929-226d-15b9c3d3e8ef/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Bpifrance Evenements fr.bpifrance.mobile.evenements app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/5d/ab/2e/5dab2e85-a580-7929-226d-15b9c3d3e8ef/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Bpifrance Evenements fr.bpifrance.mobile.evenements app icon"></div>  
   
 # Bpifrance Evenements (fr.bpifrance.mobile.evenements)
 

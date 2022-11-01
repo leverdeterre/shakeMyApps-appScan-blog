@@ -4,7 +4,7 @@ permalink: /apps/ios/io.clind.welcome.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Clind (io.clind.welcome). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Clind (io.clind.welcome). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Clind (io.clind.welcome)
 
@@ -49,11 +49,11 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 79
+- Tools: 15 lib(s)
+- Tracking: 1 lib(s)
+- Crash: 1 lib(s)
 - Network: 3 lib(s)
 - Logs: 1 lib(s)
-- Tracking: 1 lib(s)
-- Tools: 15 lib(s)
-- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

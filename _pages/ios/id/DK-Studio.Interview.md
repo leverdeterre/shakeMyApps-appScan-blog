@@ -4,7 +4,7 @@ permalink: /apps/ios/DK-Studio.Interview.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Interview (DK-Studio.Interview). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Interview (DK-Studio.Interview). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Interview (DK-Studio.Interview)
 
@@ -52,8 +52,8 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 19
 - Tools: 10 lib(s)
-- Storage: 4 lib(s)
 - Tracking: 1 lib(s)
+- Storage: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

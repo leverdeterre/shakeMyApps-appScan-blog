@@ -4,7 +4,7 @@ permalink: /apps/ios/fr.labanquepostale.portefeuille.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application La Banque Postale (fr.labanquepostale.portefeuille). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application La Banque Postale (fr.labanquepostale.portefeuille). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # La Banque Postale (fr.labanquepostale.portefeuille)
 
@@ -48,12 +48,12 @@ Native App
 
 ## Librairies 
 **Number of Third Party Library detected:** 21
-- Tracking: 1 lib(s)
-- Logs: 1 lib(s)
-- Network: 1 lib(s)
 - Crash: 1 lib(s)
-- UI: 3 lib(s)
+- Tracking: 1 lib(s)
+- Network: 1 lib(s)
 - Tools: 9 lib(s)
+- UI: 3 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

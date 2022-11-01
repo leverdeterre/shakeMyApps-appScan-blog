@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/98/1f/c0/981fc0e6-9b81-2a9e-5655-198426fee485/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application MyTheme (com.aesthetic.snapkit.iconchanger). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application MyTheme (com.aesthetic.snapkit.iconchanger). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/98/1f/c0/981fc0e6-9b81-2a9e-5655-198426fee485/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="MyTheme com.aesthetic.snapkit.iconchanger app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/98/1f/c0/981fc0e6-9b81-2a9e-5655-198426fee485/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="MyTheme com.aesthetic.snapkit.iconchanger app icon"></div>  
   
 # MyTheme (com.aesthetic.snapkit.iconchanger)
 
@@ -64,12 +64,12 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- Network: 4 lib(s)
-- Storage: 1 lib(s)
-- Crash: 1 lib(s)
-- Tools: 14 lib(s)
-- Tracking: 1 lib(s)
 - UI: 4 lib(s)
+- Tracking: 1 lib(s)
+- Crash: 1 lib(s)
+- Storage: 1 lib(s)
+- Network: 4 lib(s)
+- Tools: 14 lib(s)
 
 **Apple dylibs:**
 

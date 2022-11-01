@@ -4,7 +4,7 @@ permalink: /apps/ios/com.linkedin.pulse.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Pulse (com.linkedin.pulse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Pulse (com.linkedin.pulse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Pulse (com.linkedin.pulse)
 
@@ -51,10 +51,10 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 23
-- Storage: 1 lib(s)
 - Logs: 1 lib(s)
-- UI: 1 lib(s)
 - Network: 2 lib(s)
+- UI: 1 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

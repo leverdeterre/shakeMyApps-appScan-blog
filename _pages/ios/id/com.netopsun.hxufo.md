@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c9/a7/c9/c9a7c9b9-4802-6240-e2b6-ec98a17c7f35/mzl.pcudehks.jpg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application CX-10WiFi (com.netopsun.hxufo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application CX-10WiFi (com.netopsun.hxufo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c9/a7/c9/c9a7c9b9-4802-6240-e2b6-ec98a17c7f35/mzl.pcudehks.jpg/512x512bb.jpg" width="100" height="100" alt="CX-10WiFi com.netopsun.hxufo app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c9/a7/c9/c9a7c9b9-4802-6240-e2b6-ec98a17c7f35/mzl.pcudehks.jpg/512x512bb.jpg" width="100" height="100" alt="CX-10WiFi com.netopsun.hxufo app icon"></div>  
   
 # CX-10WiFi (com.netopsun.hxufo)
 

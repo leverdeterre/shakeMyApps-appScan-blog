@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/9d/b9/dc9db9f7-fe88-3330-3642-6c11f07f6944/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Chefkoch (de.pixelhouse.chefkoch-iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Chefkoch (de.pixelhouse.chefkoch-iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/9d/b9/dc9db9f7-fe88-3330-3642-6c11f07f6944/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Chefkoch de.pixelhouse.chefkoch-iphone app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/dc/9d/b9/dc9db9f7-fe88-3330-3642-6c11f07f6944/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Chefkoch de.pixelhouse.chefkoch-iphone app icon"></div>  
   
 # Chefkoch (de.pixelhouse.chefkoch-iphone)
 

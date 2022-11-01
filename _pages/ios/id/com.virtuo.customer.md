@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/77/3b/d0/773bd069-3cee-966a-48bf-15ff3eb5f16a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Virtuo (com.virtuo.customer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Virtuo (com.virtuo.customer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/77/3b/d0/773bd069-3cee-966a-48bf-15ff3eb5f16a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Virtuo com.virtuo.customer app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/77/3b/d0/773bd069-3cee-966a-48bf-15ff3eb5f16a/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Virtuo com.virtuo.customer app icon"></div>  
   
 # Virtuo (com.virtuo.customer)
 
@@ -62,13 +62,13 @@ at least 3 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
-- Storage: 1 lib(s)
-- Network: 1 lib(s)
-- UI: 1 lib(s)
-- Crash: 1 lib(s)
-- Tools: 22 lib(s)
 - Logs: 1 lib(s)
 - Tracking: 5 lib(s)
+- Storage: 1 lib(s)
+- Network: 1 lib(s)
+- Tools: 22 lib(s)
+- UI: 1 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 

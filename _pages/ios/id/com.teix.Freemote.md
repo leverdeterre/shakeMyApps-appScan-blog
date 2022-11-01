@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/f2/f3/bcf2f3cb-7498-9371-27f8-569c7773b4d7/mzl.uazghvyp.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Freemote (com.teix.Freemote). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Freemote (com.teix.Freemote). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/f2/f3/bcf2f3cb-7498-9371-27f8-569c7773b4d7/mzl.uazghvyp.png/512x512bb.jpg" width="100" height="100" alt="Freemote com.teix.Freemote app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/f2/f3/bcf2f3cb-7498-9371-27f8-569c7773b4d7/mzl.uazghvyp.png/512x512bb.jpg" width="100" height="100" alt="Freemote com.teix.Freemote app icon"></div>  
   
 # Freemote (com.teix.Freemote)
 

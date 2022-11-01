@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/c9/f7/aec9f7e9-c898-e212-43fa-2044452f3d46/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Swimsuits and Sports Magazine For Men (com.1443792976.11461443792976). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Swimsuits and Sports Magazine For Men (com.1443792976.11461443792976). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/c9/f7/aec9f7e9-c898-e212-43fa-2044452f3d46/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Swimsuits and Sports Magazine For Men com.1443792976.11461443792976 app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/c9/f7/aec9f7e9-c898-e212-43fa-2044452f3d46/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Swimsuits and Sports Magazine For Men com.1443792976.11461443792976 app icon"></div>  
   
 # Swimsuits and Sports Magazine For Men (com.1443792976.11461443792976)
 

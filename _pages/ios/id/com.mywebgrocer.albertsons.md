@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/48/23/8e/48238e2a-01f1-4014-406c-ad4eb121b922/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Albertsons (com.mywebgrocer.albertsons). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Albertsons (com.mywebgrocer.albertsons). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/48/23/8e/48238e2a-01f1-4014-406c-ad4eb121b922/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Albertsons com.mywebgrocer.albertsons app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/48/23/8e/48238e2a-01f1-4014-406c-ad4eb121b922/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Albertsons com.mywebgrocer.albertsons app icon"></div>  
   
 # Albertsons (com.mywebgrocer.albertsons)
 
@@ -61,9 +61,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 22
-- Tools: 2 lib(s)
-- Tracking: 3 lib(s)
 - Network: 1 lib(s)
+- Tracking: 3 lib(s)
+- Tools: 2 lib(s)
 - UI: 1 lib(s)
 
 **Apple dylibs:**

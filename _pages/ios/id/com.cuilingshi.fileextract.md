@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/9f/4e/2d9f4e34-b1cc-bce0-2dc0-286daf2f1936/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Unzip (com.cuilingshi.fileextract). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Unzip (com.cuilingshi.fileextract). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/9f/4e/2d9f4e34-b1cc-bce0-2dc0-286daf2f1936/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Unzip com.cuilingshi.fileextract app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2d/9f/4e/2d9f4e34-b1cc-bce0-2dc0-286daf2f1936/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Unzip com.cuilingshi.fileextract app icon"></div>  
   
 # Unzip (com.cuilingshi.fileextract)
 

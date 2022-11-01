@@ -4,7 +4,7 @@ permalink: /apps/ios/com.sport.ostoora.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application الاسطوره TV (com.sport.ostoora). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application الاسطوره TV (com.sport.ostoora). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # الاسطوره TV (com.sport.ostoora)
 
@@ -51,8 +51,8 @@ contains 1 App extensions
 
 ## Librairies 
 **Number of Third Party Library detected:** 20
-- Tracking: 1 lib(s)
 - Network: 1 lib(s)
+- Tracking: 1 lib(s)
 - Tools: 9 lib(s)
 - Storage: 3 lib(s)
 

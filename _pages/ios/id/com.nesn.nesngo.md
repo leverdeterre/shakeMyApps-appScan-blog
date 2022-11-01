@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/3a/d7/ef3ad75c-d3e9-673d-d967-4248648de496/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application NESN 360 (com.nesn.nesngo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application NESN 360 (com.nesn.nesngo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/3a/d7/ef3ad75c-d3e9-673d-d967-4248648de496/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="NESN 360 com.nesn.nesngo app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ef/3a/d7/ef3ad75c-d3e9-673d-d967-4248648de496/AppIcon-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="NESN 360 com.nesn.nesngo app icon"></div>  
   
 # NESN 360 (com.nesn.nesngo)
 
@@ -62,11 +62,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- Tracking: 3 lib(s)
 - Network: 2 lib(s)
+- Tracking: 3 lib(s)
 - Tools: 13 lib(s)
-- Crash: 1 lib(s)
 - UI: 1 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 

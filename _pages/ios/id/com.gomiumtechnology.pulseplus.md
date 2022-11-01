@@ -4,7 +4,7 @@ permalink: /apps/ios/com.gomiumtechnology.pulseplus.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Pulse Plus (com.gomiumtechnology.pulseplus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Pulse Plus (com.gomiumtechnology.pulseplus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Pulse Plus (com.gomiumtechnology.pulseplus)
 
@@ -51,10 +51,10 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
-- Tools: 14 lib(s)
+- UI: 3 lib(s)
 - Network: 2 lib(s)
 - Tracking: 2 lib(s)
-- UI: 3 lib(s)
+- Tools: 14 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

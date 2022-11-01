@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/3b/3a/6e3b3a74-c9da-9813-b4c4-e6b3b0a55fde/AppIcon.dream-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Owlet Dream (com.owletcare.Sleep). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Owlet Dream (com.owletcare.Sleep). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/3b/3a/6e3b3a74-c9da-9813-b4c4-e6b3b0a55fde/AppIcon.dream-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Owlet Dream com.owletcare.Sleep app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6e/3b/3a/6e3b3a74-c9da-9813-b4c4-e6b3b0a55fde/AppIcon.dream-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Owlet Dream com.owletcare.Sleep app icon"></div>  
   
 # Owlet Dream (com.owletcare.Sleep)
 
@@ -60,9 +60,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 38
-- Network: 1 lib(s)
-- Tools: 6 lib(s)
 - Tracking: 1 lib(s)
+- Tools: 6 lib(s)
+- Network: 1 lib(s)
 - UI: 2 lib(s)
 
 **Apple dylibs:**

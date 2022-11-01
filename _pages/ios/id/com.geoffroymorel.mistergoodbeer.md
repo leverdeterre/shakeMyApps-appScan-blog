@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/05/f8/bd/05f8bd14-b706-6edd-4f21-857e0b3ed527/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application MisterGoodBeer (com.geoffroymorel.mistergoodbeer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application MisterGoodBeer (com.geoffroymorel.mistergoodbeer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/05/f8/bd/05f8bd14-b706-6edd-4f21-857e0b3ed527/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="MisterGoodBeer com.geoffroymorel.mistergoodbeer app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/05/f8/bd/05f8bd14-b706-6edd-4f21-857e0b3ed527/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="MisterGoodBeer com.geoffroymorel.mistergoodbeer app icon"></div>  
   
 # MisterGoodBeer (com.geoffroymorel.mistergoodbeer)
 
@@ -59,12 +59,12 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 44
-- Network: 4 lib(s)
-- Tools: 20 lib(s)
-- Crash: 1 lib(s)
 - Tracking: 2 lib(s)
-- Storage: 4 lib(s)
+- Tools: 20 lib(s)
 - UI: 1 lib(s)
+- Storage: 4 lib(s)
+- Crash: 1 lib(s)
+- Network: 4 lib(s)
 
 **Apple dylibs:**
 

@@ -4,7 +4,7 @@ permalink: /apps/ios/io.tixngo.app.enation22.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Lusail Super Cup Tickets (io.tixngo.app.enation22). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Lusail Super Cup Tickets (io.tixngo.app.enation22). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Lusail Super Cup Tickets (io.tixngo.app.enation22)
 
@@ -48,9 +48,9 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 34
-- Tracking: 1 lib(s)
 - Storage: 2 lib(s)
 - Tools: 10 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/94/3f/63/943f63ae-db72-f81b-3fc5-437459c5320c/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Abercrombie (com.abercrombie.anfiphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Abercrombie (com.abercrombie.anfiphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/94/3f/63/943f63ae-db72-f81b-3fc5-437459c5320c/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Abercrombie com.abercrombie.anfiphone app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/94/3f/63/943f63ae-db72-f81b-3fc5-437459c5320c/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Abercrombie com.abercrombie.anfiphone app icon"></div>  
   
 # Abercrombie (com.abercrombie.anfiphone)
 
@@ -61,11 +61,11 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 62
-- Network: 1 lib(s)
-- Tools: 2 lib(s)
-- Tracking: 1 lib(s)
-- UI: 2 lib(s)
 - Logs: 2 lib(s)
+- UI: 2 lib(s)
+- Tracking: 1 lib(s)
+- Tools: 2 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 

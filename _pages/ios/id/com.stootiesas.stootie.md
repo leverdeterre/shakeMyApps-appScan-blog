@@ -4,7 +4,7 @@ permalink: /apps/ios/com.stootiesas.stootie.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Stootie (com.stootiesas.stootie). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Stootie (com.stootiesas.stootie). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Stootie (com.stootiesas.stootie)
 
@@ -55,9 +55,9 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
+- Network: 1 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 2 lib(s)
-- Network: 1 lib(s)
 - Tools: 9 lib(s)
 - UI: 2 lib(s)
 

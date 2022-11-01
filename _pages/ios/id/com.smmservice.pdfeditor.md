@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/4a/c6/4d/4ac64dad-d3bb-127b-0624-14cb2b631c85/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application PDF Editor (com.smmservice.pdfeditor). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PDF Editor (com.smmservice.pdfeditor). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/4a/c6/4d/4ac64dad-d3bb-127b-0624-14cb2b631c85/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="PDF Editor com.smmservice.pdfeditor app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/4a/c6/4d/4ac64dad-d3bb-127b-0624-14cb2b631c85/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="PDF Editor com.smmservice.pdfeditor app icon"></div>  
   
 # PDF Editor (com.smmservice.pdfeditor)
 
@@ -63,12 +63,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 32
-- UI: 3 lib(s)
+- Tools: 9 lib(s)
 - Crash: 1 lib(s)
+- UI: 3 lib(s)
 - Network: 3 lib(s)
 - Storage: 1 lib(s)
 - Tracking: 2 lib(s)
-- Tools: 9 lib(s)
 
 **Apple dylibs:**
 

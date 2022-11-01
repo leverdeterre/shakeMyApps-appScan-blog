@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/10/c3/e0/10c3e0f3-ee52-33d5-c3c4-10203b34d5d4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application CASETiFY Colab (com.casetagram.CASETiFY-Colab). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application CASETiFY Colab (com.casetagram.CASETiFY-Colab). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/10/c3/e0/10c3e0f3-ee52-33d5-c3c4-10203b34d5d4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="CASETiFY Colab com.casetagram.CASETiFY-Colab app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/10/c3/e0/10c3e0f3-ee52-33d5-c3c4-10203b34d5d4/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="CASETiFY Colab com.casetagram.CASETiFY-Colab app icon"></div>  
   
 # CASETiFY Colab (com.casetagram.CASETiFY-Colab)
 

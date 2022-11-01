@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/7d/4f/7e7d4fec-4e01-dbfc-94fb-7258c9a05d7f/AppIcon9-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application PrincessPetSalonMakeupGame (pet.spa.games). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PrincessPetSalonMakeupGame (pet.spa.games). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/7d/4f/7e7d4fec-4e01-dbfc-94fb-7258c9a05d7f/AppIcon9-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="PrincessPetSalonMakeupGame pet.spa.games app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/7e/7d/4f/7e7d4fec-4e01-dbfc-94fb-7258c9a05d7f/AppIcon9-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="PrincessPetSalonMakeupGame pet.spa.games app icon"></div>  
   
 # PrincessPetSalonMakeupGame (pet.spa.games)
 

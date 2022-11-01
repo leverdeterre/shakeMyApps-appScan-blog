@@ -4,7 +4,7 @@ permalink: /apps/ios/com.fly.radarr.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Flight Tracker 24 Plane Radar (com.fly.radarr). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Flight Tracker 24 Plane Radar (com.fly.radarr). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Flight Tracker 24 Plane Radar (com.fly.radarr)
 

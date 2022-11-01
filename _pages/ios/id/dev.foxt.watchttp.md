@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a5/4f/0a/a54f0a71-3e87-52a8-b095-a1d39babebbc/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application watcHTTP (dev.foxt.watchttp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application watcHTTP (dev.foxt.watchttp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a5/4f/0a/a54f0a71-3e87-52a8-b095-a1d39babebbc/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="watcHTTP dev.foxt.watchttp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/a5/4f/0a/a54f0a71-3e87-52a8-b095-a1d39babebbc/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="watcHTTP dev.foxt.watchttp app icon"></div>  
   
 # watcHTTP (dev.foxt.watchttp)
 

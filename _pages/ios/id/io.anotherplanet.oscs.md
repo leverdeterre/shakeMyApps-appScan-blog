@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/7d/40/d17d4097-384a-a136-1523-e6278c00d0e2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application oscs (io.anotherplanet.oscs). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application oscs (io.anotherplanet.oscs). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/7d/40/d17d4097-384a-a136-1523-e6278c00d0e2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="oscs io.anotherplanet.oscs app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/7d/40/d17d4097-384a-a136-1523-e6278c00d0e2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="oscs io.anotherplanet.oscs app icon"></div>  
   
 # oscs (io.anotherplanet.oscs)
 

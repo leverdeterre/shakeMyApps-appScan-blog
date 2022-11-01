@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c9/d4/42/c9d44218-bc1f-e89b-ab07-b93a120ea4a4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Sound Amplifier (com.robnorback.SoundAmplifier). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Sound Amplifier (com.robnorback.SoundAmplifier). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c9/d4/42/c9d44218-bc1f-e89b-ab07-b93a120ea4a4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sound Amplifier com.robnorback.SoundAmplifier app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/c9/d4/42/c9d44218-bc1f-e89b-ab07-b93a120ea4a4/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sound Amplifier com.robnorback.SoundAmplifier app icon"></div>  
   
 # Sound Amplifier (com.robnorback.SoundAmplifier)
 

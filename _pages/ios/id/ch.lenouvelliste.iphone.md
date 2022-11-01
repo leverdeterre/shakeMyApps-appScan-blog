@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/2a/c7/2d2ac71a-5af9-7759-370f-1951541ac4cc/contsched.gpeuzegy.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Le Nouvelliste (ch.lenouvelliste.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Le Nouvelliste (ch.lenouvelliste.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/2a/c7/2d2ac71a-5af9-7759-370f-1951541ac4cc/contsched.gpeuzegy.png/512x512bb.jpg" width="100" height="100" alt="Le Nouvelliste ch.lenouvelliste.iphone app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/2d/2a/c7/2d2ac71a-5af9-7759-370f-1951541ac4cc/contsched.gpeuzegy.png/512x512bb.jpg" width="100" height="100" alt="Le Nouvelliste ch.lenouvelliste.iphone app icon"></div>  
   
 # Le Nouvelliste (ch.lenouvelliste.iphone)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/cf/81/4bcf81e3-cc7b-81de-9dc4-f022e7a80ce7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application BrainPOP (com.brainpop.brainpopfeaturedmovie). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application BrainPOP (com.brainpop.brainpopfeaturedmovie). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/cf/81/4bcf81e3-cc7b-81de-9dc4-f022e7a80ce7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="BrainPOP com.brainpop.brainpopfeaturedmovie app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/cf/81/4bcf81e3-cc7b-81de-9dc4-f022e7a80ce7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="BrainPOP com.brainpop.brainpopfeaturedmovie app icon"></div>  
   
 # BrainPOP (com.brainpop.brainpopfeaturedmovie)
 

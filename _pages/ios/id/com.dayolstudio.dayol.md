@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/c7/55/b9/c755b90b-0655-c822-1633-4c10003e2bc7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application DAYOL (com.dayolstudio.dayol). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application DAYOL (com.dayolstudio.dayol). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/c7/55/b9/c755b90b-0655-c822-1633-4c10003e2bc7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="DAYOL com.dayolstudio.dayol app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/c7/55/b9/c755b90b-0655-c822-1633-4c10003e2bc7/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="DAYOL com.dayolstudio.dayol app icon"></div>  
   
 # DAYOL (com.dayolstudio.dayol)
 

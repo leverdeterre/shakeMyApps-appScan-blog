@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple1/v4/50/fc/e5/50fce5b6-854c-7126-f441-a7cba55f048a/pr_source.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application pp_tha (com.phrasepack.pp-tha). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application pp_tha (com.phrasepack.pp-tha). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple1/v4/50/fc/e5/50fce5b6-854c-7126-f441-a7cba55f048a/pr_source.png/512x512bb.jpg" width="100" height="100" alt="pp_tha com.phrasepack.pp-tha app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple1/v4/50/fc/e5/50fce5b6-854c-7126-f441-a7cba55f048a/pr_source.png/512x512bb.jpg" width="100" height="100" alt="pp_tha com.phrasepack.pp-tha app icon"></div>  
   
 # pp_tha (com.phrasepack.pp-tha)
 

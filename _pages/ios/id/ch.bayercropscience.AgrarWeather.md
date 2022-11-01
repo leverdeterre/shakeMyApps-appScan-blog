@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/3b/5f/463b5fb4-4431-9a78-c157-0ef0f483437c/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Agrar Wetter (ch.bayercropscience.AgrarWeather). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Agrar Wetter (ch.bayercropscience.AgrarWeather). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/3b/5f/463b5fb4-4431-9a78-c157-0ef0f483437c/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Agrar Wetter ch.bayercropscience.AgrarWeather app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/46/3b/5f/463b5fb4-4431-9a78-c157-0ef0f483437c/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Agrar Wetter ch.bayercropscience.AgrarWeather app icon"></div>  
   
 # Agrar Wetter (ch.bayercropscience.AgrarWeather)
 

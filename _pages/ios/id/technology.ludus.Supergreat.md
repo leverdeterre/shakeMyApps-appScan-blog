@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/48/b3/08/48b30818-d502-279f-4bd3-5edbe2728de4/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Supergreat (technology.ludus.Supergreat). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Supergreat (technology.ludus.Supergreat). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/48/b3/08/48b30818-d502-279f-4bd3-5edbe2728de4/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Supergreat technology.ludus.Supergreat app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/48/b3/08/48b30818-d502-279f-4bd3-5edbe2728de4/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Supergreat technology.ludus.Supergreat app icon"></div>  
   
 # Supergreat (technology.ludus.Supergreat)
 
@@ -21,6 +21,22 @@ AppScan generated a spoiler description of the content of the iOS application Su
 **App Name:** Supergreat
 
 
+## AppScore : 4.07 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
+  
 ## AppScan informations 
 
 **Number of permissions:** 5
@@ -46,12 +62,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 84
+- Crash: 1 lib(s)
 - Tracking: 7 lib(s)
-- Network: 4 lib(s)
 - UI: 5 lib(s)
 - Tools: 24 lib(s)
-- Crash: 1 lib(s)
 - Storage: 2 lib(s)
+- Network: 4 lib(s)
 
 **Apple dylibs:**
 

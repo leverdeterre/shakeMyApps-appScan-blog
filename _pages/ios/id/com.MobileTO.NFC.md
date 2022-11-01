@@ -4,7 +4,7 @@ permalink: /apps/ios/com.MobileTO.NFC.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application NFC门禁卡 (com.MobileTO.NFC). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application NFC门禁卡 (com.MobileTO.NFC). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # NFC门禁卡 (com.MobileTO.NFC)
 
@@ -50,8 +50,8 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 6
-- Network: 2 lib(s)
 - Tools: 1 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 

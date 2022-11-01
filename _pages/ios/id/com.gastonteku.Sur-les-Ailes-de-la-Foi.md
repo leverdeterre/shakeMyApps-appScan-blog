@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e5/3e/ff/e53effe4-a515-90eb-7364-5c7f89bb30d5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Sur les Ailes de la Foi (com.gastonteku.Sur-les-Ailes-de-la-Foi). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Sur les Ailes de la Foi (com.gastonteku.Sur-les-Ailes-de-la-Foi). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e5/3e/ff/e53effe4-a515-90eb-7364-5c7f89bb30d5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sur les Ailes de la Foi com.gastonteku.Sur-les-Ailes-de-la-Foi app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e5/3e/ff/e53effe4-a515-90eb-7364-5c7f89bb30d5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sur les Ailes de la Foi com.gastonteku.Sur-les-Ailes-de-la-Foi app icon"></div>  
   
 # Sur les Ailes de la Foi (com.gastonteku.Sur-les-Ailes-de-la-Foi)
 

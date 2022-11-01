@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/cb/57/3ecb5770-c568-b588-af56-312918dd5b9d/AppIcon-1x_U007emarketing-8-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Weather (com.bright55.weather). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Weather (com.bright55.weather). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/cb/57/3ecb5770-c568-b588-af56-312918dd5b9d/AppIcon-1x_U007emarketing-8-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Weather com.bright55.weather app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/cb/57/3ecb5770-c568-b588-af56-312918dd5b9d/AppIcon-1x_U007emarketing-8-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Weather com.bright55.weather app icon"></div>  
   
 # Weather (com.bright55.weather)
 

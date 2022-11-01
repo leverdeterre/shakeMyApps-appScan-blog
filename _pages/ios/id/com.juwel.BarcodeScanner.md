@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d6/e9/a0/d6e9a005-f917-bbc5-fc2a-ffd76a263056/AppIcon-1x_U007emarketing-85-220-0-9.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Barcode Scanner (com.juwel.BarcodeScanner). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Barcode Scanner (com.juwel.BarcodeScanner). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d6/e9/a0/d6e9a005-f917-bbc5-fc2a-ffd76a263056/AppIcon-1x_U007emarketing-85-220-0-9.png/512x512bb.jpg" width="100" height="100" alt="Barcode Scanner com.juwel.BarcodeScanner app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d6/e9/a0/d6e9a005-f917-bbc5-fc2a-ffd76a263056/AppIcon-1x_U007emarketing-85-220-0-9.png/512x512bb.jpg" width="100" height="100" alt="Barcode Scanner com.juwel.BarcodeScanner app icon"></div>  
   
 # Barcode Scanner (com.juwel.BarcodeScanner)
 

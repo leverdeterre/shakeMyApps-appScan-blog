@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/9e/39/f59e3938-940e-a0b9-6761-133d8e268a9f/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Acorns (com.acorns.investor). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Acorns (com.acorns.investor). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/9e/39/f59e3938-940e-a0b9-6761-133d8e268a9f/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Acorns com.acorns.investor app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/9e/39/f59e3938-940e-a0b9-6761-133d8e268a9f/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Acorns com.acorns.investor app icon"></div>  
   
 # Acorns (com.acorns.investor)
 
@@ -61,9 +61,9 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 51
-- Tracking: 6 lib(s)
-- UI: 2 lib(s)
 - Tools: 6 lib(s)
+- UI: 2 lib(s)
+- Tracking: 6 lib(s)
 
 **Apple dylibs:**
 

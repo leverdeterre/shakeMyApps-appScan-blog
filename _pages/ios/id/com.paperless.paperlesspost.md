@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/74/9b/24/749b2481-81cf-02bb-6580-999280634b9f/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application PaperlessPost (com.paperless.paperlesspost). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PaperlessPost (com.paperless.paperlesspost). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/74/9b/24/749b2481-81cf-02bb-6580-999280634b9f/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="PaperlessPost com.paperless.paperlesspost app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/74/9b/24/749b2481-81cf-02bb-6580-999280634b9f/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="PaperlessPost com.paperless.paperlesspost app icon"></div>  
   
 # PaperlessPost (com.paperless.paperlesspost)
 
@@ -61,12 +61,12 @@ at least 3 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 165
-- Logs: 1 lib(s)
-- Crash: 1 lib(s)
-- UI: 7 lib(s)
 - Tracking: 4 lib(s)
-- Tools: 28 lib(s)
 - Network: 4 lib(s)
+- Logs: 1 lib(s)
+- UI: 7 lib(s)
+- Crash: 1 lib(s)
+- Tools: 28 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

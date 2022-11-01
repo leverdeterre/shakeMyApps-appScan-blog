@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/a6/8c/0e/a68c0e36-d232-7c68-5f1b-798659be34b6/pr_source.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application 美图遥控器 (com.meitu.remotecontrol). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 美图遥控器 (com.meitu.remotecontrol). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/a6/8c/0e/a68c0e36-d232-7c68-5f1b-798659be34b6/pr_source.png/512x512bb.jpg" width="100" height="100" alt="美图遥控器 com.meitu.remotecontrol app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/a6/8c/0e/a68c0e36-d232-7c68-5f1b-798659be34b6/pr_source.png/512x512bb.jpg" width="100" height="100" alt="美图遥控器 com.meitu.remotecontrol app icon"></div>  
   
 # 美图遥控器 (com.meitu.remotecontrol)
 

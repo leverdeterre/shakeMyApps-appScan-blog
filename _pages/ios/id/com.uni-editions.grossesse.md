@@ -4,7 +4,7 @@ permalink: /apps/ios/com.uni-editions.grossesse.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Grossesse (com.uni-editions.grossesse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Grossesse (com.uni-editions.grossesse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Grossesse (com.uni-editions.grossesse)
 
@@ -53,11 +53,11 @@ SwiftUI
 ## Librairies 
 **Number of Third Party Library detected:** 30
 - UI: 1 lib(s)
-- Storage: 1 lib(s)
-- Tracking: 4 lib(s)
-- Network: 3 lib(s)
 - Tools: 10 lib(s)
+- Network: 3 lib(s)
+- Tracking: 4 lib(s)
 - Crash: 1 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAccelerate

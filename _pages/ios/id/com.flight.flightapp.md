@@ -4,7 +4,7 @@ permalink: /apps/ios/com.flight.flightapp.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application FlyMate (com.flight.flightapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application FlyMate (com.flight.flightapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # FlyMate (com.flight.flightapp)
 
@@ -51,9 +51,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 23
-- Network: 2 lib(s)
 - UI: 2 lib(s)
 - Tools: 5 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 

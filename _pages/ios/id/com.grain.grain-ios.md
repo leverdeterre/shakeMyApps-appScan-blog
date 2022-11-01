@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/f5/91/cbf5919b-ef6e-6ba6-a67d-86c7df139362/source/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Grain (com.grain.grain-ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Grain (com.grain.grain-ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/f5/91/cbf5919b-ef6e-6ba6-a67d-86c7df139362/source/512x512bb.jpg" width="100" height="100" alt="Grain com.grain.grain-ios app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/f5/91/cbf5919b-ef6e-6ba6-a67d-86c7df139362/source/512x512bb.jpg" width="100" height="100" alt="Grain com.grain.grain-ios app icon"></div>  
   
 # Grain (com.grain.grain-ios)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/50/9b/e6/509be6c3-9ae5-a517-1b84-30174068e299/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Equilab (horse.schvung.equilab). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Equilab (horse.schvung.equilab). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/50/9b/e6/509be6c3-9ae5-a517-1b84-30174068e299/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Equilab horse.schvung.equilab app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/50/9b/e6/509be6c3-9ae5-a517-1b84-30174068e299/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Equilab horse.schvung.equilab app icon"></div>  
   
 # Equilab (horse.schvung.equilab)
 
@@ -64,13 +64,13 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 96
-- Storage: 3 lib(s)
+- Crash: 1 lib(s)
+- UI: 4 lib(s)
 - Logs: 1 lib(s)
 - Tracking: 7 lib(s)
 - Tools: 24 lib(s)
-- UI: 4 lib(s)
+- Storage: 3 lib(s)
 - Network: 6 lib(s)
-- Crash: 1 lib(s)
 
 **Apple dylibs:**
 

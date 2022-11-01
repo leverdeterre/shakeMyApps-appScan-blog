@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/e5/8d/a9/e58da93b-ef1f-6ff3-4f09-52139ca35708/AppIcon-1x_U007emarketing-85-220-0-6.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Departments (com.valicoldoklyne.Departements). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Departments (com.valicoldoklyne.Departements). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/e5/8d/a9/e58da93b-ef1f-6ff3-4f09-52139ca35708/AppIcon-1x_U007emarketing-85-220-0-6.png/512x512bb.jpg" width="100" height="100" alt="Departments com.valicoldoklyne.Departements app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/e5/8d/a9/e58da93b-ef1f-6ff3-4f09-52139ca35708/AppIcon-1x_U007emarketing-85-220-0-6.png/512x512bb.jpg" width="100" height="100" alt="Departments com.valicoldoklyne.Departements app icon"></div>  
   
 # Departments (com.valicoldoklyne.Departements)
 

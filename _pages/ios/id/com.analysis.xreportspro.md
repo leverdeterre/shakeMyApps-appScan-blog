@@ -4,7 +4,7 @@ permalink: /apps/ios/com.analysis.xreportspro.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application XReports (com.analysis.xreportspro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application XReports (com.analysis.xreportspro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # XReports (com.analysis.xreportspro)
 
@@ -52,11 +52,11 @@ SwiftUI
 ## Librairies 
 **Number of Third Party Library detected:** 57
 - Tracking: 3 lib(s)
-- Tools: 13 lib(s)
-- Network: 6 lib(s)
-- Storage: 2 lib(s)
 - Crash: 1 lib(s)
 - UI: 7 lib(s)
+- Storage: 2 lib(s)
+- Tools: 13 lib(s)
+- Network: 6 lib(s)
 
 **Apple dylibs:**
 

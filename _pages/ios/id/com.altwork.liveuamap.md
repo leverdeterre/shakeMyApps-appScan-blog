@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/78/ec/bd/78ecbdf7-77c4-4bb7-b4f5-e648a26aaa23/AppIcon-0-1x_U007emarketing-0-85-220-0-10.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application LiveUAMap (com.altwork.liveuamap). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application LiveUAMap (com.altwork.liveuamap). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/78/ec/bd/78ecbdf7-77c4-4bb7-b4f5-e648a26aaa23/AppIcon-0-1x_U007emarketing-0-85-220-0-10.png/512x512bb.jpg" width="100" height="100" alt="LiveUAMap com.altwork.liveuamap app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/78/ec/bd/78ecbdf7-77c4-4bb7-b4f5-e648a26aaa23/AppIcon-0-1x_U007emarketing-0-85-220-0-10.png/512x512bb.jpg" width="100" height="100" alt="LiveUAMap com.altwork.liveuamap app icon"></div>  
   
 # LiveUAMap (com.altwork.liveuamap)
 

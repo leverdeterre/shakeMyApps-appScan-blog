@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/55/d2/54/55d254f8-2742-4699-1d0b-2ff66f25190d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Forza Football (com.footballaddicts.livescoreaddicts). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Forza Football (com.footballaddicts.livescoreaddicts). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/55/d2/54/55d254f8-2742-4699-1d0b-2ff66f25190d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Forza Football com.footballaddicts.livescoreaddicts app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/55/d2/54/55d254f8-2742-4699-1d0b-2ff66f25190d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Forza Football com.footballaddicts.livescoreaddicts app icon"></div>  
   
 # Forza Football (com.footballaddicts.livescoreaddicts)
 

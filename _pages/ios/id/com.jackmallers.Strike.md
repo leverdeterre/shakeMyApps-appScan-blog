@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/4e/91/2c/4e912c76-6efb-bd30-c155-70ae4037169a/AppIcon-Live-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Strike (com.jackmallers.Strike). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Strike (com.jackmallers.Strike). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/4e/91/2c/4e912c76-6efb-bd30-c155-70ae4037169a/AppIcon-Live-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Strike com.jackmallers.Strike app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/4e/91/2c/4e912c76-6efb-bd30-c155-70ae4037169a/AppIcon-Live-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Strike com.jackmallers.Strike app icon"></div>  
   
 # Strike (com.jackmallers.Strike)
 
@@ -62,10 +62,10 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 24
-- Tracking: 2 lib(s)
+- UI: 1 lib(s)
 - Crash: 1 lib(s)
 - Tools: 11 lib(s)
-- UI: 1 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

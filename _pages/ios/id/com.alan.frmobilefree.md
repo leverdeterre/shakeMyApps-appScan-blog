@@ -4,7 +4,7 @@ permalink: /apps/ios/com.alan.frmobilefree.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Alan Baby (com.alan.frmobilefree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Alan Baby (com.alan.frmobilefree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Alan Baby (com.alan.frmobilefree)
 
@@ -49,11 +49,11 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 99
+- Network: 4 lib(s)
+- UI: 1 lib(s)
+- Tracking: 4 lib(s)
 - Tools: 12 lib(s)
 - Logs: 2 lib(s)
-- Tracking: 4 lib(s)
-- UI: 1 lib(s)
-- Network: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

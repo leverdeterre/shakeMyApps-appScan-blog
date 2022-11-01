@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/5a/61/e6/5a61e6ff-adf2-ba29-1813-d89349b5f15d/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Smart CHC (com.smart.vlquick). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Smart CHC (com.smart.vlquick). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/5a/61/e6/5a61e6ff-adf2-ba29-1813-d89349b5f15d/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Smart CHC com.smart.vlquick app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/5a/61/e6/5a61e6ff-adf2-ba29-1813-d89349b5f15d/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Smart CHC com.smart.vlquick app icon"></div>  
   
 # Smart CHC (com.smart.vlquick)
 

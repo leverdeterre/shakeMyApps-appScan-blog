@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/82/ab/ac/82abac57-805c-3a48-41fe-d63b765b559c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Lua IDE (eu.wenhuan.ide.lua). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Lua IDE (eu.wenhuan.ide.lua). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/82/ab/ac/82abac57-805c-3a48-41fe-d63b765b559c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Lua IDE eu.wenhuan.ide.lua app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/82/ab/ac/82abac57-805c-3a48-41fe-d63b765b559c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Lua IDE eu.wenhuan.ide.lua app icon"></div>  
   
 # Lua IDE (eu.wenhuan.ide.lua)
 

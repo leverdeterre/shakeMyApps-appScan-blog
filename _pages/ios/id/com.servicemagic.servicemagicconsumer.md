@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a4/b5/5d/a4b55dd9-3ea8-3f2c-a05a-2e6863e794c2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Angi (com.servicemagic.servicemagicconsumer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Angi (com.servicemagic.servicemagicconsumer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a4/b5/5d/a4b55dd9-3ea8-3f2c-a05a-2e6863e794c2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Angi com.servicemagic.servicemagicconsumer app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a4/b5/5d/a4b55dd9-3ea8-3f2c-a05a-2e6863e794c2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Angi com.servicemagic.servicemagicconsumer app icon"></div>  
   
 # Angi (com.servicemagic.servicemagicconsumer)
 
@@ -61,9 +61,9 @@ Some shortcutItems
 
 ## Librairies 
 **Number of Third Party Library detected:** 6
-- Tracking: 1 lib(s)
 - Network: 1 lib(s)
 - Tools: 2 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 

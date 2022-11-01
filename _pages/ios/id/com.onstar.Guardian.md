@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/72/76/8a/72768a18-3ae3-d3c2-3337-c1a38b1ec10f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Guardian (com.onstar.Guardian). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Guardian (com.onstar.Guardian). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/72/76/8a/72768a18-3ae3-d3c2-3337-c1a38b1ec10f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Guardian com.onstar.Guardian app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/72/76/8a/72768a18-3ae3-d3c2-3337-c1a38b1ec10f/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Guardian com.onstar.Guardian app icon"></div>  
   
 # Guardian (com.onstar.Guardian)
 
@@ -63,10 +63,10 @@ SwiftUI
 **Number of Third Party Library detected:** 35
 - Tools: 16 lib(s)
 - Network: 1 lib(s)
-- Tracking: 1 lib(s)
 - Storage: 2 lib(s)
-- UI: 1 lib(s)
+- Tracking: 1 lib(s)
 - Crash: 1 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 

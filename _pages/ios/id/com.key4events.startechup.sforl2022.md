@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/12/30/0a/12300a5d-1aea-9859-d1ce-083f630d3086/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application SFORL 2022 (com.key4events.startechup.sforl2022). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application SFORL 2022 (com.key4events.startechup.sforl2022). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/12/30/0a/12300a5d-1aea-9859-d1ce-083f630d3086/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="SFORL 2022 com.key4events.startechup.sforl2022 app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/12/30/0a/12300a5d-1aea-9859-d1ce-083f630d3086/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="SFORL 2022 com.key4events.startechup.sforl2022 app icon"></div>  
   
 # SFORL 2022 (com.key4events.startechup.sforl2022)
 
@@ -59,12 +59,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- Crash: 1 lib(s)
-- Network: 6 lib(s)
-- Storage: 4 lib(s)
 - Tools: 10 lib(s)
-- UI: 3 lib(s)
 - Tracking: 1 lib(s)
+- Network: 6 lib(s)
+- UI: 3 lib(s)
+- Crash: 1 lib(s)
+- Storage: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/27/e4/e8/27e4e851-1ed3-ee74-0347-09c1d13e6176/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application CDL 2022 (cdl.us.pro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application CDL 2022 (cdl.us.pro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/27/e4/e8/27e4e851-1ed3-ee74-0347-09c1d13e6176/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="CDL 2022 cdl.us.pro app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/27/e4/e8/27e4e851-1ed3-ee74-0347-09c1d13e6176/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="CDL 2022 cdl.us.pro app icon"></div>  
   
 # CDL 2022 (cdl.us.pro)
 
@@ -59,10 +59,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 26
-- UI: 1 lib(s)
 - Storage: 5 lib(s)
-- Tracking: 1 lib(s)
+- UI: 1 lib(s)
 - Network: 6 lib(s)
+- Tracking: 1 lib(s)
 - Tools: 10 lib(s)
 
 **Apple dylibs:**

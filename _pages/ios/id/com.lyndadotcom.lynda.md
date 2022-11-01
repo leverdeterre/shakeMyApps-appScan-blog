@@ -4,7 +4,7 @@ permalink: /apps/ios/com.lyndadotcom.lynda.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Lynda.com (com.lyndadotcom.lynda). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Lynda.com (com.lyndadotcom.lynda). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Lynda.com (com.lyndadotcom.lynda)
 
@@ -51,10 +51,10 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 33
-- Network: 3 lib(s)
 - UI: 5 lib(s)
-- Tools: 1 lib(s)
 - Storage: 2 lib(s)
+- Network: 3 lib(s)
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

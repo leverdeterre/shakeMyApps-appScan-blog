@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/08/58/2a08584d-1925-c7de-59e8-b1f93fc71398/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Geocaching (com.groundspeak.GeocachingIntro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Geocaching (com.groundspeak.GeocachingIntro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/08/58/2a08584d-1925-c7de-59e8-b1f93fc71398/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Geocaching com.groundspeak.GeocachingIntro app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/2a/08/58/2a08584d-1925-c7de-59e8-b1f93fc71398/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Geocaching com.groundspeak.GeocachingIntro app icon"></div>  
   
 # Geocaching (com.groundspeak.GeocachingIntro)
 
@@ -64,11 +64,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 28
-- Crash: 1 lib(s)
-- Tools: 18 lib(s)
-- Tracking: 4 lib(s)
-- UI: 1 lib(s)
 - Network: 2 lib(s)
+- Tools: 18 lib(s)
+- UI: 1 lib(s)
+- Tracking: 4 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/61/f6/7a/61f67ac7-6e0e-55aa-50af-f2c2a0c567a3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Beat Looper Pro (com.mwm.beat-looper-pro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Beat Looper Pro (com.mwm.beat-looper-pro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/61/f6/7a/61f67ac7-6e0e-55aa-50af-f2c2a0c567a3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Beat Looper Pro com.mwm.beat-looper-pro app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/61/f6/7a/61f67ac7-6e0e-55aa-50af-f2c2a0c567a3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Beat Looper Pro com.mwm.beat-looper-pro app icon"></div>  
   
 # Beat Looper Pro (com.mwm.beat-looper-pro)
 
@@ -60,9 +60,9 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
-- Tracking: 3 lib(s)
 - Tools: 9 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 

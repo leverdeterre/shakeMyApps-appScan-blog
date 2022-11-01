@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/db/97/8edb9702-3315-b9e6-0179-7784f2c4806c/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Amazon Alexa (com.amazon.echo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Amazon Alexa (com.amazon.echo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/db/97/8edb9702-3315-b9e6-0179-7784f2c4806c/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Amazon Alexa com.amazon.echo app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/db/97/8edb9702-3315-b9e6-0179-7784f2c4806c/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Amazon Alexa com.amazon.echo app icon"></div>  
   
 # Amazon Alexa (com.amazon.echo)
 
@@ -61,11 +61,11 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 46
-- Tools: 5 lib(s)
-- Storage: 1 lib(s)
+- Logs: 1 lib(s)
 - Network: 2 lib(s)
 - UI: 1 lib(s)
-- Logs: 1 lib(s)
+- Storage: 1 lib(s)
+- Tools: 5 lib(s)
 
 **Apple dylibs:**
 

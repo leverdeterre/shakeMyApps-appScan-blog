@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ce/79/63/ce796341-acad-0c18-12c6-b9cbd73f3b4e/contsched.nvqodfhp.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application musicMe (com.apachnetwork.mobile.musicMe). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application musicMe (com.apachnetwork.mobile.musicMe). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ce/79/63/ce796341-acad-0c18-12c6-b9cbd73f3b4e/contsched.nvqodfhp.png/512x512bb.jpg" width="100" height="100" alt="musicMe com.apachnetwork.mobile.musicMe app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/ce/79/63/ce796341-acad-0c18-12c6-b9cbd73f3b4e/contsched.nvqodfhp.png/512x512bb.jpg" width="100" height="100" alt="musicMe com.apachnetwork.mobile.musicMe app icon"></div>  
   
 # musicMe (com.apachnetwork.mobile.musicMe)
 

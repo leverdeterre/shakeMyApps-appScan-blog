@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/c7/2d/0dc72df5-8a5a-9712-baad-bd245ac9a3e4/NM-AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Nice-Matin (com.nicematin.afpmobile.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Nice-Matin (com.nicematin.afpmobile.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/c7/2d/0dc72df5-8a5a-9712-baad-bd245ac9a3e4/NM-AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Nice-Matin com.nicematin.afpmobile.iphone app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/0d/c7/2d/0dc72df5-8a5a-9712-baad-bd245ac9a3e4/NM-AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Nice-Matin com.nicematin.afpmobile.iphone app icon"></div>  
   
 # Nice-Matin (com.nicematin.afpmobile.iphone)
 
@@ -63,10 +63,10 @@ Some shortcutItems
 ## Librairies 
 **Number of Third Party Library detected:** 49
 - Storage: 2 lib(s)
-- UI: 6 lib(s)
 - Tracking: 4 lib(s)
-- Network: 2 lib(s)
 - Tools: 10 lib(s)
+- UI: 6 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 

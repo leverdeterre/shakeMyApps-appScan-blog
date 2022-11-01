@@ -4,7 +4,7 @@ permalink: /apps/ios/com.vigourapps.30DaySquatChallenges.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application 30 Day Squat (com.vigourapps.30DaySquatChallenges). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 30 Day Squat (com.vigourapps.30DaySquatChallenges). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # 30 Day Squat (com.vigourapps.30DaySquatChallenges)
 
@@ -53,10 +53,10 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 42
 - Storage: 1 lib(s)
-- UI: 3 lib(s)
-- Tools: 7 lib(s)
 - Tracking: 3 lib(s)
 - Network: 2 lib(s)
+- Tools: 7 lib(s)
+- UI: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

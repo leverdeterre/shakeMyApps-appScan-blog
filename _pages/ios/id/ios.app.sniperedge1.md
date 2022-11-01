@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/49/6d/23/496d238e-178b-404b-4e89-2ce8d2ca7bfd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Sniper Gang Apparel (ios.app.sniperedge1). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Sniper Gang Apparel (ios.app.sniperedge1). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/49/6d/23/496d238e-178b-404b-4e89-2ce8d2ca7bfd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="Sniper Gang Apparel ios.app.sniperedge1 app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/49/6d/23/496d238e-178b-404b-4e89-2ce8d2ca7bfd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="Sniper Gang Apparel ios.app.sniperedge1 app icon"></div>  
   
 # Sniper Gang Apparel (ios.app.sniperedge1)
 
@@ -61,10 +61,10 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 47
 - Tracking: 5 lib(s)
-- Network: 1 lib(s)
-- UI: 1 lib(s)
 - Crash: 1 lib(s)
+- Network: 1 lib(s)
 - Tools: 16 lib(s)
+- UI: 1 lib(s)
 - Logs: 1 lib(s)
 
 **Apple dylibs:**

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/44/75/44/447544bf-55cb-eff5-a2ee-4863cb660ea1/AppIcon-1x_U007emarketing-85-220-5.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application EMS (com.informedpublishing.TestPrepEMS). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application EMS (com.informedpublishing.TestPrepEMS). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/44/75/44/447544bf-55cb-eff5-a2ee-4863cb660ea1/AppIcon-1x_U007emarketing-85-220-5.png/512x512bb.jpg" width="100" height="100" alt="EMS com.informedpublishing.TestPrepEMS app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/44/75/44/447544bf-55cb-eff5-a2ee-4863cb660ea1/AppIcon-1x_U007emarketing-85-220-5.png/512x512bb.jpg" width="100" height="100" alt="EMS com.informedpublishing.TestPrepEMS app icon"></div>  
   
 # EMS (com.informedpublishing.TestPrepEMS)
 

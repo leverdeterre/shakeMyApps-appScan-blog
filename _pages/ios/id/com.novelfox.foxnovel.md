@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/34/ec/35/34ec355d-83d6-5032-148c-73af79ec8c52/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application FoxNovel (com.novelfox.foxnovel). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application FoxNovel (com.novelfox.foxnovel). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/34/ec/35/34ec355d-83d6-5032-148c-73af79ec8c52/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="FoxNovel com.novelfox.foxnovel app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/34/ec/35/34ec355d-83d6-5032-148c-73af79ec8c52/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="FoxNovel com.novelfox.foxnovel app icon"></div>  
   
 # FoxNovel (com.novelfox.foxnovel)
 
@@ -59,12 +59,12 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 54
-- Tracking: 4 lib(s)
 - Storage: 2 lib(s)
-- UI: 6 lib(s)
-- Tools: 23 lib(s)
-- Network: 3 lib(s)
 - Crash: 1 lib(s)
+- Tools: 23 lib(s)
+- Tracking: 4 lib(s)
+- UI: 6 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 

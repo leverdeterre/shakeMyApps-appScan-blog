@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a3/9d/3e/a39d3e73-f6be-c656-48d7-b9b55e498274/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application eBoox (com.reader.books). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application eBoox (com.reader.books). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a3/9d/3e/a39d3e73-f6be-c656-48d7-b9b55e498274/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="eBoox com.reader.books app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a3/9d/3e/a39d3e73-f6be-c656-48d7-b9b55e498274/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="eBoox com.reader.books app icon"></div>  
   
 # eBoox (com.reader.books)
 

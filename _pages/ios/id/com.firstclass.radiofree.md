@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/16/69/af1669c8-8f37-7e3d-2f6c-e644ccfb93c0/AppIconFree-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application RadioApp (com.firstclass.radiofree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application RadioApp (com.firstclass.radiofree). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/16/69/af1669c8-8f37-7e3d-2f6c-e644ccfb93c0/AppIconFree-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="RadioApp com.firstclass.radiofree app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/16/69/af1669c8-8f37-7e3d-2f6c-e644ccfb93c0/AppIconFree-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="RadioApp com.firstclass.radiofree app icon"></div>  
   
 # RadioApp (com.firstclass.radiofree)
 
@@ -61,11 +61,11 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 29
-- Tracking: 3 lib(s)
 - Tools: 8 lib(s)
 - Network: 1 lib(s)
-- Crash: 1 lib(s)
 - UI: 6 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 

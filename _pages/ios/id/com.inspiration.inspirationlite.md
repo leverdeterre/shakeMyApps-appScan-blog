@@ -4,7 +4,7 @@ permalink: /apps/ios/com.inspiration.inspirationlite.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Inspiration (com.inspiration.inspirationlite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Inspiration (com.inspiration.inspirationlite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Inspiration (com.inspiration.inspirationlite)
 

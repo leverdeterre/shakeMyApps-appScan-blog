@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/5f/3e/12/5f3e1298-aa2b-2652-0324-8fffb34280ad/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application MonEspaceUp (coop.up.beneficiaire). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application MonEspaceUp (coop.up.beneficiaire). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/5f/3e/12/5f3e1298-aa2b-2652-0324-8fffb34280ad/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="MonEspaceUp coop.up.beneficiaire app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/5f/3e/12/5f3e1298-aa2b-2652-0324-8fffb34280ad/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/512x512bb.jpg" width="100" height="100" alt="MonEspaceUp coop.up.beneficiaire app icon"></div>  
   
 # MonEspaceUp (coop.up.beneficiaire)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/4c/a2/c34ca23a-a2c6-e45d-0a9a-74de91ea35ce/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application WHIO Weather (com.cmgdigital.whioweatheripad). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application WHIO Weather (com.cmgdigital.whioweatheripad). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/4c/a2/c34ca23a-a2c6-e45d-0a9a-74de91ea35ce/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="WHIO Weather com.cmgdigital.whioweatheripad app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/c3/4c/a2/c34ca23a-a2c6-e45d-0a9a-74de91ea35ce/AppIcon-1x_U007emarketing-0-4-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="WHIO Weather com.cmgdigital.whioweatheripad app icon"></div>  
   
 # WHIO Weather (com.cmgdigital.whioweatheripad)
 
@@ -58,10 +58,10 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Tools: 9 lib(s)
-- Tracking: 2 lib(s)
 - Crash: 1 lib(s)
+- Tools: 9 lib(s)
 - UI: 2 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

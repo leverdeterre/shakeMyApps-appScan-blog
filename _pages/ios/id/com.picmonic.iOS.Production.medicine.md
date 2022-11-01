@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/ca/4c/18ca4c2b-4d73-573e-487f-448afd5e1501/AppIconMedicine-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Picmonic for Medicine (com.picmonic.iOS.Production.medicine). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Picmonic for Medicine (com.picmonic.iOS.Production.medicine). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/ca/4c/18ca4c2b-4d73-573e-487f-448afd5e1501/AppIconMedicine-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Picmonic for Medicine com.picmonic.iOS.Production.medicine app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/18/ca/4c/18ca4c2b-4d73-573e-487f-448afd5e1501/AppIconMedicine-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Picmonic for Medicine com.picmonic.iOS.Production.medicine app icon"></div>  
   
 # Picmonic for Medicine (com.picmonic.iOS.Production.medicine)
 
@@ -21,6 +21,22 @@ AppScan generated a spoiler description of the content of the iOS application Pi
 **App Name:** Picmonic for Medicine
 
 
+## AppScore : 4.09 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
+  
 ## AppScan informations 
 
 **Number of permissions:** 3
@@ -45,12 +61,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 71
-- UI: 6 lib(s)
-- Tracking: 3 lib(s)
-- Network: 5 lib(s)
-- Crash: 1 lib(s)
-- Tools: 23 lib(s)
 - Logs: 2 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 3 lib(s)
+- Tools: 23 lib(s)
+- UI: 6 lib(s)
+- Network: 5 lib(s)
 
 **Apple dylibs:**
 

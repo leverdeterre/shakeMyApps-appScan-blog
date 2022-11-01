@@ -4,7 +4,7 @@ permalink: /apps/ios/com.app.skskskvscogirl.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application VSCO PREPPY (com.app.skskskvscogirl). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application VSCO PREPPY (com.app.skskskvscogirl). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # VSCO PREPPY (com.app.skskskvscogirl)
 
@@ -50,8 +50,8 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 22
-- Tracking: 1 lib(s)
 - Tools: 10 lib(s)
+- Tracking: 1 lib(s)
 - Network: 4 lib(s)
 
 **Apple dylibs:**

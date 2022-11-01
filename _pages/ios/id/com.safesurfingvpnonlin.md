@@ -4,7 +4,7 @@ permalink: /apps/ios/com.safesurfingvpnonlin.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Safe Surfing (com.safesurfingvpnonlin). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Safe Surfing (com.safesurfingvpnonlin). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Safe Surfing (com.safesurfingvpnonlin)
 
@@ -51,8 +51,8 @@ support multiple languages
 ## Librairies 
 **Number of Third Party Library detected:** 3
 - Tools: 1 lib(s)
-- Storage: 1 lib(s)
 - UI: 1 lib(s)
+- Storage: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

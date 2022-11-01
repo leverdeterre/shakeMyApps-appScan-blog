@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b6/92/c9/b692c9bc-07d1-3d9c-6396-547c6f93960b/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application LCL Assurances (fr.lcl.pacifica.shootproof). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application LCL Assurances (fr.lcl.pacifica.shootproof). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b6/92/c9/b692c9bc-07d1-3d9c-6396-547c6f93960b/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="LCL Assurances fr.lcl.pacifica.shootproof app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b6/92/c9/b692c9bc-07d1-3d9c-6396-547c6f93960b/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="LCL Assurances fr.lcl.pacifica.shootproof app icon"></div>  
   
 # LCL Assurances (fr.lcl.pacifica.shootproof)
 
@@ -58,12 +58,12 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 37
-- Crash: 1 lib(s)
-- Tracking: 5 lib(s)
-- Logs: 1 lib(s)
-- UI: 1 lib(s)
-- Tools: 14 lib(s)
 - Network: 3 lib(s)
+- Crash: 1 lib(s)
+- UI: 1 lib(s)
+- Tracking: 5 lib(s)
+- Tools: 14 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

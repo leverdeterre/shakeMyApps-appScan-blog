@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/d8/d9/d1d8d9c6-3cf2-686a-7554-29685cc2b06f/AppIcon-1x_U007emarketing-9-0-0-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Winamax (com.winamax.WinaClient). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Winamax (com.winamax.WinaClient). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/d8/d9/d1d8d9c6-3cf2-686a-7554-29685cc2b06f/AppIcon-1x_U007emarketing-9-0-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Winamax com.winamax.WinaClient app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/d8/d9/d1d8d9c6-3cf2-686a-7554-29685cc2b06f/AppIcon-1x_U007emarketing-9-0-0-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Winamax com.winamax.WinaClient app icon"></div>  
   
 # Winamax (com.winamax.WinaClient)
 

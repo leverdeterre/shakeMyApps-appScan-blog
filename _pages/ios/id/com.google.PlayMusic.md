@@ -4,7 +4,7 @@ permalink: /apps/ios/com.google.PlayMusic.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Play Music (com.google.PlayMusic). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Play Music (com.google.PlayMusic). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Play Music (com.google.PlayMusic)
 

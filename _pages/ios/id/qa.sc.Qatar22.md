@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/90/ff/32/90ff3292-4680-1ec7-f628-1e1b4e8d4f0f/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Hayya to Qatar 22 (qa.sc.Qatar22). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Hayya to Qatar 22 (qa.sc.Qatar22). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/90/ff/32/90ff3292-4680-1ec7-f628-1e1b4e8d4f0f/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Hayya to Qatar 22 qa.sc.Qatar22 app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/90/ff/32/90ff3292-4680-1ec7-f628-1e1b4e8d4f0f/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220-0.png/512x512bb.jpg" width="100" height="100" alt="Hayya to Qatar 22 qa.sc.Qatar22 app icon"></div>  
   
 # Hayya to Qatar 22 (qa.sc.Qatar22)
 

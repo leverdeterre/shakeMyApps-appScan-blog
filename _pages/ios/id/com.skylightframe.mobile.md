@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/2b/34/a9/2b34a9ef-ac58-16f1-85b5-0d361b93e770/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Skylight (com.skylightframe.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Skylight (com.skylightframe.mobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/2b/34/a9/2b34a9ef-ac58-16f1-85b5-0d361b93e770/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Skylight com.skylightframe.mobile app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/2b/34/a9/2b34a9ef-ac58-16f1-85b5-0d361b93e770/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Skylight com.skylightframe.mobile app icon"></div>  
   
 # Skylight (com.skylightframe.mobile)
 
@@ -59,11 +59,11 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 63
-- Tracking: 1 lib(s)
 - Network: 2 lib(s)
-- Logs: 1 lib(s)
-- UI: 2 lib(s)
 - Tools: 11 lib(s)
+- Logs: 1 lib(s)
+- Tracking: 1 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

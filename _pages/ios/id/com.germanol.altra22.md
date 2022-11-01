@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/43/9a/2a/439a2ac5-78fe-b669-87b9-e7465bee03b1/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Pocket option (com.germanol.altra22). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Pocket option (com.germanol.altra22). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/43/9a/2a/439a2ac5-78fe-b669-87b9-e7465bee03b1/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Pocket option com.germanol.altra22 app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/43/9a/2a/439a2ac5-78fe-b669-87b9-e7465bee03b1/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Pocket option com.germanol.altra22 app icon"></div>  
   
 # Pocket option (com.germanol.altra22)
 
@@ -60,9 +60,9 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 11
-- Network: 1 lib(s)
 - Tracking: 1 lib(s)
 - Tools: 1 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 

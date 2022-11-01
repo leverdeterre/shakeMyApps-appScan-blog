@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6e/14/02/6e1402cd-2a7e-e894-3f7e-f233e8614ade/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application OoVoom (org.reactjs.native.example.Automoto). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application OoVoom (org.reactjs.native.example.Automoto). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6e/14/02/6e1402cd-2a7e-e894-3f7e-f233e8614ade/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="OoVoom org.reactjs.native.example.Automoto app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6e/14/02/6e1402cd-2a7e-e894-3f7e-f233e8614ade/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="OoVoom org.reactjs.native.example.Automoto app icon"></div>  
   
 # OoVoom (org.reactjs.native.example.Automoto)
 
@@ -60,8 +60,8 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 5
-- Tools: 3 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 3 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/8f/af/b98faf48-080f-db1d-1af3-1ab0c46028d3/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application LOVOO (com.kiss2go.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application LOVOO (com.kiss2go.iphone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/8f/af/b98faf48-080f-db1d-1af3-1ab0c46028d3/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="LOVOO com.kiss2go.iphone app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/b9/8f/af/b98faf48-080f-db1d-1af3-1ab0c46028d3/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="LOVOO com.kiss2go.iphone app icon"></div>  
   
 # LOVOO (com.kiss2go.iphone)
 
@@ -64,12 +64,12 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 136
-- Tools: 29 lib(s)
 - Network: 3 lib(s)
-- Crash: 1 lib(s)
-- UI: 7 lib(s)
-- Tracking: 7 lib(s)
+- Tools: 29 lib(s)
 - Logs: 1 lib(s)
+- UI: 7 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 7 lib(s)
 
 **Apple dylibs:**
 

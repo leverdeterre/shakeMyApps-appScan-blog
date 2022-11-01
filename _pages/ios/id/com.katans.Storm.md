@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/a4/14/56/a414564f-0ec6-c25d-56b2-7e9bde7aa51e/mzl.nmapjcxj.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Will it Rain? (com.katans.Storm). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Will it Rain? (com.katans.Storm). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/a4/14/56/a414564f-0ec6-c25d-56b2-7e9bde7aa51e/mzl.nmapjcxj.png/512x512bb.jpg" width="100" height="100" alt="Will it Rain? com.katans.Storm app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple69/v4/a4/14/56/a414564f-0ec6-c25d-56b2-7e9bde7aa51e/mzl.nmapjcxj.png/512x512bb.jpg" width="100" height="100" alt="Will it Rain? com.katans.Storm app icon"></div>  
   
 # Will it Rain? (com.katans.Storm)
 

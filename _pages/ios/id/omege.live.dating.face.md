@@ -4,7 +4,7 @@ permalink: /apps/ios/omege.live.dating.face.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Omge (omege.live.dating.face). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Omge (omege.live.dating.face). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Omge (omege.live.dating.face)
 
@@ -50,10 +50,10 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 38
-- Tools: 7 lib(s)
-- Storage: 1 lib(s)
 - Network: 6 lib(s)
 - UI: 2 lib(s)
+- Storage: 1 lib(s)
+- Tools: 7 lib(s)
 
 **Apple dylibs:**
 

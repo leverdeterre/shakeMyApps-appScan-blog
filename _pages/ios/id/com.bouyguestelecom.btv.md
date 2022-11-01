@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/d4/eb/68d4ebb5-d50e-0edd-de1f-7ad7e3ac2ef7/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application B.tv (com.bouyguestelecom.btv). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application B.tv (com.bouyguestelecom.btv). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/d4/eb/68d4ebb5-d50e-0edd-de1f-7ad7e3ac2ef7/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="B.tv com.bouyguestelecom.btv app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/d4/eb/68d4ebb5-d50e-0edd-de1f-7ad7e3ac2ef7/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="B.tv com.bouyguestelecom.btv app icon"></div>  
   
 # B.tv (com.bouyguestelecom.btv)
 
@@ -62,10 +62,10 @@ Some shortcutItems
 ## Librairies 
 **Number of Third Party Library detected:** 39
 - Tools: 12 lib(s)
-- Crash: 1 lib(s)
-- Network: 4 lib(s)
-- Tracking: 4 lib(s)
 - UI: 6 lib(s)
+- Network: 4 lib(s)
+- Crash: 1 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 

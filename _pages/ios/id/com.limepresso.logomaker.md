@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/15/70/da157070-c1fe-68c1-7cb7-0cbe214bf115/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Logo Shop (com.limepresso.logomaker). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Logo Shop (com.limepresso.logomaker). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/15/70/da157070-c1fe-68c1-7cb7-0cbe214bf115/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Logo Shop com.limepresso.logomaker app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/15/70/da157070-c1fe-68c1-7cb7-0cbe214bf115/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Logo Shop com.limepresso.logomaker app icon"></div>  
   
 # Logo Shop (com.limepresso.logomaker)
 
@@ -63,13 +63,13 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 35
-- Network: 3 lib(s)
-- Tools: 13 lib(s)
-- Crash: 1 lib(s)
-- UI: 2 lib(s)
 - Storage: 2 lib(s)
-- Logs: 1 lib(s)
 - Tracking: 6 lib(s)
+- Network: 3 lib(s)
+- UI: 2 lib(s)
+- Crash: 1 lib(s)
+- Tools: 13 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 

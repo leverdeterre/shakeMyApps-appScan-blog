@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/e1/52/aee1523b-c2e2-5194-de58-0c3550548e74/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application PRINT (jp.co.canon.bsd.iphone.PIXMA-Print). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PRINT (jp.co.canon.bsd.iphone.PIXMA-Print). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/e1/52/aee1523b-c2e2-5194-de58-0c3550548e74/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="PRINT jp.co.canon.bsd.iphone.PIXMA-Print app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ae/e1/52/aee1523b-c2e2-5194-de58-0c3550548e74/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="PRINT jp.co.canon.bsd.iphone.PIXMA-Print app icon"></div>  
   
 # PRINT (jp.co.canon.bsd.iphone.PIXMA-Print)
 

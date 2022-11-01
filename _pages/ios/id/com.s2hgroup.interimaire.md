@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/08/3e/43/083e43dd-273d-1e4a-6ca4-b31bb9aff363/mzl.ypiqhstb.jpg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application INTÉRIMAIRES SANTÉ (com.s2hgroup.interimaire). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application INTÉRIMAIRES SANTÉ (com.s2hgroup.interimaire). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/08/3e/43/083e43dd-273d-1e4a-6ca4-b31bb9aff363/mzl.ypiqhstb.jpg/512x512bb.jpg" width="100" height="100" alt="INTÉRIMAIRES SANTÉ com.s2hgroup.interimaire app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/08/3e/43/083e43dd-273d-1e4a-6ca4-b31bb9aff363/mzl.ypiqhstb.jpg/512x512bb.jpg" width="100" height="100" alt="INTÉRIMAIRES SANTÉ com.s2hgroup.interimaire app icon"></div>  
   
 # INTÉRIMAIRES SANTÉ (com.s2hgroup.interimaire)
 

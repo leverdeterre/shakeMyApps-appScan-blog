@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/79/42/5b/79425b45-44f1-b85c-e56c-bf93dca9907d/mzl.reujzcle.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Kamasutra Mastery (com.ksenia.ultimateHD). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Kamasutra Mastery (com.ksenia.ultimateHD). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/79/42/5b/79425b45-44f1-b85c-e56c-bf93dca9907d/mzl.reujzcle.png/512x512bb.jpg" width="100" height="100" alt="Kamasutra Mastery com.ksenia.ultimateHD app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/79/42/5b/79425b45-44f1-b85c-e56c-bf93dca9907d/mzl.reujzcle.png/512x512bb.jpg" width="100" height="100" alt="Kamasutra Mastery com.ksenia.ultimateHD app icon"></div>  
   
 # Kamasutra Mastery (com.ksenia.ultimateHD)
 

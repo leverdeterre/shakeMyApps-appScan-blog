@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/49/40/da/4940da17-a820-f540-22eb-8bbd8eabf1c4/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application NRJ (fr.nrj.NRJ). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application NRJ (fr.nrj.NRJ). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/49/40/da/4940da17-a820-f540-22eb-8bbd8eabf1c4/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="NRJ fr.nrj.NRJ app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/49/40/da/4940da17-a820-f540-22eb-8bbd8eabf1c4/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="NRJ fr.nrj.NRJ app icon"></div>  
   
 # NRJ (fr.nrj.NRJ)
 
@@ -63,8 +63,8 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 41
 - Network: 3 lib(s)
-- Tools: 19 lib(s)
 - Crash: 1 lib(s)
+- Tools: 19 lib(s)
 - Tracking: 3 lib(s)
 - UI: 2 lib(s)
 

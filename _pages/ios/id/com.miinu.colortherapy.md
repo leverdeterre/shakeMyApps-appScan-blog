@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/6e/3e/a66e3e8f-5870-a672-2a86-17365814e553/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application ColorTherapy (com.miinu.colortherapy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application ColorTherapy (com.miinu.colortherapy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/6e/3e/a66e3e8f-5870-a672-2a86-17365814e553/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="ColorTherapy com.miinu.colortherapy app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a6/6e/3e/a66e3e8f-5870-a672-2a86-17365814e553/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="ColorTherapy com.miinu.colortherapy app icon"></div>  
   
 # ColorTherapy (com.miinu.colortherapy)
 
@@ -61,11 +61,11 @@ support multiple languages
 ## Librairies 
 **Number of Third Party Library detected:** 48
 - UI: 6 lib(s)
-- Crash: 2 lib(s)
+- Network: 2 lib(s)
 - Tools: 20 lib(s)
 - Logs: 1 lib(s)
 - Tracking: 4 lib(s)
-- Network: 2 lib(s)
+- Crash: 2 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/23/b2/a3/23b2a3e8-8b2a-a3a1-b0af-4fa581122951/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Mate (andriiliakh.InstTranslate-ios-free). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Mate (andriiliakh.InstTranslate-ios-free). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/23/b2/a3/23b2a3e8-8b2a-a3a1-b0af-4fa581122951/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Mate andriiliakh.InstTranslate-ios-free app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/23/b2/a3/23b2a3e8-8b2a-a3a1-b0af-4fa581122951/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Mate andriiliakh.InstTranslate-ios-free app icon"></div>  
   
 # Mate (andriiliakh.InstTranslate-ios-free)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/5d/9e/6f/5d9e6f8e-ca19-d4ff-0cc2-cf2b1a40838f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Centre Presse Aveyron (com.midilibre.centrepresse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Centre Presse Aveyron (com.midilibre.centrepresse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/5d/9e/6f/5d9e6f8e-ca19-d4ff-0cc2-cf2b1a40838f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Centre Presse Aveyron com.midilibre.centrepresse app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/5d/9e/6f/5d9e6f8e-ca19-d4ff-0cc2-cf2b1a40838f/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Centre Presse Aveyron com.midilibre.centrepresse app icon"></div>  
   
 # Centre Presse Aveyron (com.midilibre.centrepresse)
 
@@ -62,9 +62,9 @@ at least 2 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 37
 - Network: 4 lib(s)
-- Logs: 1 lib(s)
 - Tracking: 4 lib(s)
 - UI: 2 lib(s)
+- Logs: 1 lib(s)
 - Tools: 12 lib(s)
 
 **Apple dylibs:**

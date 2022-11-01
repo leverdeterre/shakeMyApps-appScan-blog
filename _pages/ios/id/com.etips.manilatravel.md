@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/3b/8e/62/3b8e624c-91a1-1eab-cbfd-cf958e338176/mzl.dsnmtcnx.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Manila (com.etips.manilatravel). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Manila (com.etips.manilatravel). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/3b/8e/62/3b8e624c-91a1-1eab-cbfd-cf958e338176/mzl.dsnmtcnx.png/512x512bb.jpg" width="100" height="100" alt="Manila com.etips.manilatravel app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/3b/8e/62/3b8e624c-91a1-1eab-cbfd-cf958e338176/mzl.dsnmtcnx.png/512x512bb.jpg" width="100" height="100" alt="Manila com.etips.manilatravel app icon"></div>  
   
 # Manila (com.etips.manilatravel)
 

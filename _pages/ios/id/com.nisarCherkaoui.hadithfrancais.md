@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/f6/90/b1/f690b1a4-a4f7-4709-334d-59e0a8c7e5b0/mzl.ikwhooes.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Hadiths Francais (com.nisarCherkaoui.hadithfrancais). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Hadiths Francais (com.nisarCherkaoui.hadithfrancais). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/f6/90/b1/f690b1a4-a4f7-4709-334d-59e0a8c7e5b0/mzl.ikwhooes.png/512x512bb.jpg" width="100" height="100" alt="Hadiths Francais com.nisarCherkaoui.hadithfrancais app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/f6/90/b1/f690b1a4-a4f7-4709-334d-59e0a8c7e5b0/mzl.ikwhooes.png/512x512bb.jpg" width="100" height="100" alt="Hadiths Francais com.nisarCherkaoui.hadithfrancais app icon"></div>  
   
 # Hadiths Francais (com.nisarCherkaoui.hadithfrancais)
 

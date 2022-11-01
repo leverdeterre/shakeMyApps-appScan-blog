@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/d2/d6/e6d2d6cc-e7cb-8d94-b699-3be55645fe83/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Noted (com.digitalworkroom.noted). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Noted (com.digitalworkroom.noted). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/d2/d6/e6d2d6cc-e7cb-8d94-b699-3be55645fe83/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Noted com.digitalworkroom.noted app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e6/d2/d6/e6d2d6cc-e7cb-8d94-b699-3be55645fe83/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Noted com.digitalworkroom.noted app icon"></div>  
   
 # Noted (com.digitalworkroom.noted)
 

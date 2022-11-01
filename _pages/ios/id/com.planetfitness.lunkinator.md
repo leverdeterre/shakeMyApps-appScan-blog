@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/54/2a/a0542a21-54b4-996b-4ef3-a228b1279983/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Planet Fitness (com.planetfitness.lunkinator). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Planet Fitness (com.planetfitness.lunkinator). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/54/2a/a0542a21-54b4-996b-4ef3-a228b1279983/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Planet Fitness com.planetfitness.lunkinator app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a0/54/2a/a0542a21-54b4-996b-4ef3-a228b1279983/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Planet Fitness com.planetfitness.lunkinator app icon"></div>  
   
 # Planet Fitness (com.planetfitness.lunkinator)
 
@@ -60,9 +60,9 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 19
 - Storage: 1 lib(s)
-- Tools: 12 lib(s)
-- UI: 1 lib(s)
 - Tracking: 2 lib(s)
+- UI: 1 lib(s)
+- Tools: 12 lib(s)
 
 **Apple dylibs:**
 

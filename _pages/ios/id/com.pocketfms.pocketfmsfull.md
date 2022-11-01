@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/54/d5/b2/54d5b24d-16fb-7a96-0d63-fb50ac03d445/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application EasyVFR (com.pocketfms.pocketfmsfull). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application EasyVFR (com.pocketfms.pocketfmsfull). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/54/d5/b2/54d5b24d-16fb-7a96-0d63-fb50ac03d445/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg" width="100" height="100" alt="EasyVFR com.pocketfms.pocketfmsfull app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/54/d5/b2/54d5b24d-16fb-7a96-0d63-fb50ac03d445/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg" width="100" height="100" alt="EasyVFR com.pocketfms.pocketfmsfull app icon"></div>  
   
 # EasyVFR (com.pocketfms.pocketfmsfull)
 

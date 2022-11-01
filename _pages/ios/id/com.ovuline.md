@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/9c/d4/c19cd4ac-0906-ee9a-04b0-4c87278b319b/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Ovia (com.ovuline). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Ovia (com.ovuline). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/9c/d4/c19cd4ac-0906-ee9a-04b0-4c87278b319b/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ovia com.ovuline app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c1/9c/d4/c19cd4ac-0906-ee9a-04b0-4c87278b319b/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ovia com.ovuline app icon"></div>  
   
 # Ovia (com.ovuline)
 
@@ -60,9 +60,9 @@ at least 2 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 39
 - Storage: 1 lib(s)
-- Tools: 5 lib(s)
 - Tracking: 1 lib(s)
 - Network: 2 lib(s)
+- Tools: 5 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/20/64/c2/2064c2a7-9cce-395c-9d1b-dffed8c35092/design98-1-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Ringtone Maker (com.ringtonemaker.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Ringtone Maker (com.ringtonemaker.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/20/64/c2/2064c2a7-9cce-395c-9d1b-dffed8c35092/design98-1-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ringtone Maker com.ringtonemaker.app app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/20/64/c2/2064c2a7-9cce-395c-9d1b-dffed8c35092/design98-1-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Ringtone Maker com.ringtonemaker.app app icon"></div>  
   
 # Ringtone Maker (com.ringtonemaker.app)
 
@@ -21,6 +21,22 @@ AppScan generated a spoiler description of the content of the iOS application Ri
 **App Name:** Ringtone Maker
 
 
+## AppScore : 4.44 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+</table>
+
+[Get more details](/pricing.html){: .btn .btn--info}  
+  
 ## AppScan informations 
 
 **Number of permissions:** 6
@@ -46,10 +62,10 @@ SwiftUI
 ## Librairies 
 **Number of Third Party Library detected:** 15
 - Tracking: 2 lib(s)
-- Network: 1 lib(s)
 - Storage: 1 lib(s)
-- Tools: 8 lib(s)
+- Network: 1 lib(s)
 - UI: 1 lib(s)
+- Tools: 8 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/e6/d4/1d/e6d41d75-bfb2-b424-4545-88a9e4451f8d/mzl.vrhebmkr.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Trigger Points (com.myinjuryapps.mytriggerpoints). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Trigger Points (com.myinjuryapps.mytriggerpoints). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/e6/d4/1d/e6d41d75-bfb2-b424-4545-88a9e4451f8d/mzl.vrhebmkr.png/512x512bb.jpg" width="100" height="100" alt="Trigger Points com.myinjuryapps.mytriggerpoints app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/e6/d4/1d/e6d41d75-bfb2-b424-4545-88a9e4451f8d/mzl.vrhebmkr.png/512x512bb.jpg" width="100" height="100" alt="Trigger Points com.myinjuryapps.mytriggerpoints app icon"></div>  
   
 # Trigger Points (com.myinjuryapps.mytriggerpoints)
 

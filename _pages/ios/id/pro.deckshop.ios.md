@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/1a/bc/29/1abc2980-8b95-5080-255e-c1489683d461/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Deck Shop (pro.deckshop.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Deck Shop (pro.deckshop.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/1a/bc/29/1abc2980-8b95-5080-255e-c1489683d461/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Deck Shop pro.deckshop.ios app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/1a/bc/29/1abc2980-8b95-5080-255e-c1489683d461/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Deck Shop pro.deckshop.ios app icon"></div>  
   
 # Deck Shop (pro.deckshop.ios)
 

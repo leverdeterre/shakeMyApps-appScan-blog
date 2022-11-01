@@ -4,7 +4,7 @@ permalink: /apps/ios/com.bonusxp.legend.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Stranger Things: The Game (com.bonusxp.legend). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Stranger Things: The Game (com.bonusxp.legend). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Stranger Things: The Game (com.bonusxp.legend)
 

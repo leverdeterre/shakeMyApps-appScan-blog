@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/1b/c1/f2/1bc1f201-3d18-b1d9-23b7-3b5ea21acc3d/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Visual Acupuncture (com.graphicvizion.visualacupuncturefr). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Visual Acupuncture (com.graphicvizion.visualacupuncturefr). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/1b/c1/f2/1bc1f201-3d18-b1d9-23b7-3b5ea21acc3d/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="Visual Acupuncture com.graphicvizion.visualacupuncturefr app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/1b/c1/f2/1bc1f201-3d18-b1d9-23b7-3b5ea21acc3d/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="Visual Acupuncture com.graphicvizion.visualacupuncturefr app icon"></div>  
   
 # Visual Acupuncture (com.graphicvizion.visualacupuncturefr)
 

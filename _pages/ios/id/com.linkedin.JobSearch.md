@@ -4,7 +4,7 @@ permalink: /apps/ios/com.linkedin.JobSearch.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application LinkedIn Jobs (com.linkedin.JobSearch). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application LinkedIn Jobs (com.linkedin.JobSearch). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # LinkedIn Jobs (com.linkedin.JobSearch)
 
@@ -51,10 +51,10 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 46
+- Logs: 1 lib(s)
 - Network: 2 lib(s)
 - Tools: 2 lib(s)
 - Storage: 2 lib(s)
-- Logs: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

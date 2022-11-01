@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/68/a3/c668a398-20ee-8f09-ac99-5dcfa9e64bd8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Heroes Jobs (com.heroes.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Heroes Jobs (com.heroes.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/68/a3/c668a398-20ee-8f09-ac99-5dcfa9e64bd8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Heroes Jobs com.heroes.app app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c6/68/a3/c668a398-20ee-8f09-ac99-5dcfa9e64bd8/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Heroes Jobs com.heroes.app app icon"></div>  
   
 # Heroes Jobs (com.heroes.app)
 
@@ -60,11 +60,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 39
-- Network: 6 lib(s)
+- Storage: 1 lib(s)
 - UI: 7 lib(s)
+- Network: 6 lib(s)
 - Tools: 11 lib(s)
 - Tracking: 3 lib(s)
-- Storage: 1 lib(s)
 
 **Apple dylibs:**
 

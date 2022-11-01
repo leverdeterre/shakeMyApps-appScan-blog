@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/34/7f/e5/347fe511-c64a-917d-8cca-b16421dfab0c/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Photo LabPro - Editor (com.gita.photolabpro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Photo LabPro - Editor (com.gita.photolabpro). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/34/7f/e5/347fe511-c64a-917d-8cca-b16421dfab0c/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Photo LabPro - Editor com.gita.photolabpro app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/34/7f/e5/347fe511-c64a-917d-8cca-b16421dfab0c/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Photo LabPro - Editor com.gita.photolabpro app icon"></div>  
   
 # Photo LabPro - Editor (com.gita.photolabpro)
 
@@ -59,9 +59,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- Tools: 8 lib(s)
-- Network: 1 lib(s)
 - Tracking: 4 lib(s)
+- Network: 1 lib(s)
+- Tools: 8 lib(s)
 
 **Apple dylibs:**
 

@@ -4,7 +4,7 @@ permalink: /apps/ios/com.kappa.icare.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application iCare (com.kappa.icare). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application iCare (com.kappa.icare). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # iCare (com.kappa.icare)
 
@@ -51,10 +51,10 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 36
-- Tracking: 2 lib(s)
-- Network: 5 lib(s)
-- Tools: 9 lib(s)
 - UI: 5 lib(s)
+- Tools: 9 lib(s)
+- Network: 5 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

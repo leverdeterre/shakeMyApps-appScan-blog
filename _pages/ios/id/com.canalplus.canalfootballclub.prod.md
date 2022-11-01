@@ -4,7 +4,7 @@ permalink: /apps/ios/com.canalplus.canalfootballclub.prod.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Football App (com.canalplus.canalfootballclub.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Football App (com.canalplus.canalfootballclub.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Football App (com.canalplus.canalfootballclub.prod)
 

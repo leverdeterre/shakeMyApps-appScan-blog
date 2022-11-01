@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/7d/24/e07d247b-80f7-3c4d-9a4e-7d692d3f9275/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Satispay (com.satispay.customer.p2p). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Satispay (com.satispay.customer.p2p). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/7d/24/e07d247b-80f7-3c4d-9a4e-7d692d3f9275/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Satispay com.satispay.customer.p2p app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/e0/7d/24/e07d247b-80f7-3c4d-9a4e-7d692d3f9275/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Satispay com.satispay.customer.p2p app icon"></div>  
   
 # Satispay (com.satispay.customer.p2p)
 
@@ -65,12 +65,12 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 46
-- Crash: 1 lib(s)
-- Tools: 20 lib(s)
-- Network: 1 lib(s)
-- UI: 2 lib(s)
-- Storage: 1 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 20 lib(s)
+- Storage: 1 lib(s)
+- Network: 1 lib(s)
+- Crash: 1 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

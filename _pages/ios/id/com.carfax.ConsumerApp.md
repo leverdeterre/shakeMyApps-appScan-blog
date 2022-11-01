@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/62/48/62/62486272-d557-0c6e-03e7-3cd71f466ae5/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application CARFAX (com.carfax.ConsumerApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application CARFAX (com.carfax.ConsumerApp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/62/48/62/62486272-d557-0c6e-03e7-3cd71f466ae5/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="CARFAX com.carfax.ConsumerApp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/62/48/62/62486272-d557-0c6e-03e7-3cd71f466ae5/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="CARFAX com.carfax.ConsumerApp app icon"></div>  
   
 # CARFAX (com.carfax.ConsumerApp)
 
@@ -60,10 +60,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Network: 2 lib(s)
-- Tools: 6 lib(s)
 - Tracking: 5 lib(s)
 - Logs: 1 lib(s)
+- Network: 2 lib(s)
+- Tools: 6 lib(s)
 
 **Apple dylibs:**
 

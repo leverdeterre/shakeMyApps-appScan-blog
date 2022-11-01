@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/77/bb/ec/77bbec9b-8f56-7d08-72c3-bb5b53407473/AppIcon_New-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Pac-12 Now (org.pac-12.pac12.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Pac-12 Now (org.pac-12.pac12.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/77/bb/ec/77bbec9b-8f56-7d08-72c3-bb5b53407473/AppIcon_New-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Pac-12 Now org.pac-12.pac12.ios app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/77/bb/ec/77bbec9b-8f56-7d08-72c3-bb5b53407473/AppIcon_New-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Pac-12 Now org.pac-12.pac12.ios app icon"></div>  
   
 # Pac-12 Now (org.pac-12.pac12.ios)
 
@@ -61,10 +61,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 65
-- Tracking: 3 lib(s)
 - Network: 2 lib(s)
-- Tools: 10 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 3 lib(s)
+- Tools: 10 lib(s)
 
 **Apple dylibs:**
 

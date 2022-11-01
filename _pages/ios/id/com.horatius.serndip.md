@@ -4,7 +4,7 @@ permalink: /apps/ios/com.horatius.serndip.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Serndip (com.horatius.serndip). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Serndip (com.horatius.serndip). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Serndip (com.horatius.serndip)
 
@@ -50,11 +50,11 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 18
-- Tools: 6 lib(s)
 - Network: 2 lib(s)
 - UI: 1 lib(s)
-- Tracking: 4 lib(s)
+- Tools: 6 lib(s)
 - Storage: 1 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

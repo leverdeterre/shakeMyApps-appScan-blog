@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/4e/d5/324ed560-9eb5-4e33-de67-c77724ea15a3/app_icon-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application 24S (fr.lvmh.production.babylone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 24S (fr.lvmh.production.babylone). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/4e/d5/324ed560-9eb5-4e33-de67-c77724ea15a3/app_icon-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="24S fr.lvmh.production.babylone app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/32/4e/d5/324ed560-9eb5-4e33-de67-c77724ea15a3/app_icon-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="24S fr.lvmh.production.babylone app icon"></div>  
   
 # 24S (fr.lvmh.production.babylone)
 
@@ -63,9 +63,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 22
-- Tracking: 3 lib(s)
 - Tools: 11 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/21/ff/e9/21ffe9c1-af89-d9d9-4ff8-0b1f21d779ce/AppIcon-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Oops (com.oops.finance). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Oops (com.oops.finance). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/21/ff/e9/21ffe9c1-af89-d9d9-4ff8-0b1f21d779ce/AppIcon-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Oops com.oops.finance app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/21/ff/e9/21ffe9c1-af89-d9d9-4ff8-0b1f21d779ce/AppIcon-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Oops com.oops.finance app icon"></div>  
   
 # Oops (com.oops.finance)
 

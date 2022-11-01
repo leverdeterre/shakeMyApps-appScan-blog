@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/22/b4/61/22b461a5-66f8-0547-e398-3be8752fec48/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application DISH Anywhere (com.yourcompany.DISH). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application DISH Anywhere (com.yourcompany.DISH). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/22/b4/61/22b461a5-66f8-0547-e398-3be8752fec48/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="DISH Anywhere com.yourcompany.DISH app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/22/b4/61/22b461a5-66f8-0547-e398-3be8752fec48/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="DISH Anywhere com.yourcompany.DISH app icon"></div>  
   
 # DISH Anywhere (com.yourcompany.DISH)
 
@@ -58,8 +58,8 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 7
-- Tools: 1 lib(s)
 - Tracking: 1 lib(s)
+- Tools: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

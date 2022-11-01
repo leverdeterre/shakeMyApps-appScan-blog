@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/59/42/58/594258e4-cb8d-f03a-f2d5-744cbe04b553/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Live Player (com.mdcmedia.liveplayer.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Live Player (com.mdcmedia.liveplayer.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/59/42/58/594258e4-cb8d-f03a-f2d5-744cbe04b553/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Live Player com.mdcmedia.liveplayer.ios app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/59/42/58/594258e4-cb8d-f03a-f2d5-744cbe04b553/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Live Player com.mdcmedia.liveplayer.ios app icon"></div>  
   
 # Live Player (com.mdcmedia.liveplayer.ios)
 
@@ -63,9 +63,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 72
+- Crash: 1 lib(s)
 - Tracking: 4 lib(s)
 - Tools: 14 lib(s)
-- Crash: 1 lib(s)
 - Network: 3 lib(s)
 
 **Apple dylibs:**

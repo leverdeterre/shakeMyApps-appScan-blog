@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8c/e3/6a/8ce36a74-7167-7a98-807f-080c7deb2a35/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application SmileDirectClub (com.smiledirectclub.b2c). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application SmileDirectClub (com.smiledirectclub.b2c). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8c/e3/6a/8ce36a74-7167-7a98-807f-080c7deb2a35/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="SmileDirectClub com.smiledirectclub.b2c app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/8c/e3/6a/8ce36a74-7167-7a98-807f-080c7deb2a35/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="SmileDirectClub com.smiledirectclub.b2c app icon"></div>  
   
 # SmileDirectClub (com.smiledirectclub.b2c)
 
@@ -59,10 +59,10 @@ at least 1 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 44
-- Logs: 2 lib(s)
-- Crash: 1 lib(s)
-- UI: 3 lib(s)
 - Network: 3 lib(s)
+- Logs: 2 lib(s)
+- UI: 3 lib(s)
+- Crash: 1 lib(s)
 - Tools: 9 lib(s)
 - Tracking: 1 lib(s)
 

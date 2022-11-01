@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/54/58/44/545844fe-8b7f-c7da-f493-a82e3cac0530/mzm.zppdvuoo.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application insTuner Free (com.xiaoyixiang.instunerlite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application insTuner Free (com.xiaoyixiang.instunerlite). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/54/58/44/545844fe-8b7f-c7da-f493-a82e3cac0530/mzm.zppdvuoo.png/512x512bb.jpg" width="100" height="100" alt="insTuner Free com.xiaoyixiang.instunerlite app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/54/58/44/545844fe-8b7f-c7da-f493-a82e3cac0530/mzm.zppdvuoo.png/512x512bb.jpg" width="100" height="100" alt="insTuner Free com.xiaoyixiang.instunerlite app icon"></div>  
   
 # insTuner Free (com.xiaoyixiang.instunerlite)
 

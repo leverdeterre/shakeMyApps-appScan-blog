@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/f2/b9/0c/f2b90c7f-3524-9a6a-f568-830a24b8de73/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application AWAppleThermo (com.amberMobile.thermometer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application AWAppleThermo (com.amberMobile.thermometer). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/f2/b9/0c/f2b90c7f-3524-9a6a-f568-830a24b8de73/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="AWAppleThermo com.amberMobile.thermometer app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/f2/b9/0c/f2b90c7f-3524-9a6a-f568-830a24b8de73/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/512x512bb.jpg" width="100" height="100" alt="AWAppleThermo com.amberMobile.thermometer app icon"></div>  
   
 # AWAppleThermo (com.amberMobile.thermometer)
 

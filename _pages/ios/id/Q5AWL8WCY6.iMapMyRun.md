@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/66/01/41/660141db-c6fc-a960-5a1a-8d0449250880/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application MapMyRun (Q5AWL8WCY6.iMapMyRun). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application MapMyRun (Q5AWL8WCY6.iMapMyRun). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/66/01/41/660141db-c6fc-a960-5a1a-8d0449250880/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="MapMyRun Q5AWL8WCY6.iMapMyRun app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/66/01/41/660141db-c6fc-a960-5a1a-8d0449250880/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="MapMyRun Q5AWL8WCY6.iMapMyRun app icon"></div>  
   
 # MapMyRun (Q5AWL8WCY6.iMapMyRun)
 

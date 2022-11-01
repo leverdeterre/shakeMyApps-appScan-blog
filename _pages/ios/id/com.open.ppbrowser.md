@@ -4,7 +4,7 @@ permalink: /apps/ios/com.open.ppbrowser.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Dmanager (com.open.ppbrowser). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Dmanager (com.open.ppbrowser). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Dmanager (com.open.ppbrowser)
 
@@ -52,10 +52,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 19
-- Network: 4 lib(s)
-- Storage: 1 lib(s)
-- Tools: 5 lib(s)
 - UI: 2 lib(s)
+- Tools: 5 lib(s)
+- Storage: 1 lib(s)
+- Network: 4 lib(s)
 
 **Apple dylibs:**
 

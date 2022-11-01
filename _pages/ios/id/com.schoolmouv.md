@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/2f/a5/68/2fa5681b-537a-b5bc-5ba2-6981efc19c8e/AppIcon-prod-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application SchoolMouv (com.schoolmouv). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application SchoolMouv (com.schoolmouv). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/2f/a5/68/2fa5681b-537a-b5bc-5ba2-6981efc19c8e/AppIcon-prod-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="SchoolMouv com.schoolmouv app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/2f/a5/68/2fa5681b-537a-b5bc-5ba2-6981efc19c8e/AppIcon-prod-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="SchoolMouv com.schoolmouv app icon"></div>  
   
 # SchoolMouv (com.schoolmouv)
 
@@ -60,11 +60,11 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 42
-- Network: 1 lib(s)
-- Storage: 2 lib(s)
 - Tracking: 5 lib(s)
+- Storage: 2 lib(s)
 - Crash: 1 lib(s)
 - Tools: 18 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 

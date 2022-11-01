@@ -4,7 +4,7 @@ permalink: /apps/ios/com.canalplus.canalrugbyapp.prod.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Rugby App (com.canalplus.canalrugbyapp.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Rugby App (com.canalplus.canalrugbyapp.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Rugby App (com.canalplus.canalrugbyapp.prod)
 
@@ -51,10 +51,10 @@ supported devices iPhone & iPad
 
 ## Librairies 
 **Number of Third Party Library detected:** 28
-- Tracking: 1 lib(s)
-- Logs: 1 lib(s)
 - Tools: 5 lib(s)
+- Tracking: 1 lib(s)
 - Network: 3 lib(s)
+- Logs: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

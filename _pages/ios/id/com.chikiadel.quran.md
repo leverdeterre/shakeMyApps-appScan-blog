@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/7f/0a/ed7f0aaa-ad60-c6b3-885c-3a3f2b4204c1/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application القرآن الكريم (com.chikiadel.quran). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application القرآن الكريم (com.chikiadel.quran). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/7f/0a/ed7f0aaa-ad60-c6b3-885c-3a3f2b4204c1/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="القرآن الكريم com.chikiadel.quran app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/ed/7f/0a/ed7f0aaa-ad60-c6b3-885c-3a3f2b4204c1/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="القرآن الكريم com.chikiadel.quran app icon"></div>  
   
 # القرآن الكريم (com.chikiadel.quran)
 
@@ -56,9 +56,9 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 30
+- Network: 3 lib(s)
 - Storage: 5 lib(s)
 - Tools: 11 lib(s)
-- Network: 3 lib(s)
 
 **Apple dylibs:**
 

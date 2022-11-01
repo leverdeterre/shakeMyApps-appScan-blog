@@ -4,7 +4,7 @@ permalink: /apps/ios/com.agrible.PocketRainGauge.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Rain Gauge (com.agrible.PocketRainGauge). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Rain Gauge (com.agrible.PocketRainGauge). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Rain Gauge (com.agrible.PocketRainGauge)
 
@@ -49,10 +49,10 @@ contains 2 App extensions
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
-- UI: 1 lib(s)
 - Network: 1 lib(s)
-- Logs: 1 lib(s)
 - Tools: 4 lib(s)
+- Logs: 1 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 

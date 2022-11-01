@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/dc/6d/8adc6d62-2a85-f1e8-3ba2-53bb92589858/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application GameChanger (com.gc.teammanager). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application GameChanger (com.gc.teammanager). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/dc/6d/8adc6d62-2a85-f1e8-3ba2-53bb92589858/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="GameChanger com.gc.teammanager app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/8a/dc/6d/8adc6d62-2a85-f1e8-3ba2-53bb92589858/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="GameChanger com.gc.teammanager app icon"></div>  
   
 # GameChanger (com.gc.teammanager)
 
@@ -61,11 +61,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 75
-- Tools: 14 lib(s)
 - Storage: 2 lib(s)
-- Tracking: 3 lib(s)
 - Network: 5 lib(s)
 - UI: 4 lib(s)
+- Tools: 14 lib(s)
+- Tracking: 3 lib(s)
 
 **Apple dylibs:**
 

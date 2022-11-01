@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/33/5e/3d335e83-7c0b-bc5e-a895-65b2827535c4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Marketplace (com.moonsted.madebyapp1). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Marketplace (com.moonsted.madebyapp1). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/33/5e/3d335e83-7c0b-bc5e-a895-65b2827535c4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Marketplace com.moonsted.madebyapp1 app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/3d/33/5e/3d335e83-7c0b-bc5e-a895-65b2827535c4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Marketplace com.moonsted.madebyapp1 app icon"></div>  
   
 # Marketplace (com.moonsted.madebyapp1)
 
@@ -63,8 +63,8 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 39
 - Tracking: 3 lib(s)
-- UI: 5 lib(s)
 - Tools: 15 lib(s)
+- UI: 5 lib(s)
 - Network: 3 lib(s)
 
 **Apple dylibs:**

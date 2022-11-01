@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/06/16/61/0616614c-29c8-577b-27a3-5e54059c1b07/AppIcon-Free-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application SplitPic (com.aaronray.splitcamera). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application SplitPic (com.aaronray.splitcamera). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/06/16/61/0616614c-29c8-577b-27a3-5e54059c1b07/AppIcon-Free-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="SplitPic com.aaronray.splitcamera app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/06/16/61/0616614c-29c8-577b-27a3-5e54059c1b07/AppIcon-Free-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="SplitPic com.aaronray.splitcamera app icon"></div>  
   
 # SplitPic (com.aaronray.splitcamera)
 

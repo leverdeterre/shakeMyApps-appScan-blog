@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/92/30/ec92305f-f13c-ff5d-8679-810c78450e41/contsched.whraigsc.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Quran Pro (QuanticApps.Quran). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Quran Pro (QuanticApps.Quran). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/92/30/ec92305f-f13c-ff5d-8679-810c78450e41/contsched.whraigsc.png/512x512bb.jpg" width="100" height="100" alt="Quran Pro QuanticApps.Quran app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ec/92/30/ec92305f-f13c-ff5d-8679-810c78450e41/contsched.whraigsc.png/512x512bb.jpg" width="100" height="100" alt="Quran Pro QuanticApps.Quran app icon"></div>  
   
 # Quran Pro (QuanticApps.Quran)
 

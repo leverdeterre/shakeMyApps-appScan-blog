@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/7a/85/e77a8530-a482-ca84-436f-4ede71594c11/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application ScaniX (com.scanix). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application ScaniX (com.scanix). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/7a/85/e77a8530-a482-ca84-436f-4ede71594c11/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="ScaniX com.scanix app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/7a/85/e77a8530-a482-ca84-436f-4ede71594c11/AppIcon-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="ScaniX com.scanix app icon"></div>  
   
 # ScaniX (com.scanix)
 
@@ -59,11 +59,11 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 28
+- UI: 2 lib(s)
+- Tracking: 2 lib(s)
+- Network: 2 lib(s)
 - Tools: 7 lib(s)
 - Storage: 1 lib(s)
-- Tracking: 2 lib(s)
-- UI: 2 lib(s)
-- Network: 2 lib(s)
 
 **Apple dylibs:**
 

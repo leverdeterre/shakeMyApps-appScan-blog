@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/31/ad/e0/31ade0f6-f537-a18a-6352-660a86c57c1e/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application StockX (com.Campless.Campless). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application StockX (com.Campless.Campless). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/31/ad/e0/31ade0f6-f537-a18a-6352-660a86c57c1e/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="StockX com.Campless.Campless app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/31/ad/e0/31ade0f6-f537-a18a-6352-660a86c57c1e/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="StockX com.Campless.Campless app icon"></div>  
   
 # StockX (com.Campless.Campless)
 
@@ -62,11 +62,11 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 88
+- Crash: 1 lib(s)
+- UI: 8 lib(s)
 - Network: 1 lib(s)
 - Tools: 13 lib(s)
-- UI: 8 lib(s)
 - Tracking: 6 lib(s)
-- Crash: 1 lib(s)
 
 **Apple dylibs:**
 

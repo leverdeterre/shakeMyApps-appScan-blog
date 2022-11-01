@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/a0/46/aca04639-d6fe-95ca-e4c5-93ba055f9d3a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Butterfly iQ (com.butterflynetinc.iq). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Butterfly iQ (com.butterflynetinc.iq). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/a0/46/aca04639-d6fe-95ca-e4c5-93ba055f9d3a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Butterfly iQ com.butterflynetinc.iq app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/a0/46/aca04639-d6fe-95ca-e4c5-93ba055f9d3a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Butterfly iQ com.butterflynetinc.iq app icon"></div>  
   
 # Butterfly iQ (com.butterflynetinc.iq)
 
@@ -63,12 +63,12 @@ SwiftUI
 ## Librairies 
 **Number of Third Party Library detected:** 90
 - Logs: 2 lib(s)
-- UI: 1 lib(s)
 - Crash: 1 lib(s)
 - Tools: 27 lib(s)
-- Storage: 2 lib(s)
-- Network: 4 lib(s)
 - Tracking: 2 lib(s)
+- Network: 4 lib(s)
+- UI: 1 lib(s)
+- Storage: 2 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/e4/f5/a0e4f5ad-f611-8f40-3428-58c0eefca089/FTS-AppIcon-DEBUG-1x_U007emarketing-0-7-0-sRGB-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application FOX 6 News (com.cbcnm.iapp.now.witi). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application FOX 6 News (com.cbcnm.iapp.now.witi). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/e4/f5/a0e4f5ad-f611-8f40-3428-58c0eefca089/FTS-AppIcon-DEBUG-1x_U007emarketing-0-7-0-sRGB-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="FOX 6 News com.cbcnm.iapp.now.witi app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/e4/f5/a0e4f5ad-f611-8f40-3428-58c0eefca089/FTS-AppIcon-DEBUG-1x_U007emarketing-0-7-0-sRGB-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="FOX 6 News com.cbcnm.iapp.now.witi app icon"></div>  
   
 # FOX 6 News (com.cbcnm.iapp.now.witi)
 
@@ -62,9 +62,9 @@ Some userActivityTypes
 ## Librairies 
 **Number of Third Party Library detected:** 29
 - UI: 2 lib(s)
-- Logs: 1 lib(s)
-- Tracking: 4 lib(s)
 - Tools: 10 lib(s)
+- Tracking: 4 lib(s)
+- Logs: 1 lib(s)
 - Network: 1 lib(s)
 
 **Apple dylibs:**

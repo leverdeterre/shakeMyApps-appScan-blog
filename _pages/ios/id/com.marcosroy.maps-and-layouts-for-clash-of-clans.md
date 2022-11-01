@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/85/84/a6/8584a6b3-6690-bf7c-1f7b-83e2f9265cb8/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Maps Layout for Clash Of Clans (com.marcosroy.maps-and-layouts-for-clash-of-clans). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Maps Layout for Clash Of Clans (com.marcosroy.maps-and-layouts-for-clash-of-clans). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/85/84/a6/8584a6b3-6690-bf7c-1f7b-83e2f9265cb8/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Maps Layout for Clash Of Clans com.marcosroy.maps-and-layouts-for-clash-of-clans app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/85/84/a6/8584a6b3-6690-bf7c-1f7b-83e2f9265cb8/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Maps Layout for Clash Of Clans com.marcosroy.maps-and-layouts-for-clash-of-clans app icon"></div>  
   
 # Maps Layout for Clash Of Clans (com.marcosroy.maps-and-layouts-for-clash-of-clans)
 
@@ -58,10 +58,10 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 17
-- Network: 2 lib(s)
-- UI: 1 lib(s)
 - Tools: 9 lib(s)
+- Network: 2 lib(s)
 - Tracking: 1 lib(s)
+- UI: 1 lib(s)
 
 **Apple dylibs:**
 

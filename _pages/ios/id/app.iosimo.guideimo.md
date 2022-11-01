@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/14/3a/ab/143aab5d-27d4-5612-014f-c4a1bdaa363e/pr_source.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Guide for imo Video Chat Call (app.iosimo.guideimo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Guide for imo Video Chat Call (app.iosimo.guideimo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/14/3a/ab/143aab5d-27d4-5612-014f-c4a1bdaa363e/pr_source.png/512x512bb.jpg" width="100" height="100" alt="Guide for imo Video Chat Call app.iosimo.guideimo app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/14/3a/ab/143aab5d-27d4-5612-014f-c4a1bdaa363e/pr_source.png/512x512bb.jpg" width="100" height="100" alt="Guide for imo Video Chat Call app.iosimo.guideimo app icon"></div>  
   
 # Guide for imo Video Chat Call (app.iosimo.guideimo)
 

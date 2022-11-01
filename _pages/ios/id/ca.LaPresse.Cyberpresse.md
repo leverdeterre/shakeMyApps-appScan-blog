@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/c7/92/bcc792b6-8376-0b0a-3623-e108aee74d96/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application La Presse (ca.LaPresse.Cyberpresse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application La Presse (ca.LaPresse.Cyberpresse). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/c7/92/bcc792b6-8376-0b0a-3623-e108aee74d96/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="La Presse ca.LaPresse.Cyberpresse app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/c7/92/bcc792b6-8376-0b0a-3623-e108aee74d96/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="La Presse ca.LaPresse.Cyberpresse app icon"></div>  
   
 # La Presse (ca.LaPresse.Cyberpresse)
 
@@ -63,10 +63,10 @@ SwiftUI
 ## Librairies 
 **Number of Third Party Library detected:** 10
 - Tracking: 1 lib(s)
-- Network: 1 lib(s)
 - Tools: 4 lib(s)
 - UI: 2 lib(s)
 - Storage: 1 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/4e/29/2d/4e292d61-811b-2c4d-87df-75e9ceb5dee0/mzl.wgdkhqlg.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Scanner (com.avocadohills.Scanner). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Scanner (com.avocadohills.Scanner). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/4e/29/2d/4e292d61-811b-2c4d-87df-75e9ceb5dee0/mzl.wgdkhqlg.png/512x512bb.jpg" width="100" height="100" alt="Scanner com.avocadohills.Scanner app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/4e/29/2d/4e292d61-811b-2c4d-87df-75e9ceb5dee0/mzl.wgdkhqlg.png/512x512bb.jpg" width="100" height="100" alt="Scanner com.avocadohills.Scanner app icon"></div>  
   
 # Scanner (com.avocadohills.Scanner)
 

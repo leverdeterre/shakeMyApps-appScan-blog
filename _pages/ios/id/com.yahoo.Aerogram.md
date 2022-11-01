@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/19/0a/a4/190aa423-2e48-edd6-786f-226f1d319e8b/MailAppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Yahoo Mail (com.yahoo.Aerogram). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Yahoo Mail (com.yahoo.Aerogram). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/19/0a/a4/190aa423-2e48-edd6-786f-226f1d319e8b/MailAppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Yahoo Mail com.yahoo.Aerogram app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/19/0a/a4/190aa423-2e48-edd6-786f-226f1d319e8b/MailAppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Yahoo Mail com.yahoo.Aerogram app icon"></div>  
   
 # Yahoo Mail (com.yahoo.Aerogram)
 

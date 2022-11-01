@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/56/00/8c/56008c77-fa2e-a89e-3778-d730ae4aacd5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application TripCase (com.sabre.tripcase.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application TripCase (com.sabre.tripcase.prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/56/00/8c/56008c77-fa2e-a89e-3778-d730ae4aacd5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="TripCase com.sabre.tripcase.prod app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/56/00/8c/56008c77-fa2e-a89e-3778-d730ae4aacd5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="TripCase com.sabre.tripcase.prod app icon"></div>  
   
 # TripCase (com.sabre.tripcase.prod)
 
@@ -62,8 +62,8 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 13
-- Tracking: 2 lib(s)
 - Network: 1 lib(s)
+- Tracking: 2 lib(s)
 - Tools: 10 lib(s)
 
 **Apple dylibs:**

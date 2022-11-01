@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/1d/62/f91d6266-896f-acaa-bcf6-b0cbfebb69cf/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Reports+ (com.maks.analizzatore). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Reports+ (com.maks.analizzatore). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/1d/62/f91d6266-896f-acaa-bcf6-b0cbfebb69cf/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Reports+ com.maks.analizzatore app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/1d/62/f91d6266-896f-acaa-bcf6-b0cbfebb69cf/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Reports+ com.maks.analizzatore app icon"></div>  
   
 # Reports+ (com.maks.analizzatore)
 

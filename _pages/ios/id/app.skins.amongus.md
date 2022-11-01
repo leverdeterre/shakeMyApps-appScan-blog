@@ -4,7 +4,7 @@ permalink: /apps/ios/app.skins.amongus.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Skins&Mods for Among Us (app.skins.amongus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Skins&Mods for Among Us (app.skins.amongus). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Skins&Mods for Among Us (app.skins.amongus)
 

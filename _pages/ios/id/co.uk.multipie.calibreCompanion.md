@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/7a/72/8f/7a728ff6-9d3b-91b8-6c57-292dde11b73c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Calibre Companion (co.uk.multipie.calibreCompanion). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Calibre Companion (co.uk.multipie.calibreCompanion). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/7a/72/8f/7a728ff6-9d3b-91b8-6c57-292dde11b73c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Calibre Companion co.uk.multipie.calibreCompanion app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/7a/72/8f/7a728ff6-9d3b-91b8-6c57-292dde11b73c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Calibre Companion co.uk.multipie.calibreCompanion app icon"></div>  
   
 # Calibre Companion (co.uk.multipie.calibreCompanion)
 
@@ -61,9 +61,9 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 22
 - UI: 1 lib(s)
-- Tools: 10 lib(s)
-- Network: 2 lib(s)
 - Storage: 2 lib(s)
+- Network: 2 lib(s)
+- Tools: 10 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

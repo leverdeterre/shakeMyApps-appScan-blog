@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/42/f9/6c/42f96c4a-f9e6-5693-5190-2c146f661570/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Audio Lab (com.insidemegames.edity2.free). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Audio Lab (com.insidemegames.edity2.free). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/42/f9/6c/42f96c4a-f9e6-5693-5190-2c146f661570/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Audio Lab com.insidemegames.edity2.free app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/42/f9/6c/42f96c4a-f9e6-5693-5190-2c146f661570/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg" width="100" height="100" alt="Audio Lab com.insidemegames.edity2.free app icon"></div>  
   
 # Audio Lab (com.insidemegames.edity2.free)
 
@@ -58,8 +58,8 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 3
-- Network: 1 lib(s)
 - Tools: 1 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 

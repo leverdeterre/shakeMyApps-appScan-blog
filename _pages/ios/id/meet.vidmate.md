@@ -4,7 +4,7 @@ permalink: /apps/ios/meet.vidmate.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Vid Mate (meet.vidmate). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Vid Mate (meet.vidmate). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Vid Mate (meet.vidmate)
 
@@ -50,11 +50,11 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- Network: 1 lib(s)
+- UI: 2 lib(s)
 - Tools: 8 lib(s)
 - Crash: 1 lib(s)
 - Tracking: 1 lib(s)
-- UI: 2 lib(s)
+- Network: 1 lib(s)
 
 **Apple dylibs:**
 

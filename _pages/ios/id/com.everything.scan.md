@@ -4,7 +4,7 @@ permalink: /apps/ios/com.everything.scan.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application 掌上扫描王 (com.everything.scan). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application 掌上扫描王 (com.everything.scan). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # 掌上扫描王 (com.everything.scan)
 
@@ -51,9 +51,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- Network: 3 lib(s)
-- Tools: 2 lib(s)
 - UI: 1 lib(s)
+- Tools: 2 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 

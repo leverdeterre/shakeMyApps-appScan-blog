@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/48/9e/ed/489eedc6-5d6e-45da-6c8d-784974b56438/AppIcon-SideLine-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Sideline (com.pinger.side.line). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Sideline (com.pinger.side.line). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/48/9e/ed/489eedc6-5d6e-45da-6c8d-784974b56438/AppIcon-SideLine-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sideline com.pinger.side.line app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/48/9e/ed/489eedc6-5d6e-45da-6c8d-784974b56438/AppIcon-SideLine-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Sideline com.pinger.side.line app icon"></div>  
   
 # Sideline (com.pinger.side.line)
 
@@ -61,8 +61,8 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 12
 - Tools: 4 lib(s)
-- UI: 2 lib(s)
 - Tracking: 1 lib(s)
+- UI: 2 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/84/90/dd/8490ddd9-354e-5efe-136d-e327550270f1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Salto (fr.salto.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Salto (fr.salto.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/84/90/dd/8490ddd9-354e-5efe-136d-e327550270f1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Salto fr.salto.app app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/84/90/dd/8490ddd9-354e-5efe-136d-e327550270f1/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Salto fr.salto.app app icon"></div>  
   
 # Salto (fr.salto.app)
 
@@ -63,10 +63,10 @@ Some userActivityTypes
 ## Librairies 
 **Number of Third Party Library detected:** 119
 - Tools: 24 lib(s)
-- Crash: 1 lib(s)
-- Network: 3 lib(s)
 - Tracking: 3 lib(s)
+- Crash: 1 lib(s)
 - UI: 5 lib(s)
+- Network: 3 lib(s)
 
 **Apple dylibs:**
 

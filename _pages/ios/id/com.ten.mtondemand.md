@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/d7/d0/4fd7d07a-1b56-1202-d285-42bf4f984a53/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application MotorTrend+ (com.ten.mtondemand). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application MotorTrend+ (com.ten.mtondemand). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/d7/d0/4fd7d07a-1b56-1202-d285-42bf4f984a53/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="MotorTrend+ com.ten.mtondemand app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/4f/d7/d0/4fd7d07a-1b56-1202-d285-42bf4f984a53/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="MotorTrend+ com.ten.mtondemand app icon"></div>  
   
 # MotorTrend+ (com.ten.mtondemand)
 
@@ -62,8 +62,8 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 28
 - Tools: 7 lib(s)
-- Tracking: 4 lib(s)
 - Network: 2 lib(s)
+- Tracking: 4 lib(s)
 
 **Apple dylibs:**
 

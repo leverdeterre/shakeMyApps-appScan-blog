@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/f0/0c/a6f00cea-e45a-aa15-efb1-309e5bd563d0/AppIcon-CMB-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application CMB (fr.cmb.cmb). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application CMB (fr.cmb.cmb). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/f0/0c/a6f00cea-e45a-aa15-efb1-309e5bd563d0/AppIcon-CMB-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="CMB fr.cmb.cmb app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a6/f0/0c/a6f00cea-e45a-aa15-efb1-309e5bd563d0/AppIcon-CMB-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="CMB fr.cmb.cmb app icon"></div>  
   
 # CMB (fr.cmb.cmb)
 
@@ -60,9 +60,9 @@ at least 2 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 52
 - Network: 2 lib(s)
-- Crash: 1 lib(s)
 - Tools: 16 lib(s)
 - Logs: 1 lib(s)
+- Crash: 1 lib(s)
 - Tracking: 3 lib(s)
 
 **Apple dylibs:**

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/71/be/d471beab-9efd-4dfa-0c71-7f27483433b7/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application News 6 (com.pnsdigital.weather.wkmg). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application News 6 (com.pnsdigital.weather.wkmg). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/71/be/d471beab-9efd-4dfa-0c71-7f27483433b7/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="News 6 com.pnsdigital.weather.wkmg app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/71/be/d471beab-9efd-4dfa-0c71-7f27483433b7/AppIcon-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="News 6 com.pnsdigital.weather.wkmg app icon"></div>  
   
 # News 6 (com.pnsdigital.weather.wkmg)
 
@@ -60,12 +60,12 @@ contains 2 App extensions
 
 ## Librairies 
 **Number of Third Party Library detected:** 126
-- UI: 9 lib(s)
+- Crash: 2 lib(s)
+- Logs: 2 lib(s)
+- Network: 5 lib(s)
 - Tools: 23 lib(s)
 - Tracking: 4 lib(s)
-- Crash: 2 lib(s)
-- Network: 5 lib(s)
-- Logs: 2 lib(s)
+- UI: 9 lib(s)
 
 **Apple dylibs:**
 

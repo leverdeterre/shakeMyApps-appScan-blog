@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/0c/ff/790cff85-4b23-72ba-3177-07ea6ec5b630/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application UEL (com.uefa.uel). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application UEL (com.uefa.uel). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/0c/ff/790cff85-4b23-72ba-3177-07ea6ec5b630/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="UEL com.uefa.uel app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/0c/ff/790cff85-4b23-72ba-3177-07ea6ec5b630/AppIcon-1x_U007emarketing-0-5-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="UEL com.uefa.uel app icon"></div>  
   
 # UEL (com.uefa.uel)
 
@@ -64,13 +64,13 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 94
-- Logs: 1 lib(s)
-- Tracking: 3 lib(s)
 - UI: 5 lib(s)
-- Network: 4 lib(s)
-- Storage: 3 lib(s)
 - Tools: 23 lib(s)
+- Tracking: 3 lib(s)
+- Logs: 1 lib(s)
+- Storage: 3 lib(s)
 - Crash: 1 lib(s)
+- Network: 4 lib(s)
 
 **Apple dylibs:**
 

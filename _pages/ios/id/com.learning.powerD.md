@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ad/8e/17/ad8e17cc-fe1e-1400-ff3c-67cfd532a3ab/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Puissance J (com.learning.powerD). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Puissance J (com.learning.powerD). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ad/8e/17/ad8e17cc-fe1e-1400-ff3c-67cfd532a3ab/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg" width="100" height="100" alt="Puissance J com.learning.powerD app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ad/8e/17/ad8e17cc-fe1e-1400-ff3c-67cfd532a3ab/AppIcon-0-1x_U007emarketing-0-85-220-7.png/512x512bb.jpg" width="100" height="100" alt="Puissance J com.learning.powerD app icon"></div>  
   
 # Puissance J (com.learning.powerD)
 

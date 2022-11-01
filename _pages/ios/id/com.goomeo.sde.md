@@ -4,7 +4,7 @@ permalink: /apps/ios/com.goomeo.sde.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application SDE (com.goomeo.sde). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application SDE (com.goomeo.sde). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # SDE (com.goomeo.sde)
 
@@ -51,12 +51,12 @@ supported devices iPhone & iPad
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
-- Logs: 1 lib(s)
-- Storage: 1 lib(s)
-- Network: 4 lib(s)
 - UI: 6 lib(s)
-- Tracking: 1 lib(s)
+- Network: 4 lib(s)
+- Logs: 1 lib(s)
 - Tools: 7 lib(s)
+- Storage: 1 lib(s)
+- Tracking: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

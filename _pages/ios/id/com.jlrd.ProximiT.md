@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/ad/4d/3fad4d41-5e71-2b20-8b11-82cdca703922/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application ProximiT (com.jlrd.ProximiT). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application ProximiT (com.jlrd.ProximiT). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/ad/4d/3fad4d41-5e71-2b20-8b11-82cdca703922/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ProximiT com.jlrd.ProximiT app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3f/ad/4d/3fad4d41-5e71-2b20-8b11-82cdca703922/AppIcon-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="ProximiT com.jlrd.ProximiT app icon"></div>  
   
 # ProximiT (com.jlrd.ProximiT)
 
@@ -57,12 +57,12 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 22
+- Tools: 10 lib(s)
 - Crash: 1 lib(s)
+- Network: 1 lib(s)
 - Storage: 2 lib(s)
 - UI: 1 lib(s)
-- Network: 1 lib(s)
 - Tracking: 2 lib(s)
-- Tools: 10 lib(s)
 
 **Apple dylibs:**
 

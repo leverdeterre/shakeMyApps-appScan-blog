@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/77/d2/94/77d29424-c89d-159a-80d7-57bd89e33194/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Pro Gym Workout (com.fitcrafttechnologies.progymworkoutios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Pro Gym Workout (com.fitcrafttechnologies.progymworkoutios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/77/d2/94/77d29424-c89d-159a-80d7-57bd89e33194/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Pro Gym Workout com.fitcrafttechnologies.progymworkoutios app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/77/d2/94/77d29424-c89d-159a-80d7-57bd89e33194/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="Pro Gym Workout com.fitcrafttechnologies.progymworkoutios app icon"></div>  
   
 # Pro Gym Workout (com.fitcrafttechnologies.progymworkoutios)
 
@@ -59,10 +59,10 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- Tracking: 1 lib(s)
 - Tools: 8 lib(s)
-- Crash: 1 lib(s)
 - Storage: 2 lib(s)
+- Tracking: 1 lib(s)
+- Crash: 1 lib(s)
 - UI: 1 lib(s)
 
 **Apple dylibs:**

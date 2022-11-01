@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/87/fe/de/87fedead-ea3c-2909-2a13-433833ba8a7a/AppIcon-1x_U007emarketing-P3-85-220-0-9.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Persian TV (com.javisalio.persiantv). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Persian TV (com.javisalio.persiantv). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/87/fe/de/87fedead-ea3c-2909-2a13-433833ba8a7a/AppIcon-1x_U007emarketing-P3-85-220-0-9.png/512x512bb.jpg" width="100" height="100" alt="Persian TV com.javisalio.persiantv app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/87/fe/de/87fedead-ea3c-2909-2a13-433833ba8a7a/AppIcon-1x_U007emarketing-P3-85-220-0-9.png/512x512bb.jpg" width="100" height="100" alt="Persian TV com.javisalio.persiantv app icon"></div>  
   
 # Persian TV (com.javisalio.persiantv)
 

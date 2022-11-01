@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/f1/a1/cd/f1a1cde4-969b-7e6d-9268-6d31aee653b9/mzl.lqfhtwbz.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application France Press (com.lagoo.paris). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application France Press (com.lagoo.paris). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/f1/a1/cd/f1a1cde4-969b-7e6d-9268-6d31aee653b9/mzl.lqfhtwbz.png/512x512bb.jpg" width="100" height="100" alt="France Press com.lagoo.paris app icon"></div></br>
+<div style="text-align: center;"><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/f1/a1/cd/f1a1cde4-969b-7e6d-9268-6d31aee653b9/mzl.lqfhtwbz.png/512x512bb.jpg" width="100" height="100" alt="France Press com.lagoo.paris app icon"></div>  
   
 # France Press (com.lagoo.paris)
 

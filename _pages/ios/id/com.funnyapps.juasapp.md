@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/17/d6/0d/17d60d87-f7e5-e503-3d5c-cb5b42c6b426/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application JuasApp (com.funnyapps.juasapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application JuasApp (com.funnyapps.juasapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/17/d6/0d/17d60d87-f7e5-e503-3d5c-cb5b42c6b426/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="JuasApp com.funnyapps.juasapp app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/17/d6/0d/17d60d87-f7e5-e503-3d5c-cb5b42c6b426/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="JuasApp com.funnyapps.juasapp app icon"></div>  
   
 # JuasApp (com.funnyapps.juasapp)
 
@@ -62,8 +62,8 @@ at least 2 entitlemented features (strong iOS integration)
 **Number of Third Party Library detected:** 24
 - Crash: 1 lib(s)
 - Tracking: 2 lib(s)
-- Tools: 14 lib(s)
 - Network: 1 lib(s)
+- Tools: 14 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/6c/a3/4b6ca347-ecb1-9797-3a54-7b74be180acc/AppIcon-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application LockPod (com.vedantapps.LockPod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application LockPod (com.vedantapps.LockPod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/6c/a3/4b6ca347-ecb1-9797-3a54-7b74be180acc/AppIcon-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg" width="100" height="100" alt="LockPod com.vedantapps.LockPod app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4b/6c/a3/4b6ca347-ecb1-9797-3a54-7b74be180acc/AppIcon-1x_U007emarketing-0-7-0-P3-85-220.png/512x512bb.jpg" width="100" height="100" alt="LockPod com.vedantapps.LockPod app icon"></div>  
   
 # LockPod (com.vedantapps.LockPod)
 

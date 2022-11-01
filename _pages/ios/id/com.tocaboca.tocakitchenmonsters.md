@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/40/3e/de/403ede6e-c1af-8d4b-1d99-f8b8b1feba15/mzl.zxzroolx.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Toca Monster (com.tocaboca.tocakitchenmonsters). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Toca Monster (com.tocaboca.tocakitchenmonsters). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/40/3e/de/403ede6e-c1af-8d4b-1d99-f8b8b1feba15/mzl.zxzroolx.png/512x512bb.jpg" width="100" height="100" alt="Toca Monster com.tocaboca.tocakitchenmonsters app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/40/3e/de/403ede6e-c1af-8d4b-1d99-f8b8b1feba15/mzl.zxzroolx.png/512x512bb.jpg" width="100" height="100" alt="Toca Monster com.tocaboca.tocakitchenmonsters app icon"></div>  
   
 # Toca Monster (com.tocaboca.tocakitchenmonsters)
 

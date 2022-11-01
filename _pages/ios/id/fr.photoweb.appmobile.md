@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/79/96/c87996e8-61ab-8d8a-75ed-6a898b86b9e9/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application myPhotoweb (fr.photoweb.appmobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application myPhotoweb (fr.photoweb.appmobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/79/96/c87996e8-61ab-8d8a-75ed-6a898b86b9e9/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="myPhotoweb fr.photoweb.appmobile app icon"></div></br>
+<div style="text-align: center;"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/79/96/c87996e8-61ab-8d8a-75ed-6a898b86b9e9/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="myPhotoweb fr.photoweb.appmobile app icon"></div>  
   
 # myPhotoweb (fr.photoweb.appmobile)
 
@@ -62,11 +62,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 68
+- UI: 4 lib(s)
 - Tools: 29 lib(s)
-- Crash: 1 lib(s)
 - Network: 4 lib(s)
 - Tracking: 7 lib(s)
-- UI: 4 lib(s)
+- Crash: 1 lib(s)
 
 **Apple dylibs:**
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/31/9a/12319a33-8466-0fe3-929d-c74f4a5d86a2/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application La Bible (french.book.La-Bible). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application La Bible (french.book.La-Bible). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/31/9a/12319a33-8466-0fe3-929d-c74f4a5d86a2/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100" alt="La Bible french.book.La-Bible app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/31/9a/12319a33-8466-0fe3-929d-c74f4a5d86a2/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg" width="100" height="100" alt="La Bible french.book.La-Bible app icon"></div>  
   
 # La Bible (french.book.La-Bible)
 

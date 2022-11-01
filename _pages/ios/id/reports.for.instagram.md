@@ -4,7 +4,7 @@ permalink: /apps/ios/reports.for.instagram.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Unfollowers+ (reports.for.instagram). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Unfollowers+ (reports.for.instagram). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Unfollowers+ (reports.for.instagram)
 
@@ -51,12 +51,12 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 25
-- Network: 2 lib(s)
-- Tools: 11 lib(s)
-- Crash: 1 lib(s)
 - Storage: 1 lib(s)
-- Tracking: 2 lib(s)
+- Network: 2 lib(s)
+- Crash: 1 lib(s)
 - UI: 3 lib(s)
+- Tools: 11 lib(s)
+- Tracking: 2 lib(s)
 
 **Apple dylibs:**
 

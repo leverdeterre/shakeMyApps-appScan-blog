@@ -4,7 +4,7 @@ permalink: /apps/ios/com.money.app.BudgetUp.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application BudgetUp (com.money.app.BudgetUp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application BudgetUp (com.money.app.BudgetUp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # BudgetUp (com.money.app.BudgetUp)
 

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/0b/3b/72/0b3b7272-e21a-c374-4c0b-1b4b9c11f3ca/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application DoubleMap (com.DoubleMapLLC.DoubleMap). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application DoubleMap (com.DoubleMapLLC.DoubleMap). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/0b/3b/72/0b3b7272-e21a-c374-4c0b-1b4b9c11f3ca/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="DoubleMap com.DoubleMapLLC.DoubleMap app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/0b/3b/72/0b3b7272-e21a-c374-4c0b-1b4b9c11f3ca/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" width="100" height="100" alt="DoubleMap com.DoubleMapLLC.DoubleMap app icon"></div>  
   
 # DoubleMap (com.DoubleMapLLC.DoubleMap)
 
@@ -56,8 +56,8 @@ supported devices iPhone & iPad
 
 ## Librairies 
 **Number of Third Party Library detected:** 10
-- Network: 2 lib(s)
 - Tools: 4 lib(s)
+- Network: 2 lib(s)
 
 **Apple dylibs:**
 

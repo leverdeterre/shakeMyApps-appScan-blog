@@ -4,7 +4,7 @@ permalink: /apps/ios/com.viadeo.viadeoapp.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Viadeo (com.viadeo.viadeoapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Viadeo (com.viadeo.viadeoapp). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Viadeo (com.viadeo.viadeoapp)
 
@@ -51,8 +51,8 @@ at least 1 entitlemented features (strong iOS integration)
 ## Librairies 
 **Number of Third Party Library detected:** 34
 - Network: 4 lib(s)
-- Tools: 7 lib(s)
 - UI: 10 lib(s)
+- Tools: 7 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

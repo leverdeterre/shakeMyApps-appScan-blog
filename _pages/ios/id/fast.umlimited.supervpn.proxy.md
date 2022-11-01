@@ -4,7 +4,7 @@ permalink: /apps/ios/fast.umlimited.supervpn.proxy.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Super VPN (fast.umlimited.supervpn.proxy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Super VPN (fast.umlimited.supervpn.proxy). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Super VPN (fast.umlimited.supervpn.proxy)
 
@@ -51,12 +51,12 @@ support multiple languages
 
 ## Librairies 
 **Number of Third Party Library detected:** 39
-- Tools: 16 lib(s)
 - Network: 8 lib(s)
-- Storage: 3 lib(s)
+- UI: 1 lib(s)
 - Tracking: 4 lib(s)
 - Logs: 1 lib(s)
-- UI: 1 lib(s)
+- Storage: 3 lib(s)
+- Tools: 16 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/58/e7/6b58e7ae-202d-84c9-889d-680cd7aff1d0/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Bro Browser (com.brobrowser.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Bro Browser (com.brobrowser.app). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/58/e7/6b58e7ae-202d-84c9-889d-680cd7aff1d0/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Bro Browser com.brobrowser.app app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/58/e7/6b58e7ae-202d-84c9-889d-680cd7aff1d0/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Bro Browser com.brobrowser.app app icon"></div>  
   
 # Bro Browser (com.brobrowser.app)
 
@@ -59,9 +59,9 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 18
-- Tools: 6 lib(s)
-- UI: 2 lib(s)
 - Storage: 1 lib(s)
+- UI: 2 lib(s)
+- Tools: 6 lib(s)
 - Network: 3 lib(s)
 
 **Apple dylibs:**

@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/a6/ed/43/a6ed435e-7b25-f754-cf32-6da6c3a0e5fe/mzl.clgdgcjp.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Nouveau Testament (french.book.new.tesm.La-Bible). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Nouveau Testament (french.book.new.tesm.La-Bible). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/a6/ed/43/a6ed435e-7b25-f754-cf32-6da6c3a0e5fe/mzl.clgdgcjp.png/512x512bb.jpg" width="100" height="100" alt="Nouveau Testament french.book.new.tesm.La-Bible app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/a6/ed/43/a6ed435e-7b25-f754-cf32-6da6c3a0e5fe/mzl.clgdgcjp.png/512x512bb.jpg" width="100" height="100" alt="Nouveau Testament french.book.new.tesm.La-Bible app icon"></div>  
   
 # Nouveau Testament (french.book.new.tesm.La-Bible)
 

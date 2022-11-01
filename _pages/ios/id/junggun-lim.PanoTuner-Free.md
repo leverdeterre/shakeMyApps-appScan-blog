@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/06/a3/9b/06a39b1d-5aba-01fb-eae1-fccb566fd894/mzl.rmjqbmmy.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application PanoTuner (junggun-lim.PanoTuner-Free). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application PanoTuner (junggun-lim.PanoTuner-Free). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/06/a3/9b/06a39b1d-5aba-01fb-eae1-fccb566fd894/mzl.rmjqbmmy.png/512x512bb.jpg" width="100" height="100" alt="PanoTuner junggun-lim.PanoTuner-Free app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/06/a3/9b/06a39b1d-5aba-01fb-eae1-fccb566fd894/mzl.rmjqbmmy.png/512x512bb.jpg" width="100" height="100" alt="PanoTuner junggun-lim.PanoTuner-Free app icon"></div>  
   
 # PanoTuner (junggun-lim.PanoTuner-Free)
 

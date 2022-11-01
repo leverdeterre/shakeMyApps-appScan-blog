@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/86/28/e7/8628e77a-22dd-3b08-3687-b9516582d5d2/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application MOJO (got.mojo.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application MOJO (got.mojo.ios). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/86/28/e7/8628e77a-22dd-3b08-3687-b9516582d5d2/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="MOJO got.mojo.ios app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/86/28/e7/8628e77a-22dd-3b08-3687-b9516582d5d2/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="MOJO got.mojo.ios app icon"></div>  
   
 # MOJO (got.mojo.ios)
 
@@ -61,8 +61,8 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 16
-- Tools: 7 lib(s)
 - Tracking: 2 lib(s)
+- Tools: 7 lib(s)
 - UI: 2 lib(s)
 
 **Apple dylibs:**

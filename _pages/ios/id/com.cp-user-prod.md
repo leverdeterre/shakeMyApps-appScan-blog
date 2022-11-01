@@ -4,7 +4,7 @@ permalink: /apps/ios/com.cp-user-prod.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Kapten (com.cp-user-prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Kapten (com.cp-user-prod). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Kapten (com.cp-user-prod)
 
@@ -53,10 +53,10 @@ Some userActivityTypes
 
 ## Librairies 
 **Number of Third Party Library detected:** 31
-- Tools: 9 lib(s)
-- Tracking: 3 lib(s)
 - UI: 2 lib(s)
+- Tracking: 3 lib(s)
 - Network: 3 lib(s)
+- Tools: 9 lib(s)
 
 **Apple dylibs:**
 - libswiftCore

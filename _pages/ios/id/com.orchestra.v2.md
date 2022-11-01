@@ -4,7 +4,7 @@ permalink: /apps/ios/com.orchestra.v2.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Mailbox (com.orchestra.v2). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Mailbox (com.orchestra.v2). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Mailbox (com.orchestra.v2)
 

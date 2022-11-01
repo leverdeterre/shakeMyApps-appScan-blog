@@ -4,7 +4,7 @@ permalink: /apps/ios/com.varomoney.Varo.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Varo (com.varomoney.Varo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Varo (com.varomoney.Varo). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Varo (com.varomoney.Varo)
 
@@ -50,12 +50,12 @@ at least 2 entitlemented features (strong iOS integration)
 
 ## Librairies 
 **Number of Third Party Library detected:** 66
+- Network: 3 lib(s)
+- Tracking: 8 lib(s)
+- Crash: 1 lib(s)
+- Tools: 12 lib(s)
 - UI: 7 lib(s)
 - Storage: 1 lib(s)
-- Tools: 12 lib(s)
-- Tracking: 8 lib(s)
-- Network: 3 lib(s)
-- Crash: 1 lib(s)
 
 **Apple dylibs:**
 - libswiftAVFoundation

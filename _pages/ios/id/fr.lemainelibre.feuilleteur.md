@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c9/12/0c/c9120cb9-67d5-f312-120c-86a439983362/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Le Maine Libre - Journal (fr.lemainelibre.feuilleteur). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Le Maine Libre - Journal (fr.lemainelibre.feuilleteur). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c9/12/0c/c9120cb9-67d5-f312-120c-86a439983362/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Le Maine Libre - Journal fr.lemainelibre.feuilleteur app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c9/12/0c/c9120cb9-67d5-f312-120c-86a439983362/AppIcon-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Le Maine Libre - Journal fr.lemainelibre.feuilleteur app icon"></div>  
   
 # Le Maine Libre - Journal (fr.lemainelibre.feuilleteur)
 

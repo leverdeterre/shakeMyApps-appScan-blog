@@ -4,7 +4,7 @@ permalink: /apps/ios/com.jome.fishsmart.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application FishSmart (com.jome.fishsmart). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application FishSmart (com.jome.fishsmart). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # FishSmart (com.jome.fishsmart)
 

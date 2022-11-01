@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0e/16/b1/0e16b102-66e0-de4e-ab1e-7129c4c466e7/AppIcon-0-1x_U007emarketing-0-10-0-85-220.jpeg/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Harry Potter (com.wwdfe.wizardingworld). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Harry Potter (com.wwdfe.wizardingworld). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0e/16/b1/0e16b102-66e0-de4e-ab1e-7129c4c466e7/AppIcon-0-1x_U007emarketing-0-10-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Harry Potter com.wwdfe.wizardingworld app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/0e/16/b1/0e16b102-66e0-de4e-ab1e-7129c4c466e7/AppIcon-0-1x_U007emarketing-0-10-0-85-220.jpeg/512x512bb.jpg" width="100" height="100" alt="Harry Potter com.wwdfe.wizardingworld app icon"></div>  
   
 # Harry Potter (com.wwdfe.wizardingworld)
 

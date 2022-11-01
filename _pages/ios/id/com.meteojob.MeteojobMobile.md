@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/25/fd/1c/25fd1c6d-12a6-b30c-de80-f8bcb4be13ab/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Meteojob (com.meteojob.MeteojobMobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Meteojob (com.meteojob.MeteojobMobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/25/fd/1c/25fd1c6d-12a6-b30c-de80-f8bcb4be13ab/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Meteojob com.meteojob.MeteojobMobile app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/25/fd/1c/25fd1c6d-12a6-b30c-de80-f8bcb4be13ab/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Meteojob com.meteojob.MeteojobMobile app icon"></div>  
   
 # Meteojob (com.meteojob.MeteojobMobile)
 

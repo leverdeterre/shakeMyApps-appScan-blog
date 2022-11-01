@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/df/88/4bdf8838-7bb8-536d-f654-51656f79f881/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Elevate (com.elevateapp.elevate). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Elevate (com.elevateapp.elevate). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/df/88/4bdf8838-7bb8-536d-f654-51656f79f881/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Elevate com.elevateapp.elevate app icon"></div></br>
+<div style="text-align: center;"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/4b/df/88/4bdf8838-7bb8-536d-f654-51656f79f881/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="Elevate com.elevateapp.elevate app icon"></div>  
   
 # Elevate (com.elevateapp.elevate)
 
@@ -63,11 +63,11 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 33
-- UI: 5 lib(s)
 - Logs: 2 lib(s)
-- Network: 2 lib(s)
-- Tracking: 3 lib(s)
 - Tools: 11 lib(s)
+- Tracking: 3 lib(s)
+- Network: 2 lib(s)
+- UI: 5 lib(s)
 
 **Apple dylibs:**
 

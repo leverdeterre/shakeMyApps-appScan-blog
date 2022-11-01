@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/5d/13/e95d138a-5f43-3647-3a89-0fbb53392624/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application OsiriX HD (com.pixmeo.osirixhd). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application OsiriX HD (com.pixmeo.osirixhd). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/5d/13/e95d138a-5f43-3647-3a89-0fbb53392624/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="OsiriX HD com.pixmeo.osirixhd app icon"></div></br>
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/5d/13/e95d138a-5f43-3647-3a89-0fbb53392624/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="OsiriX HD com.pixmeo.osirixhd app icon"></div>  
   
 # OsiriX HD (com.pixmeo.osirixhd)
 

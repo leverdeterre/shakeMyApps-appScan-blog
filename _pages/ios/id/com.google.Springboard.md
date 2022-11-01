@@ -8,11 +8,11 @@ header:
      overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
      overlay_image: https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/8d/8c/cb/8d8ccbdb-3c25-b249-19ea-fbfa4cfeff35/contsched.qxklwjje.png/512x512bb.jpg
 ---
-AppScan generated a spoiler description of the content of the iOS application Cloud Search (com.google.Springboard). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Cloud Search (com.google.Springboard). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
   
   
-<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/8d/8c/cb/8d8ccbdb-3c25-b249-19ea-fbfa4cfeff35/contsched.qxklwjje.png/512x512bb.jpg" width="100" height="100" alt="Cloud Search com.google.Springboard app icon"></div></br>
+<div style="text-align: center;"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/8d/8c/cb/8d8ccbdb-3c25-b249-19ea-fbfa4cfeff35/contsched.qxklwjje.png/512x512bb.jpg" width="100" height="100" alt="Cloud Search com.google.Springboard app icon"></div>  
   
 # Cloud Search (com.google.Springboard)
 

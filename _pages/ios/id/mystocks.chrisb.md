@@ -4,7 +4,7 @@ permalink: /apps/ios/mystocks.chrisb.html
 layout: single
 author_profile: false
 ---
-AppScan generated a spoiler description of the content of the iOS application Options AI (mystocks.chrisb). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+AppScan light description the iOS application Options AI (mystocks.chrisb). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
 
 # Options AI (mystocks.chrisb)
 
@@ -51,10 +51,10 @@ build using Xcode 13
 
 ## Librairies 
 **Number of Third Party Library detected:** 49
-- Network: 5 lib(s)
 - Storage: 4 lib(s)
-- UI: 4 lib(s)
+- Network: 5 lib(s)
 - Tools: 14 lib(s)
+- UI: 4 lib(s)
 - Tracking: 4 lib(s)
 
 **Apple dylibs:**
