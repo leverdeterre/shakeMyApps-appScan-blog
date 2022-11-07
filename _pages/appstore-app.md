@@ -1,6 +1,6 @@
 ---
-title: "Get any AppScore on the AppStore"
-permalink: /evaluate-any-appstore-app.html
+title: "Scan an AppStore application"
+permalink: /appstore-app.html
 layout: single
 author_profile: false
 image: /assets/images/illustrations/appscan-apps-painting-style.png
@@ -9,6 +9,4 @@ header:
     overlay_image: /assets/images/illustrations/appscan-apps-painting-style.png
 ---
 
-We have created an [AppScore]({% post_url 2022-07-01-appscore-definition %}) to give a first vision of the quality of the App.
-
-{% include search/search_itunes_appscore.html %}
+{% include search/searched_app_itunes.html %}

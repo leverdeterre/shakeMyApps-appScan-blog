@@ -61,7 +61,7 @@ atom_feed:
   hide                   : #, false (default)
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : google # lunr (default), algolia, google
+search_provider          : lunr # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
 algolia:
@@ -70,7 +70,7 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : 70362e7b635b042c8 # YOUR_SEARCH_ENGINE_ID
+  search_engine_id       : # 70362e7b635b042c8 # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification :

@@ -2,7 +2,7 @@
 title: "Request audit any App"
 permalink: /request-audit-any-appstore.html
 layout: single
-author_profile: true
+author_profile: false
 image: /assets/images/illustrations/appscan-apps-painting-style.png
 header:
     overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
