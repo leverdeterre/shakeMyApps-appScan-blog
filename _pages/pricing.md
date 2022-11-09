@@ -17,16 +17,16 @@ header:
     <div class="col-md-4">
         <div class="panel panel-default text-center">
             <div class="panel-heading">
-                <h3 class="panel-title">AppScore scan</h3>
+                <h3 class="panel-title">AppScore report</h3>
             </div>
             <div class="panel-body">
                 <span class="price"><sup>Free</sup></span>
                 <span class="period">per app</span>
             </div>
             <ul class="list-group">
-                <li class="list-group-item"><strong>1</strong> AppScore report</li>
+                <li class="list-group-item"><strong>1 AppScore report</strong> Scores for : Tools, iOS version supported, Permissions, Open source libraries, Resources, App Size, App Languages, App Interaction, App Security	</li>
                 <li class="list-group-item">
-                    <a href="/evaluate-any-appstore-app.html" class="btn btn-primary force_white_color">Request one!</a>
+                    <a href="/evaluate-any-appstore-app.html" class="btn btn-primary force_white_color">Receive the report</a>
                 </li>
             </ul>
         </div>
@@ -34,39 +34,36 @@ header:
     <div class="col-md-4">
         <div class="panel panel-primary text-center">
             <div class="panel-heading">
-                <h3 class="panel-title">Plus <span class="label label-success">Full AppScan</span></h3>
+                <h3 class="panel-title"><span class="label label-success">Synthetic reports</span></h3>
             </div>
             <div class="panel-body">
-                <span class="price"><sup>$</sup>299<sup>99</sup></span>
+                <span class="price"><sup>$</sup>69<sup></sup></span>
                 <span class="period">per app</span>
             </div>
             <ul class="list-group">
-                <li class="list-group-item"><strong>1</strong> AppStore App</li>
-                <li class="list-group-item"><strong>1</strong> AppScan report</li>
-                <li class="list-group-item"><strong>1</strong> Bugs report</li>
-                <li class="list-group-item"><strong>1</strong> AppScore report</li>
+                <li class="list-group-item"><strong>1 AppScore report </strong> </li>
+                <li class="list-group-item"><strong>1 Synthetic report </strong> synthesis of the App : Technology, Xcode, keys, Permissions, Libraries, Weight, Languages, Entitlements, Security and critical files </li>
                 <li class="list-group-item">
-                    <a href="/request-audit-any-appstore.html" class="btn btn-primary force_white_color">Request one!</a>
+                    <a href="/request-audit-any-appstore.html" class="btn btn-primary force_white_color">Get the reports</a>
                 </li>
             </ul>
         </div>
     </div>
     <div class="col-md-4">
-        <div class="panel panel-default text-center">
-            <div class="panel-heading">
-                <h3 class="panel-title">Ultra</h3>
+        <div class="panel panel-primary text-center">
+                <div class="panel-heading">
+                <h3 class="panel-title"><span class="label label-success">Audit reports</span></h3>
             </div>
-             <div class="panel-body">
-                <span class="price"><sup>$</sup>XXX</span>
-                <span class="period">per month</span>
+            <div class="panel-body">
+                <span class="price"><sup>$</sup>99<sup></sup></span>
+                <span class="period">per app</span>
             </div>
             <ul class="list-group">
-                <li class="list-group-item"><strong>Unlimited</strong> .ipa / AppStore Apps</li>
-                <li class="list-group-item"><strong>Unlimited</strong> AppScan reports</li>
-                <li class="list-group-item"><strong>Unlimited</strong> Bugs reports</li>
-                <li class="list-group-item"><strong>Unlimited</strong> AppScore reports</li>
+                <li class="list-group-item"><strong>1 AppScore report </strong> </li>
+                <li class="list-group-item"><strong>1 Synthetic report </strong> </li>
+                <li class="list-group-item"><strong>1 Audit report </strong> List of issues detected issues organized by criticity</li>
                 <li class="list-group-item">
-                    <a href="mailto:hello@appscan-hq.com?subject=AppScan%20Ultra&body=Hi" class="btn btn-primary">Let's talk!</a>
+                    <a href="/request-audit-any-appstore.html" class="btn btn-primary force_white_color">Get the reports</a>
                 </li>
             </ul>
         </div>
