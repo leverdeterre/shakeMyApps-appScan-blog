@@ -17,6 +17,45 @@
         container.textContent = '';
     }
 
+    function updatePage(lookupData){
+        if (lookupData.results.length == 1) {
+            var json = lookupData.results[0];
+            var node = document.querySelector("#app-title");
+            node.innerHTML = `${json.trackName} by ${json.artistName}`;
+
+            node = document.querySelector("#artworkUrl512");
+            node.src = json.artworkUrl512;
+
+            node = document.querySelector("#bundleID");
+            node.innerHTML = `${json.bundleId}`;
+
+            node = document.querySelector("#description");
+            node.innerHTML = `${ json.description }`;
+
+            node = document.querySelector("#version");
+            node.innerHTML = `${json.version}`;
+
+            node = document.querySelector("#get-appscore-report");
+            node.href = '/appscore-evaluation-appstore-one-app.html?bundleID=' + json.bundleId;
+
+            node = document.querySelector("#get-appscore-report-2");
+            node.href = '/appscore-evaluation-appstore-one-app.html?bundleID=' + json.bundleId;
+
+            node = document.querySelector("#get-synthetic-reports");
+            var bundleId_converted = json.bundleId.replace(/\./g, "_");
+            node.href = 'https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=' + bundleId_converted;
+
+            node = document.querySelector("#get-synthetic-reports-2");
+            node.href = 'https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=' + bundleId_converted;
+
+            node = document.querySelector("#get-audit-reports");
+            node.href = 'https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=' + bundleId_converted;
+
+            node = document.querySelector("#get-audit-reports-2");
+            node.href = 'https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=' + bundleId_converted;
+        }        
+    }
+
     function simpleItunesSearch(params, country) {
         console.log('simpleItunesSearch params:' + params);
         var term = params['bundleID'];
@@ -25,7 +64,7 @@
             c = country;
         }
 
-        var url = 'http://itunes.apple.com/lookup?bundleId=' + term+ '&country='+c
+        var url = 'https://itunes.apple.com/lookup?bundleId='+term+'&country='+c
         console.log('url:' + url);
 
         $.ajax({
@@ -34,44 +73,7 @@
             dataType: 'json',
             success: function (data) {
                 console.log('success', data);
-
-                if (data.results.length == 1) {
-                    var json = data.results[0];
-
-                    var node = document.querySelector("#app-title");
-                    node.innerHTML = `${json.trackName} by ${json.artistName}`;
-
-                    node = document.querySelector("#artworkUrl512");
-                    node.src = json.artworkUrl512;
-
-                    node = document.querySelector("#bundleID");
-                    node.innerHTML = `${json.bundleId}`;
-
-                    node = document.querySelector("#description");
-                    node.innerHTML = `${ json.description }`;
-
-                    node = document.querySelector("#version");
-                    node.innerHTML = `${json.version}`;
-
-                    node = document.querySelector("#get-appscore-report");
-                    node.href = '/appscore-evaluation-appstore-one-app.html?bundleID=' + json.bundleId;
-
-                    node = document.querySelector("#get-appscore-report-2");
-                    node.href = '/appscore-evaluation-appstore-one-app.html?bundleID=' + json.bundleId;
-
-                    node = document.querySelector("#get-synthetic-reports");
-                    var bundleId_converted = json.bundleId.replace(/\./g, "_");
-                    node.href = 'https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=' + bundleId_converted;
-
-                    node = document.querySelector("#get-synthetic-reports-2");
-                    node.href = 'https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=' + bundleId_converted;
-
-                    node = document.querySelector("#get-audit-reports");
-                    node.href = 'https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=' + bundleId_converted;
-
-                    node = document.querySelector("#get-audit-reports-2");
-                    node.href = 'https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=' + bundleId_converted;
-                }
+                updatePage(data);
             },
             error: function (request, status, error) {
                 console.log('error', error);
@@ -84,15 +86,28 @@
         console.log('DOMContentLoaded');
         const urlSearchParams = new URLSearchParams(window.location.search);
         const params = Object.fromEntries(urlSearchParams.entries());
-        simpleItunesSearch(params, 'us');
+        var term = params['bundleID'];
+        var url = 'https://itunes.apple.com/lookup?bundleId='+term+'&country=us&callback=myCallback'
+        var s = document.querySelector('#request-itunes-api');
+        s.src = url;
+        //simpleItunesSearch(params, 'us');
     });
 </script>
+
+<script>
+function myCallback(data){
+    console.log('myCallback.data', data);
+    updatePage(data);
+}
+</script>
+
+<script id="request-itunes-api" type="text/javascript"></script>
 
 <div id="results-container">
     <h1 id="app-title">The Explorers by The Explorers Network</h1>
 
     <p>
-        <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/ae/77/66/ae77667d-1838-121d-cc35-9b292c57af6e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg" alt="" class="half center" id="artworkUrl512">
+        <img src="" alt="" class="half center" id="artworkUrl512">
     </p>
     <table>
         <tr>
