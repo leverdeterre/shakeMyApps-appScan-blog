@@ -21,6 +21,13 @@ AppScan light description the iOS application Guitar Tuner (realguitar.tuner). T
 **App Name:** Guitar Tuner
 
 
+## Get AppScan reports
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=realguitar.tuner" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=realguitar_tuner" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=realguitar_tuner" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
 ## AppScore : 4.06 (⭐️⭐️⭐️⭐️) 
 
 <table>
@@ -35,7 +42,7 @@ AppScan light description the iOS application Guitar Tuner (realguitar.tuner). T
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info}  
+  
   
 ## AppScan informations 
 
@@ -45,7 +52,7 @@ AppScan light description the iOS application Guitar Tuner (realguitar.tuner). T
 **Custom keys:** 13
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+
 
 ## Cool Facts
 
@@ -59,17 +66,23 @@ support multiple languages
 SwiftUI
 Some shortcutItems 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+
 
 ## Librairies 
 **Number of Third Party Library detected:** 47
-- Crash: 1 lib(s)
-- Network: 2 lib(s)
 - Tools: 17 lib(s)
-- Storage: 2 lib(s)
 - UI: 4 lib(s)
+- Network: 2 lib(s)
+- Storage: 2 lib(s)
 - Tracking: 4 lib(s)
+- Crash: 1 lib(s)
 
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=realguitar.tuner" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=realguitar_tuner" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=realguitar_tuner" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
 **Apple dylibs:**
 
 
@@ -124,5 +137,11 @@ Some shortcutItems
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=realguitar.tuner" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=realguitar_tuner" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=realguitar_tuner" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
+
 

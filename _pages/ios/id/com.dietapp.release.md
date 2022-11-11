@@ -21,6 +21,13 @@ AppScan light description the iOS application Easy Keto (com.dietapp.release). T
 **App Name:** Easy Keto
 
 
+## Get AppScan reports
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.dietapp.release" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_dietapp_release" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_dietapp_release" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
 ## AppScore : 4.26 (⭐️⭐️⭐️⭐️) 
 
 <table>
@@ -35,7 +42,7 @@ AppScan light description the iOS application Easy Keto (com.dietapp.release). T
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info}  
+  
   
 ## AppScan informations 
 
@@ -45,7 +52,7 @@ AppScan light description the iOS application Easy Keto (com.dietapp.release). T
 **Custom keys:** 2
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+
 
 ## Cool Facts
 
@@ -54,15 +61,21 @@ FacebookLogin detected
 Native App
 build using Xcode 13
   
-[Get more details](/pricing.html){: .btn .btn--info}
+
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
-- Tracking: 2 lib(s)
 - Tools: 1 lib(s)
-- UI: 4 lib(s)
+- Tracking: 2 lib(s)
 - Storage: 2 lib(s)
+- UI: 4 lib(s)
 
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.dietapp.release" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_dietapp_release" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_dietapp_release" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
 **Apple dylibs:**
 - libswiftCore
 - libswiftCoreFoundation
@@ -99,5 +112,11 @@ build using Xcode 13
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.dietapp.release" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_dietapp_release" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_dietapp_release" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
+
 

@@ -21,6 +21,13 @@ AppScan light description the iOS application Life360 (com.life360.safetymap). T
 **App Name:** Life360
 
 
+## Get AppScan reports
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.life360.safetymap" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_life360_safetymap" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_life360_safetymap" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
 ## AppScore : 4.74 (⭐️⭐️⭐️⭐️⭐️) 
 
 <table>
@@ -35,7 +42,7 @@ AppScan light description the iOS application Life360 (com.life360.safetymap). T
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info}  
+  
   
 ## AppScan informations 
 
@@ -45,7 +52,7 @@ AppScan light description the iOS application Life360 (com.life360.safetymap). T
 **Custom keys:** 61
 **Low securit keys:** 25
   
-[Get more details](/pricing.html){: .btn .btn--info}
+
 
 ## Cool Facts
 
@@ -58,18 +65,24 @@ support multiple languages
 at least 2 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info}
+
 
 ## Librairies 
 **Number of Third Party Library detected:** 102
-- Storage: 1 lib(s)
-- UI: 5 lib(s)
-- Tracking: 6 lib(s)
+- Crash: 1 lib(s)
 - Logs: 1 lib(s)
 - Network: 2 lib(s)
-- Crash: 1 lib(s)
+- Tracking: 6 lib(s)
+- Storage: 1 lib(s)
 - Tools: 26 lib(s)
+- UI: 5 lib(s)
 
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.life360.safetymap" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_life360_safetymap" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_life360_safetymap" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
 **Apple dylibs:**
 
 
@@ -114,5 +127,11 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.life360.safetymap" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_life360_safetymap" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_life360_safetymap" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
+
 

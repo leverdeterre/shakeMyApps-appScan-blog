@@ -21,6 +21,13 @@ AppScan light description the iOS application Me And My Golf (meandmygolf). This
 **App Name:** Me And My Golf
 
 
+## Get AppScan reports
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=meandmygolf" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=meandmygolf" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=meandmygolf" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
 ## AppScore : 4.48 (⭐️⭐️⭐️⭐️) 
 
 <table>
@@ -35,7 +42,7 @@ AppScan light description the iOS application Me And My Golf (meandmygolf). This
 <tr><td> App Security </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info}  
+  
   
 ## AppScan informations 
 
@@ -45,7 +52,7 @@ AppScan light description the iOS application Me And My Golf (meandmygolf). This
 **Custom keys:** 10
 **Low securit keys:** 0
   
-[Get more details](/pricing.html){: .btn .btn--info}
+
 
 ## Cool Facts
 
@@ -58,16 +65,22 @@ contains 2 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info}
+
 
 ## Librairies 
 **Number of Third Party Library detected:** 28
-- Tracking: 1 lib(s)
-- Tools: 9 lib(s)
-- Network: 3 lib(s)
-- Storage: 3 lib(s)
 - Crash: 1 lib(s)
+- Tracking: 1 lib(s)
+- Network: 3 lib(s)
+- Tools: 9 lib(s)
+- Storage: 3 lib(s)
 
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=meandmygolf" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=meandmygolf" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=meandmygolf" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
 **Apple dylibs:**
 
 
@@ -109,5 +122,11 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=meandmygolf" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=meandmygolf" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=meandmygolf" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
+
 

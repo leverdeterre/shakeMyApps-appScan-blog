@@ -21,6 +21,13 @@ AppScan light description the iOS application 24 heures (ch.edipresse.vqh). This
 **App Name:** 24 heures
 
 
+## Get AppScan reports
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=ch.edipresse.vqh" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=ch_edipresse_vqh" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=ch_edipresse_vqh" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
 ## AppScore : 4.13 (⭐️⭐️⭐️⭐️) 
 
 <table>
@@ -35,7 +42,7 @@ AppScan light description the iOS application 24 heures (ch.edipresse.vqh). This
 <tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
 </table>
 
-[Get more details](/pricing.html){: .btn .btn--info}  
+  
   
 ## AppScan informations 
 
@@ -45,7 +52,7 @@ AppScan light description the iOS application 24 heures (ch.edipresse.vqh). This
 **Custom keys:** 21
 **Low securit keys:** 1
   
-[Get more details](/pricing.html){: .btn .btn--info}
+
 
 ## Cool Facts
 
@@ -57,17 +64,23 @@ contains 4 App extensions
 at least 1 entitlemented features (strong iOS integration)
 SwiftUI
   
-[Get more details](/pricing.html){: .btn .btn--info}
+
 
 ## Librairies 
 **Number of Third Party Library detected:** 70
-- Storage: 2 lib(s)
-- Tools: 26 lib(s)
-- Network: 2 lib(s)
-- Logs: 2 lib(s)
 - UI: 2 lib(s)
+- Tools: 26 lib(s)
+- Storage: 2 lib(s)
+- Network: 2 lib(s)
 - Tracking: 5 lib(s)
+- Logs: 2 lib(s)
 
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=ch.edipresse.vqh" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=ch_edipresse_vqh" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=ch_edipresse_vqh" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
 **Apple dylibs:**
 - libswiftARKit
 - libswiftAVFoundation
@@ -132,5 +145,11 @@ SwiftUI
 
 
   
-[Get more details](/pricing.html){: .btn .btn--info}
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=ch.edipresse.vqh" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=ch_edipresse_vqh" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=ch_edipresse_vqh" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
+
 
