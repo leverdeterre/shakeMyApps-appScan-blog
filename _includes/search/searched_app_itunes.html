@@ -17,6 +17,24 @@
         container.textContent = '';
     }
 
+    function openStripeCheckout(bundleId, report){
+        console.log('openStripeCheckout');
+        var auditUrl = 'https://us-central1-appscanhq.cloudfunctions.net/checkout?bundleID='+bundleId+'&report='+report;
+        $.ajax({
+            url: auditUrl,
+            cache: false,
+            dataType: 'json',
+            success: function (data) {
+                console.log('success', data);
+                var link = data.paymentLink;
+                document.location.href = link;
+            },
+            error: function (request, status, error) {
+                console.log('error', error);
+            }
+        });
+    } 
+
     function updatePage(lookupData){
         if (lookupData.results.length == 1) {
             var json = lookupData.results[0];
@@ -34,25 +52,6 @@
 
             node = document.querySelector("#version");
             node.innerHTML = `${json.version}`;
-
-            node = document.querySelector("#get-appscore-report");
-            node.href = '/appscore-evaluation-appstore-one-app.html?bundleID=' + json.bundleId;
-
-            node = document.querySelector("#get-appscore-report-2");
-            node.href = '/appscore-evaluation-appstore-one-app.html?bundleID=' + json.bundleId;
-
-            node = document.querySelector("#get-synthetic-reports");
-            var bundleId_converted = json.bundleId.replace(/\./g, "_");
-            node.href = 'https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=' + bundleId_converted;
-
-            node = document.querySelector("#get-synthetic-reports-2");
-            node.href = 'https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=' + bundleId_converted;
-
-            node = document.querySelector("#get-audit-reports");
-            node.href = 'https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=' + bundleId_converted;
-
-            node = document.querySelector("#get-audit-reports-2");
-            node.href = 'https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=' + bundleId_converted;
         }        
     }
 
@@ -86,11 +85,36 @@
         console.log('DOMContentLoaded');
         const urlSearchParams = new URLSearchParams(window.location.search);
         const params = Object.fromEntries(urlSearchParams.entries());
-        var term = params['bundleID'];
-        var url = 'https://itunes.apple.com/lookup?bundleId='+term+'&country=us&callback=myCallback'
+        var bundleID = params['bundleID'];
+        var url = 'https://itunes.apple.com/lookup?bundleId='+bundleID+'&country=us&callback=myCallback'
         var s = document.querySelector('#request-itunes-api');
         s.src = url;
         //simpleItunesSearch(params, 'us');
+
+        node = document.querySelector("#get-appscore-report");
+        node.href = '/appscore-evaluation-appstore-one-app.html?bundleID=' + bundleID;
+
+        // Add onClick listerners 
+        node = document.querySelector("#get-synthetic-reports");
+        node.addEventListener("click", function(){
+            spinner("get-synthetic-reports-spinner", true);
+            openStripeCheckout(bundleID, 'appscan')
+        });
+        node = document.querySelector("#get-synthetic-reports-2");
+        node.addEventListener("click", function(){ 
+            spinner("get-synthetic-reports-2-spinner", true);
+            openStripeCheckout(bundleID, 'appscan')
+        });
+        node = document.querySelector("#get-audit-reports");
+        node.addEventListener("click", function(){
+            spinner("get-audit-reports-spinner", true);
+            openStripeCheckout(bundleID, 'audit')
+        });
+        node = document.querySelector("#get-audit-reports-2");
+        node.addEventListener("click", function(){ 
+            spinner("get-audit-reports-2-spinner", true);
+            openStripeCheckout(bundleID, 'audit')
+        });
     });
 </script>
 
@@ -99,7 +123,23 @@ function myCallback(data){
     console.log('myCallback.data', data);
     updatePage(data);
 }
+function spinner(id, activate){
+    var el = document.getElementById(id);
+    if (activate) {
+        el.classList.add("fa");
+        el.classList.add("fa-spinner");
+        el.classList.add("fa-spin");
+
+    } else {
+        el.classList.remove("fa");
+        el.classList.remove("fa-spinner");
+        el.classList.remove("fa-spin");
+    }
+}
 </script>
+
+<!-- Add icon library : for the loader -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <script id="request-itunes-api" type="text/javascript"></script>
 
@@ -112,8 +152,8 @@ function myCallback(data){
     <table>
         <tr>
             <td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-            <td> <a target="_blank" id="get-synthetic-reports" href="" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-            <td> <a target="_blank" id="get-audit-reports" href="" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+            <td> <a target="_blank" id="get-synthetic-reports" class="btn btn--info" style="font-size: 1.5em;"> <i id="get-synthetic-reports-spinner"></i> Buy Synthetic reports</a></td>
+            <td> <a target="_blank" id="get-audit-reports" class="btn btn--success" style="font-size: 1.5em;"> <i id="get-audit-reports-spinner"></i> Buy Audit reports</a>  </td>
         </tr>
     </table>
     <br>
@@ -131,8 +171,8 @@ function myCallback(data){
     <table>
         <tr>
             <td> <a target="_blank" id="get-appscore-report-2" href="/appscore-evaluation-appstore-one-app.html" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-            <td> <a target="_blank" id="get-synthetic-reports-2" href="" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-            <td> <a target="_blank" id="get-audit-reports-2" href="" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+            <td> <a target="_blank" id="get-synthetic-reports-2" class="btn btn--info" style="font-size: 1.5em;"> <i id="get-synthetic-reports-2-spinner"></i> Buy Synthetic reports</a></td>
+            <td> <a target="_blank" id="get-audit-reports-2" class="btn btn--success" style="font-size: 1.5em;"> <i id="get-audit-reports-2-spinner"></i> Buy Audit reports</a>  </td>
         </tr>
     </table>
     <p>
