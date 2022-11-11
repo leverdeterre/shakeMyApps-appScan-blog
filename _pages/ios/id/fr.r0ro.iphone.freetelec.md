@@ -25,8 +25,8 @@ AppScan light description the iOS application FreeTéléc (fr.r0ro.iphone.freete
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=fr.r0ro.iphone.freetelec" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=fr_r0ro_iphone_freetelec" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=fr_r0ro_iphone_freetelec" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=fr.r0ro.iphone.freetelec" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=fr.r0ro.iphone.freetelec" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 ## AppScore : 4.32 (⭐️⭐️⭐️⭐️) 
 
@@ -74,8 +74,8 @@ contains 1 App extensions
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=fr.r0ro.iphone.freetelec" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=fr_r0ro_iphone_freetelec" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=fr_r0ro_iphone_freetelec" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=fr.r0ro.iphone.freetelec" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=fr.r0ro.iphone.freetelec" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 **Apple dylibs:**
 - libswiftCore
@@ -130,8 +130,8 @@ contains 1 App extensions
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=fr.r0ro.iphone.freetelec" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=fr_r0ro_iphone_freetelec" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=fr_r0ro_iphone_freetelec" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=fr.r0ro.iphone.freetelec" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=fr.r0ro.iphone.freetelec" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 
 

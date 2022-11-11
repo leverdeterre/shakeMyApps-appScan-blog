@@ -25,8 +25,8 @@ AppScan light description the iOS application Haramain (com.arvaan.haramain). Th
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.arvaan.haramain" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_arvaan_haramain" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_arvaan_haramain" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=com.arvaan.haramain" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=com.arvaan.haramain" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 ## AppScore : 4.03 (⭐️⭐️⭐️⭐️) 
 
@@ -62,15 +62,15 @@ Native App
 
 ## Librairies 
 **Number of Third Party Library detected:** 15
+- Network: 3 lib(s)
 - Tools: 5 lib(s)
 - UI: 3 lib(s)
-- Network: 3 lib(s)
 
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.arvaan.haramain" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_arvaan_haramain" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_arvaan_haramain" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=com.arvaan.haramain" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=com.arvaan.haramain" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 **Apple dylibs:**
 
@@ -82,8 +82,8 @@ Native App
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.arvaan.haramain" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_arvaan_haramain" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_arvaan_haramain" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=com.arvaan.haramain" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=com.arvaan.haramain" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 
 

@@ -25,8 +25,8 @@ AppScan light description the iOS application ShutEye (health.sleep.sounds.track
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=health.sleep.sounds.tracker.alarm.calm" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=health_sleep_sounds_tracker_alarm_calm" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=health_sleep_sounds_tracker_alarm_calm" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=health.sleep.sounds.tracker.alarm.calm" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=health.sleep.sounds.tracker.alarm.calm" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 ## AppScore : 4.18 (⭐️⭐️⭐️⭐️) 
 
@@ -74,8 +74,8 @@ Some userActivityTypes
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=health.sleep.sounds.tracker.alarm.calm" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=health_sleep_sounds_tracker_alarm_calm" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=health_sleep_sounds_tracker_alarm_calm" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=health.sleep.sounds.tracker.alarm.calm" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=health.sleep.sounds.tracker.alarm.calm" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 **Apple dylibs:**
 
@@ -130,8 +130,8 @@ Some userActivityTypes
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=health.sleep.sounds.tracker.alarm.calm" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=health_sleep_sounds_tracker_alarm_calm" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=health_sleep_sounds_tracker_alarm_calm" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=health.sleep.sounds.tracker.alarm.calm" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=health.sleep.sounds.tracker.alarm.calm" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 
 

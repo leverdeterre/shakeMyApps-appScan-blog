@@ -25,8 +25,8 @@ AppScan light description the iOS application Les Habitués (fr.rbl.leshabitues)
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=fr.rbl.leshabitues" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=fr_rbl_leshabitues" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=fr_rbl_leshabitues" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=fr.rbl.leshabitues" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=fr.rbl.leshabitues" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 ## AppScore : 4.24 (⭐️⭐️⭐️⭐️) 
 
@@ -69,19 +69,19 @@ SwiftUI
 
 ## Librairies 
 **Number of Third Party Library detected:** 67
-- Tracking: 4 lib(s)
-- Crash: 1 lib(s)
-- Storage: 6 lib(s)
-- Network: 9 lib(s)
 - Logs: 1 lib(s)
 - Tools: 21 lib(s)
+- Tracking: 4 lib(s)
 - UI: 6 lib(s)
+- Storage: 6 lib(s)
+- Network: 9 lib(s)
+- Crash: 1 lib(s)
 
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=fr.rbl.leshabitues" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=fr_rbl_leshabitues" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=fr_rbl_leshabitues" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=fr.rbl.leshabitues" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=fr.rbl.leshabitues" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -149,8 +149,8 @@ SwiftUI
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=fr.rbl.leshabitues" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=fr_rbl_leshabitues" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=fr_rbl_leshabitues" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=fr.rbl.leshabitues" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=fr.rbl.leshabitues" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 
 

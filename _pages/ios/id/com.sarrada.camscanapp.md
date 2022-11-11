@@ -25,8 +25,8 @@ AppScan light description the iOS application Scan App + (com.sarrada.camscanapp
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.sarrada.camscanapp" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_sarrada_camscanapp" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_sarrada_camscanapp" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=com.sarrada.camscanapp" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=com.sarrada.camscanapp" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 ## AppScore : 4.09 (⭐️⭐️⭐️⭐️) 
 
@@ -66,15 +66,15 @@ support multiple languages
 ## Librairies 
 **Number of Third Party Library detected:** 19
 - Crash: 1 lib(s)
-- Tools: 13 lib(s)
 - Tracking: 1 lib(s)
 - Storage: 2 lib(s)
+- Tools: 13 lib(s)
 
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.sarrada.camscanapp" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_sarrada_camscanapp" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_sarrada_camscanapp" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=com.sarrada.camscanapp" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=com.sarrada.camscanapp" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 **Apple dylibs:**
 
@@ -86,8 +86,8 @@ support multiple languages
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.sarrada.camscanapp" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_sarrada_camscanapp" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_sarrada_camscanapp" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=com.sarrada.camscanapp" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=com.sarrada.camscanapp" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 
 

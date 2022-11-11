@@ -25,8 +25,8 @@ AppScan light description the iOS application Florida Hurricane Tracker (com.mob
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.mobincube.florida-hurricane-tracker.sc5GV1TJ" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_mobincube_florida-hurricane-tracker_sc5GV1TJ" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_mobincube_florida-hurricane-tracker_sc5GV1TJ" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=com.mobincube.florida-hurricane-tracker.sc5GV1TJ" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=com.mobincube.florida-hurricane-tracker.sc5GV1TJ" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 ## AppScore : 4.16 (⭐️⭐️⭐️⭐️) 
 
@@ -66,17 +66,17 @@ support multiple languages
 ## Librairies 
 **Number of Third Party Library detected:** 21
 - Tools: 5 lib(s)
-- UI: 2 lib(s)
-- Network: 3 lib(s)
-- Tracking: 2 lib(s)
 - Logs: 1 lib(s)
 - Storage: 1 lib(s)
+- Tracking: 2 lib(s)
+- UI: 2 lib(s)
+- Network: 3 lib(s)
 
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.mobincube.florida-hurricane-tracker.sc5GV1TJ" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_mobincube_florida-hurricane-tracker_sc5GV1TJ" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_mobincube_florida-hurricane-tracker_sc5GV1TJ" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=com.mobincube.florida-hurricane-tracker.sc5GV1TJ" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=com.mobincube.florida-hurricane-tracker.sc5GV1TJ" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 **Apple dylibs:**
 - libswiftAVFoundation
@@ -152,8 +152,8 @@ support multiple languages
 <table>
 	<tr>
 	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.mobincube.florida-hurricane-tracker.sc5GV1TJ" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
-	<td> <a target="_blank" id="get-synthetic-reports" href="https://buy.stripe.com/7sIfZqh1o4SQa1WbIK?client_reference_id=com_mobincube_florida-hurricane-tracker_sc5GV1TJ" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
-	<td> <a target="_blank" id="get-audit-reports" href="https://buy.stripe.com/bIYcNe5iG1GE1vq7sv?client_reference_id=com_mobincube_florida-hurricane-tracker_sc5GV1TJ" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=com.mobincube.florida-hurricane-tracker.sc5GV1TJ" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=com.mobincube.florida-hurricane-tracker.sc5GV1TJ" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
 </tr></table>
 
 
