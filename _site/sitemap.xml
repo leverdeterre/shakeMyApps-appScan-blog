@@ -65,9 +65,6 @@
 <loc>http://localhost:4000/scanned-apps</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/get-a-synthetic-vision-of-any-app.html</loc>
 </url>
 <url>
@@ -114,5 +111,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+<lastmod>2022-11-11T13:55:43+01:00</lastmod>
 </url>
 </urlset>

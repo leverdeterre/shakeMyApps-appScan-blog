@@ -1,5 +1,5 @@
 ---
-title: "Request audit any App"
+title: "Get reports about every App"
 permalink: /request-audit-any-appstore.html
 layout: single
 author_profile: false
