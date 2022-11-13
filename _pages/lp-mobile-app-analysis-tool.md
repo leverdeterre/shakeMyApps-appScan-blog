@@ -26,8 +26,11 @@ feature_row:
     btn_label: "Analyze any App"
     btn_class: "btn--success"
   - image_path: /assets/images/illustrations/appscan-droid-scan.png
-    title: "Competitor Stacks"
+    title: "Discover your competitor Stacks"
     excerpt: "Discover the competitor stacks App technology, the tech stacks, the third party librairies & more and more"
+    url: "/request-audit-any-appstore.html"
+    btn_label: "Discover competitor Stacks"
+    btn_class: "btn--success"
 feature_appscore_row:
   - image_path: /assets/images/illustrations/appscan-app-technologies.png
     alt: "Mobile App Analysis Tool : AppScore"
