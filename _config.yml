@@ -165,6 +165,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - _pages/ios/id/
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor

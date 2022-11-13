@@ -1,6 +1,6 @@
 ---
 title: "Mobile App Analysis Tool"
-permalink: /index.html
+permalink: /lp-mobile-app-analysis-service.html
 layout: splash
 author_profile: false
 image: /assets/images/illustrations/appscan-apps-painting-style.png
