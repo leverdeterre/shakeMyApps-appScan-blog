@@ -37,7 +37,7 @@ header:
                 <h3 class="panel-title"><span class="label label-success">Synthetic reports</span></h3>
             </div>
             <div class="panel-body">
-                <span class="price"><sup>$</sup>69<sup></sup></span>
+                <span class="price"><sup>$</sup>99<sup></sup></span>
                 <span class="period">per app</span>
             </div>
             <ul class="list-group">
@@ -55,7 +55,7 @@ header:
                 <h3 class="panel-title"><span class="label label-success">Audit reports</span></h3>
             </div>
             <div class="panel-body">
-                <span class="price"><sup>$</sup>99<sup></sup></span>
+                <span class="price"><sup>$</sup>199<sup></sup></span>
                 <span class="period">per app</span>
             </div>
             <ul class="list-group">
