@@ -11,9 +11,9 @@ header:
 
 Auditing an app is a long and meticulous thing. It requires time and expertise and most of the time you need to own the code and be able to share it. 
   
-AppScan has created the first solution able to analyze an app **faster than anyone** and **without source code**.
-
-<a class="btn btn--success" href="/pricing.html">Discover AppScan offers</a>
+AppScan has developped a methodology to audit an App and a service to analyze any app **faster than anyone** and **without source code**.
+<a class="btn btn--success" style="margin-top:20px" href="/pricing.html">Discover AppScan offers</a>{: .align-center}
+{: .notice--success}
 
 # How to audit a mobile App?
 
@@ -112,4 +112,6 @@ In reality, it is complex to implement because it requires an excellent knowledg
 
 ## Discover the AppScan solution 
 
-<a class="btn btn--success" href="/pricing.html">Discover AppScan offers</a>
+AppScan has developped a methodology to audit an App and a service to analyze any app **faster than anyone** and **without source code**.
+<a class="btn btn--success" style="margin-top:20px" href="/pricing.html">Discover AppScan offers</a>{: .align-center}
+{: .notice--success}
