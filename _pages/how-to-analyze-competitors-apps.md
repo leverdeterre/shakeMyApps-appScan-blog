@@ -1,5 +1,5 @@
 ---
-title: "How analyze a competitor App"
+title: "How analyze a competitor App?"
 permalink: /how-to-analyze-a-competitor-app.html
 layout: single
 author_profile: false
@@ -27,7 +27,7 @@ It's already a first difficulty.
 On iOS, an app is packaged as an [.ipa](https://en.wikipedia.org/wiki/.ipa) to be installed on a device.
 There are a few methods to successfully obtain that file : 
 - **old version of iTunes (<= 12.6)**: In this previous versions of iTunes, it was possible to download and save the .ipa... but it's not working anymore
-- **iAmazing**: a very cool tool, you can connect your device and iAmazing is able to generate backups of your apps. (Manage and Download Apps (.ipa) without iTunes)[https://imazing.com/guides/how-to-manage-apps-without-itunes]
+- **iAmazing**: a very cool tool, you can connect your device and iAmazing is able to generate backups of your apps. [Manage and Download Apps .ipa without iTunes](https://imazing.com/guides/how-to-manage-apps-without-itunes)
 - **Apple Configurator 2**: The MDM (Mobile Device Management) of Apple. With some manipulations and a little time you can manage to recover the famous file. There are plenty of articles on the web that explain this.
 - **Jailbroken device + Frida**: Clearly not the easiest method. It requires a jailbroken device and the desire to get your hands into the code. It is very complicated to have a modified phone because Apple has secured its devices very well. 
 
@@ -49,7 +49,7 @@ To summarize
 
 Niiiiice, you managed to get the app, now it's time to understand it.
 An ipa is just a zip, so to open and extract the content, you can rename the .ipa to .zip and unzip it.
-The App package is (well organized and documented by Apple)[https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW1]
+The App package is [well organized and documented by Apple](https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFBundles/BundleTypes/BundleTypes.html#//apple_ref/doc/uid/10000123i-CH101-SW1)
 
 ### App infos 
 The main entry of the App is the Info.plist, in the file you have access to a lot of informations about the App features :

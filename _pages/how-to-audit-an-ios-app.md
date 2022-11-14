@@ -70,7 +70,7 @@ After a few months, he will provide a report of the audit.
   
 ### Security by Apple  
 Apple has set the bar very, very high in terms of security.
-You can have a look to the official guide of Apple ([apple platform security guide](https://help.apple.com/pdf/security/en_US/)apple-platform-security-guide.pdf) or review the [the OWASP - iOS Platform Overview](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06a-platform-overview) to undestand.
+You can have a look to the official guide of Apple ([apple platform security guide](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf) or review the [the OWASP - iOS Platform Overview](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06a-platform-overview) to undestand.
 
 **System & device protection:** 
 - [secure enclave](https://support.apple.com/fr-fr/guide/security/sec59b0b31ff/web) 
