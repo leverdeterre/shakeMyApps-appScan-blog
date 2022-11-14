@@ -136,7 +136,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Scanned Apps"
+    - label: "Computed AppScores"
       icon: "fab fa-fw fa-apple"
       url: "/ios-apps.html"
 
@@ -165,7 +165,6 @@ include:
   - .htaccess
   - _pages
 exclude:
-  - _pages/ios/id/
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor

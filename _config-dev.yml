@@ -166,7 +166,7 @@ include:
   - blog.html
 
 exclude:
-  - _pages/ios/id/
+  - _pages/ios_apps/
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
