@@ -1,0 +1,143 @@
+---
+title: "PetSmart (com.petsmart.consumermobile)"
+permalink: /apps/ios/com.petsmart.consumermobile.html
+layout: single
+author_profile: false
+image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/83/ba/b383ba96-6d9b-ffa6-e81b-9693d4b8177f/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg
+header: 
+     overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+     overlay_image: https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/83/ba/b383ba96-6d9b-ffa6-e81b-9693d4b8177f/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg
+---
+AppScan light description the iOS application PetSmart (com.petsmart.consumermobile). This analysis is based on the Mobile App Tools : AppScore, Audit and the Mobile Audit App Tool.
+
+  
+  
+<div style="text-align: center;"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/83/ba/b383ba96-6d9b-ffa6-e81b-9693d4b8177f/AppIcon-1x_U007emarketing-0-2-0-85-220.png/512x512bb.jpg" width="100" height="100" alt="PetSmart com.petsmart.consumermobile app icon"></div>  
+  
+# PetSmart (com.petsmart.consumermobile)
+
+**BundleId:** com.petsmart.consumermobile
+**App Version:** 5.7.0
+**App Name:** PetSmart
+
+
+## Get AppScan reports
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.petsmart.consumermobile" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=com.petsmart.consumermobile" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=com.petsmart.consumermobile" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
+## AppScore : 3.93 (⭐️⭐️⭐️⭐️) 
+
+<table>
+<tr><td> Tools </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Minimum iOS version supported </td><td> ⭐️⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> Permissions </td><td> ⭐️⭐️⭐️⭐️⭐️ + 🌟 </td></tr>
+<tr><td> Open source librairies </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> Resources </td><td> ⭐️⭐️⭐️ </td></tr>
+<tr><td> App Size </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Languages </td><td> ⭐️⭐️ </td></tr>
+<tr><td> App Interactions </td><td> ⭐️⭐️⭐️⭐️ </td></tr>
+<tr><td> App Security </td><td> ⭐️⭐️⭐️ </td></tr>
+</table>
+
+  
+  
+## AppScan informations 
+
+**Number of permissions:** 10
+**Private keys:** 30
+**Public keys:** 7
+**Custom keys:** 24
+**Low securit keys:** 3
+  
+
+
+## Cool Facts
+
+Number of entitlements detected: 6
+AppleSignIn detected
+FacebookLogin detected
+GoogleLogin detected
+support multiple languages
+at least 2 entitlemented features (strong iOS integration)
+SwiftUI
+  
+
+
+## Librairies 
+**Number of Third Party Library detected:** 81
+- Storage: 1 lib(s)
+- Logs: 2 lib(s)
+- UI: 5 lib(s)
+- Network: 2 lib(s)
+- Tools: 20 lib(s)
+- Tracking: 5 lib(s)
+- Crash: 1 lib(s)
+
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.petsmart.consumermobile" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=com.petsmart.consumermobile" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=com.petsmart.consumermobile" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
+**Apple dylibs:**
+
+
+**Apple System Library Frameworks:**
+- AdSupport
+- AddressBook
+- AudioToolbox
+- CFNetwork
+- CoreData
+- CoreGraphics
+- CoreLocation
+- CoreServices
+- CoreTelephony
+- Foundation
+- JavaScriptCore
+- MobileCoreServices
+- QuartzCore
+- SafariServices
+- Security
+- StoreKit
+- SystemConfiguration
+- UIKit
+- WebKit
+- iAd
+- Combine
+- LinkPresentation
+- SwiftUI
+- UserNotifications
+- GameKit
+- AVFoundation
+- AVKit
+- AppTrackingTransparency
+- Contacts
+- CoreFoundation
+- CoreImage
+- CoreMotion
+- CoreText
+- CoreVideo
+- EventKit
+- EventKitUI
+- GLKit
+- MapKit
+- MessageUI
+- Metal
+- OpenGLES
+- PassKit
+- Photos
+- PhotosUI
+
+
+  
+<table>
+	<tr>
+	<td> <a target="_blank" id="get-appscore-report" href="/appscore-evaluation-appstore-one-app.html?bundleID=com.petsmart.consumermobile" class="btn btn--inverse" style="font-size: 1.5em;"> Get AppScore report (free)</a> </td>
+	<td> <a target="_blank" id="get-synthetic-reports" href="/appstore-app.html?bundleID=com.petsmart.consumermobile" class="btn btn--info" style="font-size: 1.5em;"> Buy Synthetic reports</a></td>
+	<td> <a target="_blank" id="get-audit-reports" href="/appstore-app.html?bundleID=com.petsmart.consumermobile" class="btn btn--success" style="font-size: 1.5em;"> Buy Audit reports</a>  </td>
+</tr></table>
+
+
